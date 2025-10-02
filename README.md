@@ -44,7 +44,7 @@ Download the latest notes set zip folder under Releases.
 2. Run the converter
    ```bash
    # Check available flags
-   python3 src/generate.py --help
+   python3 src/generate-notes.py --help
 
    # Example run
    python3 src/generate-notes.py --input kjv.json --out ../notes
