@@ -5,6 +5,12 @@ The result: a neatly organized, tag-ready, vault.
 
 ---
 
+## Not a coder?
+
+Download the latest notes set zip folder under Releases.
+
+---
+
 ## Features
 
 - Atomic notes – one verse per file.  
@@ -42,7 +48,12 @@ The result: a neatly organized, tag-ready, vault.
 
    # Example run
    python3 src/kjv_to_obsidian.py --input /path/to/kjv.json --out ./notes-output
+   
+   # Example output
+   # [done] Written: 31102 | Skipped: 0 | Errors: 0 | Output: /path/to/notes/export
+
    ```
+
 
 4. Open in Obsidian  
    - Open the generated `notes` folder as a new vault.  

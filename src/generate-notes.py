@@ -410,7 +410,6 @@ def main():
     ap.add_argument("--infile", required=True, help="Path to kjv.json")
     ap.add_argument("--out", required=True, help="Output folder (e.g. /path/to/Vault/Bible)")
     ap.add_argument("--force", action="store_true", help="Overwrite existing files")
-    ap.add_argument("--translation", default="KJV", help="Frontmatter translation label")
     ap.add_argument("--verbose", action="store_true", help="Print diagnostics")
     ap.add_argument("--pad", type=int, default=2, help="Zero-pad width for ordinals (0 = no padding)")
     args = ap.parse_args()
@@ -444,8 +443,7 @@ def main():
     errors = 0
     for i, entry in enumerate(data):
         try:
-            ok = write_markdown(entry, out_root, translation=args.translation,
-                                force=args.force, verbose=args.verbose, pad=args.pad)
+            ok = write_markdown(entry, out_root, force=args.force, verbose=args.verbose, pad=args.pad)
             if ok: written += 1
             else: skipped += 1
         except Exception as e:
