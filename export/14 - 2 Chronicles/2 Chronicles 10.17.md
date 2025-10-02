@@ -1,0 +1,19 @@
+---
+book: "2 Chronicles"
+chapter: 10
+verse: 17
+ordinal_verse: 11413
+ref: "2 Chronicles 10:17"
+translation: "KJV"
+genre: "History"
+word_count: 18
+topics: []
+cross_references: []
+grammar_tags: [contrast-opener, contrast]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","2 Chronicles"]
+---
+
+# 2 Chronicles 10:17
+
+But as for the children of Israel that dwelt in the cities of Judah, Rehoboam reigned over them.

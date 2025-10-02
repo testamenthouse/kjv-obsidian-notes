@@ -1,0 +1,19 @@
+---
+book: "Deuteronomy"
+chapter: 22
+verse: 20
+ordinal_verse: 5491
+ref: "Deuteronomy 22:20"
+translation: "KJV"
+genre: "Law"
+word_count: 17
+topics: []
+cross_references: []
+grammar_tags: [contrast-opener, negation, contrast, conditional]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","Deuteronomy"]
+---
+
+# Deuteronomy 22:20
+
+But if this thing be true, and the tokens of virginity be not found for the damsel:

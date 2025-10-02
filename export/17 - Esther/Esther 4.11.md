@@ -1,0 +1,19 @@
+---
+book: "Esther"
+chapter: 4
+verse: 11
+ordinal_verse: 12774
+ref: "Esther 4:11"
+translation: "KJV"
+genre: "History"
+word_count: 74
+topics: []
+cross_references: []
+grammar_tags: [negation, contrast, conditional]
+thematic_tags: [time-units, time]
+tags: ["Bible","KJV","Esther"]
+---
+
+# Esther 4:11
+
+All the king's servants, and the people of the king's provinces, do know, that whosoever, whether man or women, shall come unto the king into the inner court, who is not called, there is one law of his to put him to death, except such to whom the king shall hold out the golden sceptre, that he may live: but I have not been called to come in unto the king these thirty days.
