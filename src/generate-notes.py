@@ -340,6 +340,7 @@ def write_markdown(entry: Dict[str, Any], out_root: Path, translation="KJV",
             return False
 
     book = fix_book_name(entry["book"])
+    booktag = book.replace(" ", "")
     if book not in BOOK_TO_ORD:
         if verbose:
             print(f"[warn] Book not recognized: {entry['book']} (normalized: {book})")
@@ -375,7 +376,7 @@ def write_markdown(entry: Dict[str, Any], out_root: Path, translation="KJV",
     path = book_dir / filename
     if path.exists() and not force:
         if verbose:
-            print(f"[skip] Exists: {path}")
+            print(f"[skip] Exists: {booktag}")
         return False
 
     content = f"""---
