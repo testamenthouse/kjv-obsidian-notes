@@ -9,7 +9,7 @@ genre: "History"
 word_count: 38
 topics: []
 cross_references: []
-grammar_tags: [question, negation]
+grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---

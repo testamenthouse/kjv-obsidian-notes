@@ -9,7 +9,7 @@ genre: "Apocalypse"
 word_count: 40
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, one-another]
 tags: ["Bible","KJV","Revelation"]
 ---

@@ -9,7 +9,7 @@ genre: "History"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, contrast, genealogy-structure]
+grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---

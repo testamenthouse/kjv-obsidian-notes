@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 48
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation, genealogy-structure]
+grammar_tags: [semicolon-heavy, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Micah"]
 ---

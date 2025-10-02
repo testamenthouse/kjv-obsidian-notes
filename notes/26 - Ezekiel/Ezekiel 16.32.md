@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [exclamation, contrast-opener, contrast, conditional]
+grammar_tags: [exclamation, contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---

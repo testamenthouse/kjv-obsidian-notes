@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 30
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation]
+grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","James"]
 ---

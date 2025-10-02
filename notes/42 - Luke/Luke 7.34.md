@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 25
 topics: []
 cross_references: []
-grammar_tags: [exclamation, negation, genealogy-structure]
+grammar_tags: [exclamation, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Luke"]
 ---

@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast]
+grammar_tags: [contrast]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---

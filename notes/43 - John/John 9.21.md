@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 30
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, contrast-opener, negation, contrast]
+grammar_tags: [semicolon-heavy, contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---

@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 32
 topics: []
 cross_references: []
-grammar_tags: [imperative]
+grammar_tags: []
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---

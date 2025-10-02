@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 32
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, jesus, jesus-title, adversary-title, adversary]
 tags: ["Bible","KJV","Luke"]
 ---

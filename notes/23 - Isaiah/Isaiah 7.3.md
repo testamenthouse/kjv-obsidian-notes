@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 34
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation]
+grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Isaiah"]
 ---

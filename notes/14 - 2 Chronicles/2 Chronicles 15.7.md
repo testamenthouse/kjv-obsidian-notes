@@ -9,7 +9,7 @@ genre: "History"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, cause-effect]
+grammar_tags: [negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---

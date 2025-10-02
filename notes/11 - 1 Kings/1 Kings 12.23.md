@@ -9,7 +9,7 @@ genre: "History"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [imperative, genealogy-structure]
+grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---

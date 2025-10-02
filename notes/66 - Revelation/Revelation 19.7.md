@@ -9,7 +9,7 @@ genre: "Apocalypse"
 word_count: 26
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, conditional]
+grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---

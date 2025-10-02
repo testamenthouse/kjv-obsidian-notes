@@ -9,7 +9,7 @@ genre: "History"
 word_count: 35
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, contrast]
+grammar_tags: [inference-opener, contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","1-Samuel"]
 ---

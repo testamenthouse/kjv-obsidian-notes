@@ -9,7 +9,7 @@ genre: "History"
 word_count: 47
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast, genealogy-structure]
+grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---

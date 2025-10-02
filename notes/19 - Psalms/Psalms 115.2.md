@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 10
 topics: []
 cross_references: []
-grammar_tags: [question, inference-opener, negation]
+grammar_tags: [question, inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---

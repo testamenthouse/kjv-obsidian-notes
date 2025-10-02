@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [imperative, cause-effect]
+grammar_tags: [cause-effect]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Deuteronomy"]
 ---

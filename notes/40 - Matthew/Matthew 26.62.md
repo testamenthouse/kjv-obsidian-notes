@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 20
 topics: []
 cross_references: []
-grammar_tags: [question, conjunctive-opener, negation]
+grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---

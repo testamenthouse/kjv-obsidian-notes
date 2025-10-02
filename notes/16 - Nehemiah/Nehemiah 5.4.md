@@ -9,7 +9,7 @@ genre: "History"
 word_count: 20
 topics: []
 cross_references: []
-grammar_tags: [contrast, cause-effect]
+grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---

@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [imperative]
+grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","James"]
 ---

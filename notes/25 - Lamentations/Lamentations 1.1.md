@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 35
 topics: []
 cross_references: []
-grammar_tags: [exclamation, contrast]
+grammar_tags: [exclamation]
 thematic_tags: []
 tags: ["Bible","KJV","Lamentations"]
 ---

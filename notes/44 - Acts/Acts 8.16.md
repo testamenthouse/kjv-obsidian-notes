@@ -9,7 +9,7 @@ genre: "History"
 word_count: 21
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast]
+grammar_tags: [contrast]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---

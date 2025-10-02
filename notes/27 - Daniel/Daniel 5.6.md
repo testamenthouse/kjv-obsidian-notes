@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, contrast, conditional, cause-effect]
+grammar_tags: [inference-opener, contrast, conditional, cause-effect]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Daniel"]
 ---

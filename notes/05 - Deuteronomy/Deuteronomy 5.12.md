@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 15
 topics: []
 cross_references: []
-grammar_tags: [imperative, conditional]
+grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time-feasts, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---

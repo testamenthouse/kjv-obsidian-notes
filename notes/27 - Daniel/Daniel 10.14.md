@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 25
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast]
+grammar_tags: [contrast]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---

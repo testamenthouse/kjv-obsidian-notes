@@ -9,7 +9,7 @@ genre: "History"
 word_count: 42
 topics: []
 cross_references: []
-grammar_tags: [negation, conditional]
+grammar_tags: [conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---

@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast, conditional]
+grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Matthew"]
 ---

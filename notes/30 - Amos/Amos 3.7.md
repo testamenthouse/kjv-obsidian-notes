@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast]
+grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---

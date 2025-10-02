@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 31
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast, conditional, genealogy-structure]
+grammar_tags: [contrast, conditional, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---

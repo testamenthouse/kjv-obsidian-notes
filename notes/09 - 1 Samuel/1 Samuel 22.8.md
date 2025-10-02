@@ -9,7 +9,7 @@ genre: "History"
 word_count: 60
 topics: []
 cross_references: []
-grammar_tags: [question, negation, genealogy-structure]
+grammar_tags: [question, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---

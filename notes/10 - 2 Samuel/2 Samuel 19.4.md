@@ -9,7 +9,7 @@ genre: "History"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [exclamation, contrast-opener, contrast]
+grammar_tags: [exclamation, contrast-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","2-Samuel"]
 ---

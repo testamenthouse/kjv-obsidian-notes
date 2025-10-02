@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","John"]
 ---

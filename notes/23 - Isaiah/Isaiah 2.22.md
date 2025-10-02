@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [question, negation]
+grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---

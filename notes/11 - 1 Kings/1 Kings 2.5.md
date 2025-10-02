@@ -9,7 +9,7 @@ genre: "History"
 word_count: 73
 topics: []
 cross_references: []
-grammar_tags: [negation, genealogy-structure]
+grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---

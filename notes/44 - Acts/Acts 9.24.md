@@ -9,7 +9,7 @@ genre: "History"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast]
+grammar_tags: [contrast-opener]
 thematic_tags: [warfare, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---

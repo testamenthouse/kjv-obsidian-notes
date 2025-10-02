@@ -9,7 +9,7 @@ genre: "History"
 word_count: 20
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation]
+grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---

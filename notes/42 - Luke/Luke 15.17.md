@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 26
 topics: []
 cross_references: []
-grammar_tags: [exclamation, conjunctive-opener, negation]
+grammar_tags: [exclamation, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---

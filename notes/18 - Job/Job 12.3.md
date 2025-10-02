@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 22
 topics: []
 cross_references: []
-grammar_tags: [question, contrast-opener, negation, contrast]
+grammar_tags: [question, contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---

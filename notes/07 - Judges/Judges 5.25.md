@@ -9,7 +9,7 @@ genre: "History"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [contrast]
+grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---

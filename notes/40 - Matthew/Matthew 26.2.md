@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 22
 topics: []
 cross_references: []
-grammar_tags: [negation, conditional, genealogy-structure]
+grammar_tags: [conditional, genealogy-structure]
 thematic_tags: [son-of-man, jesus, time-units, time-feasts, time]
 tags: ["Bible","KJV","Matthew"]
 ---

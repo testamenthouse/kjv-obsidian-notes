@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 32
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation]
+grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare, negative-command]
 tags: ["Bible","KJV","Psalms"]
 ---

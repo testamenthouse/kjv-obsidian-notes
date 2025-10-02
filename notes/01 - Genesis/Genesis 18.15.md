@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, inference-opener, negation, contrast]
+grammar_tags: [semicolon-heavy, inference-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---

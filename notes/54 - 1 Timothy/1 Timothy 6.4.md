@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 20
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast, conditional]
+grammar_tags: [contrast, conditional]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","1-Timothy"]
 ---

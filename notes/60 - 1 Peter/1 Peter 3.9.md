@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast]
+grammar_tags: [contrast]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","1-Peter"]
 ---

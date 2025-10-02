@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 37
 topics: []
 cross_references: []
-grammar_tags: [imperative, cause-effect]
+grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---

@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 26
 topics: []
 cross_references: []
-grammar_tags: [question, contrast-opener, contrast]
+grammar_tags: [question, contrast-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Luke"]
 ---

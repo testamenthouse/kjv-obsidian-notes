@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [question, negation]
+grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---

@@ -240,13 +240,11 @@ def detect_grammar_tags(text: str, book: str) -> List[str]:
     if first in CONJUNCTIVE_OPENERS: tags.append("conjunctive-opener")
 
     # grammatical mood / polarity
-    if first in {"go","be","let","hear","repent","come","fear","speak","tell","give","keep","watch","take","put","stand"}:
-        tags.append("imperative")
-    if any(x in tl for x in ("not","neither","nor","without","no","never")):
+    if any(x in tl for x in (" not ","neither"," nor ","without"," no "," never ")):
         tags.append("negation")
 
     # contrast markers anywhere
-    if any(x in tl for x in ("but","yet","however","nevertheless","though")):
+    if any(x in tl for x in (" but "," but,","but, ","yet","however","nevertheless","though")):
         tags.append("contrast")
 
     # conditional (explicit + rhetorical)
@@ -275,7 +273,6 @@ def detect_grammar_tags(text: str, book: str) -> List[str]:
     return dedup_preserve(tags)
 
 def detect_thematic_tags(text: str, book: str) -> List[str]:
-    """Meaning/content themes: names of God, warfare, Christology, doctrine, etc."""
     tl = text.strip().lower()
     tags: List[str] = []
 

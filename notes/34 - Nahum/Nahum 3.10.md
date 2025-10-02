@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 41
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast]
+grammar_tags: [contrast-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Nahum"]
 ---

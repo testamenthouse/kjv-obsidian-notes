@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 11
 topics: []
 cross_references: []
-grammar_tags: [negation, cause-effect]
+grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Haggai"]
 ---

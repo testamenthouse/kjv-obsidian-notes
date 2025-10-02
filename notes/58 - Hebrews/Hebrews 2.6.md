@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 26
 topics: []
 cross_references: []
-grammar_tags: [question, contrast-opener, contrast, conditional, genealogy-structure]
+grammar_tags: [question, contrast-opener, conditional, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Hebrews"]
 ---

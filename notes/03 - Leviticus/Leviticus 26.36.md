@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 49
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, conjunctive-opener, negation]
+grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Leviticus"]
 ---

@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 37
 topics: []
 cross_references: []
-grammar_tags: [imperative, conditional, cause-effect]
+grammar_tags: [conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---

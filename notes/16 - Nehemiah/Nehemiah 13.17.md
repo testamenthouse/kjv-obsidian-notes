@@ -9,7 +9,7 @@ genre: "History"
 word_count: 25
 topics: []
 cross_references: []
-grammar_tags: [question, inference-opener, negation]
+grammar_tags: [question, inference-opener]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---

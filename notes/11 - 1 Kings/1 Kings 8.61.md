@@ -9,7 +9,7 @@ genre: "History"
 word_count: 25
 topics: []
 cross_references: []
-grammar_tags: [imperative, cause-effect]
+grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---

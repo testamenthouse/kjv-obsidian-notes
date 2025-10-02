@@ -9,7 +9,7 @@ genre: "History"
 word_count: 41
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, conditional]
+grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---

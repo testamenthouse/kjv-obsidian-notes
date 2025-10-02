@@ -9,7 +9,7 @@ genre: "History"
 word_count: 46
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation, contrast, conditional]
+grammar_tags: [semicolon-heavy, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---

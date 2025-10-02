@@ -9,7 +9,7 @@ genre: "History"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [question, contrast-opener, negation, contrast, genealogy-structure]
+grammar_tags: [question, contrast-opener, negation, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---

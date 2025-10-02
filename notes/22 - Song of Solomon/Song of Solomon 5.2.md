@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 43
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast]
+grammar_tags: [contrast]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---

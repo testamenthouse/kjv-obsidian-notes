@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 36
 topics: []
 cross_references: []
-grammar_tags: [imperative, genealogy-structure]
+grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---

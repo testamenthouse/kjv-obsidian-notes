@@ -9,7 +9,7 @@ genre: "History"
 word_count: 28
 topics: []
 cross_references: []
-grammar_tags: [question, contrast-opener, negation, contrast]
+grammar_tags: [question, contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---

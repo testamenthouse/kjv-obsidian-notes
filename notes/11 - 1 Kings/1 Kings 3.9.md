@@ -9,7 +9,7 @@ genre: "History"
 word_count: 31
 topics: []
 cross_references: []
-grammar_tags: [question, imperative, cause-effect]
+grammar_tags: [question, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---

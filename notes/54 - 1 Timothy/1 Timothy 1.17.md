@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 20
 topics: []
 cross_references: []
-grammar_tags: [negation, greeting/closing]
+grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","1-Timothy"]
 ---

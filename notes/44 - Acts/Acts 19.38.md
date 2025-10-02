@@ -9,7 +9,7 @@ genre: "History"
 word_count: 29
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, conditional]
+grammar_tags: [inference-opener, conditional]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Acts"]
 ---

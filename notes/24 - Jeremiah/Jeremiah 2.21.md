@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [question, contrast-opener, negation, contrast]
+grammar_tags: [question, contrast-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---

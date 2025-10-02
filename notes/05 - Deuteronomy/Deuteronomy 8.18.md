@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 36
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast]
+grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, covenant, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---

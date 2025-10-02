@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast]
+grammar_tags: [contrast-opener, negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---

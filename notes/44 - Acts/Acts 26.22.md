@@ -9,7 +9,7 @@ genre: "History"
 word_count: 32
 topics: []
 cross_references: []
-grammar_tags: [negation, cause-effect]
+grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, praise-worship, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---

@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 56
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation]
+grammar_tags: [inference-opener]
 thematic_tags: [warfare, time-parts-of-day, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---

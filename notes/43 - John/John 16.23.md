@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 29
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","John"]
 ---

@@ -9,7 +9,7 @@ genre: "Apocalypse"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [negation, greeting/closing]
+grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, thanksgiving, praise-worship, time-eschatology, time]
 tags: ["Bible","KJV","Revelation"]
 ---

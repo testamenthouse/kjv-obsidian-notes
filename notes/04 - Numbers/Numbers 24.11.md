@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 25
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, contrast, conditional, cause-effect]
+grammar_tags: [inference-opener, contrast, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---

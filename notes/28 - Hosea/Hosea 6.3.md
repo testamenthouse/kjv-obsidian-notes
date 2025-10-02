@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 38
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, conditional]
+grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god, time-parts-of-day, time-seasons, time]
 tags: ["Bible","KJV","Hosea"]
 ---

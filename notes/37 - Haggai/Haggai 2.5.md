@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Haggai"]
 ---

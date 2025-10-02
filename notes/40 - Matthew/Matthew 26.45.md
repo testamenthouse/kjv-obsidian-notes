@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 35
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, genealogy-structure]
+grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---

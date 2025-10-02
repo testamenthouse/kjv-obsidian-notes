@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 39
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, contrast, conditional]
+grammar_tags: [inference-opener, contrast, conditional]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","Malachi"]
 ---

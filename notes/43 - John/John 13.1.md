@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 41
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [jesus, jesus-title, time-feasts, time]
 tags: ["Bible","KJV","John"]
 ---

@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 30
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship, time-units, time-feasts, time]
 tags: ["Bible","KJV","Isaiah"]
 ---

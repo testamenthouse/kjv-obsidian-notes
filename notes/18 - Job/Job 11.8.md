@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [question, semicolon-heavy, negation]
+grammar_tags: [question, semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---

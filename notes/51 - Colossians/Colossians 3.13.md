@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [negation, conditional]
+grammar_tags: [conditional]
 thematic_tags: [names-of-god, one-another, jesus-title, jesus]
 tags: ["Bible","KJV","Colossians"]
 ---

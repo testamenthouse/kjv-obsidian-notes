@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 22
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, conditional, genealogy-structure]
+grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [benediction]
 tags: ["Bible","KJV","Luke"]
 ---

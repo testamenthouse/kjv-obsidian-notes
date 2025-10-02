@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 45
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, conditional, genealogy-structure]
+grammar_tags: [inference-opener, conditional, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---

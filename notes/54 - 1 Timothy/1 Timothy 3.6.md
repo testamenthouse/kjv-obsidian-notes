@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [negation, conditional]
+grammar_tags: [conditional]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","1-Timothy"]
 ---

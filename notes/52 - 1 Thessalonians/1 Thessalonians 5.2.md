@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---

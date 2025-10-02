@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Ephesians"]
 ---

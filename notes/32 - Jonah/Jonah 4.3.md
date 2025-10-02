@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 23
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, conditional, cause-effect]
+grammar_tags: [inference-opener, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jonah"]
 ---

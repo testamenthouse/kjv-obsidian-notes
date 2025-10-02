@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 13
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, cause-effect]
+grammar_tags: [negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---

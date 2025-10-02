@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 45
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Obadiah"]
 ---

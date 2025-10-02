@@ -9,7 +9,7 @@ genre: "Apocalypse"
 word_count: 43
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament, time-seasons, time]
 tags: ["Bible","KJV","Revelation"]
 ---

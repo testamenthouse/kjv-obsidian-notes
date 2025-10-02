@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 34
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, cause-effect]
+grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Leviticus"]
 ---

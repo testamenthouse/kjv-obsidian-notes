@@ -9,7 +9,7 @@ genre: "History"
 word_count: 29
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast, conditional, cause-effect]
+grammar_tags: [contrast-opener, negation, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---

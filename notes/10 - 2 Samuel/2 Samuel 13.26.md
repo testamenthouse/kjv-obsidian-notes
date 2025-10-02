@@ -9,7 +9,7 @@ genre: "History"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [question, inference-opener, negation, conditional]
+grammar_tags: [question, inference-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---

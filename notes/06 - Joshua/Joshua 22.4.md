@@ -9,7 +9,7 @@ genre: "History"
 word_count: 47
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, cause-effect]
+grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---

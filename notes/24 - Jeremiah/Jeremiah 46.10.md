@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 56
 topics: []
 cross_references: []
-grammar_tags: [negation, conditional]
+grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---

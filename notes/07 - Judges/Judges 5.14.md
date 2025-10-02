@@ -9,7 +9,7 @@ genre: "History"
 word_count: 35
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation]
+grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---

@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 22
 topics: []
 cross_references: []
-grammar_tags: [negation, cause-effect]
+grammar_tags: [cause-effect]
 thematic_tags: [adversary-title, adversary]
 tags: ["Bible","KJV","1-Timothy"]
 ---

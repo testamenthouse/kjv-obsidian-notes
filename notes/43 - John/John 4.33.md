@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 15
 topics: []
 cross_references: []
-grammar_tags: [question, inference-opener, negation, cause-effect]
+grammar_tags: [question, inference-opener, cause-effect]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","John"]
 ---

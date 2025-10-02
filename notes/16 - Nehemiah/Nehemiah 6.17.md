@@ -9,7 +9,7 @@ genre: "History"
 word_count: 21
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---

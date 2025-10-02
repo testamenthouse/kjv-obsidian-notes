@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 30
 topics: []
 cross_references: []
-grammar_tags: [imperative, cause-effect, genealogy-structure]
+grammar_tags: [cause-effect, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Luke"]
 ---

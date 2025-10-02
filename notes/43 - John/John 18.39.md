@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 28
 topics: []
 cross_references: []
-grammar_tags: [question, contrast-opener, contrast, cause-effect]
+grammar_tags: [question, contrast-opener, cause-effect]
 thematic_tags: [names-of-god, time-feasts, time]
 tags: ["Bible","KJV","John"]
 ---

@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [negation, conditional, cause-effect]
+grammar_tags: [conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---

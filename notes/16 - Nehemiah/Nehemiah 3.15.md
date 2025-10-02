@@ -9,7 +9,7 @@ genre: "History"
 word_count: 61
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast, genealogy-structure]
+grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---

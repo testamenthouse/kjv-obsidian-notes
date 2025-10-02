@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 21
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast, conditional]
+grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, demonic-phrases, adversary]
 tags: ["Bible","KJV","Luke"]
 ---

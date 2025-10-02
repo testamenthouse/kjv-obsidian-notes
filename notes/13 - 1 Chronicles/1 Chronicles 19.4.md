@@ -9,7 +9,7 @@ genre: "History"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, contrast]
+grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---

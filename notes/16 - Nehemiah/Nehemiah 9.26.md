@@ -9,7 +9,7 @@ genre: "History"
 word_count: 33
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast, conditional]
+grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---

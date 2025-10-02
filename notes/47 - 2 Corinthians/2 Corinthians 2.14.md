@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 26
 topics: []
 cross_references: []
-grammar_tags: [negation, conditional]
+grammar_tags: [conditional]
 thematic_tags: [names-of-god, jesus-title, jesus, thanksgiving]
 tags: ["Bible","KJV","2-Corinthians"]
 ---

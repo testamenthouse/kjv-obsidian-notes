@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 34
 topics: []
 cross_references: []
-grammar_tags: [question, conjunctive-opener, negation, conditional]
+grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Job"]
 ---

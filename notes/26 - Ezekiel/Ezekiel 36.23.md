@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 46
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, conditional]
+grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---

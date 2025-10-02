@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 29
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---

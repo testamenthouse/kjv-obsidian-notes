@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast, conditional]
+grammar_tags: [contrast, conditional]
 thematic_tags: [warfare, time-period, time]
 tags: ["Bible","KJV","1-Peter"]
 ---

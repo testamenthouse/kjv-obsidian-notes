@@ -9,7 +9,7 @@ genre: "History"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [negation, conditional]
+grammar_tags: [conditional]
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","Acts"]
 ---

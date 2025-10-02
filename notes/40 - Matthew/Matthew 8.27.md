@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 20
 topics: []
 cross_references: []
-grammar_tags: [exclamation, contrast-opener, contrast]
+grammar_tags: [exclamation, contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---

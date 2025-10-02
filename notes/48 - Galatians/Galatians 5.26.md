@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation]
+grammar_tags: [negation]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Galatians"]
 ---

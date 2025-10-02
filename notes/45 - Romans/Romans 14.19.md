@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, conditional, cause-effect]
+grammar_tags: [conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---

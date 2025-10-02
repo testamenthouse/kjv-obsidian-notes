@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 28
 topics: []
 cross_references: []
-grammar_tags: [question, imperative]
+grammar_tags: [question]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Joel"]
 ---

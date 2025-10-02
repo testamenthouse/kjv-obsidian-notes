@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 13
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast]
+grammar_tags: [contrast-opener]
 thematic_tags: [time-eschatology, time-period, time]
 tags: ["Bible","KJV","Galatians"]
 ---

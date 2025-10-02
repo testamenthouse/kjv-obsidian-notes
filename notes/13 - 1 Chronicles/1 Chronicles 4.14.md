@@ -9,7 +9,7 @@ genre: "History"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, genealogy-structure]
+grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---

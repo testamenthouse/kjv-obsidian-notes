@@ -9,7 +9,7 @@ genre: "History"
 word_count: 29
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation]
+grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","2-Chronicles"]
 ---

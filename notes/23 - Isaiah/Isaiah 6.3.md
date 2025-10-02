@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 23
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---

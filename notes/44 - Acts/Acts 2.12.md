@@ -9,7 +9,7 @@ genre: "History"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [question, conjunctive-opener, negation]
+grammar_tags: [question, conjunctive-opener]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Acts"]
 ---

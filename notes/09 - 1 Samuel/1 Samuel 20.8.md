@@ -9,7 +9,7 @@ genre: "History"
 word_count: 41
 topics: []
 cross_references: []
-grammar_tags: [question, semicolon-heavy, inference-opener, negation, conditional, cause-effect]
+grammar_tags: [question, semicolon-heavy, inference-opener, conditional, cause-effect]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","1-Samuel"]
 ---

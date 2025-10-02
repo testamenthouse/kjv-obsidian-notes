@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 28
 topics: []
 cross_references: []
-grammar_tags: [imperative, conditional]
+grammar_tags: [conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---

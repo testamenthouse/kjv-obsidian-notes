@@ -9,7 +9,7 @@ genre: "History"
 word_count: 39
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation]
+grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, demonic-entities, adversary]
 tags: ["Bible","KJV","1-Chronicles"]
 ---

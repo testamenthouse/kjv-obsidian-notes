@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 22
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, cause-effect]
+grammar_tags: [negation, cause-effect]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Galatians"]
 ---

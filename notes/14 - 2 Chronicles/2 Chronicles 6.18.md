@@ -9,7 +9,7 @@ genre: "History"
 word_count: 31
 topics: []
 cross_references: []
-grammar_tags: [exclamation, contrast-opener, negation, contrast]
+grammar_tags: [exclamation, contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---

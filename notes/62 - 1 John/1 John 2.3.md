@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, conditional]
+grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---

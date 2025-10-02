@@ -9,7 +9,7 @@ genre: "History"
 word_count: 44
 topics: []
 cross_references: []
-grammar_tags: [question, conjunctive-opener, negation, conditional]
+grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: [demonic-entities, adversary]
 tags: ["Bible","KJV","1-Samuel"]
 ---

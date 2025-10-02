@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 28
 topics: []
 cross_references: []
-grammar_tags: [exclamation, negation]
+grammar_tags: [exclamation]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---

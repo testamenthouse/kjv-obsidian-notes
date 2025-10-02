@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 32
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, contrast, cause-effect]
+grammar_tags: [negation, contrast, cause-effect]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","2-Timothy"]
 ---

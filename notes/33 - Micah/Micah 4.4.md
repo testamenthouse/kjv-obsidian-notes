@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 31
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast]
+grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Micah"]
 ---

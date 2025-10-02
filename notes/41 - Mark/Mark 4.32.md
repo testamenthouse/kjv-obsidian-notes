@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 33
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast, cause-effect]
+grammar_tags: [contrast-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---

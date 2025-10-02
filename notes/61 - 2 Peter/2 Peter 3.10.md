@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 47
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast]
+grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","2-Peter"]
 ---

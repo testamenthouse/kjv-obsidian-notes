@@ -9,7 +9,7 @@ genre: "History"
 word_count: 20
 topics: []
 cross_references: []
-grammar_tags: [imperative, contrast, conditional, cause-effect]
+grammar_tags: [contrast, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---

@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [question, contrast-opener, contrast, conditional]
+grammar_tags: [question, contrast-opener, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---

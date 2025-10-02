@@ -9,7 +9,7 @@ genre: "History"
 word_count: 36
 topics: []
 cross_references: []
-grammar_tags: [negation, cause-effect, genealogy-structure]
+grammar_tags: [cause-effect, genealogy-structure]
 thematic_tags: [names-of-god, adversary-title, adversary]
 tags: ["Bible","KJV","1-Samuel"]
 ---

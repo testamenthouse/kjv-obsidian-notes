@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 28
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, imperative]
+grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---

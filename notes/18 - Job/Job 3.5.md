@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 23
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, imperative, conditional]
+grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---

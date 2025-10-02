@@ -9,7 +9,7 @@ genre: "History"
 word_count: 33
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Esther"]
 ---

@@ -9,7 +9,7 @@ genre: "History"
 word_count: 47
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, conditional]
+grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","2-Chronicles"]
 ---

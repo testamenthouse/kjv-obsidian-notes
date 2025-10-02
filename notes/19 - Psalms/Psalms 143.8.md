@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 33
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation, conditional]
+grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---

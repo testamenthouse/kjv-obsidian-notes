@@ -9,7 +9,7 @@ genre: "History"
 word_count: 37
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, cause-effect]
+grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, one-another, time-units, time]
 tags: ["Bible","KJV","Esther"]
 ---

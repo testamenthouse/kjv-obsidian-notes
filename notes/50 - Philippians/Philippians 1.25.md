@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 22
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Philippians"]
 ---

@@ -9,7 +9,7 @@ genre: "History"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [question, contrast-opener, contrast]
+grammar_tags: [question, contrast-opener]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Acts"]
 ---

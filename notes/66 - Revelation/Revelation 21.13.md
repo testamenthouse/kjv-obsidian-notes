@@ -9,7 +9,7 @@ genre: "Apocalypse"
 word_count: 21
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation]
+grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---

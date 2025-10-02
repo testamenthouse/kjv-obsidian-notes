@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 34
 topics: []
 cross_references: []
-grammar_tags: [negation, genealogy-structure]
+grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, jesus-title, jesus, son-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---

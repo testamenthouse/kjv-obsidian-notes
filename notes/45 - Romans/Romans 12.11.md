@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 10
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation]
+grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---

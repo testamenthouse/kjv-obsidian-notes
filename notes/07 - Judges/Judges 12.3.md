@@ -9,7 +9,7 @@ genre: "History"
 word_count: 46
 topics: []
 cross_references: []
-grammar_tags: [question, conjunctive-opener, negation, conditional]
+grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---

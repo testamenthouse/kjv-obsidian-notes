@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [negation, genealogy-structure]
+grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---

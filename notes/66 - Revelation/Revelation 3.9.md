@@ -9,7 +9,7 @@ genre: "Apocalypse"
 word_count: 41
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast]
+grammar_tags: [contrast]
 thematic_tags: [warfare, adversary-title, demonic-phrases, adversary, praise-worship]
 tags: ["Bible","KJV","Revelation"]
 ---

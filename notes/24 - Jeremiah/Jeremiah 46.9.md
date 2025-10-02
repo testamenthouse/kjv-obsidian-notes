@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 33
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, imperative]
+grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---

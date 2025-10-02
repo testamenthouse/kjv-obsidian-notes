@@ -9,7 +9,7 @@ genre: "History"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, imperative]
+grammar_tags: [semicolon-heavy]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","1-Chronicles"]
 ---

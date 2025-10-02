@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 45
 topics: []
 cross_references: []
-grammar_tags: [negation, cause-effect]
+grammar_tags: [cause-effect]
 thematic_tags: [jesus-title, jesus, time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---

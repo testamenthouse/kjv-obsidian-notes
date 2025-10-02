@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 34
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast]
+grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---

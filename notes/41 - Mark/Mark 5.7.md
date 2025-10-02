@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 33
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, genealogy-structure]
+grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, jesus, jesus-title, lament]
 tags: ["Bible","KJV","Mark"]
 ---

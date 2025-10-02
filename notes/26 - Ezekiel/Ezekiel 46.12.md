@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 62
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-feasts, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---

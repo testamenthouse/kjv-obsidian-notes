@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Zephaniah"]
 ---

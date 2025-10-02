@@ -9,7 +9,7 @@ genre: "History"
 word_count: 48
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, cause-effect]
+grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---

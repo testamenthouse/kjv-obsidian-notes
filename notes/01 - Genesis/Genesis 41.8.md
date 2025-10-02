@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 46
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, conjunctive-opener, negation, contrast]
+grammar_tags: [semicolon-heavy, conjunctive-opener, contrast]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---

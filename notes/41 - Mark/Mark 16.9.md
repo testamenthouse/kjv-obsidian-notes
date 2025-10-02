@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 26
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [warfare, jesus, jesus-title, adversary-title, demonic-entities, adversary, time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---

@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 46
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Jeremiah"]
 ---

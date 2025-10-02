@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 39
 topics: []
 cross_references: []
-grammar_tags: [exclamation, negation, conditional]
+grammar_tags: [exclamation, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Matthew"]
 ---

@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast, cause-effect]
+grammar_tags: [contrast-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","1-Peter"]
 ---

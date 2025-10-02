@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 31
 topics: []
 cross_references: []
-grammar_tags: [negation, genealogy-structure]
+grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

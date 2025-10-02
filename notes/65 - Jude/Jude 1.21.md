@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [imperative, conditional]
+grammar_tags: [conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Jude"]
 ---

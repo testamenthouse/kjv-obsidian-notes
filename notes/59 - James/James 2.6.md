@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [question, contrast-opener, negation, contrast]
+grammar_tags: [question, contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---

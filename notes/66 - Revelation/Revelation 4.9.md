@@ -9,7 +9,7 @@ genre: "Apocalypse"
 word_count: 23
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [thanksgiving, time-eschatology, time]
 tags: ["Bible","KJV","Revelation"]
 ---

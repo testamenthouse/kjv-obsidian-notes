@@ -9,7 +9,7 @@ genre: "History"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [negation, genealogy-structure]
+grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---

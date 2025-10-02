@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 20
 topics: []
 cross_references: []
-grammar_tags: [negation, greeting/closing]
+grammar_tags: [greeting/closing]
 thematic_tags: [one-another, jesus, jesus-title, benediction]
 tags: ["Bible","KJV","1-Peter"]
 ---

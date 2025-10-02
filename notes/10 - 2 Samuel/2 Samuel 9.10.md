@@ -9,7 +9,7 @@ genre: "History"
 word_count: 50
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast, conditional, cause-effect]
+grammar_tags: [contrast, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---

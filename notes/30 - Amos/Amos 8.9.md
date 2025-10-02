@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 34
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Amos"]
 ---

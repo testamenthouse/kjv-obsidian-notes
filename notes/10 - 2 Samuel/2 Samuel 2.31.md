@@ -9,7 +9,7 @@ genre: "History"
 word_count: 21
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast, cause-effect]
+grammar_tags: [contrast-opener, cause-effect]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---

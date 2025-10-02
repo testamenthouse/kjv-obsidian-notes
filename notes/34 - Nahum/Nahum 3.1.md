@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation]
+grammar_tags: [semicolon-heavy]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Nahum"]
 ---

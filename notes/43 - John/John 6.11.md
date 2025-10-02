@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 35
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, conjunctive-opener, contrast]
+grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [jesus, jesus-title, thanksgiving]
 tags: ["Bible","KJV","John"]
 ---

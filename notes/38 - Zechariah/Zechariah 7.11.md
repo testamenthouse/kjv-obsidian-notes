@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast]
+grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Zechariah"]
 ---

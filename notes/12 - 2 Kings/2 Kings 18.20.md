@@ -9,7 +9,7 @@ genre: "History"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [question, negation, contrast, conditional]
+grammar_tags: [question, contrast, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---

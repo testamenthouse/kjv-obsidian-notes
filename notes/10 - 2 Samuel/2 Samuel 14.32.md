@@ -9,7 +9,7 @@ genre: "History"
 word_count: 59
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, conditional, cause-effect]
+grammar_tags: [conjunctive-opener, conditional, cause-effect]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---

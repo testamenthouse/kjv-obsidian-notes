@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 26
 topics: []
 cross_references: []
-grammar_tags: [negation, cause-effect]
+grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Exodus"]
 ---

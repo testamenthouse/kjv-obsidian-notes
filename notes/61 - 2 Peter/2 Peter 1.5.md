@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 15
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, conjunctive-opener, negation]
+grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Peter"]
 ---

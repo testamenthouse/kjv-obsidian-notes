@@ -9,7 +9,7 @@ genre: "History"
 word_count: 43
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, contrast, genealogy-structure]
+grammar_tags: [conjunctive-opener, contrast, genealogy-structure]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","2-Kings"]
 ---

@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 40
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---

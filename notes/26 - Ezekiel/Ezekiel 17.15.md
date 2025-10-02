@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 39
 topics: []
 cross_references: []
-grammar_tags: [question, contrast-opener, contrast]
+grammar_tags: [question, contrast-opener]
 thematic_tags: [names-of-god, warfare, covenant]
 tags: ["Bible","KJV","Ezekiel"]
 ---

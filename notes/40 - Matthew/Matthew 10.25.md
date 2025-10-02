@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 38
 topics: []
 cross_references: []
-grammar_tags: [question, negation, conditional]
+grammar_tags: [question, conditional]
 thematic_tags: [names-of-god, adversary-title, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---

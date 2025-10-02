@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, cause-effect]
+grammar_tags: [negation, cause-effect]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Colossians"]
 ---

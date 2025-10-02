@@ -9,7 +9,7 @@ genre: "History"
 word_count: 23
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","1-Samuel"]
 ---

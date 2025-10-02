@@ -9,7 +9,7 @@ genre: "History"
 word_count: 52
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, conjunctive-opener, negation, contrast]
+grammar_tags: [semicolon-heavy, conjunctive-opener, contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Joshua"]
 ---

@@ -9,7 +9,7 @@ genre: "History"
 word_count: 32
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation]
+grammar_tags: [inference-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---

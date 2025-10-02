@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [imperative, cause-effect]
+grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---

@@ -9,7 +9,7 @@ genre: "History"
 word_count: 58
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast, genealogy-structure]
+grammar_tags: [contrast, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---

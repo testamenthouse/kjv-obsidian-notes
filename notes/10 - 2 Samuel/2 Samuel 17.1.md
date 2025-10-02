@@ -9,7 +9,7 @@ genre: "History"
 word_count: 23
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---

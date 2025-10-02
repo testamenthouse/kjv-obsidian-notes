@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 10
 topics: []
 cross_references: []
-grammar_tags: [negation, greeting/closing]
+grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Romans"]
 ---

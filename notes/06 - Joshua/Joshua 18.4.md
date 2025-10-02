@@ -9,7 +9,7 @@ genre: "History"
 word_count: 40
 topics: []
 cross_references: []
-grammar_tags: [imperative]
+grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---

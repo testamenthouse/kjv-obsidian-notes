@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 31
 topics: []
 cross_references: []
-grammar_tags: [exclamation, negation, contrast]
+grammar_tags: [exclamation, contrast]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Matthew"]
 ---

@@ -9,7 +9,7 @@ genre: "History"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, conditional, cause-effect]
+grammar_tags: [inference-opener, conditional, cause-effect]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---

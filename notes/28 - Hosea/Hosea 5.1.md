@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 39
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, imperative]
+grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---

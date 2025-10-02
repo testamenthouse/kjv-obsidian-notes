@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 36
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Lamentations"]
 ---

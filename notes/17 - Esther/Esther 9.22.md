@@ -9,7 +9,7 @@ genre: "History"
 word_count: 51
 topics: []
 cross_references: []
-grammar_tags: [negation, conditional]
+grammar_tags: [conditional]
 thematic_tags: [one-another, lament, time-units, time]
 tags: ["Bible","KJV","Esther"]
 ---

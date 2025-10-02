@@ -9,7 +9,7 @@ genre: "History"
 word_count: 60
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast, conditional, cause-effect]
+grammar_tags: [contrast, conditional, cause-effect]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---

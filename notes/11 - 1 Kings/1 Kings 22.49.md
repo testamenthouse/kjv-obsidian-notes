@@ -9,7 +9,7 @@ genre: "History"
 word_count: 23
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, contrast, genealogy-structure]
+grammar_tags: [inference-opener, contrast, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---

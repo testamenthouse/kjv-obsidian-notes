@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 15
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation]
+grammar_tags: [negation]
 thematic_tags: [negative-command, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---

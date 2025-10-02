@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 20
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [demonic-entities, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---

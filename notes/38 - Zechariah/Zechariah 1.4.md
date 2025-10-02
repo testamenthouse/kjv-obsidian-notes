@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 44
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, contrast]
+grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","Zechariah"]
 ---

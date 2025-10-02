@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 37
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, contrast, cause-effect]
+grammar_tags: [inference-opener, contrast, cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---

@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast]
+grammar_tags: [contrast]
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Mark"]
 ---

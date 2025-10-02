@@ -9,7 +9,7 @@ genre: "Apocalypse"
 word_count: 45
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus-title, jesus, adversary-epithet, adversary, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Revelation"]
 ---

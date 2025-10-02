@@ -9,7 +9,7 @@ genre: "History"
 word_count: 37
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, contrast]
+grammar_tags: [inference-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---

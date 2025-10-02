@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 21
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, contrast, conditional, cause-effect]
+grammar_tags: [conjunctive-opener, contrast, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---

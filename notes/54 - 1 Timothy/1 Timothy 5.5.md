@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 21
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","1-Timothy"]
 ---

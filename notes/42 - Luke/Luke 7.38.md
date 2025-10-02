@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 36
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Luke"]
 ---

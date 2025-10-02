@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 42
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [names-of-god, adversary-title, adversary]
 tags: ["Bible","KJV","1-John"]
 ---

@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 72
 topics: []
 cross_references: []
-grammar_tags: [question, semicolon-heavy, negation, contrast, conditional]
+grammar_tags: [question, semicolon-heavy, contrast, conditional]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Daniel"]
 ---

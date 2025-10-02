@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, contrast]
+grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Daniel"]
 ---

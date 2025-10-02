@@ -9,7 +9,7 @@ genre: "History"
 word_count: 43
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, cause-effect]
+grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","2-Samuel"]
 ---

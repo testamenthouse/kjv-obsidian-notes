@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 28
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast, conditional]
+grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-Timothy"]
 ---

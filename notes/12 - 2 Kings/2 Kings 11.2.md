@@ -9,7 +9,7 @@ genre: "History"
 word_count: 47
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast, cause-effect, genealogy-structure]
+grammar_tags: [contrast-opener, negation, cause-effect, genealogy-structure]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---

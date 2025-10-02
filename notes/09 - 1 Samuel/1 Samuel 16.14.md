@@ -9,7 +9,7 @@ genre: "History"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast]
+grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, demonic-entities, adversary]
 tags: ["Bible","KJV","1-Samuel"]
 ---

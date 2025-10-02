@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 15
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, contrast]
+grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---

@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 25
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation, contrast, cause-effect]
+grammar_tags: [semicolon-heavy, contrast, cause-effect]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","John"]
 ---

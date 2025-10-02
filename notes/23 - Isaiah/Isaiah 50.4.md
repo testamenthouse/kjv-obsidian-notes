@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 41
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Isaiah"]
 ---

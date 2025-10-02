@@ -9,7 +9,7 @@ genre: "History"
 word_count: 52
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [benediction, time-units, time]
 tags: ["Bible","KJV","Ruth"]
 ---

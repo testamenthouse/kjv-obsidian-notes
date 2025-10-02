@@ -9,7 +9,7 @@ genre: "History"
 word_count: 35
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast]
+grammar_tags: [contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezra"]
 ---

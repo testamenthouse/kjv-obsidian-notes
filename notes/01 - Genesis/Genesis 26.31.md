@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 25
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [one-another, time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---

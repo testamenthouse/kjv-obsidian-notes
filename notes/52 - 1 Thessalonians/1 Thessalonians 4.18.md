@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 7
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation]
+grammar_tags: [inference-opener]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---

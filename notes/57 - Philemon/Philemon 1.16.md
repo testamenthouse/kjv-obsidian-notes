@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 29
 topics: []
 cross_references: []
-grammar_tags: [question, negation, contrast]
+grammar_tags: [question, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philemon"]
 ---

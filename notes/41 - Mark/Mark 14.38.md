@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [imperative, contrast, conditional]
+grammar_tags: [contrast, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Mark"]
 ---

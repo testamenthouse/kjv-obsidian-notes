@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation, contrast, cause-effect]
+grammar_tags: [semicolon-heavy, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---

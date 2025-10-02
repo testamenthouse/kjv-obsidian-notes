@@ -9,7 +9,7 @@ genre: "History"
 word_count: 36
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, contrast, cause-effect]
+grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---

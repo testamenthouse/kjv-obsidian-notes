@@ -9,7 +9,7 @@ genre: "History"
 word_count: 52
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, genealogy-structure]
+grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, demonic-entities, adversary]
 tags: ["Bible","KJV","2-Chronicles"]
 ---

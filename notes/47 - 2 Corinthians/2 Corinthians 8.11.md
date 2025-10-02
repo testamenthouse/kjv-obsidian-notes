@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 28
 topics: []
 cross_references: []
-grammar_tags: [negation, cause-effect]
+grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---

@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, cause-effect]
+grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---

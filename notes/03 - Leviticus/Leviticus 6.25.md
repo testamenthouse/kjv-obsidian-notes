@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 38
 topics: []
 cross_references: []
-grammar_tags: [imperative]
+grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Leviticus"]
 ---

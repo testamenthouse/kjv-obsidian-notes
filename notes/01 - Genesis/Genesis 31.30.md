@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 23
 topics: []
 cross_references: []
-grammar_tags: [question, conjunctive-opener, negation, contrast, conditional]
+grammar_tags: [question, conjunctive-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---

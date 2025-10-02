@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 12
 topics: []
 cross_references: []
-grammar_tags: [contrast]
+grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---

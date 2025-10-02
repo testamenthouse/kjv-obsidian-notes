@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 29
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, contrast-opener, contrast]
+grammar_tags: [semicolon-heavy, contrast-opener]
 thematic_tags: [names-of-god, warfare, covenant]
 tags: ["Bible","KJV","Malachi"]
 ---

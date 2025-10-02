@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Exodus"]
 ---

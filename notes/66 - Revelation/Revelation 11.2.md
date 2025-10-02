@@ -9,7 +9,7 @@ genre: "Apocalypse"
 word_count: 34
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast]
+grammar_tags: [contrast-opener, negation]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Revelation"]
 ---

@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, contrast]
+grammar_tags: [negation, contrast]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Matthew"]
 ---

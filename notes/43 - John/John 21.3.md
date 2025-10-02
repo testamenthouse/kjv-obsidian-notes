@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 33
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","John"]
 ---

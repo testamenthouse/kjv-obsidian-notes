@@ -9,7 +9,7 @@ genre: "Apocalypse"
 word_count: 45
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, conditional]
+grammar_tags: [conditional]
 thematic_tags: [warfare, adversary-title, adversary, time-units, time]
 tags: ["Bible","KJV","Revelation"]
 ---

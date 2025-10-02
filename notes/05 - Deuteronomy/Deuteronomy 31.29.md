@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 54
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation]
+grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---

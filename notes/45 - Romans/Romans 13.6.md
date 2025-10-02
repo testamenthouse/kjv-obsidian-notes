@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [contrast, cause-effect]
+grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---

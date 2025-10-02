@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, contrast, cause-effect]
+grammar_tags: [inference-opener, contrast, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Mark"]
 ---

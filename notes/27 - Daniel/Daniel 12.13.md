@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast]
+grammar_tags: [contrast-opener]
 thematic_tags: [time-units, time-period, time]
 tags: ["Bible","KJV","Daniel"]
 ---

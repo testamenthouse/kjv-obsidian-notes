@@ -9,7 +9,7 @@ genre: "History"
 word_count: 48
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, time-parts-of-day, time]
 tags: ["Bible","KJV","2-Kings"]
 ---

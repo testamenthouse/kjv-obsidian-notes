@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 32
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, conditional, genealogy-structure]
+grammar_tags: [negation, conditional, genealogy-structure]
 thematic_tags: [adversary-epithet, adversary, time-units, time]
 tags: ["Bible","KJV","2-Thessalonians"]
 ---

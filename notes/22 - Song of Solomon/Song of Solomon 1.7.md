@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 36
 topics: []
 cross_references: []
-grammar_tags: [question, imperative, negation]
+grammar_tags: [question]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---

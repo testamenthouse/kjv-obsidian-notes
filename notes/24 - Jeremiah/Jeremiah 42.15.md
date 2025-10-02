@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 38
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, conjunctive-opener, negation, conditional, cause-effect]
+grammar_tags: [semicolon-heavy, conjunctive-opener, conditional, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---

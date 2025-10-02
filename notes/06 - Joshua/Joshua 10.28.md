@@ -9,7 +9,7 @@ genre: "History"
 word_count: 50
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Joshua"]
 ---

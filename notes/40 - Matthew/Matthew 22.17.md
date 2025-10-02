@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [question, imperative, negation, contrast, conditional, cause-effect]
+grammar_tags: [question, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---

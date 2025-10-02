@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, conjunctive-opener, negation]
+grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Mark"]
 ---

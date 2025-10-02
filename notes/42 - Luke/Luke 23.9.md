@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 13
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, contrast]
+grammar_tags: [inference-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---

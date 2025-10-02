@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 25
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, imperative]
+grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, time-seasons, time]
 tags: ["Bible","KJV","Joel"]
 ---

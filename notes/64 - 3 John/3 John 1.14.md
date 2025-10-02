@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 28
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast]
+grammar_tags: [contrast-opener]
 thematic_tags: [benediction]
 tags: ["Bible","KJV","3-John"]
 ---

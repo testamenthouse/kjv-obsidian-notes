@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, conditional, genealogy-structure]
+grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---

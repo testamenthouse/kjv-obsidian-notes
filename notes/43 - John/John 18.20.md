@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 31
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation]
+grammar_tags: [semicolon-heavy]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---

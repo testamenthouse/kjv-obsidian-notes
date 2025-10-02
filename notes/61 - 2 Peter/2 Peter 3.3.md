@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","2-Peter"]
 ---

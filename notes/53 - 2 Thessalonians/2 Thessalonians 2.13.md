@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 37
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast, conditional]
+grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","2-Thessalonians"]
 ---

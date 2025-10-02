@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [negation, greeting/closing]
+grammar_tags: [greeting/closing]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---

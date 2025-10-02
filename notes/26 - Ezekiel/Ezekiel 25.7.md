@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 53
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation, cause-effect]
+grammar_tags: [semicolon-heavy, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---

@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 20
 topics: []
 cross_references: []
-grammar_tags: [question, imperative]
+grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---

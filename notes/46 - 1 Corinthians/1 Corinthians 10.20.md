@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 29
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast, conditional]
+grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","1-Corinthians"]
 ---

@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [exclamation, contrast-opener, contrast]
+grammar_tags: [exclamation, contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---

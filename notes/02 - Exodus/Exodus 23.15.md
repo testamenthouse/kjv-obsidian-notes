@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 42
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [positive-command, time-eschatology, time-units, time-feasts, time]
 tags: ["Bible","KJV","Exodus"]
 ---

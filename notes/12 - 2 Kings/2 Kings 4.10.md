@@ -9,7 +9,7 @@ genre: "History"
 word_count: 45
 topics: []
 cross_references: []
-grammar_tags: [imperative, conditional]
+grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---

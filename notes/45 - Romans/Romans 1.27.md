@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 39
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","Romans"]
 ---

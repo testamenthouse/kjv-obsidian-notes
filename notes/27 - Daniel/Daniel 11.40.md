@@ -9,7 +9,7 @@ genre: "Major Prophet"
 word_count: 51
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, time-eschatology, time]
 tags: ["Bible","KJV","Daniel"]
 ---

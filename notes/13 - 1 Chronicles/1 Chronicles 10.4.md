@@ -9,7 +9,7 @@ genre: "History"
 word_count: 40
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, inference-opener, negation, contrast, conditional]
+grammar_tags: [semicolon-heavy, inference-opener, contrast, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---

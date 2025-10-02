@@ -9,7 +9,7 @@ genre: "History"
 word_count: 44
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast, cause-effect]
+grammar_tags: [contrast, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---

@@ -9,7 +9,7 @@ genre: "History"
 word_count: 46
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, inference-opener, negation, conditional, genealogy-structure]
+grammar_tags: [semicolon-heavy, inference-opener, conditional, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---

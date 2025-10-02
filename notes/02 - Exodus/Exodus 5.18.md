@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 21
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, contrast, cause-effect]
+grammar_tags: [negation, contrast, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---

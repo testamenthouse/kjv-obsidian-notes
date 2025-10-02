@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation]
+grammar_tags: [negation]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","John"]
 ---

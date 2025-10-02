@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 26
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation, contrast]
+grammar_tags: [semicolon-heavy, contrast]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---

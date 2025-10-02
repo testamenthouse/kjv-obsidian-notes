@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 33
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast]
+grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---

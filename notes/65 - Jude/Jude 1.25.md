@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [negation, greeting/closing]
+grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jude"]
 ---

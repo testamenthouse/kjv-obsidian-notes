@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, contrast]
+grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, negative-command, time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---

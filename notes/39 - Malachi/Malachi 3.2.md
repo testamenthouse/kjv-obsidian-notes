@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast]
+grammar_tags: [contrast-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Malachi"]
 ---

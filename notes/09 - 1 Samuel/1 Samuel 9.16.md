@@ -9,7 +9,7 @@ genre: "History"
 word_count: 56
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","1-Samuel"]
 ---

@@ -9,7 +9,7 @@ genre: "History"
 word_count: 58
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation]
+grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---

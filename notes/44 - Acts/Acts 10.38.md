@@ -9,7 +9,7 @@ genre: "History"
 word_count: 32
 topics: []
 cross_references: []
-grammar_tags: [negation]
+grammar_tags: []
 thematic_tags: [names-of-god, warfare, jesus, jesus-title, adversary-title, adversary]
 tags: ["Bible","KJV","Acts"]
 ---

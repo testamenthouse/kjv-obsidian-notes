@@ -9,7 +9,7 @@ genre: "History"
 word_count: 57
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation, genealogy-structure]
+grammar_tags: [semicolon-heavy, genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezra"]
 ---

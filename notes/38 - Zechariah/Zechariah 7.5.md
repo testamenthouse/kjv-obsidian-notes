@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 38
 topics: []
 cross_references: []
-grammar_tags: [question, imperative, conditional]
+grammar_tags: [question, conditional]
 thematic_tags: [lament, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---

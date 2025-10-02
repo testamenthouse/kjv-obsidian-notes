@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 41
 topics: []
 cross_references: []
-grammar_tags: [imperative, contrast, conditional, genealogy-structure]
+grammar_tags: [contrast, conditional, genealogy-structure]
 thematic_tags: [names-of-god, time-feasts, time]
 tags: ["Bible","KJV","Numbers"]
 ---

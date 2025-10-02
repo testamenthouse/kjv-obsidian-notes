@@ -9,7 +9,7 @@ genre: "History"
 word_count: 39
 topics: []
 cross_references: []
-grammar_tags: [question, contrast-opener, negation, contrast]
+grammar_tags: [question, contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---

@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast, conditional]
+grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---

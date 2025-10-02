@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, cause-effect, genealogy-structure]
+grammar_tags: [negation, cause-effect, genealogy-structure]
 thematic_tags: [son-of-man, jesus, time-units, time]
 tags: ["Bible","KJV","Matthew"]
 ---

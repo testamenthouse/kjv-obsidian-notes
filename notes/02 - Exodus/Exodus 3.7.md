@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 32
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, conjunctive-opener, negation, genealogy-structure]
+grammar_tags: [semicolon-heavy, conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Exodus"]
 ---

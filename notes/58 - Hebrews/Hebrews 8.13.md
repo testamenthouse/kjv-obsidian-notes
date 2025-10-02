@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 25
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast]
+grammar_tags: [contrast]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Hebrews"]
 ---

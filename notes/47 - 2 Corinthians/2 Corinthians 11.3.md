@@ -9,7 +9,7 @@ genre: "Pauline Epistle"
 word_count: 28
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast, conditional]
+grammar_tags: [contrast-opener, conditional]
 thematic_tags: [jesus-title, jesus, adversary-metaphor, adversary]
 tags: ["Bible","KJV","2-Corinthians"]
 ---

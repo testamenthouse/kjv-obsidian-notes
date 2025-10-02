@@ -9,7 +9,7 @@ genre: "General Epistle"
 word_count: 36
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast]
+grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Hebrews"]
 ---

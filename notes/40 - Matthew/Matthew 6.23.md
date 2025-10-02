@@ -9,7 +9,7 @@ genre: "Gospel"
 word_count: 29
 topics: []
 cross_references: []
-grammar_tags: [exclamation, contrast-opener, contrast, conditional, cause-effect]
+grammar_tags: [exclamation, contrast-opener, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---

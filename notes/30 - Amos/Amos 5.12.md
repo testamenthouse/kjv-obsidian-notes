@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 30
 topics: []
 cross_references: []
-grammar_tags: [negation, conditional]
+grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Amos"]
 ---

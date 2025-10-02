@@ -9,7 +9,7 @@ genre: "History"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [question, conjunctive-opener, negation, contrast]
+grammar_tags: [question, conjunctive-opener, contrast]
 thematic_tags: [jesus, jesus-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Acts"]
 ---

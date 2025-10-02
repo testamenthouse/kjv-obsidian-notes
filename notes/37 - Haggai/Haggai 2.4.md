@@ -9,7 +9,7 @@ genre: "Minor Prophet"
 word_count: 44
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, contrast-opener, negation, contrast, genealogy-structure]
+grammar_tags: [semicolon-heavy, contrast-opener, contrast, genealogy-structure]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Haggai"]
 ---

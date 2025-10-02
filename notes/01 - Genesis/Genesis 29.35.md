@@ -9,7 +9,7 @@ genre: "Law"
 word_count: 26
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, cause-effect]
+grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Genesis"]
 ---

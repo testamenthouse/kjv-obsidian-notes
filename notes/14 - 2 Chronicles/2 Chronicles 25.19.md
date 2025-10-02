@@ -9,7 +9,7 @@ genre: "History"
 word_count: 37
 topics: []
 cross_references: []
-grammar_tags: [question, semicolon-heavy, negation, conditional]
+grammar_tags: [question, semicolon-heavy, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
