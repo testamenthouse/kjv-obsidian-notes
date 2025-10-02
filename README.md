@@ -1,4 +1,4 @@
-# KJV → Obsidian (One Verse per Note)
+# KJV → Obsidian Atomic Notes
 
 This project converts a JSON copy of the King James Bible into an Obsidian vault where **each verse is its own Markdown note**.  
 The result: a neatly organized, tag-ready, vault.
