@@ -391,9 +391,6 @@ grammar_tags: [{", ".join(grammar_tags)}]
 thematic_tags: [{", ".join(thematic_tags)}]
 tags: ["Bible","KJV","{booktag}"]
 ---
-
-# {ref}
-
 {text}
 """
     path.write_text(content, encoding="utf-8")
