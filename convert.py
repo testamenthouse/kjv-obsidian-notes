@@ -113,11 +113,6 @@ LAMENT_WORDS = {"woe","lament","tears","mourn","mourning","cry","cried","crying"
 # Covenant / promise
 COVENANT_WORDS = {"covenant","everlasting covenant","my covenant","new covenant"}
 
-# Judgment & warning
-WOE_WORDS = {"woe unto","woe to"}
-CURSE_WORDS = {"curse","cursed","cursed be"}
-WRATH_WORDS = {"wrath","fury","indignation","anger of the lord"}
-
 # Blessing & benediction
 BENEDICTION_WORDS = {
     "blessed is","blessed be","peace be","the lord bless thee","the lord make his face shine","the lord lift up"
@@ -269,10 +264,6 @@ def detect_grammar_tags(text: str, book: str) -> List[str]:
     if any(x in tl for x in ("therefore","for this cause","so that")):
         tags.append("cause-effect")
 
-    # register-ish signals
-    if BOOK_GENRE.get(book) == "Poetry/Wisdom":
-        tags.append("poetry-register")
-
     # formulaic closings (still grammar-ish)
     if any(x in tl for x in ("grace be unto you","grace be to you","grace and peace"," amen")):
         tags.append("greeting/closing")
@@ -317,11 +308,6 @@ def detect_thematic_tags(text: str, book: str) -> List[str]:
 
     # covenant / promise
     if any(w in tl for w in COVENANT_WORDS):          tags.append("covenant")
-
-    # judgment & warning
-    if any(w in tl for w in WOE_WORDS):               tags.append("woe")
-    if any(w in tl for w in CURSE_WORDS):             tags.append("curse")
-    if any(w in tl for w in WRATH_WORDS):             tags.append("wrath")
 
     # blessing & benediction
     if any(w in tl for w in BENEDICTION_WORDS):       tags.append("benediction")
