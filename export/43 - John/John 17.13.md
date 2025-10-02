@@ -1,0 +1,19 @@
+---
+book: "John"
+chapter: 17
+verse: 13
+ordinal_verse: 26773
+ref: "John 17:13"
+translation: "KJV"
+genre: "Gospel"
+word_count: 23
+topics: []
+cross_references: []
+grammar_tags: [conjunctive-opener, negation]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","John"]
+---
+
+# John 17:13
+
+And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.

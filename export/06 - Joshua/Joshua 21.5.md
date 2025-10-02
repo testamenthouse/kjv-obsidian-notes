@@ -1,0 +1,19 @@
+---
+book: "Joshua"
+chapter: 21
+verse: 5
+ordinal_verse: 6387
+ref: "Joshua 21:5"
+translation: "KJV"
+genre: "History"
+word_count: 37
+topics: []
+cross_references: []
+grammar_tags: [conjunctive-opener]
+thematic_tags: []
+tags: ["Bible","KJV","Joshua"]
+---
+
+# Joshua 21:5
+
+And the rest of the children of Kohath had by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities.

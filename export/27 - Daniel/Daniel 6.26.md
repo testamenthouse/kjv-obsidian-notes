@@ -1,0 +1,19 @@
+---
+book: "Daniel"
+chapter: 6
+verse: 26
+ordinal_verse: 21932
+ref: "Daniel 6:26"
+translation: "KJV"
+genre: "Major Prophet"
+word_count: 48
+topics: []
+cross_references: []
+grammar_tags: [negation]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","Daniel"]
+---
+
+# Daniel 6:26
+
+I make a decree, That in every dominion of my kingdom men tremble and fear before the God of Daniel: for he is the living God, and stedfast for ever, and his kingdom that which shall not be destroyed, and his dominion shall be even unto the end.

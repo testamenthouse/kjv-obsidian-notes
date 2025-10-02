@@ -1,0 +1,19 @@
+---
+book: "Luke"
+chapter: 6
+verse: 24
+ordinal_verse: 25171
+ref: "Luke 6:24"
+translation: "KJV"
+genre: "Gospel"
+word_count: 13
+topics: []
+cross_references: []
+grammar_tags: [contrast-opener, contrast]
+thematic_tags: [lament, woe]
+tags: ["Bible","KJV","Luke"]
+---
+
+# Luke 6:24
+
+But woe unto you that are rich! for ye have received your consolation.

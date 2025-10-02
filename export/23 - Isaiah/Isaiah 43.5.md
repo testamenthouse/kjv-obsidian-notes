@@ -1,0 +1,19 @@
+---
+book: "Isaiah"
+chapter: 43
+verse: 5
+ordinal_verse: 18511
+ref: "Isaiah 43:5"
+translation: "KJV"
+genre: "Major Prophet"
+word_count: 21
+topics: []
+cross_references: []
+grammar_tags: [imperative, negation]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","Isaiah"]
+---
+
+# Isaiah 43:5
+
+Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;

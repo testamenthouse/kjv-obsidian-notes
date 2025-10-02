@@ -1,0 +1,19 @@
+---
+book: "Psalms"
+chapter: 91
+verse: 8
+ordinal_verse: 15404
+ref: "Psalms 91:8"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 14
+topics: []
+cross_references: []
+grammar_tags: [poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Psalms"]
+---
+
+# Psalms 91:8
+
+Only with thine eyes shalt thou behold and see the reward of the wicked.

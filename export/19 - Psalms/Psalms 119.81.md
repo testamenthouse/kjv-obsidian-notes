@@ -1,0 +1,19 @@
+---
+book: "Psalms"
+chapter: 119
+verse: 81
+ordinal_verse: 15980
+ref: "Psalms 119:81"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 12
+topics: []
+cross_references: []
+grammar_tags: [contrast, poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Psalms"]
+---
+
+# Psalms 119:81
+
+My soul fainteth for thy salvation: but I hope in thy word.

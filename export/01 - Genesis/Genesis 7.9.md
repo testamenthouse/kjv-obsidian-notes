@@ -1,0 +1,19 @@
+---
+book: "Genesis"
+chapter: 7
+verse: 9
+ordinal_verse: 169
+ref: "Genesis 7:9"
+translation: "KJV"
+genre: "Law"
+word_count: 21
+topics: []
+cross_references: []
+grammar_tags: [negation]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","Genesis"]
+---
+
+# Genesis 7:9
+
+There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah.

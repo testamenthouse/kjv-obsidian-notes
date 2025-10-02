@@ -1,0 +1,19 @@
+---
+book: "Psalms"
+chapter: 106
+verse: 36
+ordinal_verse: 15688
+ref: "Psalms 106:36"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 11
+topics: []
+cross_references: []
+grammar_tags: [conjunctive-opener, poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Psalms"]
+---
+
+# Psalms 106:36
+
+And they served their idols: which were a snare unto them.

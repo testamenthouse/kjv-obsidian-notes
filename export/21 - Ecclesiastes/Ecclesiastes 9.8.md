@@ -1,0 +1,19 @@
+---
+book: "Ecclesiastes"
+chapter: 9
+verse: 8
+ordinal_verse: 17484
+ref: "Ecclesiastes 9:8"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 13
+topics: []
+cross_references: []
+grammar_tags: [imperative, negation, poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Ecclesiastes"]
+---
+
+# Ecclesiastes 9:8
+
+Let thy garments be always white; and let thy head lack no ointment.

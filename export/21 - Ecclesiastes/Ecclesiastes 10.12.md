@@ -1,0 +1,19 @@
+---
+book: "Ecclesiastes"
+chapter: 10
+verse: 12
+ordinal_verse: 17506
+ref: "Ecclesiastes 10:12"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 19
+topics: []
+cross_references: []
+grammar_tags: [contrast, poetry-register]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","Ecclesiastes"]
+---
+
+# Ecclesiastes 10:12
+
+The words of a wise man's mouth are gracious; but the lips of a fool will swallow up himself.

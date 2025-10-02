@@ -1,0 +1,19 @@
+---
+book: "Ezekiel"
+chapter: 16
+verse: 32
+ordinal_verse: 20795
+ref: "Ezekiel 16:32"
+translation: "KJV"
+genre: "Major Prophet"
+word_count: 14
+topics: []
+cross_references: []
+grammar_tags: [exclamation, contrast-opener, contrast, conditional]
+thematic_tags: []
+tags: ["Bible","KJV","Ezekiel"]
+---
+
+# Ezekiel 16:32
+
+But as a wife that committeth adultery, which taketh strangers instead of her husband!
