@@ -1,0 +1,19 @@
+---
+book: "Job"
+chapter: 28
+verse: 28
+ordinal_verse: 13533
+ref: "Job 28:28"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 21
+topics: []
+cross_references: []
+grammar_tags: [conjunctive-opener, poetry-register]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","Job"]
+---
+
+# Job 28:28
+
+And unto man he said, Behold, the fear of the LORD, that is wisdom; and to depart from evil is understanding.

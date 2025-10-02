@@ -1,0 +1,19 @@
+---
+book: "Proverbs"
+chapter: 22
+verse: 5
+ordinal_verse: 17021
+ref: "Proverbs 22:5"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 21
+topics: []
+cross_references: []
+grammar_tags: [poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Proverbs"]
+---
+
+# Proverbs 22:5
+
+Thorns and snares are in the way of the froward: he that doth keep his soul shall be far from them.

@@ -1,0 +1,19 @@
+---
+book: "Leviticus"
+chapter: 3
+verse: 15
+ordinal_verse: 2794
+ref: "Leviticus 3:15"
+translation: "KJV"
+genre: "Law"
+word_count: 30
+topics: []
+cross_references: []
+grammar_tags: [conjunctive-opener]
+thematic_tags: []
+tags: ["Bible","KJV","Leviticus"]
+---
+
+# Leviticus 3:15
+
+And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away.

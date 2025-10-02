@@ -1,0 +1,19 @@
+---
+book: "Proverbs"
+chapter: 8
+verse: 32
+ordinal_verse: 16635
+ref: "Proverbs 8:32"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 16
+topics: []
+cross_references: []
+grammar_tags: [negation, cause-effect, poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Proverbs"]
+---
+
+# Proverbs 8:32
+
+Now therefore hearken unto me, O ye children: for blessed are they that keep my ways.

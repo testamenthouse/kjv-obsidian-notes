@@ -1,0 +1,19 @@
+---
+book: "Proverbs"
+chapter: 10
+verse: 4
+ordinal_verse: 16661
+ref: "Proverbs 10:4"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 17
+topics: []
+cross_references: []
+grammar_tags: [contrast, poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Proverbs"]
+---
+
+# Proverbs 10:4
+
+He becometh poor that dealeth with a slack hand: but the hand of the diligent maketh rich.

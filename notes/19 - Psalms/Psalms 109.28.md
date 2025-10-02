@@ -1,0 +1,19 @@
+---
+book: "Psalms"
+chapter: 109
+verse: 28
+ordinal_verse: 15784
+ref: "Psalms 109:28"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 18
+topics: []
+cross_references: []
+grammar_tags: [imperative, contrast, poetry-register]
+thematic_tags: [curse]
+tags: ["Bible","KJV","Psalms"]
+---
+
+# Psalms 109:28
+
+Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice.

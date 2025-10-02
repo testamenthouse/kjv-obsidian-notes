@@ -1,0 +1,19 @@
+---
+book: "Lamentations"
+chapter: 3
+verse: 47
+ordinal_verse: 20402
+ref: "Lamentations 3:47"
+translation: "KJV"
+genre: "Major Prophet"
+word_count: 11
+topics: []
+cross_references: []
+grammar_tags: [imperative]
+thematic_tags: []
+tags: ["Bible","KJV","Lamentations"]
+---
+
+# Lamentations 3:47
+
+Fear and a snare is come upon us, desolation and destruction.

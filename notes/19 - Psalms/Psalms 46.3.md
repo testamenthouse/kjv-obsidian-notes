@@ -1,0 +1,19 @@
+---
+book: "Psalms"
+chapter: 46
+verse: 3
+ordinal_verse: 14618
+ref: "Psalms 46:3"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 17
+topics: []
+cross_references: []
+grammar_tags: [contrast-opener, contrast, conditional, poetry-register]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","Psalms"]
+---
+
+# Psalms 46:3
+
+Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah.

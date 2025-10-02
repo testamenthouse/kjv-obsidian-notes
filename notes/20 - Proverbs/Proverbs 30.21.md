@@ -1,0 +1,19 @@
+---
+book: "Proverbs"
+chapter: 30
+verse: 21
+ordinal_verse: 17273
+ref: "Proverbs 30:21"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 14
+topics: []
+cross_references: []
+grammar_tags: [negation, poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Proverbs"]
+---
+
+# Proverbs 30:21
+
+For three things the earth is disquieted, and for four which it cannot bear:

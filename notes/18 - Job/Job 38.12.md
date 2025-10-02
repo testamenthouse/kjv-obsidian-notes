@@ -1,0 +1,19 @@
+---
+book: "Job"
+chapter: 38
+verse: 12
+ordinal_verse: 13806
+ref: "Job 38:12"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 16
+topics: []
+cross_references: []
+grammar_tags: [semicolon-heavy, negation, poetry-register]
+thematic_tags: [time-units, time-parts-of-day, time]
+tags: ["Bible","KJV","Job"]
+---
+
+# Job 38:12
+
+Hast thou commanded the morning since thy days; and caused the dayspring to know his place;

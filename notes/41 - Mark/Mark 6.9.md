@@ -1,0 +1,19 @@
+---
+book: "Mark"
+chapter: 6
+verse: 9
+ordinal_verse: 24417
+ref: "Mark 6:9"
+translation: "KJV"
+genre: "Gospel"
+word_count: 11
+topics: []
+cross_references: []
+grammar_tags: [contrast-opener, negation, contrast]
+thematic_tags: []
+tags: ["Bible","KJV","Mark"]
+---
+
+# Mark 6:9
+
+But be shod with sandals; and not put on two coats.

@@ -1,0 +1,19 @@
+---
+book: "Psalms"
+chapter: 150
+verse: 6
+ordinal_verse: 16401
+ref: "Psalms 150:6"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 13
+topics: []
+cross_references: []
+grammar_tags: [imperative, poetry-register]
+thematic_tags: [names-of-god, praise-worship]
+tags: ["Bible","KJV","Psalms"]
+---
+
+# Psalms 150:6
+
+Let every thing that hath breath praise the LORD. Praise ye the LORD.

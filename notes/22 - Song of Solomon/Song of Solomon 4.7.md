@@ -1,0 +1,19 @@
+---
+book: "Song of Solomon"
+chapter: 4
+verse: 7
+ordinal_verse: 17590
+ref: "Song of Solomon 4:7"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 12
+topics: []
+cross_references: []
+grammar_tags: [negation, poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Song of Solomon"]
+---
+
+# Song of Solomon 4:7
+
+Thou art all fair, my love; there is no spot in thee.

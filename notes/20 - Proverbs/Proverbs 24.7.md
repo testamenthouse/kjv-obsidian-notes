@@ -1,0 +1,19 @@
+---
+book: "Proverbs"
+chapter: 24
+verse: 7
+ordinal_verse: 17087
+ref: "Proverbs 24:7"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 15
+topics: []
+cross_references: []
+grammar_tags: [negation, poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Proverbs"]
+---
+
+# Proverbs 24:7
+
+Wisdom is too high for a fool: he openeth not his mouth in the gate.

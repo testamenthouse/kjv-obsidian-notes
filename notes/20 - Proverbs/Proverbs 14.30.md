@@ -1,0 +1,19 @@
+---
+book: "Proverbs"
+chapter: 14
+verse: 30
+ordinal_verse: 16803
+ref: "Proverbs 14:30"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 16
+topics: []
+cross_references: []
+grammar_tags: [contrast, conditional, poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Proverbs"]
+---
+
+# Proverbs 14:30
+
+A sound heart is the life of the flesh: but envy the rottenness of the bones.

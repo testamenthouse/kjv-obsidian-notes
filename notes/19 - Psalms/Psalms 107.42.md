@@ -1,0 +1,19 @@
+---
+book: "Psalms"
+chapter: 107
+verse: 42
+ordinal_verse: 15742
+ref: "Psalms 107:42"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 14
+topics: []
+cross_references: []
+grammar_tags: [poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Psalms"]
+---
+
+# Psalms 107:42
+
+The righteous shall see it, and rejoice: and all iniquity shall stop her mouth.

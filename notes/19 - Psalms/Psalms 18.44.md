@@ -1,0 +1,19 @@
+---
+book: "Psalms"
+chapter: 18
+verse: 44
+ordinal_verse: 14163
+ref: "Psalms 18:44"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 18
+topics: []
+cross_references: []
+grammar_tags: [poetry-register]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","Psalms"]
+---
+
+# Psalms 18:44
+
+As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me.

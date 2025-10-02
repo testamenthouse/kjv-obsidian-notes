@@ -1,0 +1,19 @@
+---
+book: "Job"
+chapter: 41
+verse: 3
+ordinal_verse: 13892
+ref: "Job 41:3"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 14
+topics: []
+cross_references: []
+grammar_tags: [question, poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Job"]
+---
+
+# Job 41:3
+
+Will he make many supplications unto thee? will he speak soft words unto thee?

@@ -1,0 +1,19 @@
+---
+book: "Psalms"
+chapter: 73
+verse: 25
+ordinal_verse: 15046
+ref: "Psalms 73:25"
+translation: "KJV"
+genre: "Poetry/Wisdom"
+word_count: 18
+topics: []
+cross_references: []
+grammar_tags: [negation, contrast, poetry-register]
+thematic_tags: []
+tags: ["Bible","KJV","Psalms"]
+---
+
+# Psalms 73:25
+
+Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.
