@@ -44,10 +44,10 @@ Download the latest notes set zip folder under Releases.
 2. Run the converter
    ```bash
    # Check available flags
-   python3 src/kjv_to_obsidian.py --help
+   python3 src/generate.py --help
 
    # Example run
-   python3 src/kjv_to_obsidian.py --input /path/to/kjv.json --out ./notes-output
+   python3 src/generate-notes.py --input kjv.json --out ../notes
    
    # Example output
    # [done] Written: 31102 | Skipped: 0 | Errors: 0 | Output: /path/to/notes/export
