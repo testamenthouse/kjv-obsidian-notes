@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, conditional]
 thematic_tags: []
-tags: ["Bible","KJV","2 Kings"]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 15:4

@@ -10,7 +10,7 @@ word_count: 19
 topics: []
 cross_references: []
 grammar_tags: [negation]
-thematic_tags: [curse, time-units, time]
+thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

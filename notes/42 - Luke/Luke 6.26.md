@@ -10,7 +10,7 @@ word_count: 20
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [names-of-god, lament, woe]
+thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Luke"]
 ---
 

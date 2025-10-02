@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 22
 topics: []
 cross_references: []
-grammar_tags: [imperative, poetry-register, genealogy-structure]
+grammar_tags: [imperative, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Psalms"]
 ---

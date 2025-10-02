@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [inference-opener, negation]
 thematic_tags: [one-another]
-tags: ["Bible","KJV","1 Thessalonians"]
+tags: ["Bible","KJV","1-Thessalonians"]
 ---
 
 # 1 Thessalonians 4:18

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god, thanksgiving]
-tags: ["Bible","KJV","1 Corinthians"]
+tags: ["Bible","KJV","1-Corinthians"]
 ---
 
 # 1 Corinthians 14:17

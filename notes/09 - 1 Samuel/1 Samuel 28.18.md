@@ -10,8 +10,8 @@ word_count: 27
 topics: []
 cross_references: []
 grammar_tags: [negation, cause-effect]
-thematic_tags: [names-of-god, wrath, time-units, time]
-tags: ["Bible","KJV","1 Samuel"]
+thematic_tags: [names-of-god, time-units, time]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 28:18

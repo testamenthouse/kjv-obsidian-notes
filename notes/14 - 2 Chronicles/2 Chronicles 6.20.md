@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [contrast]
 thematic_tags: [time-units, time-parts-of-day, time]
-tags: ["Bible","KJV","2 Chronicles"]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 6:20

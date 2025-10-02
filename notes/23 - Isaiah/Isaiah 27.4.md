@@ -10,7 +10,7 @@ word_count: 26
 topics: []
 cross_references: []
 grammar_tags: [negation]
-thematic_tags: [warfare, wrath]
+thematic_tags: [warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
 

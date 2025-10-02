@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god, jesus-title, jesus, adversary-title, adversary]
-tags: ["Bible","KJV","2 Corinthians"]
+tags: ["Bible","KJV","2-Corinthians"]
 ---
 
 # 2 Corinthians 6:15

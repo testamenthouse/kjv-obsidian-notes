@@ -10,7 +10,7 @@ word_count: 22
 topics: []
 cross_references: []
 grammar_tags: [negation, greeting/closing]
-thematic_tags: [curse]
+thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
 

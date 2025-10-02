@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [contrast-opener, contrast]
 thematic_tags: [benediction]
-tags: ["Bible","KJV","3 John"]
+tags: ["Bible","KJV","3-John"]
 ---
 
 # 3 John 1:14

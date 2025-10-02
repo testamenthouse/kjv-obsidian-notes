@@ -10,7 +10,7 @@ word_count: 22
 topics: []
 cross_references: []
 grammar_tags: [cause-effect]
-thematic_tags: [wrath]
+thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
 

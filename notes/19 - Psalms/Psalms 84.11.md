@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [negation, poetry-register]
+grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [greeting/closing]
 thematic_tags: [praise-worship]
-tags: ["Bible","KJV","1 Timothy"]
+tags: ["Bible","KJV","1-Timothy"]
 ---
 
 # 1 Timothy 6:21

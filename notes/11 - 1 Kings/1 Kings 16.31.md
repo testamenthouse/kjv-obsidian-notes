@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [names-of-god, praise-worship]
-tags: ["Bible","KJV","1 Kings"]
+tags: ["Bible","KJV","1-Kings"]
 ---
 
 # 1 Kings 16:31

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [warfare, time-units, time]
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 13:22

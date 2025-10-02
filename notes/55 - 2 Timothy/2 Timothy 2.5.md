@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: []
-tags: ["Bible","KJV","2 Timothy"]
+tags: ["Bible","KJV","2-Timothy"]
 ---
 
 # 2 Timothy 2:5

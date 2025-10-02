@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation]
 thematic_tags: [names-of-god, thanksgiving, praise-worship, time-units, time-parts-of-day, time]
-tags: ["Bible","KJV","2 Timothy"]
+tags: ["Bible","KJV","2-Timothy"]
 ---
 
 # 2 Timothy 1:3

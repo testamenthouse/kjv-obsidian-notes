@@ -10,7 +10,7 @@ word_count: 13
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [names-of-god, wrath]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
 

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, greeting/closing]
 thematic_tags: [names-of-god, time-eschatology, time]
-tags: ["Bible","KJV","1 Timothy"]
+tags: ["Bible","KJV","1-Timothy"]
 ---
 
 # 1 Timothy 1:17

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [inference-opener]
 thematic_tags: [warfare, time-units, time]
-tags: ["Bible","KJV","2 Kings"]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 17:5

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: []
 thematic_tags: [names-of-god, demonic-entities, adversary]
-tags: ["Bible","KJV","2 Kings"]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 23:24

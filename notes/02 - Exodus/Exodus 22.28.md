@@ -10,7 +10,7 @@ word_count: 13
 topics: []
 cross_references: []
 grammar_tags: [negation]
-thematic_tags: [names-of-god, curse, negative-command]
+thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Exodus"]
 ---
 

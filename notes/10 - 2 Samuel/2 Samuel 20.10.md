@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [contrast-opener, negation, contrast, conditional, genealogy-structure]
 thematic_tags: [names-of-god, warfare]
-tags: ["Bible","KJV","2 Samuel"]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 20:10

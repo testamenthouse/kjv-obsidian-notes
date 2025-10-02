@@ -10,7 +10,7 @@ word_count: 31
 topics: []
 cross_references: []
 grammar_tags: [inference-opener, cause-effect]
-thematic_tags: [names-of-god, warfare, wrath, time-units, time]
+thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
 

@@ -10,7 +10,7 @@ word_count: 47
 topics: []
 cross_references: []
 grammar_tags: [negation, conditional]
-thematic_tags: [names-of-god, wrath, time-parts-of-day, time]
+thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

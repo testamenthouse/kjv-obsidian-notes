@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation]
 thematic_tags: []
-tags: ["Bible","KJV","1 Timothy"]
+tags: ["Bible","KJV","1-Timothy"]
 ---
 
 # 1 Timothy 1:5

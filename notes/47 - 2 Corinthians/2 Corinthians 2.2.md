@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, contrast, conditional]
 thematic_tags: []
-tags: ["Bible","KJV","2 Corinthians"]
+tags: ["Bible","KJV","2-Corinthians"]
 ---
 
 # 2 Corinthians 2:2

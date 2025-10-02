@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, negation]
 thematic_tags: [jesus-title, jesus, praise-worship]
-tags: ["Bible","KJV","1 Corinthians"]
+tags: ["Bible","KJV","1-Corinthians"]
 ---
 
 # 1 Corinthians 10:16

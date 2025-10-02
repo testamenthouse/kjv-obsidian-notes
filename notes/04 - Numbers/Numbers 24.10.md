@@ -10,7 +10,7 @@ word_count: 35
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [warfare, curse]
+thematic_tags: [warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
 

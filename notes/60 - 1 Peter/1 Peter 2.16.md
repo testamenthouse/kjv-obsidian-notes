@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, praise-worship]
-tags: ["Bible","KJV","1 Peter"]
+tags: ["Bible","KJV","1-Peter"]
 ---
 
 # 1 Peter 2:16

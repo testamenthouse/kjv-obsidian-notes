@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
-tags: ["Bible","KJV","1 Timothy"]
+tags: ["Bible","KJV","1-Timothy"]
 ---
 
 # 1 Timothy 6:14

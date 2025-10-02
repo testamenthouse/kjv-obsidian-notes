@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 3:1

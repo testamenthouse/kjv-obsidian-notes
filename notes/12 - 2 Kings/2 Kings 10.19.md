@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, negation, contrast, conditional, cause-effect]
 thematic_tags: [praise-worship]
-tags: ["Bible","KJV","2 Kings"]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 10:19

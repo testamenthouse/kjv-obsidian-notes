@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [cause-effect, poetry-register]
+grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---

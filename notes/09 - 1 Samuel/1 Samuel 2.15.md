@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 2:15

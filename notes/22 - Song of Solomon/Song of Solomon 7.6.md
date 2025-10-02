@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 11
 topics: []
 cross_references: []
-grammar_tags: [exclamation, poetry-register]
+grammar_tags: [exclamation]
 thematic_tags: [names-of-god]
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 7:6

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [jesus-title, jesus, adversary-metaphor, adversary]
-tags: ["Bible","KJV","2 Corinthians"]
+tags: ["Bible","KJV","2-Corinthians"]
 ---
 
 # 2 Corinthians 11:3

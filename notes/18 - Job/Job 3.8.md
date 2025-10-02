@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [imperative, poetry-register]
-thematic_tags: [lament, curse, time-units, time]
+grammar_tags: [imperative]
+thematic_tags: [lament, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
 

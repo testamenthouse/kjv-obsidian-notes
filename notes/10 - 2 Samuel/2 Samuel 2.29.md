@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
-tags: ["Bible","KJV","2 Samuel"]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 2:29

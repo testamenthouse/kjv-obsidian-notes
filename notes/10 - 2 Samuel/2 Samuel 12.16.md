@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, time-parts-of-day, time]
-tags: ["Bible","KJV","2 Samuel"]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 12:16

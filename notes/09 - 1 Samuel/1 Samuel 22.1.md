@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [cause-effect]
 thematic_tags: []
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 22:1

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
-tags: ["Bible","KJV","2 Samuel"]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 12:23

@@ -10,7 +10,7 @@ word_count: 39
 topics: []
 cross_references: []
 grammar_tags: [question, inference-opener, negation]
-thematic_tags: [names-of-god, warfare, wrath, time-units, time]
+thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---
 

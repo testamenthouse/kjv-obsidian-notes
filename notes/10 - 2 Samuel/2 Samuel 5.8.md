@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [warfare, time-units, time]
-tags: ["Bible","KJV","2 Samuel"]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 5:8

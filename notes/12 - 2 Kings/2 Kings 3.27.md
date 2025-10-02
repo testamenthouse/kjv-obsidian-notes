@@ -10,8 +10,8 @@ word_count: 41
 topics: []
 cross_references: []
 grammar_tags: [inference-opener]
-thematic_tags: [names-of-god, wrath]
-tags: ["Bible","KJV","2 Kings"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 3:27

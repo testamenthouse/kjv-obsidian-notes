@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [contrast-opener, negation, contrast, cause-effect]
 thematic_tags: [names-of-god, adversary-epithet, adversary]
-tags: ["Bible","KJV","1 Corinthians"]
+tags: ["Bible","KJV","1-Corinthians"]
 ---
 
 # 1 Corinthians 5:13

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god, time-feasts, time]
-tags: ["Bible","KJV","2 Chronicles"]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 30:5

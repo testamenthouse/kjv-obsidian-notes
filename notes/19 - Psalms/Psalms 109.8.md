@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 11
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, poetry-register]
+grammar_tags: [imperative, negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---

@@ -10,7 +10,7 @@ word_count: 24
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [names-of-god, curse]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

@@ -10,8 +10,8 @@ word_count: 29
 topics: []
 cross_references: []
 grammar_tags: [inference-opener]
-thematic_tags: [names-of-god, praise-worship, wrath]
-tags: ["Bible","KJV","2 Chronicles"]
+thematic_tags: [names-of-god, praise-worship]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 29:8

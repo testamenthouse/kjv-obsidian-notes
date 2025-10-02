@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, poetry-register]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 7:9

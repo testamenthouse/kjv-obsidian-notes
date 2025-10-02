@@ -10,7 +10,7 @@ word_count: 53
 topics: []
 cross_references: []
 grammar_tags: [negation, conditional]
-thematic_tags: [names-of-god, warfare, praise-worship, curse]
+thematic_tags: [names-of-god, warfare, praise-worship]
 tags: ["Bible","KJV","Malachi"]
 ---
 

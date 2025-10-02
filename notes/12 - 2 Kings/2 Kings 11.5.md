@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [time-units, time]
-tags: ["Bible","KJV","2 Kings"]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 11:5

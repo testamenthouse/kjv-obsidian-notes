@@ -10,7 +10,7 @@ word_count: 43
 topics: []
 cross_references: []
 grammar_tags: [inference-opener, negation, cause-effect]
-thematic_tags: [names-of-god, curse, time-units, time]
+thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

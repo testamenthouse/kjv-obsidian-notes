@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 30
 topics: []
 cross_references: []
-grammar_tags: [poetry-register]
+grammar_tags: []
 thematic_tags: []
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 8:2

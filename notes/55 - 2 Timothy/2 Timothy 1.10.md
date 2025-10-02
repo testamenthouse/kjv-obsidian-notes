@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
-tags: ["Bible","KJV","2 Timothy"]
+tags: ["Bible","KJV","2-Timothy"]
 ---
 
 # 2 Timothy 1:10

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [inference-opener, negation, conditional, cause-effect]
 thematic_tags: [names-of-god, praise-worship]
-tags: ["Bible","KJV","1 Corinthians"]
+tags: ["Bible","KJV","1-Corinthians"]
 ---
 
 # 1 Corinthians 4:5

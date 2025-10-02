@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [imperative, negation, conditional, genealogy-structure]
 thematic_tags: [adversary-epithet, adversary, time-units, time]
-tags: ["Bible","KJV","2 Thessalonians"]
+tags: ["Bible","KJV","2-Thessalonians"]
 ---
 
 # 2 Thessalonians 2:3

@@ -10,8 +10,8 @@ word_count: 30
 topics: []
 cross_references: []
 grammar_tags: [contrast-opener, negation, contrast]
-thematic_tags: [names-of-god, wrath]
-tags: ["Bible","KJV","2 Chronicles"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 36:16

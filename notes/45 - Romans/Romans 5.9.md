@@ -10,7 +10,7 @@ word_count: 17
 topics: []
 cross_references: []
 grammar_tags: [negation, conditional]
-thematic_tags: [wrath]
+thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
 

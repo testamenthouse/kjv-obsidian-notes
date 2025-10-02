@@ -10,7 +10,7 @@ word_count: 30
 topics: []
 cross_references: []
 grammar_tags: [negation]
-thematic_tags: [warfare, lament, woe, time-units, time-parts-of-day, time]
+thematic_tags: [warfare, lament, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

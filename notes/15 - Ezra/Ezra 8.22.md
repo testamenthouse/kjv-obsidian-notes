@@ -10,7 +10,7 @@ word_count: 59
 topics: []
 cross_references: []
 grammar_tags: [contrast]
-thematic_tags: [names-of-god, warfare, wrath]
+thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezra"]
 ---
 

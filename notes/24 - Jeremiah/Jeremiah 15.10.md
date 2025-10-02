@@ -10,7 +10,7 @@ word_count: 45
 topics: []
 cross_references: []
 grammar_tags: [negation, contrast, conditional]
-thematic_tags: [lament, curse]
+thematic_tags: [lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

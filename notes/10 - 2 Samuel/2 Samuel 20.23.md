@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god]
-tags: ["Bible","KJV","2 Samuel"]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 20:23

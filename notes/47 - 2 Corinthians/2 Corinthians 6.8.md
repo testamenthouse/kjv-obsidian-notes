@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, contrast]
 thematic_tags: [adversary-epithet, adversary]
-tags: ["Bible","KJV","2 Corinthians"]
+tags: ["Bible","KJV","2-Corinthians"]
 ---
 
 # 2 Corinthians 6:8

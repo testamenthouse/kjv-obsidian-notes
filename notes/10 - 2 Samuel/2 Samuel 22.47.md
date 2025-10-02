@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, benediction]
-tags: ["Bible","KJV","2 Samuel"]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 22:47

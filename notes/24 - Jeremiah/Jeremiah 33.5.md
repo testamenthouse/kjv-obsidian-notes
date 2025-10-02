@@ -10,7 +10,7 @@ word_count: 43
 topics: []
 cross_references: []
 grammar_tags: [contrast]
-thematic_tags: [warfare, wrath]
+thematic_tags: [warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

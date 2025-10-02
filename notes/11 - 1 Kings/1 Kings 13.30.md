@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [exclamation, conjunctive-opener]
 thematic_tags: [lament]
-tags: ["Bible","KJV","1 Kings"]
+tags: ["Bible","KJV","1-Kings"]
 ---
 
 # 1 Kings 13:30

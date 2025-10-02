@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 15
 topics: []
 cross_references: []
-grammar_tags: [question, contrast, poetry-register]
-thematic_tags: [names-of-god, wrath]
+grammar_tags: [question, contrast]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
 

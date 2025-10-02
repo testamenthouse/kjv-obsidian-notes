@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
-tags: ["Bible","KJV","1 Kings"]
+tags: ["Bible","KJV","1-Kings"]
 ---
 
 # 1 Kings 16:11

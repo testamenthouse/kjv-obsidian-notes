@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: []
 thematic_tags: [names-of-god, warfare, time-units, time]
-tags: ["Bible","KJV","2 Samuel"]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 18:7

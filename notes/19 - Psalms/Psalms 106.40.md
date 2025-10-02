@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, cause-effect, poetry-register]
-thematic_tags: [names-of-god, wrath]
+grammar_tags: [inference-opener, cause-effect]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
 

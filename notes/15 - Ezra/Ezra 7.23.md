@@ -10,7 +10,7 @@ word_count: 36
 topics: []
 cross_references: []
 grammar_tags: [question]
-thematic_tags: [names-of-god, wrath]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
 

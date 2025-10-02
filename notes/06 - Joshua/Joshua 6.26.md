@@ -10,7 +10,7 @@ word_count: 45
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [names-of-god, curse, time-period, time]
+thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Joshua"]
 ---
 

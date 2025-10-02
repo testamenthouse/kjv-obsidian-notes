@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, contrast-opener, contrast]
 thematic_tags: [names-of-god]
-tags: ["Bible","KJV","1 John"]
+tags: ["Bible","KJV","1-John"]
 ---
 
 # 1 John 3:17

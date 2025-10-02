@@ -10,7 +10,7 @@ word_count: 21
 topics: []
 cross_references: []
 grammar_tags: [exclamation, conjunctive-opener, contrast, genealogy-structure]
-thematic_tags: [son-of-man, jesus, lament, woe]
+thematic_tags: [son-of-man, jesus, lament]
 tags: ["Bible","KJV","Luke"]
 ---
 

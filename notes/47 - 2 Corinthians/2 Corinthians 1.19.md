@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, contrast, genealogy-structure]
 thematic_tags: [names-of-god, jesus, jesus-title, son-of-god]
-tags: ["Bible","KJV","2 Corinthians"]
+tags: ["Bible","KJV","2-Corinthians"]
 ---
 
 # 2 Corinthians 1:19

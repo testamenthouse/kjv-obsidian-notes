@@ -10,7 +10,7 @@ word_count: 53
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [wrath]
+thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
 

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, semicolon-heavy, negation, conditional]
 thematic_tags: [warfare]
-tags: ["Bible","KJV","2 Chronicles"]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 25:19

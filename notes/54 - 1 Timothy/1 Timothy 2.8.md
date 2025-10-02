@@ -10,8 +10,8 @@ word_count: 16
 topics: []
 cross_references: []
 grammar_tags: [negation, conditional, cause-effect]
-thematic_tags: [wrath]
-tags: ["Bible","KJV","1 Timothy"]
+thematic_tags: []
+tags: ["Bible","KJV","1-Timothy"]
 ---
 
 # 1 Timothy 2:8

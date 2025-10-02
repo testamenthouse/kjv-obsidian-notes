@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation]
 thematic_tags: [names-of-god, one-another]
-tags: ["Bible","KJV","1 John"]
+tags: ["Bible","KJV","1-John"]
 ---
 
 # 1 John 4:7

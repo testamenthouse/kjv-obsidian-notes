@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [warfare, time-parts-of-day, time]
-tags: ["Bible","KJV","2 Kings"]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 6:14

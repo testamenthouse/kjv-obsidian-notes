@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god, jesus-title, jesus, adversary-epithet, adversary]
-tags: ["Bible","KJV","2 Corinthians"]
+tags: ["Bible","KJV","2-Corinthians"]
 ---
 
 # 2 Corinthians 4:4

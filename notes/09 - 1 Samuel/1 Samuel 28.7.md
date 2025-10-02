@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [inference-opener]
 thematic_tags: [demonic-entities, adversary]
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 28:7

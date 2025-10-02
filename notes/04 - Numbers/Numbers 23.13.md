@@ -10,7 +10,7 @@ word_count: 41
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation, contrast]
-thematic_tags: [curse]
+thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
 

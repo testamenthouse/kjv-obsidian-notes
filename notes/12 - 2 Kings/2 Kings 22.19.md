@@ -10,8 +10,8 @@ word_count: 53
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [names-of-god, curse]
-tags: ["Bible","KJV","2 Kings"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 22:19

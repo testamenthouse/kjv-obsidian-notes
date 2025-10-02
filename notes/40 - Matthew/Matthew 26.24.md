@@ -10,7 +10,7 @@ word_count: 37
 topics: []
 cross_references: []
 grammar_tags: [negation, contrast, conditional, genealogy-structure]
-thematic_tags: [son-of-man, jesus, lament, woe]
+thematic_tags: [son-of-man, jesus, lament]
 tags: ["Bible","KJV","Matthew"]
 ---
 

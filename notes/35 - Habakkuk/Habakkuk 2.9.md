@@ -10,7 +10,7 @@ word_count: 29
 topics: []
 cross_references: []
 grammar_tags: [exclamation]
-thematic_tags: [names-of-god, lament, woe]
+thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Habakkuk"]
 ---
 

@@ -10,7 +10,7 @@ word_count: 51
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [names-of-god, warfare, praise-worship, curse]
+thematic_tags: [names-of-god, warfare, praise-worship]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

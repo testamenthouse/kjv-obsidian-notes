@@ -10,7 +10,7 @@ word_count: 28
 topics: []
 cross_references: []
 grammar_tags: [conditional]
-thematic_tags: [warfare, lament, woe]
+thematic_tags: [warfare, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

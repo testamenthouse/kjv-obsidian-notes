@@ -10,7 +10,7 @@ word_count: 43
 topics: []
 cross_references: []
 grammar_tags: [negation]
-thematic_tags: [lament, woe]
+thematic_tags: [lament]
 tags: ["Bible","KJV","Matthew"]
 ---
 

@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 23
 topics: []
 cross_references: []
-grammar_tags: [negation, cause-effect, poetry-register]
+grammar_tags: [negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

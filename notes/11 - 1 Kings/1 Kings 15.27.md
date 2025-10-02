@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, warfare]
-tags: ["Bible","KJV","1 Kings"]
+tags: ["Bible","KJV","1-Kings"]
 ---
 
 # 1 Kings 15:27

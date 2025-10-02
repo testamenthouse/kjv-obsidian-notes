@@ -10,7 +10,7 @@ word_count: 35
 topics: []
 cross_references: []
 grammar_tags: [negation, contrast, conditional]
-thematic_tags: [curse]
+thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
 

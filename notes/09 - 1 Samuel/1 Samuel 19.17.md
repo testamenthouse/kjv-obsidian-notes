@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, conjunctive-opener]
 thematic_tags: [warfare]
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 19:17

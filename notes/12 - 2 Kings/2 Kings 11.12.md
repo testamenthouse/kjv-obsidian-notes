@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, conjunctive-opener, negation]
 thematic_tags: [names-of-god]
-tags: ["Bible","KJV","2 Kings"]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 11:12

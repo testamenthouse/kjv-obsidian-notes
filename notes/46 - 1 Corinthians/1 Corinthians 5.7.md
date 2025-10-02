@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conditional, cause-effect]
 thematic_tags: [jesus-title, jesus, time-feasts, time]
-tags: ["Bible","KJV","1 Corinthians"]
+tags: ["Bible","KJV","1-Corinthians"]
 ---
 
 # 1 Corinthians 5:7

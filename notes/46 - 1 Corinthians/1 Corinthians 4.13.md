@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: []
 thematic_tags: [time-units, time]
-tags: ["Bible","KJV","1 Corinthians"]
+tags: ["Bible","KJV","1-Corinthians"]
 ---
 
 # 1 Corinthians 4:13

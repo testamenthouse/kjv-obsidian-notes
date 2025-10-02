@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, inference-opener, conditional]
 thematic_tags: [names-of-god]
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 20:10

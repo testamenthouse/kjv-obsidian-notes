@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, negation, contrast, conditional]
 thematic_tags: [names-of-god, warfare]
-tags: ["Bible","KJV","2 Kings"]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 18:20

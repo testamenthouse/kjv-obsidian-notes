@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation]
 thematic_tags: [adversary-epithet, adversary]
-tags: ["Bible","KJV","2 Thessalonians"]
+tags: ["Bible","KJV","2-Thessalonians"]
 ---
 
 # 2 Thessalonians 2:7

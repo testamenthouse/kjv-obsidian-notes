@@ -10,7 +10,7 @@ word_count: 28
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation]
-thematic_tags: [wrath, time-eschatology, time-period, time]
+thematic_tags: [time-eschatology, time-period, time]
 tags: ["Bible","KJV","Daniel"]
 ---
 

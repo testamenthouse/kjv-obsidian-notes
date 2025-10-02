@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus-title, jesus]
-tags: ["Bible","KJV","2 Thessalonians"]
+tags: ["Bible","KJV","2-Thessalonians"]
 ---
 
 # 2 Thessalonians 3:5

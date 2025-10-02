@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
-tags: ["Bible","KJV","2 Chronicles"]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 2:13

@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [negation, poetry-register]
-thematic_tags: [curse]
+grammar_tags: [negation]
+thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
 

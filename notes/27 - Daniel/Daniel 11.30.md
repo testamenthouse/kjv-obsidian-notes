@@ -10,7 +10,7 @@ word_count: 41
 topics: []
 cross_references: []
 grammar_tags: [cause-effect]
-thematic_tags: [names-of-god, covenant, wrath]
+thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Daniel"]
 ---
 

@@ -10,8 +10,8 @@ word_count: 62
 topics: []
 cross_references: []
 grammar_tags: [negation]
-thematic_tags: [names-of-god, wrath]
-tags: ["Bible","KJV","2 Chronicles"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 34:21

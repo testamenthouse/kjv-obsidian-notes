@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [cause-effect]
 thematic_tags: [warfare, lament]
-tags: ["Bible","KJV","2 Chronicles"]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 35:24

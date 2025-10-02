@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [poetry-register]
-thematic_tags: [names-of-god, wrath, time-units, time]
+grammar_tags: []
+thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
 

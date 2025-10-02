@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, poetry-register]
-thematic_tags: [wrath]
+grammar_tags: [inference-opener]
+thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
 

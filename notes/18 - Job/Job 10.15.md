@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 30
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation, contrast, conditional, cause-effect, poetry-register]
-thematic_tags: [names-of-god, lament, woe]
+grammar_tags: [semicolon-heavy, negation, contrast, conditional, cause-effect]
+thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Job"]
 ---
 

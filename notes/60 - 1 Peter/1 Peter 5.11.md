@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [greeting/closing]
 thematic_tags: [time-eschatology, time]
-tags: ["Bible","KJV","1 Peter"]
+tags: ["Bible","KJV","1-Peter"]
 ---
 
 # 1 Peter 5:11

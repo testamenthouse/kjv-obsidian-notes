@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 28
 topics: []
 cross_references: []
-grammar_tags: [poetry-register]
-thematic_tags: [names-of-god, wrath]
+grammar_tags: []
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
 

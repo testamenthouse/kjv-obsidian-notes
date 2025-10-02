@@ -10,8 +10,8 @@ word_count: 30
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [names-of-god, warfare, lament, woe]
-tags: ["Bible","KJV","1 Samuel"]
+thematic_tags: [names-of-god, warfare, lament]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 4:8

@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 45
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, conditional, poetry-register]
+grammar_tags: [inference-opener, negation, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

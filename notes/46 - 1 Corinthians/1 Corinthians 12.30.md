@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, conditional]
 thematic_tags: []
-tags: ["Bible","KJV","1 Corinthians"]
+tags: ["Bible","KJV","1-Corinthians"]
 ---
 
 # 1 Corinthians 12:30

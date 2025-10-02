@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 58
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, conditional, poetry-register]
-thematic_tags: [names-of-god, curse, time-units, time-parts-of-day, time]
+grammar_tags: [conjunctive-opener, conditional]
+thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
 

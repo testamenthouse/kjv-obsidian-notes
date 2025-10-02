@@ -10,7 +10,7 @@ word_count: 45
 topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, negation, contrast]
-thematic_tags: [names-of-god, curse, time-units, time-parts-of-day, time]
+thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
 

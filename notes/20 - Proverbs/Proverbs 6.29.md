@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, conditional, poetry-register]
+grammar_tags: [inference-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---

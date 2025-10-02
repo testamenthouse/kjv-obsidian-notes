@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [conditional, poetry-register]
+grammar_tags: [conditional]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Psalms"]
 ---

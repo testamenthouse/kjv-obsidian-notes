@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 21
 topics: []
 cross_references: []
-grammar_tags: [cause-effect, poetry-register]
+grammar_tags: [cause-effect]
 thematic_tags: []
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 1:3

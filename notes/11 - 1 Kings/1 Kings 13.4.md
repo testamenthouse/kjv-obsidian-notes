@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation, cause-effect]
 thematic_tags: [names-of-god, lament]
-tags: ["Bible","KJV","1 Kings"]
+tags: ["Bible","KJV","1-Kings"]
 ---
 
 # 1 Kings 13:4

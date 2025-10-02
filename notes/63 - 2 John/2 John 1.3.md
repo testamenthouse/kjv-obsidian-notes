@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, jesus, jesus-title]
-tags: ["Bible","KJV","2 John"]
+tags: ["Bible","KJV","2-John"]
 ---
 
 # 2 John 1:3

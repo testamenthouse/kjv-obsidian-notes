@@ -10,7 +10,7 @@ word_count: 54
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [names-of-god, covenant, wrath]
+thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Joshua"]
 ---
 

@@ -10,8 +10,8 @@ word_count: 34
 topics: []
 cross_references: []
 grammar_tags: [inference-opener, negation, contrast]
-thematic_tags: [names-of-god, jesus, jesus-title, curse]
-tags: ["Bible","KJV","1 Corinthians"]
+thematic_tags: [names-of-god, jesus, jesus-title]
+tags: ["Bible","KJV","1-Corinthians"]
 ---
 
 # 1 Corinthians 12:3

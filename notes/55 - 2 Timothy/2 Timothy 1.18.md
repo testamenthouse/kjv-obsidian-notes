@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
-tags: ["Bible","KJV","2 Timothy"]
+tags: ["Bible","KJV","2-Timothy"]
 ---
 
 # 2 Timothy 1:18

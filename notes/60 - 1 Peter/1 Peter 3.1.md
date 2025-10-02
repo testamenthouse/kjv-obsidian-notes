@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, negation, conditional]
 thematic_tags: []
-tags: ["Bible","KJV","1 Peter"]
+tags: ["Bible","KJV","1-Peter"]
 ---
 
 # 1 Peter 3:1

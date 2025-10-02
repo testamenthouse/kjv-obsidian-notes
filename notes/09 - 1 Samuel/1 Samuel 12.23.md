@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [contrast]
 thematic_tags: [names-of-god, praise-worship]
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 12:23

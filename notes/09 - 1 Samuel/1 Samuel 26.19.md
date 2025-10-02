@@ -10,8 +10,8 @@ word_count: 65
 topics: []
 cross_references: []
 grammar_tags: [negation, contrast, conditional, cause-effect]
-thematic_tags: [names-of-god, curse, time-units, time]
-tags: ["Bible","KJV","1 Samuel"]
+thematic_tags: [names-of-god, time-units, time]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 26:19

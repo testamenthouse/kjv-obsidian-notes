@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 35
 topics: []
 cross_references: []
-grammar_tags: [imperative, poetry-register]
+grammar_tags: [imperative]
 thematic_tags: [time-units, time]
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 3:11

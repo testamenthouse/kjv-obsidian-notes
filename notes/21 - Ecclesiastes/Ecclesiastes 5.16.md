@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 29
 topics: []
 cross_references: []
-grammar_tags: [question, conjunctive-opener, poetry-register]
+grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

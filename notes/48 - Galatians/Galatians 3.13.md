@@ -10,7 +10,7 @@ word_count: 29
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [jesus-title, jesus, curse]
+thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Galatians"]
 ---
 

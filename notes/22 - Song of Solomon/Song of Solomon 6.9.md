@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 42
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, contrast, poetry-register]
+grammar_tags: [semicolon-heavy, contrast]
 thematic_tags: [praise-worship]
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 6:9

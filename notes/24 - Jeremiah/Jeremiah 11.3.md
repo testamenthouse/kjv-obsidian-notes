@@ -10,7 +10,7 @@ word_count: 24
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation, contrast]
-thematic_tags: [names-of-god, covenant, curse]
+thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

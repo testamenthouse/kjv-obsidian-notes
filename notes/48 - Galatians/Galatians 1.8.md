@@ -10,7 +10,7 @@ word_count: 26
 topics: []
 cross_references: []
 grammar_tags: [contrast-opener, contrast, conditional]
-thematic_tags: [names-of-god, curse]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
 

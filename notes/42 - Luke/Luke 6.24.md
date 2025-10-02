@@ -10,7 +10,7 @@ word_count: 13
 topics: []
 cross_references: []
 grammar_tags: [contrast-opener, contrast]
-thematic_tags: [lament, woe]
+thematic_tags: [lament]
 tags: ["Bible","KJV","Luke"]
 ---
 

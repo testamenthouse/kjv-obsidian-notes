@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 30
 topics: []
 cross_references: []
-grammar_tags: [poetry-register]
+grammar_tags: []
 thematic_tags: [names-of-god, praise-worship, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---

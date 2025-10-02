@@ -10,7 +10,7 @@ word_count: 26
 topics: []
 cross_references: []
 grammar_tags: [inference-opener]
-thematic_tags: [names-of-god, warfare, adversary-title, adversary, curse]
+thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
 

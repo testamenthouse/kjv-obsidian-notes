@@ -10,8 +10,8 @@ word_count: 33
 topics: []
 cross_references: []
 grammar_tags: [inference-opener]
-thematic_tags: [curse, time-units, time]
-tags: ["Bible","KJV","1 Samuel"]
+thematic_tags: [time-units, time]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 14:28

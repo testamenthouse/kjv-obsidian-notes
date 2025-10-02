@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
-tags: ["Bible","KJV","1 Peter"]
+tags: ["Bible","KJV","1-Peter"]
 ---
 
 # 1 Peter 5:4

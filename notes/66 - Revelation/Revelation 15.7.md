@@ -10,7 +10,7 @@ word_count: 26
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [names-of-god, wrath, time-eschatology, time]
+thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","Revelation"]
 ---
 

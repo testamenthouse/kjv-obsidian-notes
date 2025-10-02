@@ -10,7 +10,7 @@ word_count: 53
 topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, conjunctive-opener, negation, conditional]
-thematic_tags: [curse, time-units, time]
+thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
 

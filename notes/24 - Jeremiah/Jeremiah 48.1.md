@@ -10,7 +10,7 @@ word_count: 29
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [names-of-god, warfare, lament, woe]
+thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

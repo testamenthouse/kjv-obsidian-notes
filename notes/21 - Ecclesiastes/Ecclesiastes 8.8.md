@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 41
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation, poetry-register]
+grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

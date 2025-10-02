@@ -10,7 +10,7 @@ word_count: 51
 topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, conjunctive-opener, negation]
-thematic_tags: [names-of-god, warfare, curse]
+thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Genesis"]
 ---
 

@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 49
 topics: []
 cross_references: []
-grammar_tags: [poetry-register]
+grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

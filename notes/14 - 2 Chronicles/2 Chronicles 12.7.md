@@ -10,8 +10,8 @@ word_count: 50
 topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, conjunctive-opener, negation, contrast, cause-effect]
-thematic_tags: [names-of-god, wrath]
-tags: ["Bible","KJV","2 Chronicles"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 12:7

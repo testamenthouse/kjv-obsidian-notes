@@ -10,7 +10,7 @@ word_count: 26
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation, contrast]
-thematic_tags: [names-of-god, curse]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
 

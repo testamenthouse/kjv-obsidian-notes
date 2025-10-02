@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god, son-of-god, jesus]
-tags: ["Bible","KJV","1 John"]
+tags: ["Bible","KJV","1-John"]
 ---
 
 # 1 John 5:10

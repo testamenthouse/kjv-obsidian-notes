@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, conditional, cause-effect]
 thematic_tags: [warfare, adversary-epithet, adversary]
-tags: ["Bible","KJV","1 Thessalonians"]
+tags: ["Bible","KJV","1-Thessalonians"]
 ---
 
 # 1 Thessalonians 3:5

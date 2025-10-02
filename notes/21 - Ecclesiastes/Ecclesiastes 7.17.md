@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [question, imperative, negation, poetry-register]
+grammar_tags: [question, imperative, negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

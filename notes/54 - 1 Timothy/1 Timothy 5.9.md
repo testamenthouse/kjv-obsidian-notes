@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [imperative, negation, conditional]
 thematic_tags: [negative-command, time-units, time]
-tags: ["Bible","KJV","1 Timothy"]
+tags: ["Bible","KJV","1-Timothy"]
 ---
 
 # 1 Timothy 5:9

@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 33
 topics: []
 cross_references: []
-grammar_tags: [negation, conditional, poetry-register]
+grammar_tags: [negation, conditional]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

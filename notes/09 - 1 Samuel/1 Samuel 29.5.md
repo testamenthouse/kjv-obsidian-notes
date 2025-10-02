@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, negation]
 thematic_tags: [one-another, praise-worship]
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 29:5

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [imperative, negation, conditional]
 thematic_tags: [names-of-god]
-tags: ["Bible","KJV","1 Corinthians"]
+tags: ["Bible","KJV","1-Corinthians"]
 ---
 
 # 1 Corinthians 3:18

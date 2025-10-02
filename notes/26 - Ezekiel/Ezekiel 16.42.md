@@ -10,7 +10,7 @@ word_count: 28
 topics: []
 cross_references: []
 grammar_tags: [inference-opener, negation]
-thematic_tags: [wrath]
+thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
 

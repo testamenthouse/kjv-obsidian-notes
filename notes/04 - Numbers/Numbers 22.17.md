@@ -10,7 +10,7 @@ word_count: 27
 topics: []
 cross_references: []
 grammar_tags: [negation, cause-effect]
-thematic_tags: [curse]
+thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
 

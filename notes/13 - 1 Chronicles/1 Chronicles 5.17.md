@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
-tags: ["Bible","KJV","1 Chronicles"]
+tags: ["Bible","KJV","1-Chronicles"]
 ---
 
 # 1 Chronicles 5:17

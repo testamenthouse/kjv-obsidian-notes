@@ -10,8 +10,8 @@ word_count: 24
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [names-of-god, jesus, jesus-title, wrath]
-tags: ["Bible","KJV","1 Thessalonians"]
+thematic_tags: [names-of-god, jesus, jesus-title]
+tags: ["Bible","KJV","1-Thessalonians"]
 ---
 
 # 1 Thessalonians 1:10

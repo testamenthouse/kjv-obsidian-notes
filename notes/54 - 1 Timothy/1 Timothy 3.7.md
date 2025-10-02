@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, conditional]
 thematic_tags: [warfare, adversary-title, adversary]
-tags: ["Bible","KJV","1 Timothy"]
+tags: ["Bible","KJV","1-Timothy"]
 ---
 
 # 1 Timothy 3:7

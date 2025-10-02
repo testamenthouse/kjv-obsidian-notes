@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation]
 thematic_tags: [names-of-god]
-tags: ["Bible","KJV","1 Peter"]
+tags: ["Bible","KJV","1-Peter"]
 ---
 
 # 1 Peter 3:3

@@ -10,7 +10,7 @@ word_count: 26
 topics: []
 cross_references: []
 grammar_tags: [cause-effect]
-thematic_tags: [lament, woe]
+thematic_tags: [lament]
 tags: ["Bible","KJV","Matthew"]
 ---
 

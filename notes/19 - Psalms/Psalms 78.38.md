@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 30
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, negation, contrast, poetry-register]
-thematic_tags: [wrath]
+grammar_tags: [contrast-opener, negation, contrast]
+thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
 

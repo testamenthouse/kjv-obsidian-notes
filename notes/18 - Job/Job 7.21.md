@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 34
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, contrast, poetry-register]
+grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---

@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 13
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast, poetry-register]
-thematic_tags: [names-of-god, wrath, time-units, time]
+grammar_tags: [negation, contrast]
+thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
 

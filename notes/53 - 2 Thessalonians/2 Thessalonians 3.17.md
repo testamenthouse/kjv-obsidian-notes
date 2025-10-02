@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: []
 thematic_tags: []
-tags: ["Bible","KJV","2 Thessalonians"]
+tags: ["Bible","KJV","2-Thessalonians"]
 ---
 
 # 2 Thessalonians 3:17

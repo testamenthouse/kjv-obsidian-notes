@@ -10,7 +10,7 @@ word_count: 20
 topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, negation, contrast]
-thematic_tags: [names-of-god, wrath]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

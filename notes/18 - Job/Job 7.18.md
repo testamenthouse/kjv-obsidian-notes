@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 13
 topics: []
 cross_references: []
-grammar_tags: [question, conjunctive-opener, poetry-register]
+grammar_tags: [question, conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---

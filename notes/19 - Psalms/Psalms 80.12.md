@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 20
 topics: []
 cross_references: []
-grammar_tags: [question, cause-effect, poetry-register]
+grammar_tags: [question, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---

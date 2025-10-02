@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [exclamation, contrast-opener, contrast]
 thematic_tags: [lament]
-tags: ["Bible","KJV","2 Samuel"]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 19:4

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conditional, genealogy-structure]
 thematic_tags: [jesus-title, jesus]
-tags: ["Bible","KJV","2 Corinthians"]
+tags: ["Bible","KJV","2-Corinthians"]
 ---
 
 # 2 Corinthians 2:10

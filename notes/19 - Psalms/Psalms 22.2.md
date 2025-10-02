@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 22
 topics: []
 cross_references: []
-grammar_tags: [negation, contrast, poetry-register]
+grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, lament, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---

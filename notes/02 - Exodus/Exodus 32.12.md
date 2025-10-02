@@ -10,7 +10,7 @@ word_count: 43
 topics: []
 cross_references: []
 grammar_tags: [inference-opener]
-thematic_tags: [wrath]
+thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
 

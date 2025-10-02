@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 32
 topics: []
 cross_references: []
-grammar_tags: [imperative, conditional, poetry-register]
+grammar_tags: [imperative, conditional]
 thematic_tags: []
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 7:12

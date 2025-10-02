@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
-tags: ["Bible","KJV","1 Chronicles"]
+tags: ["Bible","KJV","1-Chronicles"]
 ---
 
 # 1 Chronicles 21:1

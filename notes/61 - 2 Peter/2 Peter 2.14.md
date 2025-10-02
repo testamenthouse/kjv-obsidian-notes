@@ -10,8 +10,8 @@ word_count: 24
 topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, negation]
-thematic_tags: [curse]
-tags: ["Bible","KJV","2 Peter"]
+thematic_tags: []
+tags: ["Bible","KJV","2-Peter"]
 ---
 
 # 2 Peter 2:14

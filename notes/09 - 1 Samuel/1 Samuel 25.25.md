@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [imperative, negation, contrast]
 thematic_tags: [names-of-god, adversary-title, adversary, negative-command]
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 25:25

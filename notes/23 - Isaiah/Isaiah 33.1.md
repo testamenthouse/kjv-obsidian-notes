@@ -10,7 +10,7 @@ word_count: 46
 topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, negation, conditional]
-thematic_tags: [lament, woe]
+thematic_tags: [lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
 

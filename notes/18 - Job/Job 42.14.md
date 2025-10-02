@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 23
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, conjunctive-opener, poetry-register]
+grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---

@@ -10,7 +10,7 @@ word_count: 25
 topics: []
 cross_references: []
 grammar_tags: [negation, contrast]
-thematic_tags: [warfare, wrath]
+thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
 

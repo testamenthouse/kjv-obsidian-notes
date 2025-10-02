@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: []
 thematic_tags: [time-units, time]
-tags: ["Bible","KJV","1 Chronicles"]
+tags: ["Bible","KJV","1-Chronicles"]
 ---
 
 # 1 Chronicles 3:4

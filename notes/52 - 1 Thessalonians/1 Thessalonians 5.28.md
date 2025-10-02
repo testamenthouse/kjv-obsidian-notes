@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, jesus, jesus-title]
-tags: ["Bible","KJV","1 Thessalonians"]
+tags: ["Bible","KJV","1-Thessalonians"]
 ---
 
 # 1 Thessalonians 5:28

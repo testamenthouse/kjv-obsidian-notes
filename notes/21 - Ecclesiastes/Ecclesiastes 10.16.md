@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [exclamation, poetry-register]
-thematic_tags: [lament, woe, time-parts-of-day, time]
+grammar_tags: [exclamation]
+thematic_tags: [lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
 

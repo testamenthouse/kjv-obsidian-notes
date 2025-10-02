@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, inference-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
-tags: ["Bible","KJV","2 Samuel"]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 3:8

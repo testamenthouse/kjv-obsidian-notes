@@ -10,8 +10,8 @@ word_count: 33
 topics: []
 cross_references: []
 grammar_tags: [negation, cause-effect]
-thematic_tags: [names-of-god, wrath, time-units, time]
-tags: ["Bible","KJV","2 Chronicles"]
+thematic_tags: [names-of-god, time-units, time]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 32:26

@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, poetry-register]
+grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---

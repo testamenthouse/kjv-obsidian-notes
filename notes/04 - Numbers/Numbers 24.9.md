@@ -10,7 +10,7 @@ word_count: 31
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [curse, benediction]
+thematic_tags: [benediction]
 tags: ["Bible","KJV","Numbers"]
 ---
 

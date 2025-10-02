@@ -10,8 +10,8 @@ word_count: 24
 topics: []
 cross_references: []
 grammar_tags: [question, contrast-opener, negation, contrast, genealogy-structure]
-thematic_tags: [names-of-god, curse]
-tags: ["Bible","KJV","2 Samuel"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 19:21

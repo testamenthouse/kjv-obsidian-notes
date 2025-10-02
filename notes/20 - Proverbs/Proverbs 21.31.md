@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 15
 topics: []
 cross_references: []
-grammar_tags: [contrast, poetry-register]
+grammar_tags: [contrast]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---

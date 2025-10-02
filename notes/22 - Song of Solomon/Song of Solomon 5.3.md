@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 22
 topics: []
 cross_references: []
-grammar_tags: [question, semicolon-heavy, poetry-register]
+grammar_tags: [question, semicolon-heavy]
 thematic_tags: []
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 5:3

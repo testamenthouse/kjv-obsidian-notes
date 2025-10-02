@@ -10,7 +10,7 @@ word_count: 29
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [lament, woe, time-parts-of-day, time]
+thematic_tags: [lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Micah"]
 ---
 

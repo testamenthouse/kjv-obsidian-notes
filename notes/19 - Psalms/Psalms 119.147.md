@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [poetry-register]
+grammar_tags: []
 thematic_tags: [lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---

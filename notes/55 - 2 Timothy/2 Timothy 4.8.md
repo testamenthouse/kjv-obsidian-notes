@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, contrast, cause-effect]
 thematic_tags: [names-of-god, time-units, time-period, time]
-tags: ["Bible","KJV","2 Timothy"]
+tags: ["Bible","KJV","2-Timothy"]
 ---
 
 # 2 Timothy 4:8

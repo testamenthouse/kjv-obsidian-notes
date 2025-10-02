@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 15
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, imperative, negation, poetry-register]
+grammar_tags: [semicolon-heavy, imperative, negation]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Psalms"]
 ---

@@ -10,7 +10,7 @@ word_count: 27
 topics: []
 cross_references: []
 grammar_tags: [negation]
-thematic_tags: [names-of-god, adversary-epithet, adversary, praise-worship, curse]
+thematic_tags: [names-of-god, adversary-epithet, adversary, praise-worship]
 tags: ["Bible","KJV","Genesis"]
 ---
 

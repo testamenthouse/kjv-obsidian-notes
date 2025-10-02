@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 22
 topics: []
 cross_references: []
-grammar_tags: [poetry-register]
-thematic_tags: [praise-worship, curse, time-parts-of-day, time]
+grammar_tags: []
+thematic_tags: [praise-worship, time-parts-of-day, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
 

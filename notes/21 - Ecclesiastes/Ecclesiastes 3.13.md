@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 23
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, conditional, cause-effect, poetry-register]
+grammar_tags: [conjunctive-opener, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

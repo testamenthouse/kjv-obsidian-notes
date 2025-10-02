@@ -10,7 +10,7 @@ word_count: 45
 topics: []
 cross_references: []
 grammar_tags: [negation, cause-effect]
-thematic_tags: [names-of-god, curse]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
 

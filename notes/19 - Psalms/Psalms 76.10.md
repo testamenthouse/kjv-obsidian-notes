@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 15
 topics: []
 cross_references: []
-grammar_tags: [poetry-register]
-thematic_tags: [names-of-god, praise-worship, wrath]
+grammar_tags: []
+thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
 

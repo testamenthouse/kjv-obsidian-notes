@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 34
 topics: []
 cross_references: []
-grammar_tags: [imperative, negation, cause-effect, poetry-register]
+grammar_tags: [imperative, negation, cause-effect]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

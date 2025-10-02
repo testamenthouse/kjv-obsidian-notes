@@ -10,7 +10,7 @@ word_count: 44
 topics: []
 cross_references: []
 grammar_tags: [exclamation, semicolon-heavy, negation, contrast]
-thematic_tags: [names-of-god, warfare, lament, woe]
+thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
 

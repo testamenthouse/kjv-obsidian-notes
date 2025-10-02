@@ -10,7 +10,7 @@ word_count: 43
 topics: []
 cross_references: []
 grammar_tags: [negation]
-thematic_tags: [names-of-god, wrath]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
 

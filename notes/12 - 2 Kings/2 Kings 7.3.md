@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [one-another]
-tags: ["Bible","KJV","2 Kings"]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 7:3

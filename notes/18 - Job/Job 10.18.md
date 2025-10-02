@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 25
 topics: []
 cross_references: []
-grammar_tags: [exclamation, inference-opener, negation, poetry-register]
+grammar_tags: [exclamation, inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---

@@ -10,7 +10,7 @@ word_count: 32
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [names-of-god, covenant, curse]
+thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
 

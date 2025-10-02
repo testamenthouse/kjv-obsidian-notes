@@ -10,7 +10,7 @@ word_count: 54
 topics: []
 cross_references: []
 grammar_tags: [negation, conditional]
-thematic_tags: [names-of-god, wrath, time-units, time]
+thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
 

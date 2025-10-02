@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 19
 topics: []
 cross_references: []
-grammar_tags: [negation, cause-effect, poetry-register, genealogy-structure]
+grammar_tags: [negation, cause-effect, genealogy-structure]
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Proverbs"]
 ---

@@ -10,7 +10,7 @@ word_count: 34
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, contrast]
-thematic_tags: [warfare, wrath]
+thematic_tags: [warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
 

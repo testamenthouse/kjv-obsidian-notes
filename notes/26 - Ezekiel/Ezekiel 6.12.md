@@ -10,7 +10,7 @@ word_count: 40
 topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy]
-thematic_tags: [warfare, wrath]
+thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
 

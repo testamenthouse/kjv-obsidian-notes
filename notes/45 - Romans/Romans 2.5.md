@@ -10,7 +10,7 @@ word_count: 25
 topics: []
 cross_references: []
 grammar_tags: [contrast-opener, contrast]
-thematic_tags: [names-of-god, wrath, time-units, time]
+thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Romans"]
 ---
 

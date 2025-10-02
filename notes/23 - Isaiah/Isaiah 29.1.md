@@ -10,7 +10,7 @@ word_count: 19
 topics: []
 cross_references: []
 grammar_tags: [conditional]
-thematic_tags: [names-of-god, warfare, lament, woe, time-units, time]
+thematic_tags: [names-of-god, warfare, lament, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
 

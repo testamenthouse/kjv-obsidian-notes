@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation]
 thematic_tags: [time-units, time-parts-of-day, time]
-tags: ["Bible","KJV","1 Thessalonians"]
+tags: ["Bible","KJV","1-Thessalonians"]
 ---
 
 # 1 Thessalonians 5:5

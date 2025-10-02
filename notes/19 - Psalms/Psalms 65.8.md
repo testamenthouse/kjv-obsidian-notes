@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [cause-effect, poetry-register]
+grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---

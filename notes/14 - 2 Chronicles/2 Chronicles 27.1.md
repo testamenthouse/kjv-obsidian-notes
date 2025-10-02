@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [genealogy-structure]
 thematic_tags: [time-units, time]
-tags: ["Bible","KJV","2 Chronicles"]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 27:1

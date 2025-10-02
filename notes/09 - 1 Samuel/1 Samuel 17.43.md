@@ -10,8 +10,8 @@ word_count: 25
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [names-of-god, curse]
-tags: ["Bible","KJV","1 Samuel"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 17:43

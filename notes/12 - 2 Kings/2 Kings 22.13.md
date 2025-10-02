@@ -10,8 +10,8 @@ word_count: 61
 topics: []
 cross_references: []
 grammar_tags: [imperative, negation]
-thematic_tags: [names-of-god, wrath]
-tags: ["Bible","KJV","2 Kings"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 22:13

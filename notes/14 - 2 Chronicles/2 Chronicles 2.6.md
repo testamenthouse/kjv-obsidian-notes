@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, contrast-opener, negation, contrast, conditional]
 thematic_tags: []
-tags: ["Bible","KJV","2 Chronicles"]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 2:6

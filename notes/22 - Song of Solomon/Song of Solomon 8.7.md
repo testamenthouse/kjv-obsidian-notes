@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 29
 topics: []
 cross_references: []
-grammar_tags: [negation, conditional, poetry-register]
+grammar_tags: [negation, conditional]
 thematic_tags: []
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 8:7

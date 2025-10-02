@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, conjunctive-opener, negation, genealogy-structure]
 thematic_tags: [lament]
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 26:14

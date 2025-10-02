@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, praise-worship, benediction, time-eschatology, time]
-tags: ["Bible","KJV","1 Chronicles"]
+tags: ["Bible","KJV","1-Chronicles"]
 ---
 
 # 1 Chronicles 16:36

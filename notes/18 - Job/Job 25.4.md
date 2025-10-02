@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 20
 topics: []
 cross_references: []
-grammar_tags: [question, conditional, poetry-register]
+grammar_tags: [question, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---

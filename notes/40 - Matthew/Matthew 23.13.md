@@ -10,7 +10,7 @@ word_count: 34
 topics: []
 cross_references: []
 grammar_tags: [contrast-opener, negation, contrast]
-thematic_tags: [names-of-god, lament, woe]
+thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Matthew"]
 ---
 

@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 49
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, negation, poetry-register]
-thematic_tags: [names-of-god, wrath]
+grammar_tags: [conjunctive-opener, negation]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
 

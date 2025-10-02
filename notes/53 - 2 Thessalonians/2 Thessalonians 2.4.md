@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, praise-worship]
-tags: ["Bible","KJV","2 Thessalonians"]
+tags: ["Bible","KJV","2-Thessalonians"]
 ---
 
 # 2 Thessalonians 2:4

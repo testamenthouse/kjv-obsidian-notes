@@ -10,7 +10,7 @@ word_count: 9
 topics: []
 cross_references: []
 grammar_tags: [negation]
-thematic_tags: [curse]
+thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
 

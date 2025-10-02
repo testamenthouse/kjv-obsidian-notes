@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 26
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, poetry-register]
+grammar_tags: [semicolon-heavy]
 thematic_tags: [praise-worship]
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 2:12

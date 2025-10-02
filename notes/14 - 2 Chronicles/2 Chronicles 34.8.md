@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
-tags: ["Bible","KJV","2 Chronicles"]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 34:8

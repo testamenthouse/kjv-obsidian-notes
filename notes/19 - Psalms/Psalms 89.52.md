@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 9
 topics: []
 cross_references: []
-grammar_tags: [poetry-register, greeting/closing]
+grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---

@@ -10,7 +10,7 @@ word_count: 46
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation, cause-effect]
-thematic_tags: [jesus, jesus-title, wrath, time-units, time-feasts, time]
+thematic_tags: [jesus, jesus-title, time-units, time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
 

@@ -10,7 +10,7 @@ word_count: 35
 topics: []
 cross_references: []
 grammar_tags: [negation, conditional]
-thematic_tags: [names-of-god, wrath]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
 

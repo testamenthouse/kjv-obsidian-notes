@@ -10,7 +10,7 @@ word_count: 25
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [wrath, time-period, time]
+thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Esther"]
 ---
 

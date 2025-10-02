@@ -10,7 +10,7 @@ word_count: 34
 topics: []
 cross_references: []
 grammar_tags: [inference-opener, negation, contrast, conditional, cause-effect]
-thematic_tags: [lament, wrath]
+thematic_tags: [lament]
 tags: ["Bible","KJV","Ezekiel"]
 ---
 

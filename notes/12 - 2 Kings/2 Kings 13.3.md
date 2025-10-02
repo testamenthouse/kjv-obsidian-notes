@@ -10,8 +10,8 @@ word_count: 35
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, genealogy-structure]
-thematic_tags: [names-of-god, wrath, time-units, time]
-tags: ["Bible","KJV","2 Kings"]
+thematic_tags: [names-of-god, time-units, time]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 13:3

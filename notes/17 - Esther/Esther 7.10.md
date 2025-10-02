@@ -10,7 +10,7 @@ word_count: 19
 topics: []
 cross_references: []
 grammar_tags: [inference-opener, conditional]
-thematic_tags: [wrath]
+thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
 

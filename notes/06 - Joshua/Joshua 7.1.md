@@ -10,7 +10,7 @@ word_count: 49
 topics: []
 cross_references: []
 grammar_tags: [contrast-opener, contrast, genealogy-structure]
-thematic_tags: [names-of-god, curse, wrath]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
 

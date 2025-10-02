@@ -10,7 +10,7 @@ word_count: 49
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [names-of-god, curse, benediction]
+thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Judges"]
 ---
 

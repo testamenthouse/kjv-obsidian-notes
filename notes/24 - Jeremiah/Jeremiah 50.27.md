@@ -10,7 +10,7 @@ word_count: 24
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [lament, woe, time-units, time]
+thematic_tags: [lament, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

@@ -10,7 +10,7 @@ word_count: 18
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation]
-thematic_tags: [wrath]
+thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
 

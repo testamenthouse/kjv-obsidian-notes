@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 10
 topics: []
 cross_references: []
-grammar_tags: [conditional, poetry-register]
+grammar_tags: [conditional]
 thematic_tags: [warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Psalms"]
 ---

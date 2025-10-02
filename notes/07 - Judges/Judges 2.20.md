@@ -10,7 +10,7 @@ word_count: 33
 topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, conjunctive-opener, negation]
-thematic_tags: [names-of-god, covenant, wrath]
+thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Judges"]
 ---
 

@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 12
 topics: []
 cross_references: []
-grammar_tags: [poetry-register]
+grammar_tags: []
 thematic_tags: [time-seasons, time]
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 2:11

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare, time-units, time]
-tags: ["Bible","KJV","2 Peter"]
+tags: ["Bible","KJV","2-Peter"]
 ---
 
 # 2 Peter 2:9

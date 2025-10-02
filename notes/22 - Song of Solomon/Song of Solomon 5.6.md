@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 38
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, negation, contrast, poetry-register]
+grammar_tags: [semicolon-heavy, negation, contrast]
 thematic_tags: [names-of-god]
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 5:6

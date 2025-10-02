@@ -10,7 +10,7 @@ word_count: 26
 topics: []
 cross_references: []
 grammar_tags: [greeting/closing, genealogy-structure]
-thematic_tags: [curse]
+thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
 

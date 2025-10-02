@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, contrast-opener, negation, contrast]
 thematic_tags: []
-tags: ["Bible","KJV","2 Peter"]
+tags: ["Bible","KJV","2-Peter"]
 ---
 
 # 2 Peter 2:12

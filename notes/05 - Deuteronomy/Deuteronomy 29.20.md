@@ -10,7 +10,7 @@ word_count: 46
 topics: []
 cross_references: []
 grammar_tags: [negation, contrast]
-thematic_tags: [names-of-god, curse, wrath]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
 

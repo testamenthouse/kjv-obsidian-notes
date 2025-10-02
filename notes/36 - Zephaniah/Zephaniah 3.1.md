@@ -10,7 +10,7 @@ word_count: 12
 topics: []
 cross_references: []
 grammar_tags: [exclamation]
-thematic_tags: [praise-worship, lament, woe]
+thematic_tags: [praise-worship, lament]
 tags: ["Bible","KJV","Zephaniah"]
 ---
 

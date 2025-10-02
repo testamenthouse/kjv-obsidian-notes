@@ -10,7 +10,7 @@ word_count: 22
 topics: []
 cross_references: []
 grammar_tags: [negation, genealogy-structure]
-thematic_tags: [son-of-man, jesus, wrath, time-units, time]
+thematic_tags: [son-of-man, jesus, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
 

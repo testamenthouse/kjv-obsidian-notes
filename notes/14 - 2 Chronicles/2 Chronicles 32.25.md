@@ -10,8 +10,8 @@ word_count: 29
 topics: []
 cross_references: []
 grammar_tags: [contrast-opener, negation, contrast, conditional, cause-effect]
-thematic_tags: [wrath]
-tags: ["Bible","KJV","2 Chronicles"]
+thematic_tags: []
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 32:25

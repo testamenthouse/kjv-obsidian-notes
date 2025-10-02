@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, contrast, poetry-register]
+grammar_tags: [inference-opener, contrast]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

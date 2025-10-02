@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 27
 topics: []
 cross_references: []
-grammar_tags: [conditional, cause-effect, poetry-register]
+grammar_tags: [conditional, cause-effect]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---

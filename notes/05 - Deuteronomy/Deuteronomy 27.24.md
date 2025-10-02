@@ -10,7 +10,7 @@ word_count: 15
 topics: []
 cross_references: []
 grammar_tags: [greeting/closing]
-thematic_tags: [warfare, curse]
+thematic_tags: [warfare]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
 

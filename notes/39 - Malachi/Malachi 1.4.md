@@ -10,7 +10,7 @@ word_count: 49
 topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, contrast]
-thematic_tags: [names-of-god, warfare, wrath]
+thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Malachi"]
 ---
 

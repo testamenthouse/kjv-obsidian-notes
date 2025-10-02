@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, poetry-register]
+grammar_tags: [semicolon-heavy]
 thematic_tags: []
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 1:15

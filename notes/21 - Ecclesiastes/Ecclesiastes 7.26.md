@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 35
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, contrast, poetry-register]
+grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

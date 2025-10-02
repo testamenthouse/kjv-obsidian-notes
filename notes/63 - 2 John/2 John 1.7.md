@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation]
 thematic_tags: [jesus, jesus-title, adversary-title, adversary-epithet, adversary]
-tags: ["Bible","KJV","2 John"]
+tags: ["Bible","KJV","2-John"]
 ---
 
 # 2 John 1:7

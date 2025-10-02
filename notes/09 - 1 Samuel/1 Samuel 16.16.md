@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [imperative, negation]
 thematic_tags: [names-of-god, demonic-entities, adversary]
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 16:16

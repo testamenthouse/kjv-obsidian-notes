@@ -10,8 +10,8 @@ word_count: 19
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [names-of-god, adversary-title, adversary, curse]
-tags: ["Bible","KJV","2 Samuel"]
+thematic_tags: [names-of-god, adversary-title, adversary]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 16:7

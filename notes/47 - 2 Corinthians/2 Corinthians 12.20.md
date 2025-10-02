@@ -10,8 +10,8 @@ word_count: 40
 topics: []
 cross_references: []
 grammar_tags: [negation, conditional]
-thematic_tags: [names-of-god, wrath]
-tags: ["Bible","KJV","2 Corinthians"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","2-Corinthians"]
 ---
 
 # 2 Corinthians 12:20

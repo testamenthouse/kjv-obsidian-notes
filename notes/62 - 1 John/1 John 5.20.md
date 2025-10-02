@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation, conditional, genealogy-structure]
 thematic_tags: [names-of-god, jesus, jesus-title, son-of-god]
-tags: ["Bible","KJV","1 John"]
+tags: ["Bible","KJV","1-John"]
 ---
 
 # 1 John 5:20

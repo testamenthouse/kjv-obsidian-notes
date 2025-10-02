@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [contrast-opener, contrast, poetry-register]
+grammar_tags: [contrast-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---

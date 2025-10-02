@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conditional, greeting/closing]
 thematic_tags: [names-of-god, jesus, jesus-title, praise-worship, time-eschatology, time]
-tags: ["Bible","KJV","1 Peter"]
+tags: ["Bible","KJV","1-Peter"]
 ---
 
 # 1 Peter 4:11

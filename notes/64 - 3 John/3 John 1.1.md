@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: []
 thematic_tags: [names-of-god]
-tags: ["Bible","KJV","3 John"]
+tags: ["Bible","KJV","3-John"]
 ---
 
 # 3 John 1:1

@@ -10,7 +10,7 @@ word_count: 26
 topics: []
 cross_references: []
 grammar_tags: [conditional]
-thematic_tags: [wrath]
+thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
 

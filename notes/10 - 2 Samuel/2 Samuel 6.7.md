@@ -10,8 +10,8 @@ word_count: 27
 topics: []
 cross_references: []
 grammar_tags: [semicolon-heavy, conjunctive-opener]
-thematic_tags: [names-of-god, warfare, wrath]
-tags: ["Bible","KJV","2 Samuel"]
+thematic_tags: [names-of-god, warfare]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 6:7

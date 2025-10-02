@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [contrast-opener, negation, contrast, greeting/closing]
 thematic_tags: [names-of-god, jesus, jesus-title]
-tags: ["Bible","KJV","2 Peter"]
+tags: ["Bible","KJV","2-Peter"]
 ---
 
 # 2 Peter 3:18

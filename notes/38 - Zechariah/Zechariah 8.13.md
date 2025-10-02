@@ -10,7 +10,7 @@ word_count: 42
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation, contrast]
-thematic_tags: [names-of-god, praise-worship, curse]
+thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Zechariah"]
 ---
 

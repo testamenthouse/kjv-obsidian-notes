@@ -10,8 +10,8 @@ word_count: 34
 topics: []
 cross_references: []
 grammar_tags: [negation, contrast, genealogy-structure]
-thematic_tags: [names-of-god, wrath]
-tags: ["Bible","KJV","1 Chronicles"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","1-Chronicles"]
 ---
 
 # 1 Chronicles 27:24

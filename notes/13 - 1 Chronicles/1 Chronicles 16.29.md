@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [imperative]
 thematic_tags: [names-of-god, praise-worship]
-tags: ["Bible","KJV","1 Chronicles"]
+tags: ["Bible","KJV","1-Chronicles"]
 ---
 
 # 1 Chronicles 16:29

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god, adversary-title, adversary]
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 1:16

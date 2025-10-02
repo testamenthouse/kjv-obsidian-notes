@@ -10,7 +10,7 @@ word_count: 39
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, contrast, conditional]
-thematic_tags: [names-of-god, curse]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
 

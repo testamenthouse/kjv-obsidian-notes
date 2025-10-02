@@ -10,7 +10,7 @@ word_count: 27
 topics: []
 cross_references: []
 grammar_tags: [negation]
-thematic_tags: [names-of-god, lament, woe, time-eschatology, time-units, time]
+thematic_tags: [names-of-god, lament, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Amos"]
 ---
 

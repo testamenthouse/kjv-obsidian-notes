@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 26
 topics: []
 cross_references: []
-grammar_tags: [semicolon-heavy, imperative, negation, contrast, poetry-register]
+grammar_tags: [semicolon-heavy, imperative, negation, contrast]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---

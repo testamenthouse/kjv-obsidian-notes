@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 13
 topics: []
 cross_references: []
-grammar_tags: [contrast, poetry-register]
-thematic_tags: [curse]
+grammar_tags: [contrast]
+thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
 

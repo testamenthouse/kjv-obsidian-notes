@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 16
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, conditional, poetry-register]
-thematic_tags: [names-of-god, curse]
+grammar_tags: [inference-opener, conditional]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
 

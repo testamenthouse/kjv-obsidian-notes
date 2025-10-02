@@ -10,7 +10,7 @@ word_count: 16
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [curse]
+thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
 

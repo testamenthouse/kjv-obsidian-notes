@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [contrast]
 thematic_tags: [names-of-god, praise-worship]
-tags: ["Bible","KJV","2 Chronicles"]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 23:18

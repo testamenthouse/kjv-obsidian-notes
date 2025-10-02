@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [poetry-register]
-thematic_tags: [warfare, wrath]
+grammar_tags: []
+thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
 

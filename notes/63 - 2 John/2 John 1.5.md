@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: [one-another]
-tags: ["Bible","KJV","2 John"]
+tags: ["Bible","KJV","2-John"]
 ---
 
 # 2 John 1:5

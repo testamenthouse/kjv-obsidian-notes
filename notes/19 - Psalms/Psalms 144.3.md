@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 21
 topics: []
 cross_references: []
-grammar_tags: [exclamation, negation, poetry-register, genealogy-structure]
+grammar_tags: [exclamation, negation, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Psalms"]
 ---

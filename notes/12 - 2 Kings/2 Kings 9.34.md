@@ -10,8 +10,8 @@ word_count: 28
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation]
-thematic_tags: [curse]
-tags: ["Bible","KJV","2 Kings"]
+thematic_tags: []
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 9:34

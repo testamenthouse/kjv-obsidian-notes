@@ -10,8 +10,8 @@ word_count: 29
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation]
-thematic_tags: [names-of-god, lament, woe]
-tags: ["Bible","KJV","1 Samuel"]
+thematic_tags: [names-of-god, lament]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 4:7

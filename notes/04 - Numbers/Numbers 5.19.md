@@ -10,7 +10,7 @@ word_count: 47
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation, conditional]
-thematic_tags: [curse]
+thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
 

@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, benediction]
-tags: ["Bible","KJV","2 Chronicles"]
+tags: ["Bible","KJV","2-Chronicles"]
 ---
 
 # 2 Chronicles 9:8

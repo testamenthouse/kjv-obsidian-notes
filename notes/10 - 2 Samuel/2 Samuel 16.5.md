@@ -10,8 +10,8 @@ word_count: 38
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, genealogy-structure]
-thematic_tags: [curse]
-tags: ["Bible","KJV","2 Samuel"]
+thematic_tags: []
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 16:5

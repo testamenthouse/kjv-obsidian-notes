@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 22
 topics: []
 cross_references: []
-grammar_tags: [question, negation, contrast, conditional, poetry-register]
+grammar_tags: [question, negation, contrast, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---

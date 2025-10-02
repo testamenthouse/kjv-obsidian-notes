@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 24
 topics: []
 cross_references: []
-grammar_tags: [question, poetry-register]
+grammar_tags: [question]
 thematic_tags: [warfare, time-parts-of-day, time]
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 6:10

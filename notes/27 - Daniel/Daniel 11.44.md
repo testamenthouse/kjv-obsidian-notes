@@ -10,7 +10,7 @@ word_count: 30
 topics: []
 cross_references: []
 grammar_tags: [contrast-opener, negation, contrast, cause-effect]
-thematic_tags: [wrath]
+thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
 

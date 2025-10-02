@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
-tags: ["Bible","KJV","2 Kings"]
+tags: ["Bible","KJV","2-Kings"]
 ---
 
 # 2 Kings 24:18

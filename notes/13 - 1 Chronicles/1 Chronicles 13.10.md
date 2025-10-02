@@ -10,8 +10,8 @@ word_count: 28
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [names-of-god, warfare, wrath]
-tags: ["Bible","KJV","1 Chronicles"]
+thematic_tags: [names-of-god, warfare]
+tags: ["Bible","KJV","1-Chronicles"]
 ---
 
 # 1 Chronicles 13:10

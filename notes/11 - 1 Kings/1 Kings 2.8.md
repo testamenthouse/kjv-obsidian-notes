@@ -10,8 +10,8 @@ word_count: 58
 topics: []
 cross_references: []
 grammar_tags: [negation, contrast, genealogy-structure]
-thematic_tags: [names-of-god, warfare, curse, time-units, time]
-tags: ["Bible","KJV","1 Kings"]
+thematic_tags: [names-of-god, warfare, time-units, time]
+tags: ["Bible","KJV","1-Kings"]
 ---
 
 # 1 Kings 2:8

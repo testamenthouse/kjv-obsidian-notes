@@ -9,9 +9,9 @@ genre: "Poetry/Wisdom"
 word_count: 17
 topics: []
 cross_references: []
-grammar_tags: [conditional, poetry-register]
+grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare]
-tags: ["Bible","KJV","Song of Solomon"]
+tags: ["Bible","KJV","Song-of-Solomon"]
 ---
 
 # Song of Solomon 6:4

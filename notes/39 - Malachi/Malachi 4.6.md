@@ -10,7 +10,7 @@ word_count: 31
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, conditional]
-thematic_tags: [warfare, curse]
+thematic_tags: [warfare]
 tags: ["Bible","KJV","Malachi"]
 ---
 

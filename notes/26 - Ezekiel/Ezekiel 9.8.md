@@ -10,7 +10,7 @@ word_count: 44
 topics: []
 cross_references: []
 grammar_tags: [question, conjunctive-opener]
-thematic_tags: [names-of-god, lament, wrath]
+thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Ezekiel"]
 ---
 

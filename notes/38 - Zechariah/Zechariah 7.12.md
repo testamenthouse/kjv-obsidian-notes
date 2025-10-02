@@ -10,7 +10,7 @@ word_count: 42
 topics: []
 cross_references: []
 grammar_tags: [conditional, cause-effect]
-thematic_tags: [names-of-god, warfare, wrath]
+thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Zechariah"]
 ---
 

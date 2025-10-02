@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [imperative]
 thematic_tags: [warfare, adversary-title, adversary-metaphor, adversary]
-tags: ["Bible","KJV","1 Peter"]
+tags: ["Bible","KJV","1-Peter"]
 ---
 
 # 1 Peter 5:8

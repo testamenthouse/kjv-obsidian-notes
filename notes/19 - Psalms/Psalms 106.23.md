@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 29
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, negation, conditional, cause-effect, poetry-register]
-thematic_tags: [wrath]
+grammar_tags: [inference-opener, negation, conditional, cause-effect]
+thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
 

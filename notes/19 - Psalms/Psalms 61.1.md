@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 9
 topics: []
 cross_references: []
-grammar_tags: [imperative, poetry-register]
+grammar_tags: [imperative]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---

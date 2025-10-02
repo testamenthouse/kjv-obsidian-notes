@@ -9,8 +9,8 @@ genre: "Poetry/Wisdom"
 word_count: 21
 topics: []
 cross_references: []
-grammar_tags: [contrast, poetry-register]
-thematic_tags: [names-of-god, praise-worship, curse]
+grammar_tags: [contrast]
+thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
 

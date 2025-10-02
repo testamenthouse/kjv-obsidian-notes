@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [conditional, genealogy-structure]
 thematic_tags: [names-of-god, warfare, son-of-god, jesus, adversary-title, demonic-phrases, adversary]
-tags: ["Bible","KJV","1 John"]
+tags: ["Bible","KJV","1-John"]
 ---
 
 # 1 John 3:8

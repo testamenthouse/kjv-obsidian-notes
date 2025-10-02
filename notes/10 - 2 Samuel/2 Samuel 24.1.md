@@ -10,8 +10,8 @@ word_count: 24
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [names-of-god, wrath]
-tags: ["Bible","KJV","2 Samuel"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 24:1

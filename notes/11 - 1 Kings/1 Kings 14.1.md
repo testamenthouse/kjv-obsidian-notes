@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-period, time]
-tags: ["Bible","KJV","1 Kings"]
+tags: ["Bible","KJV","1-Kings"]
 ---
 
 # 1 Kings 14:1

@@ -10,8 +10,8 @@ word_count: 44
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, negation, conditional]
-thematic_tags: [names-of-god, curse]
-tags: ["Bible","KJV","2 Samuel"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 16:11

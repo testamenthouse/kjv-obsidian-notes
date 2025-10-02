@@ -10,8 +10,8 @@ word_count: 36
 topics: []
 cross_references: []
 grammar_tags: [question, conjunctive-opener, negation, conditional]
-thematic_tags: [warfare, wrath]
-tags: ["Bible","KJV","2 Samuel"]
+thematic_tags: [warfare]
+tags: ["Bible","KJV","2-Samuel"]
 ---
 
 # 2 Samuel 11:20

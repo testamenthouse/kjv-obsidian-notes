@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [inference-opener, cause-effect, poetry-register]
+grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, thanksgiving, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---

@@ -10,7 +10,7 @@ word_count: 42
 topics: []
 cross_references: []
 grammar_tags: [negation]
-thematic_tags: [names-of-god, wrath, time-units, time]
+thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
 

@@ -10,7 +10,7 @@ word_count: 21
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener]
-thematic_tags: [lament, wrath]
+thematic_tags: [lament]
 tags: ["Bible","KJV","Acts"]
 ---
 

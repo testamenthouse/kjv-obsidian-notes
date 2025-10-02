@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [question, semicolon-heavy, inference-opener, negation, conditional, cause-effect]
 thematic_tags: [names-of-god, covenant]
-tags: ["Bible","KJV","1 Samuel"]
+tags: ["Bible","KJV","1-Samuel"]
 ---
 
 # 1 Samuel 20:8

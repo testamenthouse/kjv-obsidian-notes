@@ -10,7 +10,7 @@ word_count: 19
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [names-of-god, jesus-title, jesus, curse]
+thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
 

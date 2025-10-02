@@ -10,7 +10,7 @@ word_count: 46
 topics: []
 cross_references: []
 grammar_tags: [inference-opener]
-thematic_tags: [names-of-god, praise-worship, curse]
+thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Numbers"]
 ---
 

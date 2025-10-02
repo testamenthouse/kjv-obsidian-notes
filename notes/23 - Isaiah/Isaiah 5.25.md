@@ -10,7 +10,7 @@ word_count: 56
 topics: []
 cross_references: []
 grammar_tags: [inference-opener, negation, contrast, cause-effect]
-thematic_tags: [names-of-god, warfare, wrath]
+thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
 

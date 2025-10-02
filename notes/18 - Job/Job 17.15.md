@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 14
 topics: []
 cross_references: []
-grammar_tags: [question, conjunctive-opener, negation, poetry-register]
+grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---

@@ -10,7 +10,7 @@ word_count: 20
 topics: []
 cross_references: []
 grammar_tags: [imperative]
-thematic_tags: [wrath]
+thematic_tags: []
 tags: ["Bible","KJV","Ephesians"]
 ---
 

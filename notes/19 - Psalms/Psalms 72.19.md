@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 21
 topics: []
 cross_references: []
-grammar_tags: [conjunctive-opener, poetry-register, greeting/closing]
+grammar_tags: [conjunctive-opener, greeting/closing]
 thematic_tags: [benediction]
 tags: ["Bible","KJV","Psalms"]
 ---

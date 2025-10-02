@@ -10,7 +10,7 @@ word_count: 43
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, conditional]
-thematic_tags: [names-of-god, adversary-metaphor, adversary, curse, time-units, time]
+thematic_tags: [names-of-god, adversary-metaphor, adversary, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
 

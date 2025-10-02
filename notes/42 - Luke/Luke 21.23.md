@@ -10,7 +10,7 @@ word_count: 31
 topics: []
 cross_references: []
 grammar_tags: [contrast-opener, contrast]
-thematic_tags: [lament, woe, wrath, time-eschatology, time-units, time]
+thematic_tags: [lament, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
 

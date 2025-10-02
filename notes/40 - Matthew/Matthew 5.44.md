@@ -10,7 +10,7 @@ word_count: 31
 topics: []
 cross_references: []
 grammar_tags: [contrast-opener, contrast]
-thematic_tags: [curse]
+thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
 

@@ -10,7 +10,7 @@ word_count: 27
 topics: []
 cross_references: []
 grammar_tags: [conjunctive-opener, genealogy-structure]
-thematic_tags: [names-of-god, curse]
+thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
 

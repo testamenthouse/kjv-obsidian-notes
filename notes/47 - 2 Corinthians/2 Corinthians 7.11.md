@@ -10,8 +10,8 @@ word_count: 52
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [names-of-god, wrath]
-tags: ["Bible","KJV","2 Corinthians"]
+thematic_tags: [names-of-god]
+tags: ["Bible","KJV","2-Corinthians"]
 ---
 
 # 2 Corinthians 7:11

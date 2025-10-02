@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 18
 topics: []
 cross_references: []
-grammar_tags: [exclamation, conjunctive-opener, negation, poetry-register]
+grammar_tags: [exclamation, conjunctive-opener, negation]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Proverbs"]
 ---

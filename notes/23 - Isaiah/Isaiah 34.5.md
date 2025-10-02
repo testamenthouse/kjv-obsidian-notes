@@ -10,7 +10,7 @@ word_count: 24
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [warfare, curse]
+thematic_tags: [warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
 

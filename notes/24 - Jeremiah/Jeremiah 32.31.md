@@ -10,7 +10,7 @@ word_count: 37
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [wrath, time-units, time]
+thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
 

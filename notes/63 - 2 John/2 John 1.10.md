@@ -11,7 +11,7 @@ topics: []
 cross_references: []
 grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
-tags: ["Bible","KJV","2 John"]
+tags: ["Bible","KJV","2-John"]
 ---
 
 # 2 John 1:10

@@ -10,7 +10,7 @@ word_count: 16
 topics: []
 cross_references: []
 grammar_tags: [contrast-opener, contrast]
-thematic_tags: [wrath]
+thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
 

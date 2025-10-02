@@ -9,7 +9,7 @@ genre: "Poetry/Wisdom"
 word_count: 9
 topics: []
 cross_references: []
-grammar_tags: [exclamation, poetry-register]
+grammar_tags: [exclamation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---

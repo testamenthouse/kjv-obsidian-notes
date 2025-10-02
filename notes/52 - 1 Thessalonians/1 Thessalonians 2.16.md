@@ -10,8 +10,8 @@ word_count: 28
 topics: []
 cross_references: []
 grammar_tags: []
-thematic_tags: [wrath]
-tags: ["Bible","KJV","1 Thessalonians"]
+thematic_tags: []
+tags: ["Bible","KJV","1-Thessalonians"]
 ---
 
 # 1 Thessalonians 2:16

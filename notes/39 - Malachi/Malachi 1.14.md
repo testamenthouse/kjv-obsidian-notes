@@ -10,7 +10,7 @@ word_count: 41
 topics: []
 cross_references: []
 grammar_tags: [contrast-opener, contrast, conditional]
-thematic_tags: [names-of-god, warfare, adversary-epithet, adversary, curse]
+thematic_tags: [names-of-god, warfare, adversary-epithet, adversary]
 tags: ["Bible","KJV","Malachi"]
 ---
 
