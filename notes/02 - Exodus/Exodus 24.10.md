@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 24:10
-
 And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness.

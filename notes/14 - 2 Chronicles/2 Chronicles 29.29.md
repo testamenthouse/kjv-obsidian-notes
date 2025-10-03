@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:29
-
 And when they had made an end of offering, the king and all that were present with him bowed themselves, and worshipped.

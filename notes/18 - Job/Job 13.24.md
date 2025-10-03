@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:24
-
 Wherefore hidest thou thy face, and holdest me for thine enemy?

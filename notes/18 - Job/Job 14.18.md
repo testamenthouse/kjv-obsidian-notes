@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:18
-
 And surely the mountains falling cometh to nought, and the rock is removed out of his place.

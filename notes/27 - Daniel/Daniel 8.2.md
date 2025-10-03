@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 8:2
-
 And I saw in a vision; and it came to pass, when I saw, that I was at Shushan in the palace, which is in the province of Elam; and I saw in a vision, and I was by the river of Ulai.

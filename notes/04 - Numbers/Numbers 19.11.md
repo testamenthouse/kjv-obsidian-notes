@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 19:11
-
 He that toucheth the dead body of any man shall be unclean seven days.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 27:11
-
 Teach me thy way, O LORD, and lead me in a plain path, because of mine enemies.

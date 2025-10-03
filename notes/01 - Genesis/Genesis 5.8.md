@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 5:8
-
 And all the days of Seth were nine hundred and twelve years: and he died.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:52
-
 For from henceforth there shall be five in one house divided, three against two, and two against three.

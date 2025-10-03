@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:54
-
 Thy statutes have been my songs in the house of my pilgrimage.

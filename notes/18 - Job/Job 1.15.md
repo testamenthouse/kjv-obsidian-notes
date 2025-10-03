@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 1:15
-
 And the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee.

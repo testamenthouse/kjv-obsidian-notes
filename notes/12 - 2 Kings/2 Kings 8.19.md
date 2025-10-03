@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 8:19
-
 Yet the LORD would not destroy Judah for David his servant's sake, as he promised him to give him alway a light, and to his children.

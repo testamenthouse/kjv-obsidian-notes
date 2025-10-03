@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 6:38
-
 The son of Izhar, the son of Kohath, the son of Levi, the son of Israel.

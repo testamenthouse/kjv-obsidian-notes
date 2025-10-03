@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:40
-
 And when he had thus spoken, he shewed them his hands and his feet.

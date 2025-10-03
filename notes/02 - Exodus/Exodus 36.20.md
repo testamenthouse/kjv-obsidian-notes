@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 36:20
-
 And he made boards for the tabernacle of shittim wood, standing up.

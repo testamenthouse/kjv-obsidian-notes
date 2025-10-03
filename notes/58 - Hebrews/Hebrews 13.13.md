@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 13:13
-
 Let us go forth therefore unto him without the camp, bearing his reproach.

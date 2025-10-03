@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 52:2
-
 And he did that which was evil in the eyes of the LORD, according to all that Jehoiakim had done.

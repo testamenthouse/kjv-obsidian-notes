@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 18:28
-
 For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ.

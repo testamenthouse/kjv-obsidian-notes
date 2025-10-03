@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 18:17
-
 Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 25:35
-
 For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:

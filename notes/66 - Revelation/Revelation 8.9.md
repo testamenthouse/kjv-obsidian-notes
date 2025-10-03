@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 8:9
-
 And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed.

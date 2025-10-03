@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 3:2
-
 Set your affection on things above, not on things on the earth.

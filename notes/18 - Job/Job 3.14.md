@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:14
-
 With kings and counsellors of the earth, which build desolate places for themselves;

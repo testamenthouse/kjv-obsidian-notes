@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 4:9
-
 And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honor; for the LORD shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 23:1
-
 Then spake Jesus to the multitude, and to his disciples,

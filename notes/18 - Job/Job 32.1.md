@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:1
-
 So these three men ceased to answer Job, because he was righteous in his own eyes.

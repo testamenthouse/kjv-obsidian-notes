@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 9:15
-
 For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 26:26
-
 And thou shalt make bars of shittim wood; five for the boards of the one side of the tabernacle,

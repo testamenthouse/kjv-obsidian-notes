@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 81:2
-
 Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.

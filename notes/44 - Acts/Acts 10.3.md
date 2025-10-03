@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:3
-
 He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.

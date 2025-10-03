@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:18
-
 O earth, cover not thou my blood, and let my cry have no place.

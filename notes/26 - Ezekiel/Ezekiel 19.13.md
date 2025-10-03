@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 19:13
-
 And now she is planted in the wilderness, in a dry and thirsty ground.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:29
-
 And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; within a full year may he redeem it.

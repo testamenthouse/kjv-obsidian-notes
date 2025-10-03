@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 8:22
-
 Yet Edom revolted from under the hand of Judah unto this day. Then Libnah revolted at the same time.

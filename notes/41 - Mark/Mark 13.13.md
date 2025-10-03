@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:13
-
 And ye shall be hated of all men for my name's sake: but he that shall endure unto the end, the same shall be saved.

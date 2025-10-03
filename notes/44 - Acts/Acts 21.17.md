@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:17
-
 And when we were come to Jerusalem, the brethren received us gladly.

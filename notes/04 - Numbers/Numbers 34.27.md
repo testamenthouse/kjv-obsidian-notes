@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 34:27
-
 And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi.

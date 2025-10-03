@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:1
-
 Then Eliphaz the Temanite answered and said,

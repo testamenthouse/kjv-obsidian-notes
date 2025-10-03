@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 3:23
-
 Then Ehud went forth through the porch, and shut the doors of the parlor upon him, and locked them.

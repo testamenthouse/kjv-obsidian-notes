@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 49:17
-
 Thy children shall make haste; thy destroyers and they that made thee waste shall go forth of thee.

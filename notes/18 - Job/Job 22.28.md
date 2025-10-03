@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:28
-
 Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways.

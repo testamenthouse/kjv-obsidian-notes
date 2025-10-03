@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:9
-
 Even that it would please God to destroy me; that he would let loose his hand, and cut me off!

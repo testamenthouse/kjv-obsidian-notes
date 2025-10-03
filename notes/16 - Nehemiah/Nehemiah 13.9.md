@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 13:9
-
 Then I commanded, and they cleansed the chambers: and thither brought I again the vessels of the house of God, with the meat offering and the frankincense.

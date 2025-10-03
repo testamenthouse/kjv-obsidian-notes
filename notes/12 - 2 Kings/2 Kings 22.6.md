@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 22:6
-
 Unto carpenters, and builders, and masons, and to buy timber and hewn stone to repair the house.

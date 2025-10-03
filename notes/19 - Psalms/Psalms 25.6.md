@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 25:6
-
 Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they have been ever of old.

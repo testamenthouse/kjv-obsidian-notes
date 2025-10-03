@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:31
-
 And if any man ask you, Why do ye loose him? thus shall ye say unto him, Because the Lord hath need of him.

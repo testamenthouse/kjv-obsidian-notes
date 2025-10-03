@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:18
-
 And be not drunk with wine, wherein is excess; but be filled with the Spirit;

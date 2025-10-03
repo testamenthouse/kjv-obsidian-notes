@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 31:2
-
 And the Philistines followed hard upon Saul and upon his sons; and the Philistines slew Jonathan, and Abinadab, and Melchishua, Saul's sons.

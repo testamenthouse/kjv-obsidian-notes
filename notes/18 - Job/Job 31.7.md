@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:7
-
 If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;

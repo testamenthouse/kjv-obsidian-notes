@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 20:13
-
 When he was removed out of the highway, all the people went on after Joab, to pursue after Sheba the son of Bichri.

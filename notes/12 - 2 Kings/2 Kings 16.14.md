@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 16:14
-
 And he brought also the brazen altar, which was before the LORD, from the forefront of the house, from between the altar and the house of the LORD, and put it on the north side of the altar.

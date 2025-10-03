@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 9:8
-
 And he bowed himself, and said, What is thy servant, that thou shouldest look upon such a dead dog as I am?

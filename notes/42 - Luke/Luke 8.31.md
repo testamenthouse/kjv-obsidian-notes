@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:31
-
 And they besought him that he would not command them to go out into the deep.

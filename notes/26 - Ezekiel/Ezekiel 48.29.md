@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 48:29
-
 This is the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these are their portions, saith the Lord GOD.

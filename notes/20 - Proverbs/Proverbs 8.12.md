@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 8:12
-
 I wisdom dwell with prudence, and find out knowledge of witty inventions.

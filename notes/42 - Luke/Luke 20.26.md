@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:26
-
 And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace.

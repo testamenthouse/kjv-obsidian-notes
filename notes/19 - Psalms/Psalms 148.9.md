@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 148:9
-
 Mountains, and all hills; fruitful trees, and all cedars:

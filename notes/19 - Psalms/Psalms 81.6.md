@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 81:6
-
 I removed his shoulder from the burden: his hands were delivered from the pots.

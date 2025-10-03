@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:11
-
 As the waters fail from the sea, and the flood decayeth and drieth up:

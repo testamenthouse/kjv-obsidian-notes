@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 36:7
-
 It may be they will present their supplication before the LORD, and will return every one from his evil way: for great is the anger and the fury that the LORD hath pronounced against this people.

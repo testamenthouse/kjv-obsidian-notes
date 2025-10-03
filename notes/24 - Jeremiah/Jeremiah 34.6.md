@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 34:6
-
 Then Jeremiah the prophet spake all these words unto Zedekiah king of Judah in Jerusalem,

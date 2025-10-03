@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, demonic-phrases, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:18
-
 If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 22:16
-
 And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord.

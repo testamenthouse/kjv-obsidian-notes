@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 3:35
-
 The wise shall inherit glory: but shame shall be the promotion of fools.

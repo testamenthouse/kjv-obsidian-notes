@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 10:12
-
 Arise, O LORD; O God, lift up thine hand: forget not the humble.

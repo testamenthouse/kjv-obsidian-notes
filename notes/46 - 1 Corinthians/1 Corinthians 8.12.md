@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 8:12
-
 But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ.

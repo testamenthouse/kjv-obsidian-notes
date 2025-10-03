@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 12:28
-
 And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 24:5
-
 The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.

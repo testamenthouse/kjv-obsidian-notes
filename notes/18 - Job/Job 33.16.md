@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:16
-
 Then he openeth the ears of men, and sealeth their instruction,

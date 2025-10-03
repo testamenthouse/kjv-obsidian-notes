@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 6:19
-
 The sons of Merari; Mahli, and Mushi. And these are the families of the Levites according to their fathers.

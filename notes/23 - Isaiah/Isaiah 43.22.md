@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 43:22
-
 But thou hast not called upon me, O Jacob; but thou hast been weary of me, O Israel.

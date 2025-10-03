@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 13:8
-
 And thou shalt show thy son in that day, saying, This is done because of that which the LORD did unto me when I came forth out of Egypt.

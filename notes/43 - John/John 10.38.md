@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:38
-
 But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 8:15
-
 And it came to pass on the morrow, that he took a thick cloth, and dipped it in water, and spread it on his face, so that he died: and Hazael reigned in his stead.

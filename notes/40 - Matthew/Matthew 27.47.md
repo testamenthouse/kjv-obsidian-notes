@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:47
-
 Some of them that stood there, when they heard that, said, This man calleth for Elias.

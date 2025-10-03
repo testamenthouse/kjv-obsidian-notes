@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:1
-
 Moreover the LORD answered Job, and said,

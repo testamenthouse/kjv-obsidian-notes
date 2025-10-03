@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:40
-
 So Ahab slept with his fathers; and Ahaziah his son reigned in his stead.

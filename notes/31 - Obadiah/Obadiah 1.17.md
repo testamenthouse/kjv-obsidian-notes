@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Obadiah"]
 ---
-
-# Obadiah 1:17
-
 But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.

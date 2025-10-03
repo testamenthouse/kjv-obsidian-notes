@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:9
-
 A little leaven leaveneth the whole lump.

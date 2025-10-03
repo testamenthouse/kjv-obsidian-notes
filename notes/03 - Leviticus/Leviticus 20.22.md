@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 20:22
-
 Ye shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 5:3
-
 If so be that being clothed we shall not be found naked.

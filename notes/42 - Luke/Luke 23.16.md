@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:16
-
 I will therefore chastise him, and release him.

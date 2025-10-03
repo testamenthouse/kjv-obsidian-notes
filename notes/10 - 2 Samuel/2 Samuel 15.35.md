@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 15:35
-
 And hast thou not there with thee Zadok and Abiathar the priests? therefore it shall be, that what thing soever thou shalt hear out of the king's house, thou shalt tell it to Zadok and Abiathar the priests.

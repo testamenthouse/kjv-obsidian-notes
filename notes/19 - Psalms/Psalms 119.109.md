@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:109
-
 My soul is continually in my hand: yet do I not forget thy law.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 6:2
-
 My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.

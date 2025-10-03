@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 22:14
-
 And it was revealed in mine ears by the LORD of hosts, Surely this iniquity shall not be purged from you till ye die, saith the Lord GOD of hosts.

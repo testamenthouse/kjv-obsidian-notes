@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 7:10
-
 For he was yet in the loins of his father, when Melchisedec met him.

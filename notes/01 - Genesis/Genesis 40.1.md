@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 40:1
-
 And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.

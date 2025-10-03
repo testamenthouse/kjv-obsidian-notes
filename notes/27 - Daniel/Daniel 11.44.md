@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 11:44
-
 But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many.

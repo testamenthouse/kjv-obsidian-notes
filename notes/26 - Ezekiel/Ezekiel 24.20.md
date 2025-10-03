@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 24:20
-
 Then I answered them, The word of the LORD came unto me, saying,

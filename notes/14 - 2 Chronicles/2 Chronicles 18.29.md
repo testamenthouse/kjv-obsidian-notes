@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 18:29
-
 And the king of Israel said unto Jehoshaphat, I will disguise myself, and I will go to the battle; but put thou on thy robes. So the king of Israel disguised himself; and they went to the battle.

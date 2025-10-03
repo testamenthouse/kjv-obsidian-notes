@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 1:5
-
 Now therefore thus saith the LORD of hosts; Consider your ways.

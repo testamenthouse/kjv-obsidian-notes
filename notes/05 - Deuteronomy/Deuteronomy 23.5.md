@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 23:5
-
 Nevertheless the LORD thy God would not hearken unto Balaam; but the LORD thy God turned the curse into a blessing unto thee, because the LORD thy God loved thee.

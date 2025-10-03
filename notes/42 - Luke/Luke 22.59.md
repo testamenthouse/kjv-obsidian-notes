@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:59
-
 And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilaean.

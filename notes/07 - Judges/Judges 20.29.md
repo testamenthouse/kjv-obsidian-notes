@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 20:29
-
 And Israel set liers in wait round about Gibeah.

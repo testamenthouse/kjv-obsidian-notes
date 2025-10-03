@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 3:23
-
 Then shalt thou walk in thy way safely, and thy foot shall not stumble.

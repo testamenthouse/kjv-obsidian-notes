@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 29:7
-
 And ye shall have on the tenth day of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work therein:

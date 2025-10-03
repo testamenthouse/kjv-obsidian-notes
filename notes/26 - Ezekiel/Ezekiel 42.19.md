@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 42:19
-
 He turned about to the west side, and measured five hundred reeds with the measuring reed.

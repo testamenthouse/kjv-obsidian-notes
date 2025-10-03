@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 19:14
-
 This is the law, when a man dieth in a tent: all that come into the tent, and all that is in the tent, shall be unclean seven days.

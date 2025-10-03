@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:7
-
 Will ye speak wickedly for God? and talk deceitfully for him?

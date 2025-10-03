@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 8:1
-
 Doth not wisdom cry? and understanding put forth her voice?

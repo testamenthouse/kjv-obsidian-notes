@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:63
-
 Behold their sitting down, and their rising up; I am their musick.

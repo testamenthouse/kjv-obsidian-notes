@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 2:3
-
 Therefore thus saith the LORD; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time is evil.

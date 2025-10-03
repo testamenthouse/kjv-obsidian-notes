@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:24
-
 And Pilate gave sentence that it should be as they required.

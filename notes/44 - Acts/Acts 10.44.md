@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:44
-
 While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.

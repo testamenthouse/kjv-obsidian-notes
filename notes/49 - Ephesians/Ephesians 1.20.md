@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 1:20
-
 Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,

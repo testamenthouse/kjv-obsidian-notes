@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 4:4
-
 Come to Bethel, and transgress; at Gilgal multiply transgression; and bring your sacrifices every morning, and your tithes after three years:

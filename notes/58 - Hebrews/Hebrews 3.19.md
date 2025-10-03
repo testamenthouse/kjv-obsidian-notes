@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 3:19
-
 So we see that they could not enter in because of unbelief.

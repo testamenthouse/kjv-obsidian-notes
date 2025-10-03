@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:16
-
 My face is foul with weeping, and on my eyelids is the shadow of death;

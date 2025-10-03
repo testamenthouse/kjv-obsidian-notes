@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 33:49
-
 And they pitched by Jordan, from Bethjesimoth even unto Abelshittim in the plains of Moab.

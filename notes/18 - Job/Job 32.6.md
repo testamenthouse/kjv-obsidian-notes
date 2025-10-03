@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:6
-
 And Elihu the son of Barachel the Buzite answered and said, I am young, and ye are very old; wherefore I was afraid, and durst not shew you mine opinion.

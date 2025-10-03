@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 50:4
-
 He shall call to the heavens from above, and to the earth, that he may judge his people.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:31
-
 Mark well, O Job, hearken unto me: hold thy peace, and I will speak.

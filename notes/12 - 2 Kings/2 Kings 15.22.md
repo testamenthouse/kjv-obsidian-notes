@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 15:22
-
 And Menahem slept with his fathers; and Pekahiah his son reigned in his stead.

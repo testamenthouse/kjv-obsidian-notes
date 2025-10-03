@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 7:18
-
 When I blow with a trumpet, I and all that are with me, then blow ye the trumpets also on every side of all the camp, and say, The sword of the LORD, and of Gideon.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 12:1
-
 Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.

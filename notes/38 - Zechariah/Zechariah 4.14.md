@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 4:14
-
 Then said he, These are the two anointed ones, that stand by the LORD of the whole earth.

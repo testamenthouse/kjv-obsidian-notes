@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 17:24
-
 And all the men of Israel, when they saw the man, fled from him, and were sore afraid.

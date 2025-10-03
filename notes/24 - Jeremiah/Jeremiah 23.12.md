@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 23:12
-
 Wherefore their way shall be unto them as slippery ways in the darkness: they shall be driven on, and fall therein: for I will bring evil upon them, even the year of their visitation, saith the LORD.

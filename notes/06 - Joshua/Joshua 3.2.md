@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 3:2
-
 And it came to pass after three days, that the officers went through the host;

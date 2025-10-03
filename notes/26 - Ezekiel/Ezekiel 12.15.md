@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 12:15
-
 And they shall know that I am the LORD, when I shall scatter them among the nations, and disperse them in the countries.

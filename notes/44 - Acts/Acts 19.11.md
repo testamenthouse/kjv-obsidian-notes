@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:11
-
 And God wrought special miracles by the hands of Paul:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 96:3
-
 Declare his glory among the heathen, his wonders among all people.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:12
-
 Then said his disciples, Lord, if he sleep, he shall do well.

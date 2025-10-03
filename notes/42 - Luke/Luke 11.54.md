@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:54
-
 Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him.

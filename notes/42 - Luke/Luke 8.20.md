@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:20
-
 And it was told him by certain which said, Thy mother and thy brethren stand without, desiring to see thee.

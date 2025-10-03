@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:37
-
 He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:35
-
 And when the day was now far spent, his disciples came unto him, and said, This is a desert place, and now the time is far passed:

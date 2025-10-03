@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 44:8
-
 In God we boast all the day long, and praise thy name for ever. Selah.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:20
-
 The wicked man travaileth with pain all his days, and the number of years is hidden to the oppressor.

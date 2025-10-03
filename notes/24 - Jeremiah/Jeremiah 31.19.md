@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:19
-
 Surely after that I was turned, I repented; and after that I was instructed, I smote upon my thigh: I was ashamed, yea, even confounded, because I did bear the reproach of my youth.

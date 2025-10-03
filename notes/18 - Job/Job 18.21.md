@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:21
-
 Surely such are the dwellings of the wicked, and this is the place of him that knoweth not God.

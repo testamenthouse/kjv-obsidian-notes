@@ -13,7 +13,4 @@ grammar_tags: [question, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:25
-
 How forcible are right words! but what doth your arguing reprove?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [benediction]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 24:9
-
 He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee.

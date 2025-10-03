@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 1:11
-
 There is one come out of thee, that imagineth evil against the LORD, a wicked counsellor.

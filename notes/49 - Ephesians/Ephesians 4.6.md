@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 4:6
-
 One God and Father of all, who is above all, and through all, and in you all.

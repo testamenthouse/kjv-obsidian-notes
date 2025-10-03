@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 11:7
-
 And two parts of all you that go forth on the sabbath, even they shall keep the watch of the house of the LORD about the king.

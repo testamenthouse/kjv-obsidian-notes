@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 20:2
-
 And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.

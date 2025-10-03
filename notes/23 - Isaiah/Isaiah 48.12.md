@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 48:12
-
 Hearken unto me, O Jacob and Israel, my called; I am he; I am the first, I also am the last.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 9:11
-
 As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water.

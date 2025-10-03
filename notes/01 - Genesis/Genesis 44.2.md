@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 44:2
-
 And put my cup, the silver cup, in the sack's mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 3:15
-
 And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;

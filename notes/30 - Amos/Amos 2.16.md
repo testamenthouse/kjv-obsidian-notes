@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 2:16
-
 And he that is courageous among the mighty shall flee away naked in that day, saith the LORD.

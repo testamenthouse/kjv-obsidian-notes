@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 71:5
-
 For thou art my hope, O Lord GOD: thou art my trust from my youth.

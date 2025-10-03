@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 23:33
-
 Shammah the Hararite, Ahiam the son of Sharar the Hararite,

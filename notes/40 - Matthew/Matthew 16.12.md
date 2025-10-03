@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 16:12
-
 Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.

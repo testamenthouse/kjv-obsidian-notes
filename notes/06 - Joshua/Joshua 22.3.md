@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 22:3
-
 Ye have not left your brethren these many days unto this day, but have kept the charge of the commandment of the LORD your God.

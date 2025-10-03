@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 13:13
-
 And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem.

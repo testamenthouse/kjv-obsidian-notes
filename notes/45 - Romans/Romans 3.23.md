@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 3:23
-
 For all have sinned, and come short of the glory of God;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 4:6
-
 And Ahishar was over the household: and Adoniram the son of Abda was over the tribute.

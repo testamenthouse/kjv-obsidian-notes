@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 14:2
-
 But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brethren.

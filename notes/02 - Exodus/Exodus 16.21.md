@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 16:21
-
 And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted.

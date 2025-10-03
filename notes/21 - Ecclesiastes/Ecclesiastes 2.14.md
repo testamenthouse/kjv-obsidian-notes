@@ -13,7 +13,4 @@ grammar_tags: [contrast, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 2:14
-
 The wise man's eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.

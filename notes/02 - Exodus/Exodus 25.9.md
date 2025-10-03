@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 25:9
-
 According to all that I show thee, after the pattern of the tabernacle, and the pattern of all the instruments thereof, even so shall ye make it.

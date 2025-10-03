@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 30:10
-
 But David pursued, he and four hundred men: for two hundred abode behind, which were so faint that they could not go over the brook Besor.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 4:43
-
 And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day.

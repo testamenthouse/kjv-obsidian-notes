@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 4:4
-
 The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, and no man breaketh it unto them.

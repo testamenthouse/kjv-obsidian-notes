@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 10:17
-
 But he that glorieth, let him glory in the Lord.

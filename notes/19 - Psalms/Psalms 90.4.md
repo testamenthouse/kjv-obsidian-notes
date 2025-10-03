@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 90:4
-
 For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night.

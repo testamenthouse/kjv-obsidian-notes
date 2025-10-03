@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:4
-
 Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 73:18
-
 Surely thou didst set them in slippery places: thou castedst them down into destruction.

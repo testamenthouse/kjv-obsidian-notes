@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 45:12
-
 And, behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaketh unto you.

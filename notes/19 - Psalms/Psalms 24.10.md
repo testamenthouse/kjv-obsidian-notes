@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 24:10
-
 Who is this King of glory? The LORD of hosts, he is the King of glory. Selah.

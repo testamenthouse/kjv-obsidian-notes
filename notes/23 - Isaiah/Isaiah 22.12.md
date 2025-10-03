@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, lament, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 22:12
-
 And in that day did the Lord GOD of hosts call to weeping, and to mourning, and to baldness, and to girding with sackcloth:

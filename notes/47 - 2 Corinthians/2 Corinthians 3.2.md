@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 3:2
-
 Ye are our epistle written in our hearts, known and read of all men:

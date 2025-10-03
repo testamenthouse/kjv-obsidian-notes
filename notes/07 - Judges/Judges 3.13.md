@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 3:13
-
 And he gathered unto him the children of Ammon and Amalek, and went and smote Israel, and possessed the city of palm trees.

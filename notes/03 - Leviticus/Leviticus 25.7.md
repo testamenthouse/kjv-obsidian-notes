@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:7
-
 And for thy cattle, and for the beast that are in thy land, shall all the increase thereof be meat.

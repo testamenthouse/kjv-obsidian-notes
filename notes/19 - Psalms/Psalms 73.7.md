@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 73:7
-
 Their eyes stand out with fatness: they have more than heart could wish.

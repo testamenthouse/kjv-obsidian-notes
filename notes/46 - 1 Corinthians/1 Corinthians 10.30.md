@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 10:30
-
 For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?

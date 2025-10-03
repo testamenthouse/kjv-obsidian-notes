@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:23
-
 For all his judgments were before me: and as for his statutes, I did not depart from them.

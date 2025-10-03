@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:22
-
 A land of darkness, as darkness itself; and of the shadow of death, without any order, and where the light is as darkness.

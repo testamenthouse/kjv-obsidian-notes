@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 2:1
-
 Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.

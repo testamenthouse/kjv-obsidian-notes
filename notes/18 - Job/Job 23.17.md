@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:17
-
 Because I was not cut off before the darkness, neither hath he covered the darkness from my face.

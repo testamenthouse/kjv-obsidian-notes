@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:38
-
 He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 9:2
-
 I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.

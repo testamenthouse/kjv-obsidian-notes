@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 24:5
-
 How goodly are thy tents, O Jacob, and thy tabernacles, O Israel!

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:3
-
 And Joanna the wife of Chuza Herod's steward, and Susanna, and many others, which ministered unto him of their substance.

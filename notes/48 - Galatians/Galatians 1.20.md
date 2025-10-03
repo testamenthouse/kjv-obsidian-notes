@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 1:20
-
 Now the things which I write unto you, behold, before God, I lie not.

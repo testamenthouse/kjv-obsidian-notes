@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:28
-
 Say unto them, As truly as I live, saith the LORD, as ye have spoken in mine ears, so will I do to you:

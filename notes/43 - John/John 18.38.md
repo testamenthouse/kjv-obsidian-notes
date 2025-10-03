@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:38
-
 Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all.

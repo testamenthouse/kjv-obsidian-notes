@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 25:16
-
 Then he that had received the five talents went and traded with the same, and made them other five talents.

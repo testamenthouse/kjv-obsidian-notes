@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 1:11
-
 But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.

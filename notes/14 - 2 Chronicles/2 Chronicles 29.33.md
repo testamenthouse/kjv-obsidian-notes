@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:33
-
 And the consecrated things were six hundred oxen and three thousand sheep.

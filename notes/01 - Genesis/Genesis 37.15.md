@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 37:15
-
 And a certain man found him, and, behold, he was wandering in the field: and the man asked him, saying, What seekest thou?

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:29
-
 And he spake to them a parable; Behold the fig tree, and all the trees;

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 14:20
-
 But Samson's wife was given to his companion, whom he had used as his friend.

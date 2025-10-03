@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:84
-
 How many are the days of thy servant? when wilt thou execute judgment on them that persecute me?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 24:29
-
 Say not, I will do so to him as he hath done to me: I will render to the man according to his work.

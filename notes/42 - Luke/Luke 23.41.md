@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:41
-
 And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:8
-
 And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God.

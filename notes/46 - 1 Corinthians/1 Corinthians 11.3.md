@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast-opener]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 11:3
-
 But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God.

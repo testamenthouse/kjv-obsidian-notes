@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 7:24
-
 Hearken unto me now therefore, O ye children, and attend to the words of my mouth.

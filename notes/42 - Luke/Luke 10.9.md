@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:9
-
 And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 15:11
-
 The LORD said, Verily it shall be well with thy remnant; verily I will cause the enemy to entreat thee well in the time of evil and in the time of affliction.

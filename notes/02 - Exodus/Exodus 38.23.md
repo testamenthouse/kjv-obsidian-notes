@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 38:23
-
 And with him was Aholiab, son of Ahisamach, of the tribe of Dan, an engraver, and a cunning workman, and an embroiderer in blue, and in purple, and in scarlet, and fine linen.

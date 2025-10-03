@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 6:12
-
 Then beware lest thou forget the LORD, which brought thee forth out of the land of Egypt, from the house of bondage.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [negative-command, time-units, time]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 5:9
-
 Let not a widow be taken into the number under threescore years old, having been the wife of one man.

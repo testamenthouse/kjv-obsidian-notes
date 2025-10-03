@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [warfare, jesus, jesus-title, adversary-title, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 4:1
-
 Then was Jesus led up of the spirit into the wilderness to be tempted of the devil.

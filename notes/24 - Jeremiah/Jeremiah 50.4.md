@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:4
-
 In those days, and in that time, saith the LORD, the children of Israel shall come, they and the children of Judah together, going and weeping: they shall go, and seek the LORD their God.

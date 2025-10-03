@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 5:2
-
 That thou mayest regard discretion, and that thy lips may keep knowledge.

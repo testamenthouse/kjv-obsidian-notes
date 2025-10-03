@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 26:3
-
 For thy lovingkindness is before mine eyes: and I have walked in thy truth.

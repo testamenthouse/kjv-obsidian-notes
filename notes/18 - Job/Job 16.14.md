@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:14
-
 He breaketh me with breach upon breach, he runneth upon me like a giant.

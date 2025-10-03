@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 5:13
-
 There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt.

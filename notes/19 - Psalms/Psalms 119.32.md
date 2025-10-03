@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:32
-
 I will run the way of thy commandments, when thou shalt enlarge my heart.

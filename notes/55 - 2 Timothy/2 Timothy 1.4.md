@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 1:4
-
 Greatly desiring to see thee, being mindful of thy tears, that I may be filled with joy;

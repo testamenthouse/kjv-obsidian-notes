@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 16:3
-
 Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering.

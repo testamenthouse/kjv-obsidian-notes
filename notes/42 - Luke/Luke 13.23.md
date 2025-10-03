@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:23
-
 Then said one unto him, Lord, are there few that be saved? And he said unto them,

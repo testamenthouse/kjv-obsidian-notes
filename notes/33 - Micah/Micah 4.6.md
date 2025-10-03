@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 4:6
-
 In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;

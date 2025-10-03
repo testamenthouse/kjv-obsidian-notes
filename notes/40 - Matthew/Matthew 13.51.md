@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 13:51
-
 Jesus saith unto them, Have ye understood all these things? They say unto him, Yea, Lord.

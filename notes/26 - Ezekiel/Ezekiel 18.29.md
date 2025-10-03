@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 18:29
-
 Yet saith the house of Israel, The way of the LORD is not equal. O house of Israel, are not my ways equal? are not your ways unequal?

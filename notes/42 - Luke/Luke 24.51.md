@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:51
-
 And it came to pass, while he blessed them, he was parted from them, and carried up into heaven.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:12
-
 But when Jacob heard that there was corn in Egypt, he sent out our fathers first.

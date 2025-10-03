@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:22
-
 Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.

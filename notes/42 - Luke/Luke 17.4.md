@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:4
-
 And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title, praise-worship]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 1:11
-
 Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.

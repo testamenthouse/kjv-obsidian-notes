@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:26
-
 These things have I written unto you concerning them that seduce you.

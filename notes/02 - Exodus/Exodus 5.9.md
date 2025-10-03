@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 5:9
-
 Let there more work be laid upon the men, that they may labor therein; and let them not regard vain words.

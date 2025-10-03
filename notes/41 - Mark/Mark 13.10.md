@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:10
-
 And the gospel must first be published among all nations.

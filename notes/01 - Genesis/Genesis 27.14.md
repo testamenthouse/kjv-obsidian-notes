@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:14
-
 And he went, and fetched, and brought them to his mother: and his mother made savory meat, such as his father loved.

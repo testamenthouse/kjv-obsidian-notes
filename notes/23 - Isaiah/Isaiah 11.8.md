@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 11:8
-
 And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice' den.

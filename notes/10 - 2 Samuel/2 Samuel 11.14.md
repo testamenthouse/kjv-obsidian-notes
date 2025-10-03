@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 11:14
-
 And it came to pass in the morning, that David wrote a letter to Joab, and sent it by the hand of Uriah.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:42
-
 So will I make my fury toward thee to rest, and my jealousy shall depart from thee, and I will be quiet, and will be no more angry.

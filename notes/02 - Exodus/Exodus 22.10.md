@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 22:10
-
 If a man deliver unto his neighbor an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing it:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 4:23
-
 And be renewed in the spirit of your mind;

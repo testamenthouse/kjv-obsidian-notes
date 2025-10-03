@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 1:9
-
 Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold, I have put my words in thy mouth.

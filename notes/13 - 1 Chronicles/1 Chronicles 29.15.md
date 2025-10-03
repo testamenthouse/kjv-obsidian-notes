@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 29:15
-
 For we are strangers before thee, and sojourners, as were all our fathers: our days on the earth are as a shadow, and there is none abiding.

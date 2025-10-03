@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 14:1
-
 The word of the LORD that came to Jeremiah concerning the dearth.

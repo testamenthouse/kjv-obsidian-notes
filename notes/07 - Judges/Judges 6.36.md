@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 6:36
-
 And Gideon said unto God, If thou wilt save Israel by mine hand, as thou hast said,

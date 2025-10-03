@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:13
-
 And they cried out again, Crucify him.

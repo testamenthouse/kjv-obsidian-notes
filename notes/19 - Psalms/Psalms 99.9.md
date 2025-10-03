@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 99:9
-
 Exalt the LORD our God, and worship at his holy hill; for the LORD our God is holy.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:53
-
 And as a yearly hired servant shall he be with him: and the other shall not rule with rigor over him in thy sight.

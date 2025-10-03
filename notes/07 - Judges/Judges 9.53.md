@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:53
-
 And a certain woman cast a piece of a millstone upon Abimelech's head, and all to brake his skull.

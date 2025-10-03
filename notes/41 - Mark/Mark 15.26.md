@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:26
-
 And the superscription of his accusation was written over, THE KING OF THE JEWS.

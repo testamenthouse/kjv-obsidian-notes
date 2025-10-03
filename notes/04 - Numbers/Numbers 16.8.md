@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 16:8
-
 And Moses said unto Korah, Hear, I pray you, ye sons of Levi:

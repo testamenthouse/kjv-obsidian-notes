@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:2
-
 Even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word;

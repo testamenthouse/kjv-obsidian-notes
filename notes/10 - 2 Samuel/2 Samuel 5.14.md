@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 5:14
-
 And these be the names of those that were born unto him in Jerusalem; Shammuah, and Shobab, and Nathan, and Solomon,

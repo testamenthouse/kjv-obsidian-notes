@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 1:45
-
 And ye returned and wept before the LORD; but the LORD would not hearken to your voice, nor give ear unto you.

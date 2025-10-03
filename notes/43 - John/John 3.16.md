@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god, son-of-god, jesus]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 3:16
-
 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.

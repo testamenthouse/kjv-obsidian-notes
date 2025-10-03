@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 21:17
-
 And he that curseth his father, or his mother, shall surely be put to death.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:16
-
 And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine.

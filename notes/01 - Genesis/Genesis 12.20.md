@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 12:20
-
 And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had.

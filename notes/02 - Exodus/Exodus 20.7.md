@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 20:7
-
 Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.

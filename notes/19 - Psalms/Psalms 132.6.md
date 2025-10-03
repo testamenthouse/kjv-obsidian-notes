@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 132:6
-
 Lo, we heard of it at Ephratah: we found it in the fields of the wood.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, son-of-god, jesus]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 1:34
-
 And I saw, and bare record that this is the Son of God.

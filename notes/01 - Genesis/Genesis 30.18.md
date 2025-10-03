@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 30:18
-
 And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar.

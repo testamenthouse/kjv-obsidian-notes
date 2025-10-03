@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 14:4
-
 But his father and his mother knew not that it was of the LORD, that he sought an occasion against the Philistines: for at that time the Philistines had dominion over Israel.

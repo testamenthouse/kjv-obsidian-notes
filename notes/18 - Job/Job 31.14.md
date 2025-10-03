@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:14
-
 What then shall I do when God riseth up? and when he visiteth, what shall I answer him?

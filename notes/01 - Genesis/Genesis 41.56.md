@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:56
-
 And the famine was over all the face of the earth: and Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt.

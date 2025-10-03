@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 11:10
-
 When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting.

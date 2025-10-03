@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, adversary, time-units, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 16:14
-
 For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 9:9
-
 And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me. And he arose, and followed him.

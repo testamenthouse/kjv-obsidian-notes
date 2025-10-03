@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:13
-
 At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me.

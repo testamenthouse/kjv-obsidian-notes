@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, praise-worship, time-parts-of-day, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 1:19
-
 And they rose up in the morning early, and worshipped before the LORD, and returned, and came to their house to Ramah: and Elkanah knew Hannah his wife; and the LORD remembered her.

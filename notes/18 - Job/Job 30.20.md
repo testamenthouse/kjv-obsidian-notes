@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:20
-
 I cry unto thee, and thou dost not hear me: I stand up, and thou regardest me not.

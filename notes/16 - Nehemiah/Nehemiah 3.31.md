@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 3:31
-
 After him repaired Malchiah the goldsmith's son unto the place of the Nethinims, and of the merchants, over against the gate Miphkad, and to the going up of the corner.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 18:16
-
 And the six hundred men appointed with their weapons of war, which were of the children of Dan, stood by the entering of the gate.

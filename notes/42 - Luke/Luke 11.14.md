@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:14
-
 And he was casting out a devil, and it was dumb. And it came to pass, when the devil was gone out, the dumb spake; and the people wondered.

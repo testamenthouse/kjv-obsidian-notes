@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 34:19
-
 The princes of Judah, and the princes of Jerusalem, the eunuchs, and the priests, and all the people of the land, which passed between the parts of the calf;

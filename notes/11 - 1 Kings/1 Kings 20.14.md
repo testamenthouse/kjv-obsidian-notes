@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:14
-
 And Ahab said, By whom? And he said, Thus saith the LORD, Even by the young men of the princes of the provinces. Then he said, Who shall order the battle? And he answered, Thou.

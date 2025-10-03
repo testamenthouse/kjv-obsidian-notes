@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 23:38
-
 Ira an Ithrite, Gareb an Ithrite,

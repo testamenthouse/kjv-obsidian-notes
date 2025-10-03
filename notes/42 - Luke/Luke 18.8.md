@@ -13,7 +13,4 @@ grammar_tags: [question, contrast, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:8
-
 I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?

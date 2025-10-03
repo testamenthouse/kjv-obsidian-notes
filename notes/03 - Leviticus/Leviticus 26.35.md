@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 26:35
-
 As long as it lieth desolate it shall rest; because it did not rest in your sabbaths, when ye dwelt upon it.

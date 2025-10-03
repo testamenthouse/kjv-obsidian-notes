@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:12
-
 Then Festus, when he had conferred with the council, answered, Hast thou appealed unto Caesar? unto Caesar shalt thou go.

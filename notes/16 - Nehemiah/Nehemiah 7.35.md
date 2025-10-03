@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 7:35
-
 The children of Harim, three hundred and twenty.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 7:69
-
 Their camels, four hundred thirty and five: six thousand seven hundred and twenty asses.

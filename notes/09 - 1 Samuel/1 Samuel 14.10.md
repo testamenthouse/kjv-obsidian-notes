@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 14:10
-
 But if they say thus, Come up unto us; then we will go up: for the LORD hath delivered them into our hand: and this shall be a sign unto us.

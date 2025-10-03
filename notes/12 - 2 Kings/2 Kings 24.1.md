@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 24:1
-
 In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.

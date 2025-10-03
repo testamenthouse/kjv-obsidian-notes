@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 31:20
-
 And purify all your raiment, and all that is made of skins, and all work of goats' hair, and all things made of wood.

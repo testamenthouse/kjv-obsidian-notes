@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 47:7
-
 For God is the King of all the earth: sing ye praises with understanding.

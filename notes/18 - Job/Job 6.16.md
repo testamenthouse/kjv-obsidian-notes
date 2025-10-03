@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:16
-
 Which are blackish by reason of the ice, and wherein the snow is hid:

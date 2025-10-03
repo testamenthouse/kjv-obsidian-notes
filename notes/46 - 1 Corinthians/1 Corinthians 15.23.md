@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:23
-
 But every man in his own order: Christ the firstfruits; afterward they that are Christ's at his coming.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 139:4
-
 For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether.

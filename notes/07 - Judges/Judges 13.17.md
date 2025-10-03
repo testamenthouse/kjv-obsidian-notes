@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 13:17
-
 And Manoah said unto the angel of the LORD, What is thy name, that when thy sayings come to pass we may do thee honor?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","3-John"]
 ---
-
-# 3 John 1:2
-
 Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 4:3
-
 For thus saith the LORD to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns.

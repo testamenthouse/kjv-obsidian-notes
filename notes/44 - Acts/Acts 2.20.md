@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:20
-
 The sun shall be turned into darkness, and the moon into blood, before the great and notable day of the Lord come:

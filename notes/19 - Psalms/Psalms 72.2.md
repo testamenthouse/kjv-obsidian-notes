@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 72:2
-
 He shall judge thy people with righteousness, and thy poor with judgment.

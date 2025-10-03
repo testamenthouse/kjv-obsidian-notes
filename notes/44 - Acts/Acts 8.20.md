@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:20
-
 But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:16
-
 And let him that is in the field not turn back again for to take up his garment.

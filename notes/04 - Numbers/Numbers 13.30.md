@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 13:30
-
 And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.

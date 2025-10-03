@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 1:11
-
 In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:

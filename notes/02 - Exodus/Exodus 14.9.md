@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 14:9
-
 But the Egyptians pursued after them, all the horses and chariots of Pharaoh, and his horsemen, and his army, and overtook them encamping by the sea, beside Pihahiroth, before Baalzephon.

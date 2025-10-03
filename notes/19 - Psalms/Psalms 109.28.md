@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:28
-
 Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice.

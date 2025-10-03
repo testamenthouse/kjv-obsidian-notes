@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god, one-another, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:26
-
 And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?

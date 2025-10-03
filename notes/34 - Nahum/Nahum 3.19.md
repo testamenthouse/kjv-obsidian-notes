@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 3:19
-
 There is no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?

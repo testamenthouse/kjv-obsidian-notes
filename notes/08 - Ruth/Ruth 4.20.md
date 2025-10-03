@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Ruth"]
 ---
-
-# Ruth 4:20
-
 And Amminadab begat Nahshon, and Nahshon begat Salmon,

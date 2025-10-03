@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 30:22
-
 Moreover the LORD spake unto Moses, saying,

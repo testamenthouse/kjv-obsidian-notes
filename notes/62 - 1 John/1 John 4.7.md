@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 4:7
-
 Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.

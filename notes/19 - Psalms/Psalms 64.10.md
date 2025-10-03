@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 64:10
-
 The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory.

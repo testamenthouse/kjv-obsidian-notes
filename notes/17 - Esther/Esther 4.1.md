@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 4:1
-
 When Mordecai perceived all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry;

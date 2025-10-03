@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:53
-
 And every man went unto his own house.

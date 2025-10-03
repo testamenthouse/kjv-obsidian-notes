@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 71:17
-
 O God, thou hast taught me from my youth: and hitherto have I declared thy wondrous works.

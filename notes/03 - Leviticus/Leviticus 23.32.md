@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 23:32
-
 It shall be unto you a sabbath of rest, and ye shall afflict your souls: in the ninth day of the month at even, from even unto even, shall ye celebrate your sabbath.

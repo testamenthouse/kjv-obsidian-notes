@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 22:24
-
 And if we have not rather done it for fear of this thing, saying, In time to come your children might speak unto our children, saying, What have ye to do with the LORD God of Israel?

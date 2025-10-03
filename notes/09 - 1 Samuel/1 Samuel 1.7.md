@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 1:7
-
 And as he did so year by year, when she went up to the house of the LORD, so she provoked her; therefore she wept, and did not eat.

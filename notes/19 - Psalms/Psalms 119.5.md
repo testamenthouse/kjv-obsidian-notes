@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:5
-
 O that my ways were directed to keep thy statutes!

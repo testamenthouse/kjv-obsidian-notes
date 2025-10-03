@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 16:6
-
 By mercy and truth iniquity is purged: and by the fear of the LORD men depart from evil.

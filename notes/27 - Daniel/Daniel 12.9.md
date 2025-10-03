@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 12:9
-
 And he said, Go thy way, Daniel: for the words are closed up and sealed till the time of the end.

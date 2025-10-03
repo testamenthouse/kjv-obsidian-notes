@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 62:7
-
 In God is my salvation and my glory: the rock of my strength, and my refuge, is in God.

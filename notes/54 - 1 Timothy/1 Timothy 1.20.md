@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 1:20
-
 Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.

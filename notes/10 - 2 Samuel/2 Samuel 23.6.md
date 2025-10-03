@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, adversary-title, adversary]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 23:6
-
 But the sons of Belial shall be all of them as thorns thrust away, because they cannot be taken with hands:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 94:21
-
 They gather themselves together against the soul of the righteous, and condemn the innocent blood.

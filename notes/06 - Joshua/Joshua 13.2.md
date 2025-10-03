@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 13:2
-
 This is the land that yet remaineth: all the borders of the Philistines, and all Geshuri,

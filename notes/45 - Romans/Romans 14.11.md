@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 14:11
-
 For it is written, As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.

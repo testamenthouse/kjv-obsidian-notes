@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 1:28
-
 Then king David answered and said, Call me Bathsheba. And she came into the king's presence, and stood before the king.

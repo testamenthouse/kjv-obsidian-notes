@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:42
-
 And the soldiers' counsel was to kill the prisoners, lest any of them should swim out, and escape.

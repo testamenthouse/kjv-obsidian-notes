@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 5:27
-
 And hath given him authority to execute judgment also, because he is the Son of man.

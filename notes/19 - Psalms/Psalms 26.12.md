@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 26:12
-
 My foot standeth in an even place: in the congregations will I bless the LORD.

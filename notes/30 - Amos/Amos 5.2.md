@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 5:2
-
 The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land; there is none to raise her up.

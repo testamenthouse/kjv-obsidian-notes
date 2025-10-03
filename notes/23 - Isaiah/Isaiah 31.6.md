@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 31:6
-
 Turn ye unto him from whom the children of Israel have deeply revolted.

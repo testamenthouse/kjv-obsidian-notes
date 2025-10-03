@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 62:12
-
 And they shall call them, The holy people, The redeemed of the LORD: and thou shalt be called, Sought out, A city not forsaken.

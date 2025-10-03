@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 3:5
-
 And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 12:8
-
 And prevailed not; neither was their place found any more in heaven.

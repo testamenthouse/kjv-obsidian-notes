@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 4:28
-
 For this shall the earth mourn, and the heavens above be black; because I have spoken it, I have purposed it, and will not repent, neither will I turn back from it.

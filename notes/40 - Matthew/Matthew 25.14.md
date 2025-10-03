@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 25:14
-
 For the kingdom of heaven is as a man travelling into a far country, who called his own servants, and delivered unto them his goods.

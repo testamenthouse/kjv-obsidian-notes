@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 4:19
-
 And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.

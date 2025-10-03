@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 27:23
-
 Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubilee: and he shall give thine estimation in that day, as a holy thing unto the LORD.

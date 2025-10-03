@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 7:5
-
 Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 42:20
-
 He measured it by the four sides: it had a wall round about, five hundred reeds long, and five hundred broad, to make a separation between the sanctuary and the profane place.

@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:33
-
 Now the God of peace be with you all. Amen.

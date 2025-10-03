@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 139:7
-
 Whither shall I go from thy spirit? or whither shall I flee from thy presence?

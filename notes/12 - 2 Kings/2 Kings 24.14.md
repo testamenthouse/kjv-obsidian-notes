@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 24:14
-
 And he carried away all Jerusalem, and all the princes, and all the mighty men of valor, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.

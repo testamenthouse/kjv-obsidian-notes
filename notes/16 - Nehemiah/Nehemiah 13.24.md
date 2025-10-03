@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 13:24
-
 And their children spake half in the speech of Ashdod, and could not speak in the Jews' language, but according to the language of each people.

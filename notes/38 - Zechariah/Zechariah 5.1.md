@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 5:1
-
 Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.

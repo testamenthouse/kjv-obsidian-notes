@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 23:10
-
 Then said David, O LORD God of Israel, thy servant hath certainly heard that Saul seeketh to come to Keilah, to destroy the city for my sake.

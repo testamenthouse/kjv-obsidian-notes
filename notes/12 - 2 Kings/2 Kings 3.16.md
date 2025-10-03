@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 3:16
-
 And he said, Thus saith the LORD, Make this valley full of ditches.

@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 10:16
-
 Woe to thee, O land, when thy king is a child, and thy princes eat in the morning!

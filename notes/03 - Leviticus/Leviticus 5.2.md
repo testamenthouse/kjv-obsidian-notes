@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 5:2
-
 Or if a soul touch any unclean thing, whether it be a carcass of an unclean beast, or a carcass of unclean cattle, or the carcass of unclean creeping things, and if it be hidden from him; he also shall be unclean, and guilty.

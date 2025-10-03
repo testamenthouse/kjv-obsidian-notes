@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 8:11
-
 Which also king David did dedicate unto the LORD, with the silver and gold that he had dedicated of all nations which he subdued;

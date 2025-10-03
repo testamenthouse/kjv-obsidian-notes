@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:4
-
 Moab is destroyed; her little ones have caused a cry to be heard.

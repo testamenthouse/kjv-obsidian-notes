@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 15:19
-
 Then said the king to Ittai the Gittite, Wherefore goest thou also with us? return to thy place, and abide with the king: for thou art a stranger, and also an exile.

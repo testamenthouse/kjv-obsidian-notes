@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 13:1
-
 How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?

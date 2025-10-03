@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:26
-
 With the merciful thou wilt show thyself merciful, and with the upright man thou wilt show thyself upright.

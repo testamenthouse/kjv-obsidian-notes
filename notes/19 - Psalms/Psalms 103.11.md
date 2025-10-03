@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:11
-
 For as the heaven is high above the earth, so great is his mercy toward them that fear him.

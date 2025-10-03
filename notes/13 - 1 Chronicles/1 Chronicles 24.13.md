@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 24:13
-
 The thirteenth to Huppah, the fourteenth to Jeshebeab,

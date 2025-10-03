@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 30:11
-
 For this commandment which I command thee this day, it is not hidden from thee, neither is it far off.

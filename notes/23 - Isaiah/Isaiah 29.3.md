@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 29:3
-
 And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.

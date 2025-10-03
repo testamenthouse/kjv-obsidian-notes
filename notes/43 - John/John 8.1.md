@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:1
-
 Jesus went unto the mount of Olives.

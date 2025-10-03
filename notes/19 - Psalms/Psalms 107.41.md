@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:41
-
 Yet setteth he the poor on high from affliction, and maketh him families like a flock.

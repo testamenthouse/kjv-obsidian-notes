@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:41
-
 He opened the rock, and the waters gushed out; they ran in the dry places like a river.

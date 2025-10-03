@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:4
-
 For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death.

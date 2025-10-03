@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 11:18
-
 For John came neither eating nor drinking, and they say, He hath a devil.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 24:1
-
 Now these are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.

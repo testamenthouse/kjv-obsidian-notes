@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:17
-
 The gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold.

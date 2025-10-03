@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 20:26
-
 Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon.

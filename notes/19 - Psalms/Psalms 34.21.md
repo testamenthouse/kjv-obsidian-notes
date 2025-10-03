@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 34:21
-
 Evil shall slay the wicked: and they that hate the righteous shall be desolate.

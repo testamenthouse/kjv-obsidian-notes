@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:28
-
 Even in the third year of Asa king of Judah did Baasha slay him, and reigned in his stead.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 49:5
-
 Behold, I will bring a fear upon thee, saith the Lord GOD of hosts, from all those that be about thee; and ye shall be driven out every man right forth; and none shall gather up him that wandereth.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:29
-
 My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father's hand.

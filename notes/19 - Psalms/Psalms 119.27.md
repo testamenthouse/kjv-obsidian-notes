@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:27
-
 Make me to understand the way of thy precepts: so shall I talk of thy wondrous works.

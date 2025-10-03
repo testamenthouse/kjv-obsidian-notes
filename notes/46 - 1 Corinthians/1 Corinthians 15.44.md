@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:44
-
 It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body.

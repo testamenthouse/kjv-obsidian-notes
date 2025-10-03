@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 8:13
-
 Sanctify the LORD of hosts himself; and let him be your fear, and let him be your dread.

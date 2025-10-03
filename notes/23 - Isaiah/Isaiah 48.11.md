@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 48:11
-
 For mine own sake, even for mine own sake, will I do it: for how should my name be polluted? and I will not give my glory unto another.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 6:8
-
 Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.

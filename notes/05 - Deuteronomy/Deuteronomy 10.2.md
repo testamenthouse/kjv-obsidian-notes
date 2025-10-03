@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 10:2
-
 And I will write on the tables the words that were in the first tables which thou brakest, and thou shalt put them in the ark.

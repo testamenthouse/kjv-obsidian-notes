@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:15
-
 Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 36:6
-
 Thy righteousness is like the great mountains; thy judgments are a great deep: O LORD, thou preservest man and beast.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 7:6
-
 Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;

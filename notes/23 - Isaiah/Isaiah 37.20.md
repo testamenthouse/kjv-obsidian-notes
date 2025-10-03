@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 37:20
-
 Now therefore, O LORD our God, save us from his hand, that all the kingdoms of the earth may know that thou art the LORD, even thou only.

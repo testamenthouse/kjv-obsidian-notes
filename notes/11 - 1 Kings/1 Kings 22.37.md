@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:37
-
 So the king died, and was brought to Samaria; and they buried the king in Samaria.

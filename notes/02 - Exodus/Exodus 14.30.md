@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 14:30
-
 Thus the LORD saved Israel that day out of the hand of the Egyptians; and Israel saw the Egyptians dead upon the sea shore.

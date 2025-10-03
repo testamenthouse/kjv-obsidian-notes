@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:5
-
 If indeed ye will magnify yourselves against me, and plead against me my reproach:

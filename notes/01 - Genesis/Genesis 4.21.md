@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 4:21
-
 And his brother's name was Jubal: he was the father of all such as handle the harp and organ.

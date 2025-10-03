@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 23:23
-
 That which is gone out of thy lips thou shalt keep and perform; even a freewill offering, according as thou hast vowed unto the LORD thy God, which thou hast promised with thy mouth.

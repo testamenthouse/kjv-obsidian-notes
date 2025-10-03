@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 22:7
-
 But when the king heard thereof, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city.

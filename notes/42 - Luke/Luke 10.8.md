@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:8
-
 And into whatsoever city ye enter, and they receive you, eat such things as are set before you:

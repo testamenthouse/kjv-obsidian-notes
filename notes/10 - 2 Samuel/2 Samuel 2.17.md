@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 2:17
-
 And there was a very sore battle that day; and Abner was beaten, and the men of Israel, before the servants of David.

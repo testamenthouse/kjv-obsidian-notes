@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 18:2
-
 A fool hath no delight in understanding, but that his heart may discover itself.

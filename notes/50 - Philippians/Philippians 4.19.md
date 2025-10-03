@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 4:19
-
 But my God shall supply all your need according to his riches in glory by Christ Jesus.

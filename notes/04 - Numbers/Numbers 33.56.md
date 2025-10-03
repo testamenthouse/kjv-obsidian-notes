@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 33:56
-
 Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them.

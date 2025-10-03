@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:39
-
 The children of Harim, a thousand and seventeen.

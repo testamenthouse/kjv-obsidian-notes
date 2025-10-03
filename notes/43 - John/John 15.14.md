@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 15:14
-
 Ye are my friends, if ye do whatsoever I command you.

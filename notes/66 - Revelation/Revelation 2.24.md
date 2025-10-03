@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 2:24
-
 But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden.

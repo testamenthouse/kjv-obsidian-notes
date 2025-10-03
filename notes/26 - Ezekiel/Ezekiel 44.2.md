@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 44:2
-
 Then said the LORD unto me; This gate shall be shut, it shall not be opened, and no man shall enter in by it; because the LORD, the God of Israel, hath entered in by it, therefore it shall be shut.

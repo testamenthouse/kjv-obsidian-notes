@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 6:9
-
 And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage.

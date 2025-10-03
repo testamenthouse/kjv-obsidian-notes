@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:4
-
 As for me, is my complaint to man? and if it were so, why should not my spirit be troubled?

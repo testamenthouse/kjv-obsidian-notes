@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 23:11
-
 And the night following the Lord stood by him, and said, Be of good cheer, Paul: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome.

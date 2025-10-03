@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 3:16
-
 Destruction and misery are in their ways:

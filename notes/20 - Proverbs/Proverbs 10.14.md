@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 10:14
-
 Wise men lay up knowledge: but the mouth of the foolish is near destruction.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, praise-worship, time-units, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 12:47
-
 And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified holy things unto the Levites; and the Levites sanctified them unto the children of Aaron.

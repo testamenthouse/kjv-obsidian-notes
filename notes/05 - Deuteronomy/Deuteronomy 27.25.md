@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 27:25
-
 Cursed be he that taketh reward to slay an innocent person. And all the people shall say, Amen.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:54
-
 And they did eat and drink, he and the men that were with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master.

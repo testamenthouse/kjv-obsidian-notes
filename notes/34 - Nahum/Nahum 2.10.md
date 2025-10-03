@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 2:10
-
 She is empty, and void, and waste: and the heart melteth, and the knees smite together, and much pain is in all loins, and the faces of them all gather blackness.

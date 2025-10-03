@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:3
-
 Gird up now thy loins like a man; for I will demand of thee, and answer thou me.

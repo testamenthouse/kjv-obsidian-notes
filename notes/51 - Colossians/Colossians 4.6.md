@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 4:6
-
 Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.

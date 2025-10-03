@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 13:1
-
 And David consulted with the captains of thousands and hundreds, and with every leader.

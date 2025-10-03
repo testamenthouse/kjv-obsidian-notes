@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:139
-
 My zeal hath consumed me, because mine enemies have forgotten thy words.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:3
-
 And these things will they do unto you, because they have not known the Father, nor me.

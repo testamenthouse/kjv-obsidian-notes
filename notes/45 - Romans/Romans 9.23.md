@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 9:23
-
 And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,

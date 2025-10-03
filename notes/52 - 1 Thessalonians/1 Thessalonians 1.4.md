@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 1:4
-
 Knowing, brethren beloved, your election of God.

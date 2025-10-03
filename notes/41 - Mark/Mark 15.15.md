@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:15
-
 And so Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged him, to be crucified.

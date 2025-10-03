@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 2:2
-
 That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.

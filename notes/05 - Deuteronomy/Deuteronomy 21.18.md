@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 21:18
-
 If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them:

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [jesus, jesus-title, thanksgiving]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:41
-
 Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me.

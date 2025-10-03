@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 42:9
-
 So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the LORD commanded them: the LORD also accepted Job.

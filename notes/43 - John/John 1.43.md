@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title, time-units, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 1:43
-
 The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.

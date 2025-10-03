@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 46:30
-
 And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 1:16
-
 Cease not to give thanks for you, making mention of you in my prayers;

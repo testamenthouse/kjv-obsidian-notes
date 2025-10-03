@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 3:18
-
 There is no fear of God before their eyes.

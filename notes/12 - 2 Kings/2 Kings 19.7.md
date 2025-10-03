@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 19:7
-
 Behold, I will send a blast upon him, and he shall hear a rumor, and shall return to his own land; and I will cause him to fall by the sword in his own land.

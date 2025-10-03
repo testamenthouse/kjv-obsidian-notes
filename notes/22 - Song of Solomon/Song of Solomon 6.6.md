@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 6:6
-
 Thy teeth are as a flock of sheep which go up from the washing, whereof every one beareth twins, and there is not one barren among them.

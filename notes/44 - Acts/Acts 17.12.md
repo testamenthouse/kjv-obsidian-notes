@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 17:12
-
 Therefore many of them believed; also of honourable women which were Greeks, and of men, not a few.

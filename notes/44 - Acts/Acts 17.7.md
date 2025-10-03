@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 17:7
-
 Whom Jason hath received: and these all do contrary to the decrees of Caesar, saying that there is another king, one Jesus.

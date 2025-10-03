@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 7:18
-
 Thou shalt not be afraid of them: but shalt well remember what the LORD thy God did unto Pharaoh, and unto all Egypt;

@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 4:11
-
 Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.

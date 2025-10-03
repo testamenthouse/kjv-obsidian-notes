@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:16
-
 For God maketh my heart soft, and the Almighty troubleth me:

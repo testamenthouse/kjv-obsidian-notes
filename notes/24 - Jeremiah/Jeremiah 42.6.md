@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 42:6
-
 Whether it be good, or whether it be evil, we will obey the voice of the LORD our God, to whom we send thee; that it may be well with us, when we obey the voice of the LORD our God.

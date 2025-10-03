@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:18
-
 When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life.

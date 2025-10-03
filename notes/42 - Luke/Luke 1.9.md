@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:9
-
 According to the custom of the priest's office, his lot was to burn incense when he went into the temple of the Lord.

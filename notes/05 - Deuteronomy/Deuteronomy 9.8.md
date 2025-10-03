@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 9:8
-
 Also in Horeb ye provoked the LORD to wrath, so that the LORD was angry with you to have destroyed you.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 5:14
-
 Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:

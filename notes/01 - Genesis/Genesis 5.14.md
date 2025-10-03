@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 5:14
-
 And all the days of Cainan were nine hundred and ten years: and he died.

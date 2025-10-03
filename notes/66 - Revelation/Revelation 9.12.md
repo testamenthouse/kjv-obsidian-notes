@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament, time-period, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 9:12
-
 One woe is past; and, behold, there come two woes more hereafter.

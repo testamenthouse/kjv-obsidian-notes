@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 13:31
-
 And for the wood offering, at times appointed, and for the firstfruits. Remember me, O my God, for good.

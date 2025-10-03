@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 9:6
-
 And the LORD did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one.

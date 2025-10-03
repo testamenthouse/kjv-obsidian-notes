@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 6:22
-
 Whom I have sent unto you for the same purpose, that ye might know our affairs, and that he might comfort your hearts.

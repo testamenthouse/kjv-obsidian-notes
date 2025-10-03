@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 7:63
-
 And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took one of the daughters of Barzillai the Gileadite to wife, and was called after their name.

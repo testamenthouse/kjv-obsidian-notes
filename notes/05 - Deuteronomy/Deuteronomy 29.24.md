@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 29:24
-
 Even all nations shall say, Wherefore hath the LORD done thus unto this land? what meaneth the heat of this great anger?

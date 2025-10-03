@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 34:6
-
 And as for the western border, ye shall even have the great sea for a border: this shall be your west border.

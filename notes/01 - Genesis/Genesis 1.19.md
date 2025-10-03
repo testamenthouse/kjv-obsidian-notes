@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 1:19
-
 And the evening and the morning were the fourth day.

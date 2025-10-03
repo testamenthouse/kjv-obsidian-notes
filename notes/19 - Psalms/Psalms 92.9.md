@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 92:9
-
 For, lo, thine enemies, O LORD, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.

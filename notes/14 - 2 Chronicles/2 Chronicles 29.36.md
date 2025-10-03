@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:36
-
 And Hezekiah rejoiced, and all the people, that God had prepared the people: for the thing was done suddenly.

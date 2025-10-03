@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 2:24
-
 For the name of God is blasphemed among the Gentiles through you, as it is written.

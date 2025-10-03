@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:25
-
 Therefore he knoweth their works, and he overturneth them in the night, so that they are destroyed.

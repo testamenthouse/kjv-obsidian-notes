@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 33:29
-
 Then shall they know that I am the LORD, when I have laid the land most desolate because of all their abominations which they have committed.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 4:27
-
 And if any one of the common people sin through ignorance, while he doeth somewhat against any of the commandments of the LORD concerning things which ought not to be done, and be guilty;

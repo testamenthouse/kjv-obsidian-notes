@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 3:11
-
 For if that which is done away was glorious, much more that which remaineth is glorious.

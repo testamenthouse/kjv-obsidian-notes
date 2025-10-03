@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:17
-
 He may prepare it, but the just shall put it on, and the innocent shall divide the silver.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:27
-
 Because he covereth his face with his fatness, and maketh collops of fat on his flanks.

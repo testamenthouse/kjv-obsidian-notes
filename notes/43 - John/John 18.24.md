@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:24
-
 Now Annas had sent him bound unto Caiaphas the high priest.

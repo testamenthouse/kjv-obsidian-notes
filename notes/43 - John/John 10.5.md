@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:5
-
 And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.

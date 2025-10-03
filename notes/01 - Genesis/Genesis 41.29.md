@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:29
-
 Behold, there come seven years of great plenty throughout all the land of Egypt:

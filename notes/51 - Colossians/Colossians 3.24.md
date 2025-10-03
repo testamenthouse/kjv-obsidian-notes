@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 3:24
-
 Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.

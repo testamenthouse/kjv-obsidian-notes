@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [son-of-man, jesus, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 22:24
-
 Son of man, say unto her, Thou art the land that is not cleansed, nor rained upon in the day of indignation.

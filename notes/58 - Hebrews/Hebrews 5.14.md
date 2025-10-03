@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 5:14
-
 But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 5:21
-
 Hear now this, O foolish people, and without understanding; which have eyes, and see not; which have ears, and hear not:

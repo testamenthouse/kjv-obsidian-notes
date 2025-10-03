@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 14:11
-
 The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.

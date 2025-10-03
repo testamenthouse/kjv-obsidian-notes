@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time-seasons, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 28:11
-
 And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux.

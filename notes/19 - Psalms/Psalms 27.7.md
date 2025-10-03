@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 27:7
-
 Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me.

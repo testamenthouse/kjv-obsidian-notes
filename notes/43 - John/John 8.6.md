@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:6
-
 This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with his finger wrote on the ground, as though he heard them not.

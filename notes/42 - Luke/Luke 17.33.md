@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:33
-
 Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 16:2
-
 And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:

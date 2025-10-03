@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 5:17
-
 But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard of it, and went down to the hold.

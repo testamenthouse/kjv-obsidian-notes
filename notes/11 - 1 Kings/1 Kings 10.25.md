@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 10:25
-
 And they brought every man his present, vessels of silver, and vessels of gold, and garments, and armor, and spices, horses, and mules, a rate year by year.

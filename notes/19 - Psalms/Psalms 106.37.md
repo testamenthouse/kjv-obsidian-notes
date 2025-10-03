@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:37
-
 Yea, they sacrificed their sons and their daughters unto devils,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 35:31
-
 And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;

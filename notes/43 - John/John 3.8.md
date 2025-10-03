@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 3:8
-
 The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.

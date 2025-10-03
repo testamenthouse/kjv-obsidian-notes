@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [jesus, jesus-title, praise-worship]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:6
-
 But when he saw Jesus afar off, he ran and worshipped him,

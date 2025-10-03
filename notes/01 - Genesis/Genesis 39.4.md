@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 39:4
-
 And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand.

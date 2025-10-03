@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 10:20
-
 For it is not ye that speak, but the Spirit of your Father which speaketh in you.

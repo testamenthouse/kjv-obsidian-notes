@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 34:12
-
 And in all that mighty hand, and in all the great terror which Moses showed in the sight of all Israel.

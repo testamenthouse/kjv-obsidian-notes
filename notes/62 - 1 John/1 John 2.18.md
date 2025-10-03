@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus-title, jesus, adversary-title, adversary]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:18
-
 Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:32
-
 And the scribe said unto him, Well, Master, thou hast said the truth: for there is one God; and there is none other but he:

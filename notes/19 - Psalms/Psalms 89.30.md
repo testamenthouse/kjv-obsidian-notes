@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:30
-
 If his children forsake my law, and walk not in my judgments;

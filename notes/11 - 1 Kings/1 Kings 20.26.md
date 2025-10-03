@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:26
-
 And it came to pass at the return of the year, that Benhadad numbered the Syrians, and went up to Aphek, to fight against Israel.

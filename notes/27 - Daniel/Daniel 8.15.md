@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 8:15
-
 And it came to pass, when I, even I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.

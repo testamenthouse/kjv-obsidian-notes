@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:86
-
 All thy commandments are faithful: they persecute me wrongfully; help thou me.

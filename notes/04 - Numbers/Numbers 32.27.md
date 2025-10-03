@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:27
-
 But thy servants will pass over, every man armed for war, before the Lord to battle, as my lord saith.

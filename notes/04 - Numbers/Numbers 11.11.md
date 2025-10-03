@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 11:11
-
 And Moses said unto the LORD, Wherefore hast thou afflicted thy servant? and wherefore have I not found favor in thy sight, that thou layest the burden of all this people upon me?

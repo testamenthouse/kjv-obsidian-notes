@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 1:30
-
 Even as I sware unto thee by the LORD God of Israel, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne in my stead; even so will I certainly do this day.

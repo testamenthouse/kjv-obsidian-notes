@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:30
-
 And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.

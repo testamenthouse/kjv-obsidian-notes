@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:20
-
 Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.

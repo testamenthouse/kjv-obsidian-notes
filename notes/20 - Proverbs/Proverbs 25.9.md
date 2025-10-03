@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 25:9
-
 Debate thy cause with thy neighbour himself; and discover not a secret to another:

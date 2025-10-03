@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 25:13
-
 Thou shalt not have in thy bag divers weights, a great and a small.

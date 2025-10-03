@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 44:23
-
 And thou saidst unto thy servants, Except your youngest brother come down with you, ye shall see my face no more.

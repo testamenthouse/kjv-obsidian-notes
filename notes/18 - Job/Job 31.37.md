@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:37
-
 I would declare unto him the number of my steps; as a prince would I go near unto him.

@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 16:28
-
 Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 26:17
-
 And Saul knew David's voice, and said, Is this thy voice, my son David? And David said, It is my voice, my lord, O king.

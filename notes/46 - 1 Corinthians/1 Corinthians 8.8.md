@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 8:8
-
 But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse.

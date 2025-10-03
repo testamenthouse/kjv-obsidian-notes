@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, conditional]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 58:9
-
 Then shalt thou call, and the LORD shall answer; thou shalt cry, and he shall say, Here I am. If thou take away from the midst of thee the yoke, the putting forth of the finger, and speaking vanity;

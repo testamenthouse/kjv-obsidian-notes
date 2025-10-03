@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 20:12
-
 At that time Berodachbaladan, the son of Baladan, king of Babylon, sent letters and a present unto Hezekiah: for he had heard that Hezekiah had been sick.

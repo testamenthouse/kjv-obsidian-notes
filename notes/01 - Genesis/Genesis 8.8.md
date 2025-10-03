@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 8:8
-
 Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;

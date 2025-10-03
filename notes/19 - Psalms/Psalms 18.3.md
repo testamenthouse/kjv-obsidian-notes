@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 18:3
-
 I will call upon the LORD, who is worthy to be praised: so shall I be saved from mine enemies.

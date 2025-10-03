@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 18:10
-
 When ye go, ye shall come unto a people secure, and to a large land: for God hath given it into your hands; a place where there is no want of any thing that is in the earth.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 17:9
-
 And thou shalt come unto the priests the Levites, and unto the judge that shall be in those days, and inquire; and they shall show thee the sentence of judgment:

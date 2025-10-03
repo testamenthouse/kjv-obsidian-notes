@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 23:16
-
 Thus saith the LORD of hosts, Hearken not unto the words of the prophets that prophesy unto you: they make you vain: they speak a vision of their own heart, and not out of the mouth of the LORD.

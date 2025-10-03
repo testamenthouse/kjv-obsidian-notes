@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:12
-
 He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.

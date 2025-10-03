@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 8:11
-
 And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only.

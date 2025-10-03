@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 35:32
-
 And ye shall take no satisfaction for him that is fled to the city of his refuge, that he should come again to dwell in the land, until the death of the priest.

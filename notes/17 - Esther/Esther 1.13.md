@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 1:13
-
 Then the king said to the wise men, which knew the times, (for so was the king's manner toward all that knew law and judgment:

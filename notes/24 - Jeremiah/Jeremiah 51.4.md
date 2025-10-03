@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:4
-
 Thus the slain shall fall in the land of the Chaldeans, and they that are thrust through in her streets.

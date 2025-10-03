@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 2:27
-
 And he said unto them, The sabbath was made for man, and not man for the sabbath:

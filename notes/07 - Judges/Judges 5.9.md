@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 5:9
-
 My heart is toward the governors of Israel, that offered themselves willingly among the people. Bless ye the LORD.

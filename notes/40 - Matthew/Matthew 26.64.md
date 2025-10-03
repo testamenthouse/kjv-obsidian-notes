@@ -13,7 +13,4 @@ grammar_tags: [contrast, genealogy-structure]
 thematic_tags: [names-of-god, jesus, jesus-title, son-of-man, time-period, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:64
-
 Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.

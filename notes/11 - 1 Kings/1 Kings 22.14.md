@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:14
-
 And Micaiah said, As the LORD liveth, what the LORD saith unto me, that will I speak.

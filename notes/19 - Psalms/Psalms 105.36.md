@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:36
-
 He smote also all the firstborn in their land, the chief of all their strength.

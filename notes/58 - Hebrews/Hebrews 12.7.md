@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 12:7
-
 If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 10:14
-
 The chief of the people; Parosh, Pahathmoab, Elam, Zatthu, Bani,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 7:19
-
 And the chapiters that were upon the top of the pillars were of lily work in the porch, four cubits.

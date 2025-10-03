@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 65:6
-
 Behold, it is written before me: I will not keep silence, but will recompense, even recompense into their bosom,

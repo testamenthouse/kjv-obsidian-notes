@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:8
-
 And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long season, because he had heard many things of him; and he hoped to have seen some miracle done by him.

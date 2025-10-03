@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 30:23
-
 Behold, the whirlwind of the LORD goeth forth with fury, a continuing whirlwind: it shall fall with pain upon the head of the wicked.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 11:3
-
 There is a voice of the howling of the shepherds; for their glory is spoiled: a voice of the roaring of young lions; for the pride of Jordan is spoiled.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 7:2
-
 Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 58:1
-
 Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?

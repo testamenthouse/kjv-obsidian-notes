@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 3:6
-
 Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.

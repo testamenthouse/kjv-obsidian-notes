@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 8:22
-
 Yea, many people and strong nations shall come to seek the LORD of hosts in Jerusalem, and to pray before the LORD.

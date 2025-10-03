@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:33
-
 Because they provoked his spirit, so that he spake unadvisedly with his lips.

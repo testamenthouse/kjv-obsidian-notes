@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 7:17
-
 If thou shalt say in thine heart, These nations are more than I; how can I dispossess them?

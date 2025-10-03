@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:43
-
 Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues, and greetings in the markets.

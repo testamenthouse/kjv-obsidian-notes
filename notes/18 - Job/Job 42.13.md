@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 42:13
-
 He had also seven sons and three daughters.

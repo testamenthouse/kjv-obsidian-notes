@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 9:11
-
 And they asked him, saying, Why say the scribes that Elias must first come?

@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 17:11
-
 An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.

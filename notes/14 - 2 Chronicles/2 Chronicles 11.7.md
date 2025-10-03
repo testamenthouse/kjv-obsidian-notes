@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 11:7
-
 And Bethzur, and Shoco, and Adullam,

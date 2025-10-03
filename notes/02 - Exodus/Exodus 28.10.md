@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 28:10
-
 Six of their names on one stone, and the other six names of the rest on the other stone, according to their birth.

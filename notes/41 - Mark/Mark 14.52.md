@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:52
-
 And he left the linen cloth, and fled from them naked.

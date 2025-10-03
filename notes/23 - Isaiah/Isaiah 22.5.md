@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, lament, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 22:5
-
 For it is a day of trouble, and of treading down, and of perplexity by the Lord GOD of hosts in the valley of vision, breaking down the walls, and of crying to the mountains.

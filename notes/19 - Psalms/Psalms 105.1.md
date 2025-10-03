@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:1
-
 O give thanks unto the LORD; call upon his name: make known his deeds among the people.

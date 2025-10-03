@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [benediction, time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 12:12
-
 Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days.

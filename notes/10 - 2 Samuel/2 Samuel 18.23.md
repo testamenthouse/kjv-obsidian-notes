@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 18:23
-
 But howsoever, said he, let me run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and overran Cushy.

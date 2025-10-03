@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 46:6
-
 Let not the swift flee away, nor the mighty man escape; they shall stumble, and fall toward the north by the river Euphrates.

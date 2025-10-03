@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:13
-
 Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.

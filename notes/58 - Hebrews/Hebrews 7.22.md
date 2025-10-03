@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 7:22
-
 By so much was Jesus made a surety of a better testament.

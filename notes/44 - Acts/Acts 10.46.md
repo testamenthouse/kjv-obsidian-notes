@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:46
-
 For they heard them speak with tongues, and magnify God. Then answered Peter,

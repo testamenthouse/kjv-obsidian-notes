@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 2:4
-
 He that sitteth in the heavens shall laugh: the LORD shall have them in derision.

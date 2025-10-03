@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:7
-
 Mine eye also is dim by reason of sorrow, and all my members are as a shadow.

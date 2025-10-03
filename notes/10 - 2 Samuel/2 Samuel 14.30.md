@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 14:30
-
 Therefore he said unto his servants, See, Joab's field is near mine, and he hath barley there; go and set it on fire. And Absalom's servants set the field on fire.

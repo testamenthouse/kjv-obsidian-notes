@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:59
-
 Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.

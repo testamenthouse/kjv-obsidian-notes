@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [time-eschatology, time]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 1:5
-
 To whom be glory for ever and ever. Amen.

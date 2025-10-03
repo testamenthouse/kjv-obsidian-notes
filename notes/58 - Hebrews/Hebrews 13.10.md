@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 13:10
-
 We have an altar, whereof they have no right to eat which serve the tabernacle.

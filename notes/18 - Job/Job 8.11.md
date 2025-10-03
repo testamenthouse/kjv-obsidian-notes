@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:11
-
 Can the rush grow up without mire? can the flag grow without water?

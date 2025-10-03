@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 1:25
-
 And there was a voice from the firmament that was over their heads, when they stood, and had let down their wings.

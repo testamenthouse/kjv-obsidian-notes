@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 16:1
-
 Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.

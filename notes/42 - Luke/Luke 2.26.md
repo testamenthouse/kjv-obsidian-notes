@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 2:26
-
 And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord's Christ.

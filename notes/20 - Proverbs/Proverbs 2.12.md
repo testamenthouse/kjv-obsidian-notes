@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 2:12
-
 To deliver thee from the way of the evil man, from the man that speaketh froward things;

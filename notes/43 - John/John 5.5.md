@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 5:5
-
 And a certain man was there, which had an infirmity thirty and eight years.

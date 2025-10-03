@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:18
-
 If he destroy him from his place, then it shall deny him, saying, I have not seen thee.

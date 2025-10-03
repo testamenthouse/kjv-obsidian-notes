@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 4:5
-
 And the priest that is anointed shall take of the bullock's blood, and bring it to the tabernacle of the congregation:

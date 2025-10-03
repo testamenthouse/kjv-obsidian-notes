@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 26:25
-
 When he speaketh fair, believe him not: for there are seven abominations in his heart.

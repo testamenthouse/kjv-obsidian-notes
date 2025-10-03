@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 3:5
-
 The just LORD is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame.

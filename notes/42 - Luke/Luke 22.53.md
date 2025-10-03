@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [demonic-phrases, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:53
-
 When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 33:11
-
 Bless, LORD, his substance, and accept the work of his hands; smite through the loins of them that rise against him, and of them that hate him, that they rise not again.

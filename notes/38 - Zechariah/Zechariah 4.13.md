@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 4:13
-
 And he answered me and said, Knowest thou not what these be? And I said, No, my lord.

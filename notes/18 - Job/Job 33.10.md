@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:10
-
 Behold, he findeth occasions against me, he counteth me for his enemy,

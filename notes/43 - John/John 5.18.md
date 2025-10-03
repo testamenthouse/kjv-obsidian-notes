@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast, cause-effect]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 5:18
-
 Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God.

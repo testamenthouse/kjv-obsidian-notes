@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 21:10
-
 And the LORD spake by his servants the prophets, saying,

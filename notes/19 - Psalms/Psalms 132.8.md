@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 132:8
-
 Arise, O LORD, into thy rest; thou, and the ark of thy strength.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 10:17
-
 Then the children of Ammon were gathered together, and encamped in Gilead. And the children of Israel assembled themselves together, and encamped in Mizpeh.

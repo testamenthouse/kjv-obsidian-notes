@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:28
-
 And he said unto him, Thou hast answered right: this do, and thou shalt live.

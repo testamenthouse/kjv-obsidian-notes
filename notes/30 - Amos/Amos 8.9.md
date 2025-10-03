@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 8:9
-
 And it shall come to pass in that day, saith the Lord GOD, that I will cause the sun to go down at noon, and I will darken the earth in the clear day:

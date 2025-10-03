@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 10:32
-
 The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness.

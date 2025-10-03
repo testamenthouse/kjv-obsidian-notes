@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 5:2
-
 The LORD our God made a covenant with us in Horeb.

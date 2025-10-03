@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 24:1
-
 The earth is the LORD's, and the fulness thereof; the world, and they that dwell therein.

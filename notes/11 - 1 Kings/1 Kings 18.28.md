@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:28
-
 And they cried aloud, and cut themselves after their manner with knives and lancets, till the blood gushed out upon them.

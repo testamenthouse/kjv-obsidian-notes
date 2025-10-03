@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:2
-
 And he is the propitiation for our sins: and not for our's only, but also for the sins of the whole world.

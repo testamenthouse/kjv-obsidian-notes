@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 12:5
-
 Your lamb shall be without blemish, a male of the first year: ye shall take it out from the sheep, or from the goats:

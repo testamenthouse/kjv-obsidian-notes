@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 3:5
-
 And when Haman saw that Mordecai bowed not, nor did him reverence, then was Haman full of wrath.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 17:8
-
 And when they had lifted up their eyes, they saw no man, save Jesus only.

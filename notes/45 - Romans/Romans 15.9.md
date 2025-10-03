@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, cause-effect]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:9
-
 And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:38
-
 When the dust groweth into hardness, and the clods cleave fast together?

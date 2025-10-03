@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 49:16
-
 Be not thou afraid when one is made rich, when the glory of his house is increased;

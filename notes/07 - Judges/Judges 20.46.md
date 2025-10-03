@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 20:46
-
 So that all which fell that day of Benjamin were twenty and five thousand men that drew the sword; all these were men of valor.

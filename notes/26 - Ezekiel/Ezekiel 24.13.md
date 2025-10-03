@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 24:13
-
 In thy filthiness is lewdness: because I have purged thee, and thou wast not purged, thou shalt not be purged from thy filthiness any more, till I have caused my fury to rest upon thee.

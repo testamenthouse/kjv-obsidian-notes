@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 64:2
-
 Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:

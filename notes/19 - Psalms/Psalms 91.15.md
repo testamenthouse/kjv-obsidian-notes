@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 91:15
-
 He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.

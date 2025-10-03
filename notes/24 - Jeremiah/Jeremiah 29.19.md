@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 29:19
-
 Because they have not hearkened to my words, saith the LORD, which I sent unto them by my servants the prophets, rising up early and sending them; but ye would not hear, saith the LORD.

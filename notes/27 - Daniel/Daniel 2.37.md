@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 2:37
-
 Thou, O king, art a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory.

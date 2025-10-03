@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:43
-
 Of the sons of Nebo; Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah.

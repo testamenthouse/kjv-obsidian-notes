@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 9:21
-
 To stablish this among them, that they should keep the fourteenth day of the month Adar, and the fifteenth day of the same, yearly,

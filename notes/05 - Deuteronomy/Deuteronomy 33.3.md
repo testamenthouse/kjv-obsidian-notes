@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 33:3
-
 Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words.

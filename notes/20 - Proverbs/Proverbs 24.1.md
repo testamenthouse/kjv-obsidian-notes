@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 24:1
-
 Be not thou envious against evil men, neither desire to be with them.

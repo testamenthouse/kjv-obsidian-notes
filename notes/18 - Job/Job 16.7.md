@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:7
-
 But now he hath made me weary: thou hast made desolate all my company.

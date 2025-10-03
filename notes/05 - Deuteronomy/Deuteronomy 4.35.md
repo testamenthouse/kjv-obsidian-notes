@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 4:35
-
 Unto thee it was showed, that thou mightest know that the LORD he is God; there is none else beside him.

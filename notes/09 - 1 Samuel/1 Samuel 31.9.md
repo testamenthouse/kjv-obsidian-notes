@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 31:9
-
 And they cut off his head, and stripped off his armor, and sent into the land of the Philistines round about, to publish it in the house of their idols, and among the people.

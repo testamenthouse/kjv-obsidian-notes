@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 2:17
-
 Honour all men. Love the brotherhood. Fear God. Honour the king.

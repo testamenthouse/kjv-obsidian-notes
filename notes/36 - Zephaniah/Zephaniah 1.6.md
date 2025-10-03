@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 1:6
-
 And them that are turned back from the LORD; and those that have not sought the LORD, nor enquired for him.

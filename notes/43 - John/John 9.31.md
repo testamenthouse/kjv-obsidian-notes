@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:31
-
 Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth.

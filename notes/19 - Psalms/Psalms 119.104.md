@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:104
-
 Through thy precepts I get understanding: therefore I hate every false way.

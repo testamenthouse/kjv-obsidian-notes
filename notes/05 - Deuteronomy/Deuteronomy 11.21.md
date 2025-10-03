@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 11:21
-
 That your days may be multiplied, and the days of your children, in the land which the LORD sware unto your fathers to give them, as the days of heaven upon the earth.

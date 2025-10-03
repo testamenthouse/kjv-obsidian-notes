@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 12:15
-
 Of Harim, Adna; of Meraioth, Helkai;

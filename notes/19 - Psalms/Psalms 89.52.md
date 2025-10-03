@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:52
-
 Blessed be the LORD for evermore. Amen, and Amen.

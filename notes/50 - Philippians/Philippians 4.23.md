@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 4:23
-
 The grace of our Lord Jesus Christ be with you all. Amen.

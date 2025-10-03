@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:42
-
 Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.

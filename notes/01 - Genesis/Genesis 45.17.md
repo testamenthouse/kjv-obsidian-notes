@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 45:17
-
 And Pharaoh said unto Joseph, Say unto thy brethren, This do ye; lade your beasts, and go, get you unto the land of Canaan;

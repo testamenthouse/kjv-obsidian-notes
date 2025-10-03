@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:14
-
 Then will I also confess unto thee that thine own right hand can save thee.

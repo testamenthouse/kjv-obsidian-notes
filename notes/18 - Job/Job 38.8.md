@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:8
-
 Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb?

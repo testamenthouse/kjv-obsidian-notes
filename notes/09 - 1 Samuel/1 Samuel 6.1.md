@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 6:1
-
 And the ark of the LORD was in the country of the Philistines seven months.

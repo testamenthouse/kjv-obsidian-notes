@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 48:9
-
 And Joseph said unto his father, They are my sons, whom God hath given me in this place. And he said, Bring them, I pray thee, unto me, and I will bless them.

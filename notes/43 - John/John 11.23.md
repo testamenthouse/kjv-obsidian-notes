@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:23
-
 Jesus saith unto her, Thy brother shall rise again.

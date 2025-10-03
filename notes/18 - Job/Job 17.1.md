@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:1
-
 My breath is corrupt, my days are extinct, the graves are ready for me.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:15
-
 And Elijah said, As the LORD of hosts liveth, before whom I stand, I will surely show myself unto him to day.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 10:3
-
 And they sent and called him. So Jeroboam and all Israel came and spake to Rehoboam, saying,

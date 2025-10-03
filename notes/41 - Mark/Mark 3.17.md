@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 3:17
-
 And James the son of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:

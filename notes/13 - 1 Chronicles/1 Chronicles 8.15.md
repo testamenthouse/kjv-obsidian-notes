@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 8:15
-
 And Zebadiah, and Arad, and Ader,

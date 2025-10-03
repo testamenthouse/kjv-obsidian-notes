@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 5:6
-
 And Seth lived an hundred and five years, and begat Enos:

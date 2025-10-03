@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 21:3
-
 If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.

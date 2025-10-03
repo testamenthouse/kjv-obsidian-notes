@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [demonic-entities, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 12:43
-
 When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none.

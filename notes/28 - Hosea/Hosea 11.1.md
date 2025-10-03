@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 11:1
-
 When Israel was a child, then I loved him, and called my son out of Egypt.

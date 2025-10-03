@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 13:16
-
 To wit, the prophets of Israel which prophesy concerning Jerusalem, and which see visions of peace for her, and there is no peace, saith the Lord GOD.

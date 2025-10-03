@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 50:10
-
 Who is among you that feareth the LORD, that obeyeth the voice of his servant, that walketh in darkness, and hath no light? let him trust in the name of the LORD, and stay upon his God.

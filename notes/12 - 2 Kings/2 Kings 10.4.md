@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 10:4
-
 But they were exceedingly afraid, and said, Behold, two kings stood not before him: how then shall we stand?

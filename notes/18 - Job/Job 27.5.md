@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:5
-
 God forbid that I should justify you: till I die I will not remove mine integrity from me.

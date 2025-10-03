@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 27:9
-
 Ointment and perfume rejoice the heart: so doth the sweetness of a man's friend by hearty counsel.

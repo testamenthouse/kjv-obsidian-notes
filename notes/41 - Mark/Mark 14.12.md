@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [warfare, time-units, time-feasts, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:12
-
 And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where wilt thou that we go and prepare that thou mayest eat the passover?

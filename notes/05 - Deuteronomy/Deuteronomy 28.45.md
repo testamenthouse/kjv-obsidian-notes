@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 28:45
-
 Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the LORD thy God, to keep his commandments and his statutes which he commanded thee:

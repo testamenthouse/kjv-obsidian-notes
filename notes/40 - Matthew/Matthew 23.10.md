@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 23:10
-
 Neither be ye called masters: for one is your Master, even Christ.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 4:1
-
 If thou wilt return, O Israel, saith the LORD, return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:43
-
 Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the LORD.

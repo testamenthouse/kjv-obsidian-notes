@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:16
-
 When I had waited, (for they spake not, but stood still, and answered no more;)

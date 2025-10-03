@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 23:9
-
 And David knew that Saul secretly practiced mischief against him; and he said to Abiathar the priest, Bring hither the ephod.

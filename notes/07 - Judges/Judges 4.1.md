@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 4:1
-
 And the children of Israel again did evil in the sight of the LORD, when Ehud was dead.

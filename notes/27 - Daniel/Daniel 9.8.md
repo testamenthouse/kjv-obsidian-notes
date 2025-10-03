@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 9:8
-
 O Lord, to us belongeth confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee.

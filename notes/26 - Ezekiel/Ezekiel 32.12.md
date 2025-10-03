@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 32:12
-
 By the swords of the mighty will I cause thy multitude to fall, the terrible of the nations, all of them: and they shall spoil the pomp of Egypt, and all the multitude thereof shall be destroyed.

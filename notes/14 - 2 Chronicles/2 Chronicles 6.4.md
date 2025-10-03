@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 6:4
-
 And he said, Blessed be the LORD God of Israel, who hath with his hands fulfilled that which he spake with his mouth to my father David, saying,

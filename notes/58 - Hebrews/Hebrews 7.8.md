@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 7:8
-
 And here men that die receive tithes; but there he receiveth them, of whom it is witnessed that he liveth.

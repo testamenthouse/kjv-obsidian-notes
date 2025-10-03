@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 51:15
-
 O Lord, open thou my lips; and my mouth shall shew forth thy praise.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:9
-
 Then he sheweth them their work, and their transgressions that they have exceeded.

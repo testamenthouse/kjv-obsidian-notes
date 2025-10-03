@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 7:11
-
 But they refused to hearken, and pulled away the shoulder, and stopped their ears, that they should not hear.

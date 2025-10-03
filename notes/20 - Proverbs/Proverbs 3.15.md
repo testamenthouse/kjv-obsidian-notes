@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 3:15
-
 She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.

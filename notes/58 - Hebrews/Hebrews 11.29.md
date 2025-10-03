@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 11:29
-
 By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned.

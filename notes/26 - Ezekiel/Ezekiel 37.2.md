@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 37:2
-
 And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry.

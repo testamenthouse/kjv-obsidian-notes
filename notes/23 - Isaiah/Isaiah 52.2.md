@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 52:2
-
 Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.

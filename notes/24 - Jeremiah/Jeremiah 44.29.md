@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 44:29
-
 And this shall be a sign unto you, saith the LORD, that I will punish you in this place, that ye may know that my words shall surely stand against you for evil:

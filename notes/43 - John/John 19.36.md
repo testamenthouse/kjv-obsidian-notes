@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:36
-
 For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken.

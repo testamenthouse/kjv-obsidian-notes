@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:16
-
 And he took them up in his arms, put his hands upon them, and blessed them.

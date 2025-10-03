@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 4:44
-
 Even those that were numbered of them after their families, were three thousand and two hundred.

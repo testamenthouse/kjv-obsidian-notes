@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 15:25
-
 The LORD will destroy the house of the proud: but he will establish the border of the widow.

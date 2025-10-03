@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 16:25
-
 And Moses rose up and went unto Dathan and Abiram; and the elders of Israel followed him.

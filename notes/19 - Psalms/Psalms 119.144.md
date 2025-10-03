@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:144
-
 The righteousness of thy testimonies is everlasting: give me understanding, and I shall live.

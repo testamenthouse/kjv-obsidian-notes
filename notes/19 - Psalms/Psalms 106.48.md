@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, praise-worship, benediction, time-eschatology, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:48
-
 Blessed be the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD.

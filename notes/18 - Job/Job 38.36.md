@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:36
-
 Who hath put wisdom in the inward parts? or who hath given understanding to the heart?

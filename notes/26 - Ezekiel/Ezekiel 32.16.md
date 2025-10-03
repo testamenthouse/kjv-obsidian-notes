@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 32:16
-
 This is the lamentation wherewith they shall lament her: the daughters of the nations shall lament her: they shall lament for her, even for Egypt, and for all her multitude, saith the Lord GOD.

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 37:30
-
 And he returned unto his brethren, and said, The child is not; and I, whither shall I go?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 33:16
-
 And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel.

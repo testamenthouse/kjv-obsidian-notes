@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 39:27
-
 When I have brought them again from the people, and gathered them out of their enemies' lands, and am sanctified in them in the sight of many nations;

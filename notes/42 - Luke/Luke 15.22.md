@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 15:22
-
 But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:

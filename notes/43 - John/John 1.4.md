@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 1:4
-
 In him was life; and the life was the light of men.

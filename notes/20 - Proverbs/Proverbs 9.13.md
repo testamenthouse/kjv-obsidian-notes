@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 9:13
-
 A foolish woman is clamorous: she is simple, and knoweth nothing.

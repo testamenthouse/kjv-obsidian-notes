@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 3:16
-
 And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son.

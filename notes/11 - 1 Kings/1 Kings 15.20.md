@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:20
-
 So Benhadad hearkened unto king Asa, and sent the captains of the hosts which he had against the cities of Israel, and smote Ijon, and Dan, and Abelbethmaachah, and all Cinneroth, with all the land of Naphtali.

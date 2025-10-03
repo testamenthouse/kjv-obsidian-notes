@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:57
-
 Thou art my portion, O LORD: I have said that I would keep thy words.

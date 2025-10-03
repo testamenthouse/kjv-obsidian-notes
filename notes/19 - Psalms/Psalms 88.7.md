@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 88:7
-
 Thy wrath lieth hard upon me, and thou hast afflicted me with all thy waves. Selah.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 41:3
-
 Ishmael also slew all the Jews that were with him, even with Gedaliah, at Mizpah, and the Chaldeans that were found there, and the men of war.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 29:2
-
 (After that Jeconiah the king, and the queen, and the eunuchs, the princes of Judah and Jerusalem, and the carpenters, and the smiths, were departed from Jerusalem;)

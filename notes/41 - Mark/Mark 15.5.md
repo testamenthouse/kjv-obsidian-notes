@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, cause-effect]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:5
-
 But Jesus yet answered nothing; so that Pilate marvelled.

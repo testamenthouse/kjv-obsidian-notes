@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 5:22
-
 Though ye offer me burnt offerings and your meat offerings, I will not accept them: neither will I regard the peace offerings of your fat beasts.

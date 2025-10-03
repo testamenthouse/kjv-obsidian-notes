@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 28:5
-
 In that day shall the LORD of hosts be for a crown of glory, and for a diadem of beauty, unto the residue of his people,

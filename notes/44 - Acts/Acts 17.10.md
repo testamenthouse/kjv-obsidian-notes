@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 17:10
-
 And the brethren immediately sent away Paul and Silas by night unto Berea: who coming thither went into the synagogue of the Jews.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 44:20
-
 Neither shall they shave their heads, nor suffer their locks to grow long; they shall only poll their heads.

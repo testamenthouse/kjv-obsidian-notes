@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 25:2
-
 And there was a man in Maon, whose possessions were in Carmel; and the man was very great, and he had three thousand sheep, and a thousand goats: and he was shearing his sheep in Carmel.

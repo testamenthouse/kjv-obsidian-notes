@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 8:11
-
 Behold, the days come, saith the Lord GOD, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the LORD:

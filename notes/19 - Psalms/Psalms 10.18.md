@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 10:18
-
 To judge the fatherless and the oppressed, that the man of the earth may no more oppress.

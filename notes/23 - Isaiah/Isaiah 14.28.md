@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 14:28
-
 In the year that king Ahaz died was this burden.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 8:2
-
 Now the name of his firstborn was Joel; and the name of his second, Abiah: they were judges in Beersheba.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 7:6
-
 After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 21:14
-
 Then they sent to Jezebel, saying, Naboth is stoned, and is dead.

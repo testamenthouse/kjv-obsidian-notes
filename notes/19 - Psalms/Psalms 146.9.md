@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 146:9
-
 The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.

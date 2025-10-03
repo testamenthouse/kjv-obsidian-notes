@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional, cause-effect]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 1:7
-
 So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:

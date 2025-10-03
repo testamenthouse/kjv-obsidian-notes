@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 9:18
-
 And let them make haste, and take up a wailing for us, that our eyes may run down with tears, and our eyelids gush out with waters.

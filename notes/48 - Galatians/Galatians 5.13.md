@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:13
-
 For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.

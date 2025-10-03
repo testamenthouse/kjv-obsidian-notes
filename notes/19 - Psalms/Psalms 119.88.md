@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:88
-
 Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth.

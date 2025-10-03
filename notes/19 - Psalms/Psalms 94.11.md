@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 94:11
-
 The LORD knoweth the thoughts of man, that they are vanity.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 42:2
-
 He shall not cry, nor lift up, nor cause his voice to be heard in the street.

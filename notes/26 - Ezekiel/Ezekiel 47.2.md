@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 47:2
-
 Then brought he me out of the way of the gate northward, and led me about the way without unto the utter gate by the way that looketh eastward; and, behold, there ran out waters on the right side.

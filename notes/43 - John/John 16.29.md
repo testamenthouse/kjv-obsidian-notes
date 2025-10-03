@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:29
-
 His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb.

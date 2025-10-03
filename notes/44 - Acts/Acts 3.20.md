@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 3:20
-
 And he shall send Jesus Christ, which before was preached unto you:

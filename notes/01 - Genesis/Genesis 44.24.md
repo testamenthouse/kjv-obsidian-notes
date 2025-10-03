@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 44:24
-
 And it came to pass when we came up unto thy servant my father, we told him the words of my lord.

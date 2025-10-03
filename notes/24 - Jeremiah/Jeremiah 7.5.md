@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional, greeting/closing]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 7:5
-
 For if ye throughly amend your ways and your doings; if ye throughly execute judgment between a man and his neighbour;

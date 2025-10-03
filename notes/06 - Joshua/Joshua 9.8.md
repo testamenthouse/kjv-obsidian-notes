@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 9:8
-
 And they said unto Joshua, We are thy servants. And Joshua said unto them, Who are ye? and from whence come ye?

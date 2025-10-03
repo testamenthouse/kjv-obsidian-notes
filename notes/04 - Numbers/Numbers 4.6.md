@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 4:6
-
 And shall put thereon the covering of badgers' skins, and shall spread over it a cloth wholly of blue, and shall put in the staves thereof.

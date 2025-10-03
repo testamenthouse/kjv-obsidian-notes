@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 11:1
-
 And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities.

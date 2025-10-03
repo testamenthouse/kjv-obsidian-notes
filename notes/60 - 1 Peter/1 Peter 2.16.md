@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 2:16
-
 As free, and not using your liberty for a cloke of maliciousness, but as the servants of God.

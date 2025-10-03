@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 21:2
-
 If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.

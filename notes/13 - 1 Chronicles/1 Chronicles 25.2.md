@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 25:2
-
 Of the sons of Asaph; Zaccur, and Joseph, and Nethaniah, and Asarelah, the sons of Asaph under the hands of Asaph, which prophesied according to the order of the king.

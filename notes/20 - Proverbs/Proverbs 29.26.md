@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 29:26
-
 Many seek the ruler's favour; but every man's judgment cometh from the LORD.

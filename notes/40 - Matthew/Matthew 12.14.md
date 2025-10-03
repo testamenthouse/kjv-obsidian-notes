@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 12:14
-
 Then the Pharisees went out, and held a council against him, how they might destroy him.

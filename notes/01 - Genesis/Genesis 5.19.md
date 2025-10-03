@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 5:19
-
 And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:

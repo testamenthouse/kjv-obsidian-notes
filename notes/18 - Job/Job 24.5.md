@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:5
-
 Behold, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yieldeth food for them and for their children.

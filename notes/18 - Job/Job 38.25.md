@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:25
-
 Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;

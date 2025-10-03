@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 11:1
-
 Be ye followers of me, even as I also am of Christ.

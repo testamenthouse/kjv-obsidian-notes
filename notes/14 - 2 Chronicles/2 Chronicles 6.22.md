@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 6:22
-
 If a man sin against his neighbor, and an oath be laid upon him to make him swear, and the oath come before thine altar in this house;

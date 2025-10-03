@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:32
-
 For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 9:9
-
 Then said he unto me, The iniquity of the house of Israel and Judah is exceeding great, and the land is full of blood, and the city full of perverseness: for they say, The LORD hath forsaken the earth, and the LORD seeth not.

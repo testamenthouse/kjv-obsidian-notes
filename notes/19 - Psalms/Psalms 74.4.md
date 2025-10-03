@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 74:4
-
 Thine enemies roar in the midst of thy congregations; they set up their ensigns for signs.

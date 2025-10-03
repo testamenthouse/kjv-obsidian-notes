@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 33:17
-
 Yet the children of thy people say, The way of the Lord is not equal: but as for them, their way is not equal.

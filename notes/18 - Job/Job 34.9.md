@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:9
-
 For he hath said, It profiteth a man nothing that he should delight himself with God.

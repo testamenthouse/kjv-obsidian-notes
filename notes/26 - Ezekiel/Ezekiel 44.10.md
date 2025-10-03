@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 44:10
-
 And the Levites that are gone away far from me, when Israel went astray, which went astray away from me after their idols; they shall even bear their iniquity.

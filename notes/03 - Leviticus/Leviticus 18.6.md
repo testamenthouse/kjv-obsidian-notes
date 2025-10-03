@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 18:6
-
 None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the LORD.

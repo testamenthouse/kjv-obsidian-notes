@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:26
-
 Jesus saith unto her, I that speak unto thee am he.

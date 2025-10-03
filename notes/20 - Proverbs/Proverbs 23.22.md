@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 23:22
-
 Hearken unto thy father that begat thee, and despise not thy mother when she is old.

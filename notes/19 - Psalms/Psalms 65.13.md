@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 65:13
-
 The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.

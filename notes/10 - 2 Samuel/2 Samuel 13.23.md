@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 13:23
-
 And it came to pass after two full years, that Absalom had sheepshearers in Baalhazor, which is beside Ephraim: and Absalom invited all the king's sons.

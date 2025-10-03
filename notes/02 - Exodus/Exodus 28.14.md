@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 28:14
-
 And two chains of pure gold at the ends; of wreathed work shalt thou make them, and fasten the wreathed chains to the ouches.

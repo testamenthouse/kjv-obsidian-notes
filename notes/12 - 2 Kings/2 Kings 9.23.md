@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 9:23
-
 And Joram turned his hands, and fled, and said to Ahaziah, There is treachery, O Ahaziah.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time-feasts, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:44
-
 And the next sabbath day came almost the whole city together to hear the word of God.

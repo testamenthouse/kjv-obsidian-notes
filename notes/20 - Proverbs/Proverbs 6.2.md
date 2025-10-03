@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 6:2
-
 Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.

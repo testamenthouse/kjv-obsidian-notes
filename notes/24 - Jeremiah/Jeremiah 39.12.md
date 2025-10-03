@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 39:12
-
 Take him, and look well to him, and do him no harm; but do unto him even as he shall say unto thee.

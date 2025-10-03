@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 1:15
-
 And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.

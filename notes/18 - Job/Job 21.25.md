@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:25
-
 And another dieth in the bitterness of his soul, and never eateth with pleasure.

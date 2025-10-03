@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 3:20
-
 Now a mediator is not a mediator of one, but God is one.

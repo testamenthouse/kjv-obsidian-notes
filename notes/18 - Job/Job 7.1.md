@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 7:1
-
 Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?

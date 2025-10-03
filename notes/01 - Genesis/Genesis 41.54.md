@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:54
-
 And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.

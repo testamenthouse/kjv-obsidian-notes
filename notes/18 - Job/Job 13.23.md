@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:23
-
 How many are mine iniquities and sins? make me to know my transgression and my sin.

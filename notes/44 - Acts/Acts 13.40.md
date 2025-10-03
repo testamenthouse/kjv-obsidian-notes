@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:40
-
 Beware therefore, lest that come upon you, which is spoken of in the prophets;

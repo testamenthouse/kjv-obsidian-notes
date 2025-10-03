@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 36:5
-
 And Moses commanded the children of Israel according to the word of the LORD, saying, The tribe of the sons of Joseph hath said well.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 2:2
-
 Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:

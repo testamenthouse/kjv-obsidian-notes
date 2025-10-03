@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 4:21
-
 And he said unto them, Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 19:22
-
 And let the priests also, which come near to the LORD, sanctify themselves, lest the LORD break forth upon them.

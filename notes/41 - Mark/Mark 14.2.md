@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:2
-
 But they said, Not on the feast day, lest there be an uproar of the people.

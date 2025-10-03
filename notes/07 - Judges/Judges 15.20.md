@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 15:20
-
 And he judged Israel in the days of the Philistines twenty years.

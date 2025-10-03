@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, cause-effect]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 11:11
-
 And it was so on the morrow, that Saul put the people in three companies; and they came into the midst of the host in the morning watch, and slew the Ammonites until the heat of the day: and it came to pass, that they which remained were scattered, so that two of them were not left together.

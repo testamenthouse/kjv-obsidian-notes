@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 73:20
-
 As a dream when one awaketh; so, O Lord, when thou awakest, thou shalt despise their image.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 49:19
-
 Gad, a troop shall overcome him: but he shall overcome at the last.

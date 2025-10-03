@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 8:9
-
 And he begat of Hodesh his wife, Jobab, and Zibia, and Mesha, and Malcham,

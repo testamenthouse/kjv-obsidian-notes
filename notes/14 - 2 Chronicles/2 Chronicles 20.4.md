@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 20:4
-
 And Judah gathered themselves together, to ask help of the LORD: even out of all the cities of Judah they came to seek the LORD.

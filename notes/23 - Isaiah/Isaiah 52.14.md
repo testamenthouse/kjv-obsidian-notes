@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 52:14
-
 As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men:

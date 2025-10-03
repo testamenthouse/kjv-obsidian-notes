@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:47
-
 And I asked her, and said, Whose daughter art thou? And she said, the daughter of Bethuel, Nahor's son, whom Milcah bare unto him: and I put the earring upon her face, and the bracelets upon her hands.

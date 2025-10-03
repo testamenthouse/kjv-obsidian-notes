@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:34
-
 And Abimelech rose up, and all the people that were with him, by night, and they laid wait against Shechem in four companies.

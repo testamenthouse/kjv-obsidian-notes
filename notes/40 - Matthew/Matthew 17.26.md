@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 17:26
-
 Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.

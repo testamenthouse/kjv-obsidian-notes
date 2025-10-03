@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 31:16
-
 Make thy face to shine upon thy servant: save me for thy mercies' sake.

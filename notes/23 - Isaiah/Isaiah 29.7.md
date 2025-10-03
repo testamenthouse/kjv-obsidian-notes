@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-parts-of-day, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 29:7
-
 And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.

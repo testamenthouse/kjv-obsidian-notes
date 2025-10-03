@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:28
-
 And sounded, and found it twenty fathoms: and when they had gone a little further, they sounded again, and found it fifteen fathoms.

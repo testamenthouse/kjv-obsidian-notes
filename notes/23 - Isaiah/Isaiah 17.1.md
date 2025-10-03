@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 17:1
-
 The burden of Damascus. Behold, Damascus is taken away from being a city, and it shall be a ruinous heap.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional, cause-effect]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 2:17
-
 But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid.

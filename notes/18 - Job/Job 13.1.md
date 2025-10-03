@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:1
-
 Lo, mine eye hath seen all this, mine ear hath heard and understood it.

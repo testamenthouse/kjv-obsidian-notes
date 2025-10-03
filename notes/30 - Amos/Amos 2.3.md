@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 2:3
-
 And I will cut off the judge from the midst thereof, and will slay all the princes thereof with him, saith the LORD.

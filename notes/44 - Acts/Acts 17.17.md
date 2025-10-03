@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 17:17
-
 Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him.

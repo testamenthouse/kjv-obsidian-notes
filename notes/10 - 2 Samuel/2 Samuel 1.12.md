@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 1:12
-
 And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the LORD, and for the house of Israel; because they were fallen by the sword.

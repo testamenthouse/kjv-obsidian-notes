@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:17
-
 Delivering thee from the people, and from the Gentiles, unto whom now I send thee,

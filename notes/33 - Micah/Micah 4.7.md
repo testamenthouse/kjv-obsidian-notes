@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 4:7
-
 And I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth, even for ever.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 32:41
-
 If I whet my glittering sword, and mine hand take hold on judgment; I will render vengeance to mine enemies, and will reward them that hate me.

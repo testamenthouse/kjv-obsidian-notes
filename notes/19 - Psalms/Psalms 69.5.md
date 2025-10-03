@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:5
-
 O God, thou knowest my foolishness; and my sins are not hid from thee.

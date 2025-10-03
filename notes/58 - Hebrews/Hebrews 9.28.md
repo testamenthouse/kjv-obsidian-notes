@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 9:28
-
 So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.

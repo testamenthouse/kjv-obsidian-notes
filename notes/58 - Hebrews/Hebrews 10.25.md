@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, one-another, time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 10:25
-
 Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.

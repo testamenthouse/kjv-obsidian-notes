@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:8
-
 And Jesus said unto them, Neither tell I you by what authority I do these things.

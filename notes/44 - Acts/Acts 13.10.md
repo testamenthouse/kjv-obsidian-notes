@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:10
-
 And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?

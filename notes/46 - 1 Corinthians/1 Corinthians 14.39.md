@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 14:39
-
 Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues.

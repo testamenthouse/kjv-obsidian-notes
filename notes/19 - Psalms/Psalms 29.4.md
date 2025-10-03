@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 29:4
-
 The voice of the LORD is powerful; the voice of the LORD is full of majesty.

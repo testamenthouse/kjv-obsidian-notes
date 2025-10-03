@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 1:22
-
 And was unknown by face unto the churches of Judaea which were in Christ:

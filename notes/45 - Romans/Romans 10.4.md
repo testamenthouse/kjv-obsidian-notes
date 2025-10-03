@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 10:4
-
 For Christ is the end of the law for righteousness to every one that believeth.

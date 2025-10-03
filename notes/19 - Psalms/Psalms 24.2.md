@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 24:2
-
 For he hath founded it upon the seas, and established it upon the floods.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 1:8
-
 And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;

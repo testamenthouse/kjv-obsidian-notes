@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title, thanksgiving]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:20
-
 Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;

@@ -13,7 +13,4 @@ grammar_tags: [question, negation, contrast]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:17
-
 Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?

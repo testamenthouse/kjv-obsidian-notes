@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 3:24
-
 Being justified freely by his grace through the redemption that is in Christ Jesus:

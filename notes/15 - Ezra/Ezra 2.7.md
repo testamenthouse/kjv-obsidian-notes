@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:7
-
 The children of Elam, a thousand two hundred fifty and four.

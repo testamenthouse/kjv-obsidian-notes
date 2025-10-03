@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 118:11
-
 They compassed me about; yea, they compassed me about: but in the name of the LORD I will destroy them.

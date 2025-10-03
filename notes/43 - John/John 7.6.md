@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:6
-
 Then Jesus said unto them, My time is not yet come: but your time is alway ready.

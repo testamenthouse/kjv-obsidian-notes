@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:40
-
 And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.

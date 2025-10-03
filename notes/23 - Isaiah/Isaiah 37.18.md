@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 37:18
-
 Of a truth, LORD, the kings of Assyria have laid waste all the nations, and their countries,

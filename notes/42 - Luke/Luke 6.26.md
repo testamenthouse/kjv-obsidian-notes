@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:26
-
 Woe unto you, when all men shall speak well of you! for so did their fathers to the false prophets.

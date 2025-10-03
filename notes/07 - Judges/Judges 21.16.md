@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 21:16
-
 Then the elders of the congregation said, How shall we do for wives for them that remain, seeing the women are destroyed out of Benjamin?

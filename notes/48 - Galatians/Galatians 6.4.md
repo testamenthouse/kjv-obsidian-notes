@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 6:4
-
 But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.

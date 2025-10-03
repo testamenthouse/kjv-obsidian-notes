@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 38:5
-
 Then Zedekiah the king said, Behold, he is in your hand: for the king is not he that can do any thing against you.

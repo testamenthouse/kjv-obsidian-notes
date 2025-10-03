@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:15
-
 Hast thou marked the old way which wicked men have trodden?

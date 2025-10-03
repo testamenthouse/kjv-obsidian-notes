@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 3:14
-
 Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.

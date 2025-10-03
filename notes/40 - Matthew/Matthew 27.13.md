@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:13
-
 Then said Pilate unto him, Hearest thou not how many things they witness against thee?

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 12:12
-
 The spoilers are come upon all high places through the wilderness: for the sword of the LORD shall devour from the one end of the land even to the other end of the land: no flesh shall have peace.

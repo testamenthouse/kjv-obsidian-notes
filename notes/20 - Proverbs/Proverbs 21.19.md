@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 21:19
-
 It is better to dwell in the wilderness, than with a contentious and an angry woman.

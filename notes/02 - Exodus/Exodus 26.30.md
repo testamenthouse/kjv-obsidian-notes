@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 26:30
-
 And thou shalt rear up the tabernacle according to the fashion thereof which was showed thee in the mount.

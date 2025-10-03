@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:31
-
 For if they do these things in a green tree, what shall be done in the dry?

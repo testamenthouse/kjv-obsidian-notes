@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 43:16
-
 And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring these men home, and slay, and make ready; for these men shall dine with me at noon.

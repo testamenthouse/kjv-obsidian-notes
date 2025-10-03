@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 22:20
-
 But if this thing be true, and the tokens of virginity be not found for the damsel:

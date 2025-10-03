@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 16:2
-
 He answered and said unto them, When it is evening, ye say, It will be fair weather: for the sky is red.

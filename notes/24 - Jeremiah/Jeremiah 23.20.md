@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 23:20
-
 The anger of the LORD shall not return, until he have executed, and till he have performed the thoughts of his heart: in the latter days ye shall consider it perfectly.

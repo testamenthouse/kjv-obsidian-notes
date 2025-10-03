@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 45:6
-
 That they may know from the rising of the sun, and from the west, that there is none beside me. I am the LORD, and there is none else.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 48:2
-
 And one told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed.

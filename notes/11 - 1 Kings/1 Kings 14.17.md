@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 14:17
-
 And Jeroboam's wife arose, and departed, and came to Tirzah: and when she came to the threshold of the door, the child died;

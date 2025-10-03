@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 11:5
-
 And what he did unto you in the wilderness, until ye came into this place;

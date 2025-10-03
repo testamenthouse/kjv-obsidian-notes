@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 28:25
-
 And in every several city of Judah he made high places to burn incense unto other gods, and provoked to anger the LORD God of his fathers.

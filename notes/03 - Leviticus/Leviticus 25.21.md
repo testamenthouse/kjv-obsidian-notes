@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [praise-worship, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:21
-
 Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.

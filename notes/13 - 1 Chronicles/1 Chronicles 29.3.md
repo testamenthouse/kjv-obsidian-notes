@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 29:3
-
 Moreover, because I have set my affection to the house of my God, I have of mine own proper good, of gold and silver, which I have given to the house of my God, over and above all that I have prepared for the holy house.

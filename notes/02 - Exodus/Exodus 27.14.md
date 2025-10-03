@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 27:14
-
 The hangings of one side of the gate shall be fifteen cubits: their pillars three, and their sockets three.

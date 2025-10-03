@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 8:6
-
 But the thing displeased Samuel, when they said, Give us a king to judge us. And Samuel prayed unto the LORD.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 14:17
-
 And Amaziah the son of Joash king of Judah lived after the death of Jehoash son of Jehoahaz king of Israel fifteen years.

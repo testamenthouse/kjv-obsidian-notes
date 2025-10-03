@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 14:7
-
 Whereupon he promised with an oath to give her whatsoever she would ask.

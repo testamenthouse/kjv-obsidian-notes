@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:15
-
 But some of them said, He casteth out devils through Beelzebub the chief of the devils.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 34:16
-
 Seek ye out of the book of the LORD, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them.

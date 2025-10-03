@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:12
-
 Yea, I attended unto you, and, behold, there was none of you that convinced Job, or that answered his words:

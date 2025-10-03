@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:25
-
 Thou knowest Abner the son of Ner, that he came to deceive thee, and to know thy going out and thy coming in, and to know all that thou doest.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 17:48
-
 And it came to pass, when the Philistine arose, and came, and drew nigh to meet David, that David hastened, and ran toward the army to meet the Philistine.

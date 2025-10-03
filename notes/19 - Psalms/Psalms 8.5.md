@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 8:5
-
 For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:19
-
 But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye.

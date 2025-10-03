@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 24:8
-
 The mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of the harp ceaseth.

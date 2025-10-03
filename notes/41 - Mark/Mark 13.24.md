@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:24
-
 But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,

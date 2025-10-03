@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 23:4
-
 I am a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight.

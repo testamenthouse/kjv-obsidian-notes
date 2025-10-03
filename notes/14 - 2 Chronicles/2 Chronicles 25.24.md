@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 25:24
-
 And he took all the gold and the silver, and all the vessels that were found in the house of God with Obededom, and the treasures of the king's house, the hostages also, and returned to Samaria.

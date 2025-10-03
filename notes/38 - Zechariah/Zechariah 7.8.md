@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 7:8
-
 And the word of the LORD came unto Zechariah, saying,

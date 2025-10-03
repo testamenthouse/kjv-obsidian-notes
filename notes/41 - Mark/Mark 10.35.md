@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:35
-
 And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire.

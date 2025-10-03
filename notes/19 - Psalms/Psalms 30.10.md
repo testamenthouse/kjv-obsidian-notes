@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 30:10
-
 Hear, O LORD, and have mercy upon me: LORD, be thou my helper.

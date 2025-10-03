@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 8:14
-
 Counsel is mine, and sound wisdom: I am understanding; I have strength.

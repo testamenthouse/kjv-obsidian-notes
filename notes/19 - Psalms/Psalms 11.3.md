@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 11:3
-
 If the foundations be destroyed, what can the righteous do?

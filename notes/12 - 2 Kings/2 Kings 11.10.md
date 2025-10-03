@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 11:10
-
 And to the captains over hundreds did the priest give king David's spears and shields, that were in the temple of the LORD.

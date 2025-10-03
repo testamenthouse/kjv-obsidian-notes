@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 20:8
-
 For since I spake, I cried out, I cried violence and spoil; because the word of the LORD was made a reproach unto me, and a derision, daily.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 10:26
-
 And Saul also went home to Gibeah; and there went with him a band of men, whose hearts God had touched.

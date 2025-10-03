@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:17
-
 Therefore doth my Father love me, because I lay down my life, that I might take it again.

@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 4:1
-
 Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.

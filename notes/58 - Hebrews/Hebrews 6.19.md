@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 6:19
-
 Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;

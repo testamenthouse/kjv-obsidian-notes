@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 19:24
-
 And the LORD said unto him, Away, get thee down, and thou shalt come up, thou, and Aaron with thee: but let not the priests and the people break through to come up unto the LORD, lest he break forth upon them.

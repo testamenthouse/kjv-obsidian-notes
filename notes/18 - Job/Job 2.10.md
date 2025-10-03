@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 2:10
-
 But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips.

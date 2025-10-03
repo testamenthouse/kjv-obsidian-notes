@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 21:23
-
 And of Jezebel also spake the LORD, saying, The dogs shall eat Jezebel by the wall of Jezreel.

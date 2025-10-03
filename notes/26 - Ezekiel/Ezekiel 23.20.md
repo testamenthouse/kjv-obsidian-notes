@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 23:20
-
 For she doted upon their paramours, whose flesh is as the flesh of asses, and whose issue is like the issue of horses.

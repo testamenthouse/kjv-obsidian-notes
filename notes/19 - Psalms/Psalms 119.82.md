@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:82
-
 Mine eyes fail for thy word, saying, When wilt thou comfort me?

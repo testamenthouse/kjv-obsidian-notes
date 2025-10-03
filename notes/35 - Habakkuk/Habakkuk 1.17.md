@@ -13,7 +13,4 @@ grammar_tags: [question, negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 1:17
-
 Shall they therefore empty their net, and not spare continually to slay the nations?

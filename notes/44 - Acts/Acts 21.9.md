@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:9
-
 And the same man had four daughters, virgins, which did prophesy.

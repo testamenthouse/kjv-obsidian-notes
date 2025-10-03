@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:6
-
 To dwell in the cliffs of the valleys, in caves of the earth, and in the rocks.

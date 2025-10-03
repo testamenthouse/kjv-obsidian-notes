@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:36
-
 Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.

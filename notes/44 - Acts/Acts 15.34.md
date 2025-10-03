@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:34
-
 Notwithstanding it pleased Silas to abide there still.

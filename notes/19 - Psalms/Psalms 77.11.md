@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 77:11
-
 I will remember the works of the LORD: surely I will remember thy wonders of old.

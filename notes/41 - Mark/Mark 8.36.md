@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 8:36
-
 For what shall it profit a man, if he shall gain the whole world, and lose his own soul?

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 13:18
-
 And say, Thus saith the Lord GOD; Woe to the women that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive that come unto you?

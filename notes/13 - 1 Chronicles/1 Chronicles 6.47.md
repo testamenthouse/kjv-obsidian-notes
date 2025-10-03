@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 6:47
-
 The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 25:20
-
 And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padanaram, the sister to Laban the Syrian.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:58
-
 But Peter followed him afar off unto the high priest's palace, and went in, and sat with the servants, to see the end.

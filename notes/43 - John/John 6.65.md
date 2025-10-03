@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:65
-
 And he said, Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.

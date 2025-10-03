@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 13:19
-
 And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be showed to the priest;

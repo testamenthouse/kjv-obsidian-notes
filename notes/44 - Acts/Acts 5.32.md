@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:32
-
 And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him.

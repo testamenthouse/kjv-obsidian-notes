@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:12
-
 And all the prophets prophesied so, saying, Go up to Ramothgilead, and prosper: for the LORD shall deliver it into the king's hand.

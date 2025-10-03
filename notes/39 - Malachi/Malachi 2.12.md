@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Malachi"]
 ---
-
-# Malachi 2:12
-
 The LORD will cut off the man that doeth this, the master and the scholar, out of the tabernacles of Jacob, and him that offereth an offering unto the LORD of hosts.

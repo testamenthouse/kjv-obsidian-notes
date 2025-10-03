@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 14:25
-
 But in all Israel there was none to be so much praised as Absalom for his beauty: from the sole of his foot even to the crown of his head there was no blemish in him.

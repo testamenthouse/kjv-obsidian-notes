@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 39:7
-
 And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon.

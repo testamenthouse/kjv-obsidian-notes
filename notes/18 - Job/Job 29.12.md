@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:12
-
 Because I delivered the poor that cried, and the fatherless, and him that had none to help him.

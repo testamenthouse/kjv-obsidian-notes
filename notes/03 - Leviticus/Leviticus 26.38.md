@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 26:38
-
 And ye shall perish among the heathen, and the land of your enemies shall eat you up.

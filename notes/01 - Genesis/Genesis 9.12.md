@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 9:12
-
 And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:

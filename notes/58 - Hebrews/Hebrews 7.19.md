@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 7:19
-
 For the law made nothing perfect, but the bringing in of a better hope did; by the which we draw nigh unto God.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:46
-
 And lest your heart faint, and ye fear for the rumour that shall be heard in the land; a rumour shall both come one year, and after that in another year shall come a rumour, and violence in the land, ruler against ruler.

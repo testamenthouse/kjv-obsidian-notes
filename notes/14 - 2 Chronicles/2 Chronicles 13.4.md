@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 13:4
-
 And Abijah stood up upon mount Zemaraim, which is in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel;

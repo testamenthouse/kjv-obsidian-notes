@@ -13,7 +13,4 @@ grammar_tags: [question, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:5
-
 That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?

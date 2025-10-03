@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 14:8
-
 For if the trumpet give an uncertain sound, who shall prepare himself to the battle?

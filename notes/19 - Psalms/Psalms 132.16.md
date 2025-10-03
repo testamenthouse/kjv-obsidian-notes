@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 132:16
-
 I will also clothe her priests with salvation: and her saints shall shout aloud for joy.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:31
-
 If any man trespass against his neighbor, and an oath be laid upon him to cause him to swear, and the oath come before thine altar in this house:

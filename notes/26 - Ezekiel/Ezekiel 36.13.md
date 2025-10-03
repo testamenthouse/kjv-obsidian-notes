@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 36:13
-
 Thus saith the Lord GOD; Because they say unto you, Thou land devourest up men, and hast bereaved thy nations:

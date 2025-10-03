@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 5:21
-
 Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.

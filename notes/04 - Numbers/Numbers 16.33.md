@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 16:33
-
 They, and all that appertained to them, went down alive into the pit, and the earth closed upon them: and they perished from among the congregation.

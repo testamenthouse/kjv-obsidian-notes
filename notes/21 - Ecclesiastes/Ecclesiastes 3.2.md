@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 3:2
-
 A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;

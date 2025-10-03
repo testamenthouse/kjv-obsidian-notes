@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 43:19
-
 And thou shalt give to the priests the Levites that be of the seed of Zadok, which approach unto me, to minister unto me, saith the Lord GOD, a young bullock for a sin offering.

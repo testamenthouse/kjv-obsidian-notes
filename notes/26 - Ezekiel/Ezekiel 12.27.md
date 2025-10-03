@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 12:27
-
 Son of man, behold, they of the house of Israel say, The vision that he seeth is for many days to come, and he prophesieth of the times that are far off.

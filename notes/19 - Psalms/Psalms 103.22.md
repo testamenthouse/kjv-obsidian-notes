@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:22
-
 Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul.

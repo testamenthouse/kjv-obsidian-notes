@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 135:19
-
 Bless the LORD, O house of Israel: bless the LORD, O house of Aaron:

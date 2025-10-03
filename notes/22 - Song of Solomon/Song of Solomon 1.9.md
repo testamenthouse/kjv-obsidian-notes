@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 1:9
-
 I have compared thee, O my love, to a company of horses in Pharaoh's chariots.

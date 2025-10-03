@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 19:22
-
 And the LORD shall smite Egypt: he shall smite and heal it: and they shall return even to the LORD, and he shall be intreated of them, and shall heal them.

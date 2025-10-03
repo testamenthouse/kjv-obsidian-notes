@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 7:28
-
 Hitherto is the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.

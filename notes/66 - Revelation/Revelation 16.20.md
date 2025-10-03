@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 16:20
-
 And every island fled away, and the mountains were not found.

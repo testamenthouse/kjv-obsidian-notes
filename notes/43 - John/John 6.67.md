@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:67
-
 Then said Jesus unto the twelve, Will ye also go away?

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 81:12
-
 So I gave them up unto their own hearts' lust: and they walked in their own counsels.

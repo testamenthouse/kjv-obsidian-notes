@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title, covenant]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 12:24
-
 And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things that that of Abel.

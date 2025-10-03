@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 147:19
-
 He sheweth his word unto Jacob, his statutes and his judgments unto Israel.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 14:17
-
 And another angel came out of the temple which is in heaven, he also having a sharp sickle.

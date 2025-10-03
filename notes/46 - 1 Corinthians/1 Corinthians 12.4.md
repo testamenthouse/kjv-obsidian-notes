@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 12:4
-
 Now there are diversities of gifts, but the same Spirit.

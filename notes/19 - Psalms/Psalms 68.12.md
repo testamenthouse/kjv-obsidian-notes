@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:12
-
 Kings of armies did flee apace: and she that tarried at home divided the spoil.

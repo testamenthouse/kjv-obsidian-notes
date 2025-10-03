@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:29
-
 And Jesus answered and said unto them, I will also ask of you one question, and answer me, and I will tell you by what authority I do these things.

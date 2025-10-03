@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:24
-
 And for these ye shall be unclean: whosoever toucheth the carcass of them shall be unclean until the even.

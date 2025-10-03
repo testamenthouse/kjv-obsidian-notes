@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 2:12
-
 But ye gave the Nazarites wine to drink; and commanded the prophets, saying, Prophesy not.

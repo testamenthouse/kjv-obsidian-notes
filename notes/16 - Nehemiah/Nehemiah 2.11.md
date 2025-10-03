@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 2:11
-
 So I came to Jerusalem, and was there three days.

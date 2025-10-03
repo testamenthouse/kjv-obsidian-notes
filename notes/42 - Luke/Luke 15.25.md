@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 15:25
-
 Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.

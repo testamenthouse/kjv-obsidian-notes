@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 1:5
-
 For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?

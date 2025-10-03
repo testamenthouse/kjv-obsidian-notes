@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 1:16
-
 Make thee bald, and poll thee for thy delicate children; enlarge thy baldness as the eagle; for they are gone into captivity from thee.

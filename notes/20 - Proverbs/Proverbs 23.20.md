@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 23:20
-
 Be not among winebibbers; among riotous eaters of flesh:

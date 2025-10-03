@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 16:19
-
 So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God.

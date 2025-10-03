@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 26:14
-
 And I will make thee like the top of a rock: thou shalt be a place to spread nets upon; thou shalt be built no more: for I the LORD have spoken it, saith the Lord GOD.

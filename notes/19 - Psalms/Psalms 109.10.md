@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:10
-
 Let his children be continually vagabonds, and beg: let them seek their bread also out of their desolate places.

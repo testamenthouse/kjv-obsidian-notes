@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:26
-
 And they arrived at the country of the Gadarenes, which is over against Galilee.

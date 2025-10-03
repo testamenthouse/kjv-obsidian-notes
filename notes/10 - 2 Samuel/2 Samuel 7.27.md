@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 7:27
-
 For thou, O LORD of hosts, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee.

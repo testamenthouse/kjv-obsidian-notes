@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:3
-
 And he answered and said unto them, I will also ask you one thing; and answer me:

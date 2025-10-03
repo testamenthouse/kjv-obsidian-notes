@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 15:2
-
 Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever.

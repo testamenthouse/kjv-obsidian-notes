@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 66:11
-
 That ye may suck, and be satisfied with the breasts of her consolations; that ye may milk out, and be delighted with the abundance of her glory.

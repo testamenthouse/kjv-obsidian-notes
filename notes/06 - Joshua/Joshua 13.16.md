@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 13:16
-
 And their coast was from Aroer, that is on the bank of the river Arnon, and the city that is in the midst of the river, and all the plain by Medeba;

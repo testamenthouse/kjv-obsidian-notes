@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, thanksgiving, praise-worship, time-parts-of-day, time]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 23:30
-
 And to stand every morning to thank and praise the LORD, and likewise at even:

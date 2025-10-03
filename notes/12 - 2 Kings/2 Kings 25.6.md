@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 25:6
-
 So they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him.

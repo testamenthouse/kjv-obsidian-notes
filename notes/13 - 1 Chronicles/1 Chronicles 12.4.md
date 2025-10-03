@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 12:4
-
 And Ismaiah the Gibeonite, a mighty man among the thirty, and over the thirty; and Jeremiah, and Jahaziel, and Johanan, and Josabad the Gederathite,

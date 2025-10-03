@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:45
-
 But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying.

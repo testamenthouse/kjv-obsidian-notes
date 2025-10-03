@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 1:14
-
 And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy the LORD's anointed?

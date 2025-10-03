@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 27:25
-
 The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered.

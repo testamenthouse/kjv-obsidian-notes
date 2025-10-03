@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 1:14
-
 Of Gad; Eliasaph the son of Deuel.

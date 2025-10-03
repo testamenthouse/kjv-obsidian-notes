@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 47:23
-
 Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, here is seed for you, and ye shall sow the land.

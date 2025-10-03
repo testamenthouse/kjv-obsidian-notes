@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 11:7
-
 Go to, let us go down, and there confound their language, that they may not understand one another's speech.

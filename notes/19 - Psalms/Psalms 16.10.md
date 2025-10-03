@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 16:10
-
 For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.

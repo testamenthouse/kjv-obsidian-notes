@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 5:7
-
 Casting all your care upon him; for he careth for you.

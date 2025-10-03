@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 10:27
-
 The fear of the LORD prolongeth days: but the years of the wicked shall be shortened.

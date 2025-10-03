@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 45:18
-
 Thus saith the Lord GOD; In the first month, in the first day of the month, thou shalt take a young bullock without blemish, and cleanse the sanctuary:

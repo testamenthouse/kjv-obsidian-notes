@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 42:3
-
 That the LORD thy God may shew us the way wherein we may walk, and the thing that we may do.

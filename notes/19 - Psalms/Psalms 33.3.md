@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 33:3
-
 Sing unto him a new song; play skilfully with a loud noise.

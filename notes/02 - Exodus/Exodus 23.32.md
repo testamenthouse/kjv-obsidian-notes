@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, covenant, positive-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 23:32
-
 Thou shalt make no covenant with them, nor with their gods.

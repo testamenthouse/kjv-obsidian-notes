@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 7:1
-
 Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?

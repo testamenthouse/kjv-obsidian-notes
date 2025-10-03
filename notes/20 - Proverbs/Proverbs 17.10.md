@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 17:10
-
 A reproof entereth more into a wise man than an hundred stripes into a fool.

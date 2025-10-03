@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 21:1
-
 The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!

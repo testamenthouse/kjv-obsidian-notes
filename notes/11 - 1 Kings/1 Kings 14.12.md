@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 14:12
-
 Arise thou therefore, get thee to thine own house: and when thy feet enter into the city, the child shall die.

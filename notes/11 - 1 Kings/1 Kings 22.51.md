@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:51
-
 Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.

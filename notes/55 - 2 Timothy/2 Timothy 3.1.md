@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 3:1
-
 This know also, that in the last days perilous times shall come.

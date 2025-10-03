@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:5
-
 When Elihu saw that there was no answer in the mouth of these three men, then his wrath was kindled.

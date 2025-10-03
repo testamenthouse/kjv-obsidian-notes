@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 5:3
-
 Wherefore all the men of Israel assembled themselves unto the king in the feast which was in the seventh month.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 39:18
-
 And the two ends of the two wreathed chains they fastened in the two ouches, and put them on the shoulderpieces of the ephod, before it.

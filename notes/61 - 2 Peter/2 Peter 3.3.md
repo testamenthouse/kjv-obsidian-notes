@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 3:3
-
 Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,

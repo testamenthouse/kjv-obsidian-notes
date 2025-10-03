@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 15:19
-
 So the singers, Heman, Asaph, and Ethan, were appointed to sound with cymbals of brass;

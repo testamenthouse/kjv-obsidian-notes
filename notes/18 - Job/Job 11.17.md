@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:17
-
 And thine age shall be clearer than the noonday: thou shalt shine forth, thou shalt be as the morning.

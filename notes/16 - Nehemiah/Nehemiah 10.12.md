@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 10:12
-
 Zaccur, Sherebiah, Shebaniah,

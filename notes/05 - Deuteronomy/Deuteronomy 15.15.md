@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 15:15
-
 And thou shalt remember that thou wast a bondman in the land of Egypt, and the LORD thy God redeemed thee: therefore I command thee this thing to day.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:5
-
 Behold, God is mighty, and despiseth not any: he is mighty in strength and wisdom.

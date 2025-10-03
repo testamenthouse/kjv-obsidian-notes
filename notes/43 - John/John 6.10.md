@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:10
-
 And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand.

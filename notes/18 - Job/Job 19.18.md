@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:18
-
 Yea, young children despised me; I arose, and they spake against me.

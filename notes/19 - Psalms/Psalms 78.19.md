@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:19
-
 Yea, they spake against God; they said, Can God furnish a table in the wilderness?

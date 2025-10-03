@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 5:19
-
 Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 28:20
-
 A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.

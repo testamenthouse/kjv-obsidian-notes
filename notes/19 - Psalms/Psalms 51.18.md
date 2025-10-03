@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 51:18
-
 Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.

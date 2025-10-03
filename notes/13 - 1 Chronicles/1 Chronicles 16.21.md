@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 16:21
-
 He suffered no man to do them wrong: yea, he reproved kings for their sakes,

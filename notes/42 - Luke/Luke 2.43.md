@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [jesus, jesus-title, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 2:43
-
 And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it.

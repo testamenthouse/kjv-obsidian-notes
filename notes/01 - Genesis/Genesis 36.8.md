@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 36:8
-
 Thus dwelt Esau in mount Seir: Esau is Edom.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:36
-
 My desire is that Job may be tried unto the end because of his answers for wicked men.

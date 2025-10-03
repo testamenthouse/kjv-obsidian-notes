@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:29
-
 And it came to pass, when he reigned, that he smote all the house of Jeroboam; he left not to Jeroboam any that breathed, until he had destroyed him, according unto the saying of the LORD, which he spake by his servant Ahijah the Shilonite:

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 5:21
-
 I hate, I despise your feast days, and I will not smell in your solemn assemblies.

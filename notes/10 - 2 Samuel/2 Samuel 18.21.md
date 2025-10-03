@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 18:21
-
 Then said Joab to Cushy, Go tell the king what thou hast seen. And Cushy bowed himself unto Joab, and ran.

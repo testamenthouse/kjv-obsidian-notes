@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 31:4
-
 Pull me out of the net that they have laid privily for me: for thou art my strength.

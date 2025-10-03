@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:38
-
 And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.

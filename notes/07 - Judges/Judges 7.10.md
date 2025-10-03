@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 7:10
-
 But if thou fear to go down, go thou with Phurah thy servant down to the host:

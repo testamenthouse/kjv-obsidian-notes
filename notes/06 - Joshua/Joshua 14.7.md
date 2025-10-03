@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 14:7
-
 Forty years old was I when Moses the servant of the LORD sent me from Kadeshbarnea to espy out the land; and I brought him word again as it was in mine heart.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 18:41
-
 They cried, but there was none to save them: even unto the LORD, but he answered them not.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 14:10
-
 The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.

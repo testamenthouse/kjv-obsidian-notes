@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:12
-
 And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves.

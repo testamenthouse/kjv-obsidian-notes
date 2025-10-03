@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 55:21
-
 The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:32
-
 Thou shalt rise up before the hoary head, and honor the face of the old man, and fear thy God: I am the LORD.

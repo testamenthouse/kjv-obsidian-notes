@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 2:21
-
 Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto me?

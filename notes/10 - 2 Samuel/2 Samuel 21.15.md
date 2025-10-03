@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 21:15
-
 Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David waxed faint.

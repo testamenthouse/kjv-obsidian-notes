@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 63:10
-
 They shall fall by the sword: they shall be a portion for foxes.

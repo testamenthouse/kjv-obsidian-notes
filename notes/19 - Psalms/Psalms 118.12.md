@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 118:12
-
 They compassed me about like bees: they are quenched as the fire of thorns: for in the name of the LORD I will destroy them.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 80:18
-
 So will not we go back from thee: quicken us, and we will call upon thy name.

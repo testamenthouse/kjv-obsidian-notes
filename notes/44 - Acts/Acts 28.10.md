@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 28:10
-
 Who also honoured us with many honours; and when we departed, they laded us with such things as were necessary.

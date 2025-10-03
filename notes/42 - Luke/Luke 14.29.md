@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:29
-
 Lest haply, after he hath laid the foundation, and is not able to finish it, all that behold it begin to mock him,

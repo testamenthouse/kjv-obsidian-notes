@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 14:9
-
 And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive his mark in his forehead, or in his hand,

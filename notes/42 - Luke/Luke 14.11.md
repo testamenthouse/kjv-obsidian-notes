@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:11
-
 For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 7:25
-
 Destruction cometh; and they shall seek peace, and there shall be none.

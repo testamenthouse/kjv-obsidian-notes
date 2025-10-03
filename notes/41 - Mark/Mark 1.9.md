@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:9
-
 And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.

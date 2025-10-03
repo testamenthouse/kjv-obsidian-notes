@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [jesus, jesus-title, lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:38
-
 And he cried, saying, Jesus, thou son of David, have mercy on me.

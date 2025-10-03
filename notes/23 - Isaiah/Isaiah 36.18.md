@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 36:18
-
 Beware lest Hezekiah persuade you, saying, the LORD will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?

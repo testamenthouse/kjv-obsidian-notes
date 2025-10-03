@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 1:24
-
 Because I have called, and ye refused; I have stretched out my hand, and no man regarded;

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 6:28
-
 So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.

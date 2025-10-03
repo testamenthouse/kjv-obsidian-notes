@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:26
-
 He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness.

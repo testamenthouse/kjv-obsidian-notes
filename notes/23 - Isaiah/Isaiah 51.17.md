@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 51:17
-
 Awake, awake, stand up, O Jerusalem, which hast drunk at the hand of the LORD the cup of his fury; thou hast drunken the dregs of the cup of trembling, and wrung them out.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 11:12
-
 But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we.

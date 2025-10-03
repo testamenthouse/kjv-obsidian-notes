@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, negation, contrast, conditio
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 12:9
-
 And he went out, and followed him; and wist not that it was true which was done by the angel; but thought he saw a vision.

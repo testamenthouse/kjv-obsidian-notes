@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:7
-
 Because for thy sake I have borne reproach; shame hath covered my face.

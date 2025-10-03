@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 1:8
-
 But a lover of hospitality, a lover of good men, sober, just, holy, temperate;

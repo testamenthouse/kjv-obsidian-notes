@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:31
-
 Then the Jews took up stones again to stone him.

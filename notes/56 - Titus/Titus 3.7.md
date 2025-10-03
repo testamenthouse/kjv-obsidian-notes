@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 3:7
-
 That being justified by his grace, we should be made heirs according to the hope of eternal life.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 35:4
-
 Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt.

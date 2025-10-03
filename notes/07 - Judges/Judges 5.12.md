@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 5:12
-
 Awake, awake, Deborah: awake, awake, utter a song: arise, Barak, and lead thy captivity captive, thou son of Abinoam.

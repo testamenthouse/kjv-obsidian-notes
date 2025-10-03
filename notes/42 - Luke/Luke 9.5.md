@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:5
-
 And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them.

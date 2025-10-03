@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast, conditional, cause-effect]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:27
-
 So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth.

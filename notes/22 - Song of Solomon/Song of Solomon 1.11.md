@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 1:11
-
 We will make thee borders of gold with studs of silver.

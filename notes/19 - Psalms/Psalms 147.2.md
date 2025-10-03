@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 147:2
-
 The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel.

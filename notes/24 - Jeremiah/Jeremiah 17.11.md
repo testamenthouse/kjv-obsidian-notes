@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 17:11
-
 As the partridge sitteth on eggs, and hatcheth them not; so he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool.

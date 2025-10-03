@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 18:7
-
 And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 1:22
-
 Professing themselves to be wise, they became fools,

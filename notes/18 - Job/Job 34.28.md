@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:28
-
 So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted.

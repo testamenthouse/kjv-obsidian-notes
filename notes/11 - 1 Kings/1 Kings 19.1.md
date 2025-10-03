@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 19:1
-
 And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword.

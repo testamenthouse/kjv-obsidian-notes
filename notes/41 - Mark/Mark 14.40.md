@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:40
-
 And when he returned, he found them asleep again, (for their eyes were heavy,) neither wist they what to answer him.

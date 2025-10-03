@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 28:59
-
 Then the LORD will make thy plagues wonderful, and the plagues of thy seed, even great plagues, and of long continuance, and sore sicknesses, and of long continuance.

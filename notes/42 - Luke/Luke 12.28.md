@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:28
-
 If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more will he clothe you, O ye of little faith?

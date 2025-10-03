@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation, contrast, conditional]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 21:23
-
 Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to thee?

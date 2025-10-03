@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:138
-
 Thy testimonies that thou hast commanded are righteous and very faithful.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 1:13
-
 A bundle of myrrh is my well-beloved unto me; he shall lie all night betwixt my breasts.

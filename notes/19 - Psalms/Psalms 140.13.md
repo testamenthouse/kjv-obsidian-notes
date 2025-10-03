@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 140:13
-
 Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.

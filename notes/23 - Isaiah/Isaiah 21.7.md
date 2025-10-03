@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 21:7
-
 And he saw a chariot with a couple of horsemen, a chariot of asses, and a chariot of camels; and he hearkened diligently with much heed:

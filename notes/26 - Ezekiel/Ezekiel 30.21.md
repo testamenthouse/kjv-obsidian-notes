@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [warfare, son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 30:21
-
 Son of man, I have broken the arm of Pharaoh king of Egypt; and, lo, it shall not be bound up to be healed, to put a roller to bind it, to make it strong to hold the sword.

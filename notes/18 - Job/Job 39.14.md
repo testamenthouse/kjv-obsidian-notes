@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:14
-
 Which leaveth her eggs in the earth, and warmeth them in dust,

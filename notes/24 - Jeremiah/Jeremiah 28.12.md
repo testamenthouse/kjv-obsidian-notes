@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 28:12
-
 Then the word of the LORD came unto Jeremiah the prophet, after that Hananiah the prophet had broken the yoke from off the neck of the prophet Jeremiah, saying,

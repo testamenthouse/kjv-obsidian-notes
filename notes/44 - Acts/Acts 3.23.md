@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 3:23
-
 And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:37
-
 For their heart was not right with him, neither were they stedfast in his covenant.

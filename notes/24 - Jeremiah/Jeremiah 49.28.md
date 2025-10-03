@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 49:28
-
 Concerning Kedar, and concerning the kingdoms of Hazor, which Nebuchadrezzar king of Babylon shall smite, thus saith the LORD; Arise ye, go up to Kedar, and spoil the men of the east.

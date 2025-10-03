@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 6:10
-
 That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons.

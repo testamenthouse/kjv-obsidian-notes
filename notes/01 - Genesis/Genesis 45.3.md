@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 45:3
-
 And Joseph said unto his brethren, I am Joseph; doth my father yet live? And his brethren could not answer him; for they were troubled at his presence.

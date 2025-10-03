@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 6:16
-
 And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.

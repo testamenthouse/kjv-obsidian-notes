@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 8:2
-
 That the cities which Huram had restored to Solomon, Solomon built them, and caused the children of Israel to dwell there.

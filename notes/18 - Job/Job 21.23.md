@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:23
-
 One dieth in his full strength, being wholly at ease and quiet.

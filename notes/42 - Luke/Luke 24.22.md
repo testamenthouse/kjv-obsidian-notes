@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:22
-
 Yea, and certain women also of our company made us astonished, which were early at the sepulchre;

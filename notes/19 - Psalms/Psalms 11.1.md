@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 11:1
-
 In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?

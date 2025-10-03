@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:16
-
 For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.

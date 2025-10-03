@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:16
-
 Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [jesus, jesus-title, time-parts-of-day, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 21:4
-
 But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus.

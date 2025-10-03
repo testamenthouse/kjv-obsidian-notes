@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 2:15
-
 Then there arose and went over by number twelve of Benjamin, which pertained to Ishbosheth the son of Saul, and twelve of the servants of David.

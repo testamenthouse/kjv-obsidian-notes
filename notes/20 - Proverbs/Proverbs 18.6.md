@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 18:6
-
 A fool's lips enter into contention, and his mouth calleth for strokes.

@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 146:4
-
 His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.

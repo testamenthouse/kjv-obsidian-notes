@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 15:25
-
 But this cometh to pass, that the word might be fulfilled that is written in their law, They hated me without a cause.

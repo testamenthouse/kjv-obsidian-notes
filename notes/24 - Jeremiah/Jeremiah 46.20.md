@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 46:20
-
 Egypt is like a very fair heifer, but destruction cometh; it cometh out of the north.

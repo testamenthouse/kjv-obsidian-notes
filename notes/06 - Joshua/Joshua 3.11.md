@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 3:11
-
 Behold, the ark of the covenant of the LORD of all the earth passeth over before you into Jordan.

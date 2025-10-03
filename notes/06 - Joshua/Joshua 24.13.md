@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 24:13
-
 And I have given you a land for which ye did not labor, and cities which ye built not, and ye dwell in them; of the vineyards and oliveyards which ye planted not do ye eat.

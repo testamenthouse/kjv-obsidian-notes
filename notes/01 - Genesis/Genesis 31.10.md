@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:10
-
 And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the cattle were ring-streaked, speckled, and grizzled.

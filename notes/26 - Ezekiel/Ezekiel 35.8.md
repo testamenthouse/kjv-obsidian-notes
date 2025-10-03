@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 35:8
-
 And I will fill his mountains with his slain men: in thy hills, and in thy valleys, and in all thy rivers, shall they fall that are slain with the sword.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 31:12
-
 She will do him good and not evil all the days of her life.

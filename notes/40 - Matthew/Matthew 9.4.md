@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, contrast, conditional]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 9:4
-
 And Jesus knowing their thoughts said, Wherefore think ye evil in your hearts?

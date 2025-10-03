@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 2:6
-
 But there was certain of the scribes sitting there, and reasoning in their hearts,

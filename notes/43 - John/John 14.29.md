@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 14:29
-
 And now I have told you before it come to pass, that, when it is come to pass, ye might believe.

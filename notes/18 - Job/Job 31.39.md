@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:39
-
 If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:

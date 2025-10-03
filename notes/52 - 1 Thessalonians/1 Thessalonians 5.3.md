@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 5:3
-
 For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape.

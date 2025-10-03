@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 33:11
-
 And they removed from the Red sea, and encamped in the wilderness of Sin.

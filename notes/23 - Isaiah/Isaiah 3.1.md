@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 3:1
-
 For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water.

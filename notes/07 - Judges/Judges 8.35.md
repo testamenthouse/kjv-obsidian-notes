@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 8:35
-
 Neither showed they kindness to the house of Jerubbaal, namely, Gideon, according to all the goodness which he had showed unto Israel.

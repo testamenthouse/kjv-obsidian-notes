@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 20:3
-
 And the LORD said, Like as my servant Isaiah hath walked naked and barefoot three years for a sign and wonder upon Egypt and upon Ethiopia;

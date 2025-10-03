@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 27:2
-
 Thus saith the LORD to me; Make thee bonds and yokes, and put them upon thy neck,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:16
-
 And Judas the brother of James, and Judas Iscariot, which also was the traitor.

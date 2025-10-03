@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 10:4
-
 (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)

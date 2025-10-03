@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:13
-
 And at the second time Joseph was made known to his brethren; and Joseph's kindred was made known unto Pharaoh.

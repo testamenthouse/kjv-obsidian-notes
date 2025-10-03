@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:4
-
 Arise; for this matter belongeth unto thee: we also will be with thee: be of good courage, and do it.

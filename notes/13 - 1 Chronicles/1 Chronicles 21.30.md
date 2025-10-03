@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 21:30
-
 But David could not go before it to enquire of God: for he was afraid because of the sword of the angel of the LORD.

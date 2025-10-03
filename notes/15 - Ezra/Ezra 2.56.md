@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:56
-
 The children of Jaalah, the children of Darkon, the children of Giddel,

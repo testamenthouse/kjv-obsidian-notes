@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 97:9
-
 For thou, LORD, art high above all the earth: thou art exalted far above all gods.

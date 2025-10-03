@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 10:19
-
 And Israel rebelled against the house of David unto this day.

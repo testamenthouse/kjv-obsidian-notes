@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","2-Thessalonians"]
 ---
-
-# 2 Thessalonians 3:15
-
 Yet count him not as an enemy, but admonish him as a brother.

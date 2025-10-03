@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 18:11
-
 And that doeth not any of those duties, but even hath eaten upon the mountains, and defiled his neighbour's wife,

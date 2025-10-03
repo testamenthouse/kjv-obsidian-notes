@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 6:9
-
 But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.

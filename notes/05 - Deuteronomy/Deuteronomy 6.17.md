@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 6:17
-
 Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee.

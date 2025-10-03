@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:14
-
 It is turned as clay to the seal; and they stand as a garment.

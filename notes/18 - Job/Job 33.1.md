@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:1
-
 Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.

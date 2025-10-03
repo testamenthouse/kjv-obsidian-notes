@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [names-of-god, jesus, jesus-title, son-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 5:20
-
 And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.

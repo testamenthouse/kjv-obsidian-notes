@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title, time-units, time-feasts, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:14
-
 And it was the sabbath day when Jesus made the clay, and opened his eyes.

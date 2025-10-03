@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 1:6
-
 Thus saith the LORD; For three transgressions of Gaza, and for four, I will not turn away the punishment thereof; because they carried away captive the whole captivity, to deliver them up to Edom:

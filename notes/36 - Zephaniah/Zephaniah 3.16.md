@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 3:16
-
 In that day it shall be said to Jerusalem, Fear thou not: and to Zion, Let not thine hands be slack.

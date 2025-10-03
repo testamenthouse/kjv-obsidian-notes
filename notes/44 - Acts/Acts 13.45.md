@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:45
-
 But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.

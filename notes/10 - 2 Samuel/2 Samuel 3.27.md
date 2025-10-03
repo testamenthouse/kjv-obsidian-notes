@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:27
-
 And when Abner was returned to Hebron, Joab took him aside in the gate to speak with him quietly, and smote him there under the fifth rib, that he died, for the blood of Asahel his brother.

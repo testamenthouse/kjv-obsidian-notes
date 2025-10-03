@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:23
-
 And God stirred him up another adversary, Rezon the son of Eliadah, which fled from his lord Hadadezer king of Zobah:

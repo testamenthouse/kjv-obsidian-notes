@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 4:5
-
 And cover not their iniquity, and let not their sin be blotted out from before thee: for they have provoked thee to anger before the builders.

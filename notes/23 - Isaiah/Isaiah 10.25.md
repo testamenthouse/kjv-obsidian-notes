@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 10:25
-
 For yet a very little while, and the indignation shall cease, and mine anger in their destruction.

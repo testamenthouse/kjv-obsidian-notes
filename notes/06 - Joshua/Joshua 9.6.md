@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 9:6
-
 And they went to Joshua unto the camp at Gilgal, and said unto him, and to the men of Israel, We be come from a far country: now therefore make ye a league with us.

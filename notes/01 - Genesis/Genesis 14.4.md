@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 14:4
-
 Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled.

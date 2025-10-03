@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 28:50
-
 A nation of fierce countenance, which shall not regard the person of the old, nor show favor to the young:

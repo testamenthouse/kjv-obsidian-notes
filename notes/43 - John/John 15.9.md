@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 15:9
-
 As the Father hath loved me, so have I loved you: continue ye in my love.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 62:2
-
 He only is my rock and my salvation; he is my defence; I shall not be greatly moved.

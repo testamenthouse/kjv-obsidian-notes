@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 17:12
-
 And Micah consecrated the Levite; and the young man became his priest, and was in the house of Micah.

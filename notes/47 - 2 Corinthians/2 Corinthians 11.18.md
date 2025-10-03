@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 11:18
-
 Seeing that many glory after the flesh, I will glory also.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 8:19
-
 And he killed it; and Moses sprinkled the blood upon the altar round about.

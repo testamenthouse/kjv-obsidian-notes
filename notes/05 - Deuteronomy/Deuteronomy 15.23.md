@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 15:23
-
 Only thou shalt not eat the blood thereof; thou shalt pour it upon the ground as water.

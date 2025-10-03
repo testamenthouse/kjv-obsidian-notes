@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 1:27
-
 How are the mighty fallen, and the weapons of war perished!

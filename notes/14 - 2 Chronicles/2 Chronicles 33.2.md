@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 33:2
-
 But did that which was evil in the sight of the LORD, like unto the abominations of the heathen, whom the LORD had cast out before the children of Israel.

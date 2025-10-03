@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 25:19
-
 Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round about, in the land which the LORD thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it.

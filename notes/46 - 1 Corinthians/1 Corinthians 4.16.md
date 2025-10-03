@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 4:16
-
 Wherefore I beseech you, be ye followers of me.

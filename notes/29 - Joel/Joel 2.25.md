@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 2:25
-
 And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.

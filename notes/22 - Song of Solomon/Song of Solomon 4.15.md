@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 4:15
-
 A fountain of gardens, a well of living waters, and streams from Lebanon.

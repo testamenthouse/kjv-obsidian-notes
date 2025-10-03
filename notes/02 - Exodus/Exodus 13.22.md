@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 13:22
-
 He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.

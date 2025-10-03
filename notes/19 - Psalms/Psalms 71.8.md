@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 71:8
-
 Let my mouth be filled with thy praise and with thy honour all the day.

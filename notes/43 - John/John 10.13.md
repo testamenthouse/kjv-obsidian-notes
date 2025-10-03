@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:13
-
 The hireling fleeth, because he is an hireling, and careth not for the sheep.

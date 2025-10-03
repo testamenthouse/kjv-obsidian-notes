@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 2:25
-
 And they were both naked, the man and his wife, and were not ashamed.

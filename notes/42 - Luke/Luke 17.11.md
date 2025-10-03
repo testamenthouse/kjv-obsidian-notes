@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:11
-
 And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.

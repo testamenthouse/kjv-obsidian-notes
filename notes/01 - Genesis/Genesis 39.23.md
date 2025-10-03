@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 39:23
-
 The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper.

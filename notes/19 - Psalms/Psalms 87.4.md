@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 87:4
-
 I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there.

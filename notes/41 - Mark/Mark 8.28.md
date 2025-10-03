@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 8:28
-
 And they answered, John the Baptist; but some say, Elias; and others, One of the prophets.

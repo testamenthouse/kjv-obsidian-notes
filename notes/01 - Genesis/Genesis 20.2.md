@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 20:2
-
 And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah.

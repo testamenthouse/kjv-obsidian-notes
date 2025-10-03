@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:37
-
 And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other grain:

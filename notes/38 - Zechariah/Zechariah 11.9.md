@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 11:9
-
 Then said I, I will not feed you: that that dieth, let it die; and that that is to be cut off, let it be cut off; and let the rest eat every one the flesh of another.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:20
-
 And after that he gave unto them judges about the space of four hundred and fifty years, until Samuel the prophet.

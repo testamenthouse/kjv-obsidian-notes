@@ -13,7 +13,4 @@ grammar_tags: [conditional, genealogy-structure]
 thematic_tags: [names-of-god, son-of-god, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:43
-
 He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 28:20
-
 And Tilgathpilneser king of Assyria came unto him, and distressed him, but strengthened him not.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 142:7
-
 Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.

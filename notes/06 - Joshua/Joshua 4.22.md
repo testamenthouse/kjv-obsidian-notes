@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 4:22
-
 Then ye shall let your children know, saying, Israel came over this Jordan on dry land.

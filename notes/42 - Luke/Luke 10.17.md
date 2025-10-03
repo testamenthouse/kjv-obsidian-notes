@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:17
-
 And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.

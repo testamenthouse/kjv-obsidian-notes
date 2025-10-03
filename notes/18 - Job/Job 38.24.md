@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:24
-
 By what way is the light parted, which scattereth the east wind upon the earth?

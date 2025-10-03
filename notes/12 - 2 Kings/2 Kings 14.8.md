@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 14:8
-
 Then Amaziah sent messengers to Jehoash, the son of Jehoahaz son of Jehu, king of Israel, saying, Come, let us look one another in the face.

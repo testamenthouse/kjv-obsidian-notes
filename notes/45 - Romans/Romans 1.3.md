@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 1:3
-
 Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 4:18
-
 And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?

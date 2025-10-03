@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 7:10
-
 Or if he ask a fish, will he give him a serpent?

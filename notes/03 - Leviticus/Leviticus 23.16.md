@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 23:16
-
 Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the LORD.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 4:21
-
 And being fully persuaded that, what he had promised, he was able also to perform.

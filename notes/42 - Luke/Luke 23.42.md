@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:42
-
 And he said unto Jesus, Lord, remember me when thou comest into thy kingdom.

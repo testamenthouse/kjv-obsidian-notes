@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 40:16
-
 Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The LORD be magnified.

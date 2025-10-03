@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 3:13
-
 Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them.

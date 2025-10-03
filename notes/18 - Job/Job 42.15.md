@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 42:15
-
 And in all the land were no women found so fair as the daughters of Job: and their father gave them inheritance among their brethren.

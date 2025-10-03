@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 3:15
-
 Thou didst walk through the sea with thine horses, through the heap of great waters.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:21
-
 Before I go whence I shall not return, even to the land of darkness and the shadow of death;

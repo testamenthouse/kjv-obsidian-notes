@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 9:21
-
 For the king's ships went to Tarshish with the servants of Huram: every three years once came the ships of Tarshish bringing gold, and silver, ivory, and apes, and peacocks.

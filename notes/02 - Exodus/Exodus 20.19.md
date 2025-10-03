@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 20:19
-
 And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.

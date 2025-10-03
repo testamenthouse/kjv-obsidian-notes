@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 14:25
-
 That I will break the Assyrian in my land, and upon my mountains tread him under foot: then shall his yoke depart from off them, and his burden depart from off their shoulders.

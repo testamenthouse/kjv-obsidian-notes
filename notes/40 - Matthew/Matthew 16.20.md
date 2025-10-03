@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 16:20
-
 Then charged he his disciples that they should tell no man that he was Jesus the Christ.

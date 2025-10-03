@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 20:38
-
 And Jonathan cried after the lad, Make speed, haste, stay not. And Jonathan's lad gathered up the arrows, and came to his master.

@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 2:5
-
 For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:2
-
 And, behold, there was a man named Zacchaeus, which was the chief among the publicans, and he was rich.

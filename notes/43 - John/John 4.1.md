@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:1
-
 When therefore the LORD knew how the Pharisees had heard that Jesus made and baptized more disciples than John,

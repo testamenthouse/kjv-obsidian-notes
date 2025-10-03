@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:35
-
 Take heed therefore that the light which is in thee be not darkness.

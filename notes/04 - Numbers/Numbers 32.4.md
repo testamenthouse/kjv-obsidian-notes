@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:4
-
 Even the country which the LORD smote before the congregation of Israel, is a land for cattle, and thy servants have cattle:

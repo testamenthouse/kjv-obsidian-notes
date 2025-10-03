@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:8
-
 The LORD is merciful and gracious, slow to anger, and plenteous in mercy.

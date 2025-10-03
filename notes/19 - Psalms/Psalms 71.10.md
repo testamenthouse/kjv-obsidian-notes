@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 71:10
-
 For mine enemies speak against me; and they that lay wait for my soul take counsel together,

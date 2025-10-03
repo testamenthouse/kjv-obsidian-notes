@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:6
-
 And the devil said unto him, All this power will I give thee, and the glory of them: for that is delivered unto me; and to whomsoever I will I give it.

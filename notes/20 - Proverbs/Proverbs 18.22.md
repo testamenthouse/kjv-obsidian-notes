@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 18:22
-
 Whoso findeth a wife findeth a good thing, and obtaineth favour of the LORD.

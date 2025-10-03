@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:12
-
 They take the timbrel and harp, and rejoice at the sound of the organ.

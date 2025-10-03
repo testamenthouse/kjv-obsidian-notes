@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 31:4
-
 The waters made him great, the deep set him up on high with her rivers running round about his plants, and sent her little rivers unto all the trees of the field.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 3:16
-
 Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:19
-
 And Hashabiah, and with him Jeshaiah of the sons of Merari, his brethren and their sons, twenty;

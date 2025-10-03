@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 16:17
-
 And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah.

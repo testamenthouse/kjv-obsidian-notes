@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:7
-
 There the righteous might dispute with him; so should I be delivered for ever from my judge.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:19
-
 Until the time that his word came: the word of the LORD tried him.

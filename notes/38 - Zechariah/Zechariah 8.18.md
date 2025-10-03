@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 8:18
-
 And the word of the LORD of hosts came unto me, saying,

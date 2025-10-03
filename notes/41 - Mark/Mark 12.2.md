@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:2
-
 And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard.

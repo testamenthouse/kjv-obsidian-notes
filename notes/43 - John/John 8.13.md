@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:13
-
 The Pharisees therefore said unto him, Thou bearest record of thyself; thy record is not true.

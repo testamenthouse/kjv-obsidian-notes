@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 7:5
-
 For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.

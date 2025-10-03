@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 13:7
-
 And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God.

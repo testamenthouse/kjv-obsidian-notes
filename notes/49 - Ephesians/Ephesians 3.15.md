@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 3:15
-
 Of whom the whole family in heaven and earth is named,

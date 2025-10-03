@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 45:22
-
 Look unto me, and be ye saved, all the ends of the earth: for I am God, and there is none else.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 118:28
-
 Thou art my God, and I will praise thee: thou art my God, I will exalt thee.

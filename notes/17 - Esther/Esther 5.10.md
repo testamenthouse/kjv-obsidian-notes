@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 5:10
-
 Nevertheless Haman refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife.

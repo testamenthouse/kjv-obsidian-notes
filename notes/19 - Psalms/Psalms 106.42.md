@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:42
-
 Their enemies also oppressed them, and they were brought into subjection under their hand.

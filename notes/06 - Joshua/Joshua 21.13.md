@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 21:13
-
 Thus they gave to the children of Aaron the priest Hebron with her suburbs, to be a city of refuge for the slayer; and Libnah with her suburbs,

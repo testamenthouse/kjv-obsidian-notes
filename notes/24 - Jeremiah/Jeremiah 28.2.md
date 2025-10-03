@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 28:2
-
 Thus speaketh the LORD of hosts, the God of Israel, saying, I have broken the yoke of the king of Babylon.

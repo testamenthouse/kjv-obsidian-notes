@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:1
-
 And all the congregation lifted up their voice, and cried; and the people wept that night.

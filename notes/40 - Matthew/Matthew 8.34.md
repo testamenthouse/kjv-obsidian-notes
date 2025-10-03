@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 8:34
-
 And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:21
-
 So is he that layeth up treasure for himself, and is not rich toward God.

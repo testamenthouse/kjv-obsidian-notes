@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:17
-
 If ye know these things, happy are ye if ye do them.

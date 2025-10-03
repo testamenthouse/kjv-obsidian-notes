@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 22:29
-
 And when ye will offer a sacrifice of thanksgiving unto the LORD, offer it at your own will.

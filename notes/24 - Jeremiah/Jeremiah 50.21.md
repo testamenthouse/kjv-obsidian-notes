@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:21
-
 Go up against the land of Merathaim, even against it, and against the inhabitants of Pekod: waste and utterly destroy after them, saith the LORD, and do according to all that I have commanded thee.

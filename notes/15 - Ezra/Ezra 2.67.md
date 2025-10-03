@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:67
-
 Their camels, four hundred thirty and five; their asses, six thousand seven hundred and twenty.

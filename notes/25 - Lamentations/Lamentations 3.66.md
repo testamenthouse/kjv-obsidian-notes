@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:66
-
 Persecute and destroy them in anger from under the heavens of the LORD.

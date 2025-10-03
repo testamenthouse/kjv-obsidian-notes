@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 12:18
-
 Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness;

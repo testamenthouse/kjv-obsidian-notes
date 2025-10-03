@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 3:17
-
 That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,

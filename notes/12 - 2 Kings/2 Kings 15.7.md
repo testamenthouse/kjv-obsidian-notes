@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 15:7
-
 So Azariah slept with his fathers; and they buried him with his fathers in the city of David: and Jotham his son reigned in his stead.

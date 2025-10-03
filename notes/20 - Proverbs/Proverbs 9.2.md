@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 9:2
-
 She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.

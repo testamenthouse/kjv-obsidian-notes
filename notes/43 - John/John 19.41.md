@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:41
-
 Now in the place where he was crucified there was a garden; and in the garden a new sepulchre, wherein was never man yet laid.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 13:28
-
 This is the inheritance of the children of Gad after their families, the cities, and their villages.

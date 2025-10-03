@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:39
-
 And Pharaoh said unto Joseph, Forasmuch as God hath showed thee all this, there is none so discreet and wise as thou art:

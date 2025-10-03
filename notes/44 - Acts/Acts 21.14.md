@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:14
-
 And when he would not be persuaded, we ceased, saying, The will of the Lord be done.

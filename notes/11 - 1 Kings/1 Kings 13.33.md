@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 13:33
-
 After this thing Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: whosoever would, he consecrated him, and he became one of the priests of the high places.

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:37
-
 And as Paul was to be led into the castle, he said unto the chief captain, May I speak unto thee? Who said, Canst thou speak Greek?

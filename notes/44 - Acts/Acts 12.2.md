@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 12:2
-
 And he killed James the brother of John with the sword.

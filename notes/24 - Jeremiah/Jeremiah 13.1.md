@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 13:1
-
 Thus saith the LORD unto me, Go and get thee a linen girdle, and put it upon thy loins, and put it not in water.

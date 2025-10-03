@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 22:22
-
 I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.

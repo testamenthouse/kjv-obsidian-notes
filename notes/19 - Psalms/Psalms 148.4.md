@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 148:4
-
 Praise him, ye heavens of heavens, and ye waters that be above the heavens.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 9:33
-
 And there he found a certain man named Aeneas, which had kept his bed eight years, and was sick of the palsy.

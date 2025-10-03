@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 9:33
-
 Howbeit thou art just in all that is brought upon us; for thou hast done right, but we have done wickedly:

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 23:21
-
 When thou shalt vow a vow unto the LORD thy God, thou shalt not slack to pay it: for the LORD thy God will surely require it of thee; and it would be sin in thee.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 4:19
-
 And the sons of his wife Hodiah the sister of Naham, the father of Keilah the Garmite, and Eshtemoa the Maachathite.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 15:19
-
 The Kenites, and the Kenizzites, and the Kadmonites,

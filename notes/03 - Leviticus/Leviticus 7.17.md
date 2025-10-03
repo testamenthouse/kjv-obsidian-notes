@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 7:17
-
 But the remainder of the flesh of the sacrifice on the third day shall be burnt with fire.

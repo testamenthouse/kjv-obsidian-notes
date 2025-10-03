@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 29:15
-
 Thou shalt also take one ram; and Aaron and his sons shall put their hands upon the head of the ram.

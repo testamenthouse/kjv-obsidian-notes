@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:23
-
 Men shall clap their hands at him, and shall hiss him out of his place.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 15:7
-
 And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever.

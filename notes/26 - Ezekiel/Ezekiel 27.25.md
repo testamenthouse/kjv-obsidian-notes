@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:25
-
 The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 10:4
-
 And when the queen of Sheba had seen all Solomon's wisdom, and the house that he had built,

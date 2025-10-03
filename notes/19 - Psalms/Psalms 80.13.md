@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 80:13
-
 The boar out of the wood doth waste it, and the wild beast of the field doth devour it.

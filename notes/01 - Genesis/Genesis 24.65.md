@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:65
-
 For she had said unto the servant, What man is this that walketh in the field to meet us? And the servant had said, It is my master: therefore she took a vail, and covered herself.

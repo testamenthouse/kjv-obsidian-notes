@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 9:6
-
 For he wist not what to say; for they were sore afraid.

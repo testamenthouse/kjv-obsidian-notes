@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [jesus, jesus-title, adversary-title, adversary-epithet, adversary]
 tags: ["Bible","KJV","2-John"]
 ---
-
-# 2 John 1:7
-
 For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.

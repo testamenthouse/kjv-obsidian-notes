@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 34:18
-
 And ye shall take one prince of every tribe, to divide the land by inheritance.

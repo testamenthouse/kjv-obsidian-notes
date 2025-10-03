@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 1:20
-
 Behold, O LORD; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death.

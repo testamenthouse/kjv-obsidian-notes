@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 2:4
-
 And Tamar his daughter in law bore him Pharez and Zerah. All the sons of Judah were five.

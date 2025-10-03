@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 4:20
-
 Destruction upon destruction is cried; for the whole land is spoiled: suddenly are my tents spoiled, and my curtains in a moment.

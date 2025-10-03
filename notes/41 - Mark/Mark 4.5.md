@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 4:5
-
 And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:

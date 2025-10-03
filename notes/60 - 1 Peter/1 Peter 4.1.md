@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 4:1
-
 Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;

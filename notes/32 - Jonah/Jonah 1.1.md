@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jonah"]
 ---
-
-# Jonah 1:1
-
 Now the word of the LORD came unto Jonah the son of Amittai, saying,

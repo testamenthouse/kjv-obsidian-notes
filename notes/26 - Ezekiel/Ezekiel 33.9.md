@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 33:9
-
 Nevertheless, if thou warn the wicked of his way to turn from it; if he do not turn from his way, he shall die in his iniquity; but thou hast delivered thy soul.

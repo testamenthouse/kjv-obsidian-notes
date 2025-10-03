@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 13:28
-
 And one of the sons of Joiada, the son of Eliashib the high priest, was son in law to Sanballat the Horonite: therefore I chased him from me.

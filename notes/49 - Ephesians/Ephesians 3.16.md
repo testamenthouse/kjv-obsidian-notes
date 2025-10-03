@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 3:16
-
 That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;

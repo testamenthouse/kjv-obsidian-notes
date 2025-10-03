@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 16:8
-
 And he said, Hagar, Sarai's maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai.

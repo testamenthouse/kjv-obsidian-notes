@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 52:1
-
 Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.

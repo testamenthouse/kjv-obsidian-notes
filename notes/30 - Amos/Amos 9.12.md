@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 9:12
-
 That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the LORD that doeth this.

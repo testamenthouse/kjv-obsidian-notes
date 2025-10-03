@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 2:6
-
 And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:

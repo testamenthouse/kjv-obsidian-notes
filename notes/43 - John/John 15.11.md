@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 15:11
-
 These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.

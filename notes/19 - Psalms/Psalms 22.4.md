@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 22:4
-
 Our fathers trusted in thee: they trusted, and thou didst deliver them.

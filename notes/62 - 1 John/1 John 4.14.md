@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 4:14
-
 And we have seen and do testify that the Father sent the Son to be the Saviour of the world.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 1:18
-
 While he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother's house:

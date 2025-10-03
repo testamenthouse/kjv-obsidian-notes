@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:20
-
 In famine he shall redeem thee from death: and in war from the power of the sword.

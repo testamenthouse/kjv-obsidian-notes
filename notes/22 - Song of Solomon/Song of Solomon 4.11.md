@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 4:11
-
 Thy lips, O my spouse, drop as the honeycomb: honey and milk are under thy tongue; and the smell of thy garments is like the smell of Lebanon.

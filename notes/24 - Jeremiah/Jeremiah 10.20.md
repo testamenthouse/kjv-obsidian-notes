@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 10:20
-
 My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they are not: there is none to stretch forth my tent any more, and to set up my curtains.

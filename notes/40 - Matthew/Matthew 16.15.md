@@ -13,7 +13,4 @@ grammar_tags: [question, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 16:15
-
 He saith unto them, But whom say ye that I am?

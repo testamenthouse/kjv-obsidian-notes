@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:22
-
 It is of the LORD's mercies that we are not consumed, because his compassions fail not.

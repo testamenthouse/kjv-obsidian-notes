@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 4:12
-
 My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused them to err, and they have gone a whoring from under their God.

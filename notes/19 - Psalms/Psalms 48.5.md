@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 48:5
-
 They saw it, and so they marvelled; they were troubled, and hasted away.

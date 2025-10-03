@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:40
-
 But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.

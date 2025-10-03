@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:20
-
 His eyes shall see his destruction, and he shall drink of the wrath of the Almighty.

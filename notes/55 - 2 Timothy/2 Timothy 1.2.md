@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 1:2
-
 To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.

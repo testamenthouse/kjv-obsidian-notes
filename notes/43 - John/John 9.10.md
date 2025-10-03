@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:10
-
 Therefore said they unto him, How were thine eyes opened?

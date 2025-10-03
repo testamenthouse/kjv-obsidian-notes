@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 24:21
-
 And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the LORD.

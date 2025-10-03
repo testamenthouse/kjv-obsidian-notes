@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-eschatology, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 148:6
-
 He hath also stablished them for ever and ever: he hath made a decree which shall not pass.

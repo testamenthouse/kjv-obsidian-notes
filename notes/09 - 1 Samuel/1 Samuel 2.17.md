@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 2:17
-
 Wherefore the sin of the young men was very great before the LORD: for men abhorred the offering of the LORD.

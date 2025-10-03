@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 2:9
-
 For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the LORD of hosts hath sent me.

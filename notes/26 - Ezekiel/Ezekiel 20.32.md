@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:32
-
 And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.

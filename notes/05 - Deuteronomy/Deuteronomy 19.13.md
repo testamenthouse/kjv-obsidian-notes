@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 19:13
-
 Thine eye shall not pity him, but thou shalt put away the guilt of innocent blood from Israel, that it may go well with thee.

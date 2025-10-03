@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 1:14
-
 These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.

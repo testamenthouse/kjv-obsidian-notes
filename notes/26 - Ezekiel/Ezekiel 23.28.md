@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 23:28
-
 For thus saith the Lord GOD; Behold, I will deliver thee into the hand of them whom thou hatest, into the hand of them from whom thy mind is alienated:

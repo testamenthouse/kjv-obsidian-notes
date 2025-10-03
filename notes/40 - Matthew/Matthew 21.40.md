@@ -13,7 +13,4 @@ grammar_tags: [question, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 21:40
-
 When the lord therefore of the vineyard cometh, what will he do unto those husbandmen?

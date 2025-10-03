@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:12
-
 But where shall wisdom be found? and where is the place of understanding?

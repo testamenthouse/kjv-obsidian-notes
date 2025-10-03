@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:8
-
 If the LORD delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey.

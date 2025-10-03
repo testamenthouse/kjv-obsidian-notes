@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 30:24
-
 And of cassia five hundred shekels, after the shekel of the sanctuary, and of oil olive an hin:

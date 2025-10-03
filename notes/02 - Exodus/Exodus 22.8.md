@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 22:8
-
 If the thief be not found, then the master of the house shall be brought unto the judges, to see whether he have put his hand unto his neighbor's goods.

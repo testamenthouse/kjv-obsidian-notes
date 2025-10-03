@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 20:17
-
 So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare children.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 43:14
-
 Thus saith the LORD, your redeemer, the Holy One of Israel; For your sake I have sent to Babylon, and have brought down all their nobles, and the Chaldeans, whose cry is in the ships.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 13:8
-
 And David and all Israel played before God with all their might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.

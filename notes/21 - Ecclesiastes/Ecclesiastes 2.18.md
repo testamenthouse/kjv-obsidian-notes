@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 2:18
-
 Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.

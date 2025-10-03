@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 48:17
-
 And the suburbs of the city shall be toward the north two hundred and fifty, and toward the south two hundred and fifty, and toward the east two hundred and fifty, and toward the west two hundred and fifty.

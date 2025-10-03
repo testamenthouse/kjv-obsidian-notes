@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 10:6
-
 It shall be also carried unto Assyria for a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel.

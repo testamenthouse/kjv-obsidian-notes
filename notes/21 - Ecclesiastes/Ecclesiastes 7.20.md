@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 7:20
-
 For there is not a just man upon earth, that doeth good, and sinneth not.

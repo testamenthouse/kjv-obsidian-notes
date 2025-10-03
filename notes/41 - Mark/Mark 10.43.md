@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:43
-
 But so shall it not be among you: but whosoever will be great among you, shall be your minister:

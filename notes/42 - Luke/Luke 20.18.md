@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:18
-
 Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.

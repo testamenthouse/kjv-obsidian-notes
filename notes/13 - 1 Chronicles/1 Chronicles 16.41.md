@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 16:41
-
 And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the LORD, because his mercy endureth for ever;

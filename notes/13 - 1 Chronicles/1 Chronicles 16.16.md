@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 16:16
-
 Even of the covenant which he made with Abraham, and of his oath unto Isaac;

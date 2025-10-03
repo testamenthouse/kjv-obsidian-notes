@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 2:2
-
 The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,

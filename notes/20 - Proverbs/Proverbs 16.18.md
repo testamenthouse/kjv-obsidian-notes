@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 16:18
-
 Pride goeth before destruction, and an haughty spirit before a fall.

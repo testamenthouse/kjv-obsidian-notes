@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 13:27
-
 And he spake to his sons, saying, Saddle me the ass. And they saddled him.

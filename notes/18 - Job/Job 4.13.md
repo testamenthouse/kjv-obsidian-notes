@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 4:13
-
 In thoughts from the visions of the night, when deep sleep falleth on men,

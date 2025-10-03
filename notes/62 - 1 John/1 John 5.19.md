@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 5:19
-
 And we know that we are of God, and the whole world lieth in wickedness.

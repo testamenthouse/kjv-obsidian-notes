@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:34
-
 Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art; the Holy One of God.

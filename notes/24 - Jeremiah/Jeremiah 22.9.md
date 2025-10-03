@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, praise-worship, covenant]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 22:9
-
 Then they shall answer, Because they have forsaken the covenant of the LORD their God, and worshipped other gods, and served them.

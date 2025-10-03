@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 27:6
-
 He shall cause them that come of Jacob to take root: Israel shall blossom and bud, and fill the face of the world with fruit.

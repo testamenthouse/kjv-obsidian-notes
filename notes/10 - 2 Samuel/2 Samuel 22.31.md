@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:31
-
 As for God, his way is perfect; the word of the LORD is tried: he is a buckler to all them that trust in him.

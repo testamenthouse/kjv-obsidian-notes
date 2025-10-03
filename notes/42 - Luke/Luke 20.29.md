@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:29
-
 There were therefore seven brethren: and the first took a wife, and died without children.

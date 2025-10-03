@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 3:1
-
 Lord, how are they increased that trouble me! many are they that rise up against me.

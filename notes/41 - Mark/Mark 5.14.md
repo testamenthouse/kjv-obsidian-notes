@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:14
-
 And they that fed the swine fled, and told it in the city, and in the country. And they went out to see what it was that was done.

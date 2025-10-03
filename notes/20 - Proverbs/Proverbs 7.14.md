@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 7:14
-
 I have peace offerings with me; this day have I payed my vows.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 3:34
-
 For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him.

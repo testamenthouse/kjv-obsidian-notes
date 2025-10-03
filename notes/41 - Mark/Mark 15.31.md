@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:31
-
 Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save.

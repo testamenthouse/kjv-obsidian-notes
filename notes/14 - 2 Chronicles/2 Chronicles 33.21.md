@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 33:21
-
 Amon was two and twenty years old when he began to reign, and reigned two years in Jerusalem.

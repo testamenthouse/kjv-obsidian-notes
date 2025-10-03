@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 28:8
-
 He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.

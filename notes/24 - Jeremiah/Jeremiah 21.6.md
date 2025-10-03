@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 21:6
-
 And I will smite the inhabitants of this city, both man and beast: they shall die of a great pestilence.

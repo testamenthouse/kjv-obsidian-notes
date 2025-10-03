@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [praise-worship, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 6:9
-
 And if any man die very suddenly by him, and he hath defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it.

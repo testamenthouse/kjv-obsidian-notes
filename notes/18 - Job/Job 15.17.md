@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:17
-
 I will shew thee, hear me; and that which I have seen I will declare;

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 20:6
-
 And the inhabitant of this isle shall say in that day, Behold, such is our expectation, whither we flee for help to be delivered from the king of Assyria: and how shall we escape?

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 16:28
-
 But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here.

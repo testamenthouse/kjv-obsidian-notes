@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 39:4
-
 They made shoulderpieces for it, to couple it together: by the two edges was it coupled together.

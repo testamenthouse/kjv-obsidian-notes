@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 26:6
-
 And thou shalt make fifty taches of gold, and couple the curtains together with the taches: and it shall be one tabernacle.

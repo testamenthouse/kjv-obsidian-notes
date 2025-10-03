@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:16
-
 That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost.

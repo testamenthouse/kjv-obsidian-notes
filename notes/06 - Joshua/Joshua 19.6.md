@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 19:6
-
 And Bethlebaoth, and Sharuhen; thirteen cities and their villages:

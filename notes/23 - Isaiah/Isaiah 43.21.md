@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 43:21
-
 This people have I formed for myself; they shall shew forth my praise.

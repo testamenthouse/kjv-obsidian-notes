@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 4:3
-
 But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him.

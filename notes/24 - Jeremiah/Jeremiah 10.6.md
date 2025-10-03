@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 10:6
-
 Forasmuch as there is none like unto thee, O LORD; thou art great, and thy name is great in might.

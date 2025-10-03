@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 6:17
-
 For the great day of his wrath is come; and who shall be able to stand?

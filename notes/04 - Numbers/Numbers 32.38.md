@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:38
-
 And Nebo, and Baalmeon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded.

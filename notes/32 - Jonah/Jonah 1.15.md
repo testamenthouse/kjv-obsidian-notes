@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jonah"]
 ---
-
-# Jonah 1:15
-
 So they look up Jonah, and cast him forth into the sea: and the sea ceased from her raging.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, demonic-phrases, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 10:8
-
 Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give.

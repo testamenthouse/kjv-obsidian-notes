@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 24:12
-
 Go and say unto David, Thus saith the LORD, I offer thee three things; choose thee one of them, that I may do it unto thee.

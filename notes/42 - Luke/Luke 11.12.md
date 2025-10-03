@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:12
-
 Or if he shall ask an egg, will he offer him a scorpion?

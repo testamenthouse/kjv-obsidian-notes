@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [time-units, time-period, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 12:13
-
 But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days.

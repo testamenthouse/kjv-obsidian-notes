@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command, time-parts-of-day, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:13
-
 Thou shalt not defraud thy neighbor, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning.

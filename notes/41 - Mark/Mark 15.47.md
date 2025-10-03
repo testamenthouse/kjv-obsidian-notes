@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:47
-
 And Mary Magdalene and Mary the mother of Joses beheld where he was laid.

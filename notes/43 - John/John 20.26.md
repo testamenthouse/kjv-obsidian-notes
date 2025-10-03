@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title, benediction, time-units, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 20:26
-
 And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you.

@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:17
-
 Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok:

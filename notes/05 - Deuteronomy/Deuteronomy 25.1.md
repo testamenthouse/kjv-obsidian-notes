@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 25:1
-
 If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked.

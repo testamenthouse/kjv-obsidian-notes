@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:21
-
 Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?

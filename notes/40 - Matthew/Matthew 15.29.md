@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:29
-
 And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there.

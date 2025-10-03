@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 6:3
-
 And ye shall compass the city, all ye men of war, and go round about the city once. Thus shalt thou do six days.

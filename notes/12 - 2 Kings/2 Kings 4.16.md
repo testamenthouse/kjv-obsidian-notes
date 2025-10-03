@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 4:16
-
 And he said, About this season, according to the time of life, thou shalt embrace a son. And she said, Nay, my lord, thou man of God, do not lie unto thine handmaid.

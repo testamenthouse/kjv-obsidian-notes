@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 28:5
-
 And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel.

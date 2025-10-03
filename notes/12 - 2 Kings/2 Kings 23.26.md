@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 23:26
-
 Notwithstanding the LORD turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him withal.

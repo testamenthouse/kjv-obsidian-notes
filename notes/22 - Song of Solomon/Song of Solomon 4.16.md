@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 4:16
-
 Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.

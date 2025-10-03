@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 13:13
-
 Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.

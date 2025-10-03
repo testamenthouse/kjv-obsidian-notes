@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:13
-
 Thou hast a mighty arm: strong is thy hand, and high is thy right hand.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 22:15
-
 Then shall the father of the damsel, and her mother, take and bring forth the tokens of the damsel's virginity unto the elders of the city in the gate:

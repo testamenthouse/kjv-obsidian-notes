@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 15:1
-
 The burden of Moab. Because in the night Ar of Moab is laid waste, and brought to silence; because in the night Kir of Moab is laid waste, and brought to silence;

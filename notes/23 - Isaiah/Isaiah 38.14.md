@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 38:14
-
 Like a crane or a swallow, so did I chatter: I did mourn as a dove: mine eyes fail with looking upward: O LORD, I am oppressed; undertake for me.

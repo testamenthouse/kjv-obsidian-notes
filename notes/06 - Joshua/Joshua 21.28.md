@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 21:28
-
 And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs,

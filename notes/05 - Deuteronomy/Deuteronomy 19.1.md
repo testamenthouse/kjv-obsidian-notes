@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 19:1
-
 When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;

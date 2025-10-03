@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:39
-
 And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:2
-
 Hear attentively the noise of his voice, and the sound that goeth out of his mouth.

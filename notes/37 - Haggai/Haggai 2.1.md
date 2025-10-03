@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 2:1
-
 In the seventh month, in the one and twentieth day of the month, came the word of the LORD by the prophet Haggai, saying,

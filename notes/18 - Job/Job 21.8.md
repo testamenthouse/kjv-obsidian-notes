@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:8
-
 Their seed is established in their sight with them, and their offspring before their eyes.

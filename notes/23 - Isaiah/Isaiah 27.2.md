@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 27:2
-
 In that day sing ye unto her, A vineyard of red wine.

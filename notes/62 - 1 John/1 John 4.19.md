@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 4:19
-
 We love him, because he first loved us.

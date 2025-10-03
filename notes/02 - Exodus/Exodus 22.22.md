@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 22:22
-
 Ye shall not afflict any widow, or fatherless child.

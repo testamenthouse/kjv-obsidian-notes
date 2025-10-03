@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 100:5
-
 For the LORD is good; his mercy is everlasting; and his truth endureth to all generations.

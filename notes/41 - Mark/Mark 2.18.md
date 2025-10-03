@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 2:18
-
 And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?

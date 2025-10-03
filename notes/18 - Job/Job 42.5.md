@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 42:5
-
 I have heard of thee by the hearing of the ear: but now mine eye seeth thee.

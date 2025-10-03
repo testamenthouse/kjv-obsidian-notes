@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 8:2
-
 I counsel thee to keep the king's commandment, and that in regard of the oath of God.

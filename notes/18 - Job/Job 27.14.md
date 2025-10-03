@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:14
-
 If his children be multiplied, it is for the sword: and his offspring shall not be satisfied with bread.

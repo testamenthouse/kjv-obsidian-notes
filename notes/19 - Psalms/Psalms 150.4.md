@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 150:4
-
 Praise him with the timbrel and dance: praise him with stringed instruments and organs.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 120:1
-
 In my distress I cried unto the LORD, and he heard me.

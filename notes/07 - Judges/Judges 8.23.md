@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 8:23
-
 And Gideon said unto them, I will not rule over you, neither shall my son rule over you: the LORD shall rule over you.

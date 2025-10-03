@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:17
-
 But that it spread no further among the people, let us straitly threaten them, that they speak henceforth to no man in this name.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:18
-
 For he maketh sore, and bindeth up: he woundeth, and his hands make whole.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:7
-
 He sealeth up the hand of every man; that all men may know his work.

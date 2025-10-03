@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 7:11
-
 The children of Pahathmoab, of the children of Jeshua and Joab, two thousand and eight hundred and eighteen.

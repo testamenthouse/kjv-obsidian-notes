@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 112:8
-
 His heart is established, he shall not be afraid, until he see his desire upon his enemies.

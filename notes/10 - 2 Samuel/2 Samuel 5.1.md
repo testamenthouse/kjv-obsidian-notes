@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 5:1
-
 Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.

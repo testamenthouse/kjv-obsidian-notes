@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-seasons, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 36:22
-
 Now the king sat in the winterhouse in the ninth month: and there was a fire on the hearth burning before him.

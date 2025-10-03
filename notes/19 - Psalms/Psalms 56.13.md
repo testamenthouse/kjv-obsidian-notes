@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 56:13
-
 For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living?

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 1:5
-
 Behold ye among the heathen, and regard, and wonder marvelously: for I will work a work in your days which ye will not believe, though it be told you.

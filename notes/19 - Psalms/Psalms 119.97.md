@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:97
-
 O how I love thy law! it is my meditation all the day.

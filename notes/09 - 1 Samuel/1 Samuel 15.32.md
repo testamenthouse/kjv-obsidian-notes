@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 15:32
-
 Then said Samuel, Bring ye hither to me Agag the king of the Amalekites. And Agag came unto him delicately. And Agag said, Surely the bitterness of death is past.

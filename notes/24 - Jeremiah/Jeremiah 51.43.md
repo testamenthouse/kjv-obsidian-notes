@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:43
-
 Her cities are a desolation, a dry land, and a wilderness, a land wherein no man dwelleth, neither doth any son of man pass thereby.

@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 32:32
-
 Now the rest of the acts of Hezekiah, and his goodness, behold, they are written in the vision of Isaiah the prophet, the son of Amoz, and in the book of the kings of Judah and Israel.

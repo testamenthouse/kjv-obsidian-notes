@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:9
-
 On the left hand, where he doth work, but I cannot behold him: he hideth himself on the right hand, that I cannot see him:

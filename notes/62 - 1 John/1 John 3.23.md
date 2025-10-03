@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, one-another, jesus, jesus-title]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 3:23
-
 And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.

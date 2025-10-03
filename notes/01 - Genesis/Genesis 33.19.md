@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 33:19
-
 And he bought a parcel of a field, where he had spread his tent, at the hand of the children of Hamor, Shechem's father, for an hundred pieces of money.

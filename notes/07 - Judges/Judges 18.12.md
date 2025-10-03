@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 18:12
-
 And they went up, and pitched in Kirjathjearim, in Judah: wherefore they called that place Mahanehdan unto this day: behold, it is behind Kirjathjearim.

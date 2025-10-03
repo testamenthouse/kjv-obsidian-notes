@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 3:19
-
 And I am sure that the king of Egypt will not let you go, no, not by a mighty hand.

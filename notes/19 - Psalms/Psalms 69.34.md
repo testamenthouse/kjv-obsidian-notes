@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:34
-
 Let the heaven and earth praise him, the seas, and every thing that moveth therein.

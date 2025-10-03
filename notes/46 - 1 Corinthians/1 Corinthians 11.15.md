@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 11:15
-
 But if a woman have long hair, it is a glory to her: for her hair is given her for a covering.

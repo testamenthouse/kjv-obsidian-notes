@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:1
-
 But a certain man named Ananias, with Sapphira his wife, sold a possession,

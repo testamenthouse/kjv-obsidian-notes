@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 12:11
-
 Is there iniquity in Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields.

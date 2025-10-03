@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 17:3
-
 And it came to pass the same night, that the word of God came to Nathan, saying,

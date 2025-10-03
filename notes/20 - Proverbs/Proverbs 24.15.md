@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 24:15
-
 Lay not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place:

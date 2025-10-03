@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:26
-
 Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified.

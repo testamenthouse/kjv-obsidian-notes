@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 12:16
-
 The trespass money and sin money was not brought into the house of the LORD: it was the priests'.

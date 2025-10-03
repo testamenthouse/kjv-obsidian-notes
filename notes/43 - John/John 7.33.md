@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast]
 thematic_tags: [jesus, jesus-title, time-period, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:33
-
 Then said Jesus unto them, Yet a little while am I with you, and then I go unto him that sent me.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:46
-
 At the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations.

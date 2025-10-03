@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 19:19
-
 Now therefore, O LORD our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou art the LORD God, even thou only.

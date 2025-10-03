@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 8:6
-
 And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:17
-
 And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 9:11
-
 Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings.

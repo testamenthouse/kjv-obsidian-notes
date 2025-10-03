@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 28:23
-
 He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.

@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:40
-
 How oft did they provoke him in the wilderness, and grieve him in the desert!

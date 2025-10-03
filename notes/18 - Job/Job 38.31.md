@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:31
-
 Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?

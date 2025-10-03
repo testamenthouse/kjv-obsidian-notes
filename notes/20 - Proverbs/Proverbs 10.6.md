@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 10:6
-
 Blessings are upon the head of the just: but violence covereth the mouth of the wicked.

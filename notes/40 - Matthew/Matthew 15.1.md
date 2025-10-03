@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:1
-
 Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,

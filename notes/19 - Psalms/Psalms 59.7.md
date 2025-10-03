@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 59:7
-
 Behold, they belch out with their mouth: swords are in their lips: for who, say they, doth hear?

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 35:12
-
 There they cry, but none giveth answer, because of the pride of evil men.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 7:16
-
 And he went from year to year in circuit to Bethel, and Gilgal, and Mizpeh, and judged Israel in all those places.

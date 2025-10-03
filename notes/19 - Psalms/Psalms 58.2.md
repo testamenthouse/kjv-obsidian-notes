@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 58:2
-
 Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.

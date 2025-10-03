@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:6
-
 And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:11
-
 When the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:

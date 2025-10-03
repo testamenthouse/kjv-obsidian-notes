@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 4:16
-
 Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.

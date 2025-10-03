@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 32:15
-
 And Moses turned, and went down from the mount, and the two tables of the testimony were in his hand: the tables were written on both their sides; on the one side and on the other were they written.

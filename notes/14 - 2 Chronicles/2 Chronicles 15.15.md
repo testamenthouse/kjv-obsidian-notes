@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 15:15
-
 And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the LORD gave them rest round about.

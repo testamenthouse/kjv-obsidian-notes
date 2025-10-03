@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 25:2
-
 Dominion and fear are with him, he maketh peace in his high places.

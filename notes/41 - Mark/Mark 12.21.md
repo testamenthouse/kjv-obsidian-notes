@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:21
-
 And the second took her, and died, neither left he any seed: and the third likewise.

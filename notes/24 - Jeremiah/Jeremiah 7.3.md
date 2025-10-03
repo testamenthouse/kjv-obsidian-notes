@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 7:3
-
 Thus saith the LORD of hosts, the God of Israel, Amend your ways and your doings, and I will cause you to dwell in this place.

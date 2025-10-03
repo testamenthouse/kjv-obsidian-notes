@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 14:29
-
 And Jeroboam slept with his fathers, even with the kings of Israel; and Zachariah his son reigned in his stead.

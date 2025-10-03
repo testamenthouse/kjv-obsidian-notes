@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:172
-
 My tongue shall speak of thy word: for all thy commandments are righteousness.

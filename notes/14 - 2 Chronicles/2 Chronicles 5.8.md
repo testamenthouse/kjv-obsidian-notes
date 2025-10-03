@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 5:8
-
 For the cherubim spread forth their wings over the place of the ark, and the cherubim covered the ark and the staves thereof above.

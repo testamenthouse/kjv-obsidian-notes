@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 3:21
-
 But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;

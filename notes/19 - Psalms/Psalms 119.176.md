@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:176
-
 I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments.

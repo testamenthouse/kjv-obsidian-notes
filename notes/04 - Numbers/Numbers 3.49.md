@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:49
-
 And Moses took the redemption money of them that were over and above them that were redeemed by the Levites:

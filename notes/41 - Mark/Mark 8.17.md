@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, contrast]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 8:17
-
 And when Jesus knew it, he saith unto them, Why reason ye, because ye have no bread? perceive ye not yet, neither understand? have ye your heart yet hardened?

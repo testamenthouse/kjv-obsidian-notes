@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:18
-
 And, behold, there came up out of the river seven kine, fatfleshed and well favored; and they fed in a meadow:

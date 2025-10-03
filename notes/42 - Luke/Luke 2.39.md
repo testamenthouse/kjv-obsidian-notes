@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 2:39
-
 And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth.

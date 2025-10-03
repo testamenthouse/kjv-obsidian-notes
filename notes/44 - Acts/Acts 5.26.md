@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:26
-
 Then went the captain with the officers, and brought them without violence: for they feared the people, lest they should have been stoned.

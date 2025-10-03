@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 15:21
-
 But all these things will they do unto you for my name's sake, because they know not him that sent me.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 5:15
-
 His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars.

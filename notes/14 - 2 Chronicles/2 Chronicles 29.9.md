@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:9
-
 For, lo, our fathers have fallen by the sword, and our sons and our daughters and our wives are in captivity for this.

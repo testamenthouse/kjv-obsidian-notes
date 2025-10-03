@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 4:15
-
 I considered all the living which walk under the sun, with the second child that shall stand up in his stead.

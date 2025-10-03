@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 21:7
-
 And Jezebel his wife said unto him, Dost thou now govern the kingdom of Israel? arise, and eat bread, and let thine heart be merry: I will give thee the vineyard of Naboth the Jezreelite.

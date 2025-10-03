@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:39
-
 He spread a cloud for a covering; and fire to give light in the night.

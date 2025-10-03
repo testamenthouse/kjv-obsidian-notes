@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 1:3
-
 So they sought for a fair damsel throughout all the coasts of Israel, and found Abishag a Shunammite, and brought her to the king.

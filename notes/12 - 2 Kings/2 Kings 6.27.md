@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 6:27
-
 And he said, If the LORD do not help thee, whence shall I help thee? out of the barnfloor, or out of the winepress?

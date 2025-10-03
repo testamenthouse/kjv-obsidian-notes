@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 15:15
-
 And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.

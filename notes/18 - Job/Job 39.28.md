@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:28
-
 She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place.

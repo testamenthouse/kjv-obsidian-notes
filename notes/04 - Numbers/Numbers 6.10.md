@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 6:10
-
 And on the eighth day he shall bring two turtles, or two young pigeons, to the priest, to the door of the tabernacle of the congregation:

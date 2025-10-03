@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 6:6
-
 I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.

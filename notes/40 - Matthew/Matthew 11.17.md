@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 11:17
-
 And saying, We have piped unto you, and ye have not danced; we have mourned unto you, and ye have not lamented.

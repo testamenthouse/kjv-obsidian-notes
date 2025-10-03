@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 8:28
-
 And Moses took them from off their hands, and burnt them on the altar upon the burnt offering: they were consecrations for a sweet savor: it is an offering made by fire unto the LORD.

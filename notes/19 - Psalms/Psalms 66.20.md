@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 66:20
-
 Blessed be God, which hath not turned away my prayer, nor his mercy from me.

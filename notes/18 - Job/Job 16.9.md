@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:9
-
 He teareth me in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me.

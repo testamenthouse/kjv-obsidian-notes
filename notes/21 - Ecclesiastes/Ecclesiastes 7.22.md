@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 7:22
-
 For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.

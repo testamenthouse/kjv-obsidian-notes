@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 32:15
-
 Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asses, and ten foals.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 19:16
-
 And, behold, there came an old man from his work out of the field at even, which was also of mount Ephraim; and he sojourned in Gibeah: but the men of the place were Benjamites.

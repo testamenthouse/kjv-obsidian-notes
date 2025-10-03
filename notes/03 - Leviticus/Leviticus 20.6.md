@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [demonic-entities, adversary]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 20:6
-
 And the soul that turneth after such as have familiar spirits, and after wizards, to go a whoring after them, I will even set my face against that soul, and will cut him off from among his people.

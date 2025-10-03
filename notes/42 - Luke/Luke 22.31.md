@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:31
-
 And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:

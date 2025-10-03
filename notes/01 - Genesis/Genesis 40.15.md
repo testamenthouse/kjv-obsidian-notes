@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 40:15
-
 For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon.

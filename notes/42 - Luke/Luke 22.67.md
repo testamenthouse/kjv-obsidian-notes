@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:67
-
 Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:42
-
 And Jesus said unto him, Receive thy sight: thy faith hath saved thee.

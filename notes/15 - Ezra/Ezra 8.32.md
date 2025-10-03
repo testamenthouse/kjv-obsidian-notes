@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:32
-
 And we came to Jerusalem, and abode there three days.

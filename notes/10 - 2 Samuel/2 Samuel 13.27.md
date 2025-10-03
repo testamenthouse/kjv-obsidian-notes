@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 13:27
-
 But Absalom pressed him, that he let Amnon and all the king's sons go with him.

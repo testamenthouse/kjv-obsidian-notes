@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 3:11
-
 He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise.

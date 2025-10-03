@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 13:22
-
 A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.

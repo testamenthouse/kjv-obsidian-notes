@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 1:26
-
 Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:

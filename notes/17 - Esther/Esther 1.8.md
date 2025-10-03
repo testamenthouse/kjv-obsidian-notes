@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 1:8
-
 And the drinking was according to the law; none did compel: for so the king had appointed to all the officers of his house, that they should do according to every man's pleasure.

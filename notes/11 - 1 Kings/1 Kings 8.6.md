@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:6
-
 And the priests brought in the ark of the covenant of the LORD unto his place, into the oracle of the house, to the most holy place, even under the wings of the cherubim.

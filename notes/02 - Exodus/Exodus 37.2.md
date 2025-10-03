@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 37:2
-
 And he overlaid it with pure gold within and without, and made a crown of gold to it round about.

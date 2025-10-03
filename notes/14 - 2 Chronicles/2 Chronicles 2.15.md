@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 2:15
-
 Now therefore the wheat, and the barley, the oil, and the wine, which my lord hath spoken of, let him send unto his servants:

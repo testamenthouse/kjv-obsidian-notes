@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 8:10
-
 And Jeuz, and Shachia, and Mirma. These were his sons, heads of the fathers.

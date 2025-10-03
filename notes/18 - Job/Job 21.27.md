@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:27
-
 Behold, I know your thoughts, and the devices which ye wrongfully imagine against me.

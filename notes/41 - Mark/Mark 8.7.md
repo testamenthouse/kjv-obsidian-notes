@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 8:7
-
 And they had a few small fishes: and he blessed, and commanded to set them also before them.

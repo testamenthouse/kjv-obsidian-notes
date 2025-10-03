@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:67
-
 And when she saw Peter warming himself, she looked upon him, and said, And thou also wast with Jesus of Nazareth.

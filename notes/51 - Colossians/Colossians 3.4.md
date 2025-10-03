@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 3:4
-
 When Christ, who is our life, shall appear, then shall ye also appear with him in glory.

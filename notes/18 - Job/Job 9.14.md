@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:14
-
 How much less shall I answer him, and choose out my words to reason with him?

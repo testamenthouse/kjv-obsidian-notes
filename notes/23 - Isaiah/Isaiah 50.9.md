@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 50:9
-
 Behold, the Lord GOD will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:9
-
 When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,

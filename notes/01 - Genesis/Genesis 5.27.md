@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 5:27
-
 And all the days of Methuselah were nine hundred sixty and nine years: and he died.

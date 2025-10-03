@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:10
-
 Cursed be he that doeth the work of the LORD deceitfully, and cursed be he that keepeth back his sword from blood.

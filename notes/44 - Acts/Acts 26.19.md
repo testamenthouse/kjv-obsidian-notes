@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:19
-
 Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 22:30
-
 Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me.

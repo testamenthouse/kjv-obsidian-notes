@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:11
-
 And he made his camels to kneel down without the city by a well of water at the time of the evening, even the time that women go out to draw water.

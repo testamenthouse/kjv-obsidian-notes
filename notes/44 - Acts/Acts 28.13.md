@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 28:13
-
 And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:

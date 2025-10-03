@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 11:34
-
 For who hath known the mind of the Lord? or who hath been his counsellor?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:26
-
 And when they had sung an hymn, they went out into the mount of Olives.

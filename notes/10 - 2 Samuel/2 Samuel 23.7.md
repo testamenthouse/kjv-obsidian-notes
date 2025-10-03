@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 23:7
-
 But the man that shall touch them must be fenced with iron and the staff of a spear; and they shall be utterly burned with fire in the same place.

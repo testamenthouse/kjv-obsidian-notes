@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 4:24
-
 That all the people of the earth might know the hand of the LORD, that it is mighty: that ye might fear the LORD your God for ever.

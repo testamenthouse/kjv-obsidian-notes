@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:21
-
 Unto me men gave ear, and waited, and kept silence at my counsel.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 62:10
-
 Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them.

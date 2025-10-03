@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 16:17
-
 And it is easier for heaven and earth to pass, than one tittle of the law to fail.

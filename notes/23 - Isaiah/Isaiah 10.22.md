@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 10:22
-
 For though thy people Israel be as the sand of the sea, yet a remnant of them shall return: the consumption decreed shall overflow with righteousness.

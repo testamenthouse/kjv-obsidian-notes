@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 9:16
-
 And the number of the army of the horsemen were two hundred thousand thousand: and I heard the number of them.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 11:2
-
 Speak now in the ears of the people, and let every man borrow of his neighbor, and every woman of her neighbor, jewels of silver and jewels of gold.

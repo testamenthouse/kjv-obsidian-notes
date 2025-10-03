@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 3:15
-
 And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding.

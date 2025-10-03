@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:3
-
 And the chief priests accused him of many things: but he answered nothing.

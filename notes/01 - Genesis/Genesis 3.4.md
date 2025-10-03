@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, adversary-metaphor, adversary]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 3:4
-
 And the serpent said unto the woman, Ye shall not surely die:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 4:4
-
 For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.

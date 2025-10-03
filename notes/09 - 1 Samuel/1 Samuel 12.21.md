@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 12:21
-
 And turn ye not aside: for then should ye go after vain things, which cannot profit nor deliver; for they are vain.

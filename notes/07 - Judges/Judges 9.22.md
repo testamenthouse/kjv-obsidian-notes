@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:22
-
 When Abimelech had reigned three years over Israel,

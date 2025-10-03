@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 42:12
-
 And according to the doors of the chambers that were toward the south was a door in the head of the way, even the way directly before the wall toward the east, as one entereth into them.

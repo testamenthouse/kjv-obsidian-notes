@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 144:9
-
 I will sing a new song unto thee, O God: upon a psaltery and an instrument of ten strings will I sing praises unto thee.

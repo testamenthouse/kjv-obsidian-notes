@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 24:4
-
 He hath said, which heard the words of God, which saw the vision of the Almighty, falling into a trance, but having his eyes open:

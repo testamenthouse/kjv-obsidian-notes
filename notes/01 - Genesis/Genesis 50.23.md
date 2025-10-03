@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 50:23
-
 And Joseph saw Ephraim's children of the third generation: the children also of Machir the son of Manasseh were brought up upon Joseph's knees.

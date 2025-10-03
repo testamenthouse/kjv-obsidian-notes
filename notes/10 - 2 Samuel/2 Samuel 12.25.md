@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 12:25
-
 And he sent by the hand of Nathan the prophet; and he called his name Jedidiah, because of the LORD.

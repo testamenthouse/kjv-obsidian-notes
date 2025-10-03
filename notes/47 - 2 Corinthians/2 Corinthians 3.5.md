@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 3:5
-
 Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;

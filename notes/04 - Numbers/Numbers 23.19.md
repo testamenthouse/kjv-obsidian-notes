@@ -13,7 +13,4 @@ grammar_tags: [question, negation, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 23:19
-
 God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?

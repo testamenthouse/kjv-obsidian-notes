@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-Thessalonians"]
 ---
-
-# 2 Thessalonians 1:2
-
 Grace unto you, and peace, from God our Father and the Lord Jesus Christ.

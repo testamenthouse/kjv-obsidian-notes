@@ -13,7 +13,4 @@ grammar_tags: [question, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 26:14
-
 Lo, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?

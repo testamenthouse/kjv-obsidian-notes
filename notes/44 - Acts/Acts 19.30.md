@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:30
-
 And when Paul would have entered in unto the people, the disciples suffered him not.

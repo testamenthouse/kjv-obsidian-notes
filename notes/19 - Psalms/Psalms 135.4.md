@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 135:4
-
 For the LORD hath chosen Jacob unto himself, and Israel for his peculiar treasure.

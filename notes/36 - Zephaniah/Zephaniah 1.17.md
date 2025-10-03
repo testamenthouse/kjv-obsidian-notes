@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 1:17
-
 And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the LORD: and their blood shall be poured out as dust, and their flesh as the dung.

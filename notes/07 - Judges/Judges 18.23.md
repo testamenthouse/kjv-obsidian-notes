@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 18:23
-
 And they cried unto the children of Dan. And they turned their faces, and said unto Micah, What aileth thee, that thou comest with such a company?

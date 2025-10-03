@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 127:2
-
 It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.

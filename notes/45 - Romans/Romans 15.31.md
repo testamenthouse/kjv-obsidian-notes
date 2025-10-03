@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:31
-
 That I may be delivered from them that do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the saints;

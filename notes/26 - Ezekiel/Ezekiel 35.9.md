@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 35:9
-
 I will make thee perpetual desolations, and thy cities shall not return: and ye shall know that I am the LORD.

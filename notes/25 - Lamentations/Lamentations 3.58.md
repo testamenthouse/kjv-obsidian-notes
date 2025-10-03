@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:58
-
 O LORD, thou hast pleaded the causes of my soul; thou hast redeemed my life.

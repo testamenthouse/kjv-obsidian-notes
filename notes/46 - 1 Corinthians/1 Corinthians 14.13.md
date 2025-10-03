@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 14:13
-
 Wherefore let him that speaketh in an unknown tongue pray that he may interpret.

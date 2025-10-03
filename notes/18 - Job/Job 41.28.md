@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:28
-
 The arrow cannot make him flee: slingstones are turned with him into stubble.

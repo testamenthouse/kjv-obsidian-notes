@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 1:19
-
 And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:38
-
 And when they had eaten enough, they lightened the ship, and cast out the wheat into the sea.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 13:5
-
 Wherefore ye must needs be subject, not only for wrath, but also for conscience sake.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 92:2
-
 To shew forth thy lovingkindness in the morning, and thy faithfulness every night,

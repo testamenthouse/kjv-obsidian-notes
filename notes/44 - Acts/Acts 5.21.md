@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:21
-
 And when they heard that, they entered into the temple early in the morning, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 8:25
-
 But if we hope for that we see not, then do we with patience wait for it.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 34:9
-
 And he said, If now I have found grace in thy sight, O LORD, let my LORD, I pray thee, go among us; for it is a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance.

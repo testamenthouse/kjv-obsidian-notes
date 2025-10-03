@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:40
-
 And Abimelech chased him, and he fled before him, and many were overthrown and wounded, even unto the entering of the gate.

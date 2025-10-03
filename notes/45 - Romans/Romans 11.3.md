@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 11:3
-
 Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.

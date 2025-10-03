@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 39:2
-
 And he made the ephod of gold, blue, and purple, and scarlet, and fine twined linen.

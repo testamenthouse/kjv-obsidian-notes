@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 2:5
-
 Let this mind be in you, which was also in Christ Jesus:

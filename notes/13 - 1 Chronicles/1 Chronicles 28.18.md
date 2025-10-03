@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, covenant]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 28:18
-
 And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubim, that spread out their wings, and covered the ark of the covenant of the LORD.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 20:15
-
 And Abimelech said, Behold, my land is before thee: dwell where it pleaseth thee.

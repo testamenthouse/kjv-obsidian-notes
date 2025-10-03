@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 37:28
-
 And the heathen shall know that I the LORD do sanctify Israel, when my sanctuary shall be in the midst of them for evermore.

@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 14:17
-
 That made the world as a wilderness, and destroyed the cities thereof; that opened not the house of his prisoners?

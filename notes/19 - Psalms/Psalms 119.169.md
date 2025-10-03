@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:169
-
 Let my cry come near before thee, O LORD: give me understanding according to thy word.

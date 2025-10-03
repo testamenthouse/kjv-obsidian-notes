@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 1:25
-
 But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.

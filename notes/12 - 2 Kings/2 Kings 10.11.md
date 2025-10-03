@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 10:11
-
 So Jehu slew all that remained of the house of Ahab in Jezreel, and all his great men, and his kinsfolk, and his priests, until he left him none remaining.

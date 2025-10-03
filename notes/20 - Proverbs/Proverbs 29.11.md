@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 29:11
-
 A fool uttereth all his mind: but a wise man keepeth it in till afterwards.

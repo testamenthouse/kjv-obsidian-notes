@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 18:8
-
 And he took butter, and milk, and the calf which he had dressed, and set it before them; and he stood by them under the tree, and they did eat.

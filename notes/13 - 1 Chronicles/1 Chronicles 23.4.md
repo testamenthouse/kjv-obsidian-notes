@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 23:4
-
 Of which, twenty and four thousand were to set forward the work of the house of the LORD; and six thousand were officers and judges:

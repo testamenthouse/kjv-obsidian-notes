@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 26:45
-
 But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I am the LORD.

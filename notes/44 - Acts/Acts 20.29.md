@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 20:29
-
 For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 35:19
-
 The cloths of service, to do service in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest's office.

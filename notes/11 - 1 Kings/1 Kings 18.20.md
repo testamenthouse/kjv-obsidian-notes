@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:20
-
 So Ahab sent unto all the children of Israel, and gathered the prophets together unto mount Carmel.

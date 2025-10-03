@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 71:15
-
 My mouth shall shew forth thy righteousness and thy salvation all the day; for I know not the numbers thereof.

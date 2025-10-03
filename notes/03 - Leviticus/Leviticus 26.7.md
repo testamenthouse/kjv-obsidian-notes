@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 26:7
-
 And ye shall chase your enemies, and they shall fall before you by the sword.

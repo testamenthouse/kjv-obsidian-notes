@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:156
-
 Great are thy tender mercies, O LORD: quicken me according to thy judgments.

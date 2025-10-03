@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 2:7
-
 Do not they blaspheme that worthy name by the which ye are called?

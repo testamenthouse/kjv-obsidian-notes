@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 5:21
-
 For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.

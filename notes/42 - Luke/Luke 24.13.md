@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:13
-
 And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 1:3
-
 From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.

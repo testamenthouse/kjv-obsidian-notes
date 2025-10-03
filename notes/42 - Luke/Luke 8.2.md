@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:2
-
 And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,

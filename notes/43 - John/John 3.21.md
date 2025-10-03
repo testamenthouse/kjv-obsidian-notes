@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 3:21
-
 But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.

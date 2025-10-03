@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 21:15
-
 And he that smiteth his father, or his mother, shall be surely put to death.

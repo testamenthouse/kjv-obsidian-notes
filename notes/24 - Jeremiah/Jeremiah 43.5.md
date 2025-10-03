@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 43:5
-
 But Johanan the son of Kareah, and all the captains of the forces, took all the remnant of Judah, that were returned from all nations, whither they had been driven, to dwell in the land of Judah;

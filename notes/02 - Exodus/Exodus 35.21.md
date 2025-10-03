@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 35:21
-
 And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought the LORD's offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.

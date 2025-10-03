@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 32:27
-
 Behold, I am the LORD, the God of all flesh: is there any thing too hard for me?

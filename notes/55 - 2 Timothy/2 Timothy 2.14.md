@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 2:14
-
 Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.

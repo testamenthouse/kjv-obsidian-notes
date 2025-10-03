@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 10:9
-
 O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.

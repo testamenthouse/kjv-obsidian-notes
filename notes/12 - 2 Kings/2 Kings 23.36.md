@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 23:36
-
 Jehoiakim was twenty and five years old when he began to reign; and he reigned eleven years in Jerusalem. And his mother's name was Zebudah, the daughter of Pedaiah of Rumah.

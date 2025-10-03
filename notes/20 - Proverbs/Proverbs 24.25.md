@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 24:25
-
 But to them that rebuke him shall be delight, and a good blessing shall come upon them.

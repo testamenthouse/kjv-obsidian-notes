@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:23
-
 How is the hammer of the whole earth cut asunder and broken! how is Babylon become a desolation among the nations!

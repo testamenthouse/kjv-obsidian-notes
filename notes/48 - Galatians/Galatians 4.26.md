@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 4:26
-
 But Jerusalem which is above is free, which is the mother of us all.

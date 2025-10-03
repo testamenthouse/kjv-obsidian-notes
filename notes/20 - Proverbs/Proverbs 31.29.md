@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 31:29
-
 Many daughters have done virtuously, but thou excellest them all.

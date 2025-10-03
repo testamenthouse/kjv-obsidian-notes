@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 7:13
-
 Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye.

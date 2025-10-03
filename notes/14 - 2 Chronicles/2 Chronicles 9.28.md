@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 9:28
-
 And they brought unto Solomon horses out of Egypt, and out of all lands.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 13:13
-
 Then the priest shall consider: and, behold, if the leprosy have covered all his flesh, he shall pronounce him clean that hath the plague: it is all turned white: he is clean.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:39
-
 And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which was in it.

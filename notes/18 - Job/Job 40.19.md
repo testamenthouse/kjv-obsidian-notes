@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:19
-
 He is the chief of the ways of God: he that made him can make his sword to approach unto him.

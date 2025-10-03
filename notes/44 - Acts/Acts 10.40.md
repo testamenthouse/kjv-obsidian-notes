@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:40
-
 Him God raised up the third day, and shewed him openly;

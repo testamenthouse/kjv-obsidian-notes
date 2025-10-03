@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 8:14
-
 Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices.

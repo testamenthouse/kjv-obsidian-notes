@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 19:8
-
 And all the people answered together, and said, All that the LORD hath spoken we will do. And Moses returned the words of the people unto the LORD.

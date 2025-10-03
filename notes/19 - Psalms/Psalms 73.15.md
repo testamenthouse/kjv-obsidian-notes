@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 73:15
-
 If I say, I will speak thus; behold, I should offend against the generation of thy children.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:44
-
 Nevertheless he regarded their affliction, when he heard their cry:

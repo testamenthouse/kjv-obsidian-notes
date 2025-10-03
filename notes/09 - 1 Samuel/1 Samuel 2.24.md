@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 2:24
-
 Nay, my sons; for it is no good report that I hear: ye make the LORD's people to transgress.

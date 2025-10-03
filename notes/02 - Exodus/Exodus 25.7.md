@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 25:7
-
 Onyx stones, and stones to be set in the ephod, and in the breastplate.

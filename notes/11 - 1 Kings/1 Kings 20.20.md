@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:20
-
 And they slew every one his man: and the Syrians fled; and Israel pursued them: and Benhadad the king of Syria escaped on an horse with the horsemen.

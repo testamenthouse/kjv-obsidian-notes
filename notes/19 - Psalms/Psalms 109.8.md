@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:8
-
 Let his days be few; and let another take his office.

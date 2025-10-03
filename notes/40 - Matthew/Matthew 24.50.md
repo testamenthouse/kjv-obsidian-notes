@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 24:50
-
 The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,

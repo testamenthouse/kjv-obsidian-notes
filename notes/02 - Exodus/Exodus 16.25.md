@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 16:25
-
 And Moses said, Eat that to day; for to day is a sabbath unto the LORD: to day ye shall not find it in the field.

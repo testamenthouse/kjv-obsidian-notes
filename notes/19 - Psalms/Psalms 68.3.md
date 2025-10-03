@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:3
-
 But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:15
-
 The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face.

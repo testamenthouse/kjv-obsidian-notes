@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 5:32
-
 I came not to call the righteous, but sinners to repentance.

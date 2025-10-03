@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 8:4
-
 And David took from him a thousand chariots, and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot horses, but reserved of them for an hundred chariots.

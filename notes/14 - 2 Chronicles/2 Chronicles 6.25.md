@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 6:25
-
 Then hear thou from the heavens, and forgive the sin of thy people Israel, and bring them again unto the land which thou gavest to them and to their fathers.

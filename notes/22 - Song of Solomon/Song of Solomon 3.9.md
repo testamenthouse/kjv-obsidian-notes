@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 3:9
-
 King Solomon made himself a chariot of the wood of Lebanon.

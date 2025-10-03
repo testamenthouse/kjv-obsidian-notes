@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 39:21
-
 And I will set my glory among the heathen, and all the heathen shall see my judgment that I have executed, and my hand that I have laid upon them.

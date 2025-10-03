@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 3:15
-
 Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.

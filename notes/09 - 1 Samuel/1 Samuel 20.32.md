@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 20:32
-
 And Jonathan answered Saul his father, and said unto him, Wherefore shall he be slain? what hath he done?

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 3:25
-
 But thou, O son of man, behold, they shall put bands upon thee, and shall bind thee with them, and thou shalt not go out among them:

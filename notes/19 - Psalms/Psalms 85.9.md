@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 85:9
-
 Surely his salvation is nigh them that fear him; that glory may dwell in our land.

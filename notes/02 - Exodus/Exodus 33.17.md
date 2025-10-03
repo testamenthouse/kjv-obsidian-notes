@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 33:17
-
 And the LORD said unto Moses, I will do this thing also that thou hast spoken: for thou hast found grace in my sight, and I know thee by name.

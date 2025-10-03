@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:46
-
 And the remnant of the sodomites, which remained in the days of his father Asa, he took out of the land.

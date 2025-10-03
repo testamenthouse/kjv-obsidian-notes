@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 15:13
-
 For because ye did it not at the first, the LORD our God made a breach upon us, for that we sought him not after the due order.

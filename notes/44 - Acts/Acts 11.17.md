@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:17
-
 Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?

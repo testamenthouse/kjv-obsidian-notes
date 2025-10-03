@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 4:16
-
 And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.

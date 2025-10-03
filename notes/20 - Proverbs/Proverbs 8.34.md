@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [benediction]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 8:34
-
 Blessed is the man that heareth me, watching daily at my gates, waiting at the posts of my doors.

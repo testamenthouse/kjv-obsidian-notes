@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 3:2
-
 While they behold your chaste conversation coupled with fear.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 8:20
-
 Thus saith the LORD of hosts; It shall yet come to pass, that there shall come people, and the inhabitants of many cities:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:21
-
 A dreadful sound is in his ears: in prosperity the destroyer shall come upon him.

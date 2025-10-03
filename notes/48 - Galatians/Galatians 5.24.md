@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:24
-
 And they that are Christ's have crucified the flesh with the affections and lusts.

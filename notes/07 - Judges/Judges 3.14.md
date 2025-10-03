@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 3:14
-
 So the children of Israel served Eglon the king of Moab eighteen years.

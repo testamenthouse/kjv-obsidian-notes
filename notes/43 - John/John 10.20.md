@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:20
-
 And many of them said, He hath a devil, and is mad; why hear ye him?

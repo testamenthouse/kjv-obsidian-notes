@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:1
-
 These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai.

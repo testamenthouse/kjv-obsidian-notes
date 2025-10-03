@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus, time-units, time-feasts, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 12:8
-
 For the Son of man is Lord even of the sabbath day.

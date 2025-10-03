@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 20:5
-
 Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people.

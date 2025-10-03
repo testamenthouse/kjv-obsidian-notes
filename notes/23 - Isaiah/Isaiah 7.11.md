@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 7:11
-
 Ask thee a sign of the LORD thy God; ask it either in the depth, or in the height above.

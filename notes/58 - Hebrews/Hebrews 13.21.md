@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, jesus, jesus-title, praise-worship, time-eschatology, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 13:21
-
 Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen.

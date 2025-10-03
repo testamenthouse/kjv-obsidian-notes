@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 20:26
-
 Nevertheless Saul spake not any thing that day: for he thought, Something hath befallen him, he is not clean; surely he is not clean.

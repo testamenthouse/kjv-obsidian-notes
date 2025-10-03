@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 10:28
-
 Thus were the journeyings of the children of Israel according to their armies, when they set forward.

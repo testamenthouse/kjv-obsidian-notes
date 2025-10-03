@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 25:11
-
 And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahairoi.

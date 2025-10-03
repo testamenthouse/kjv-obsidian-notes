@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 23:1
-
 The burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Chittim it is revealed to them.

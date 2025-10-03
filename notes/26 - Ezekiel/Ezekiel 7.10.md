@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 7:10
-
 Behold the day, behold, it is come: the morning is gone forth; the rod hath blossomed, pride hath budded.

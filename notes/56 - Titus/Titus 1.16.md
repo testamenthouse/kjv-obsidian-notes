@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 1:16
-
 They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.

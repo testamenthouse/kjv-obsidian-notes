@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 6:3
-
 O my people, what have I done unto thee? and wherein have I wearied thee? testify against me.

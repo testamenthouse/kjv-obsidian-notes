@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 14:29
-
 Now the rest of the acts of Rehoboam, and all that he did, are they not written in the book of the chronicles of the kings of Judah?

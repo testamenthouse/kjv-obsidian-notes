@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 6:21
-
 What fruit had ye then in those things whereof ye are now ashamed? for the end of those things is death.

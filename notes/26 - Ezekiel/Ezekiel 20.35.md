@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:35
-
 And I will bring you into the wilderness of the people, and there will I plead with you face to face.

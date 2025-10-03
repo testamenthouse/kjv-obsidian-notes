@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 2:6
-
 His left hand is under my head, and his right hand doth embrace me.

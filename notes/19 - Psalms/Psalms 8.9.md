@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 8:9
-
 O LORD our Lord, how excellent is thy name in all the earth!

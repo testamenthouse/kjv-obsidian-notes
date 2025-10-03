@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 12:23
-
 The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 82:3
-
 Defend the poor and fatherless: do justice to the afflicted and needy.

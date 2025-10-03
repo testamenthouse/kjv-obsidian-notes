@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 2:8
-
 Send me also cedar trees, fir trees, and algum trees, out of Lebanon: for I know that thy servants can skill to cut timber in Lebanon; and, behold, my servants shall be with thy servants,

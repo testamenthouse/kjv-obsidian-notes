@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 28:25
-
 And the other two ends of the two wreathed chains thou shalt fasten in the two ouches, and put them on the shoulderpieces of the ephod before it.

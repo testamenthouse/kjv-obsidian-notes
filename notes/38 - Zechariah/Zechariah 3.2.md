@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 3:2
-
 And the LORD said unto Satan, The LORD rebuke thee, O Satan; even the LORD that hath chosen Jerusalem rebuke thee: is not this a brand plucked out of the fire?

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 23:19
-
 Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings.

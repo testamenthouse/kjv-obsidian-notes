@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 9:11
-
 And the king made of the algum trees terraces to the house of the LORD, and to the king's palace, and harps and psalteries for singers: and there were none such seen before in the land of Judah.

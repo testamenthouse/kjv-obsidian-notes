@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:124
-
 Deal with thy servant according unto thy mercy, and teach me thy statutes.

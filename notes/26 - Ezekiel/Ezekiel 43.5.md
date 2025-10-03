@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 43:5
-
 So the spirit took me up, and brought me into the inner court; and, behold, the glory of the LORD filled the house.

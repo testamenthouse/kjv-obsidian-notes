@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 8:7
-
 For they have sown the wind, and they shall reap the whirlwind: it hath no stalk; the bud shall yield no meal: if so be it yield, the strangers shall swallow it up.

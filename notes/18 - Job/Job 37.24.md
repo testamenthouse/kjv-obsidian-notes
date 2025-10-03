@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:24
-
 Men do therefore fear him: he respecteth not any that are wise of heart.

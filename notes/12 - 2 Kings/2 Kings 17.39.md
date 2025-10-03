@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 17:39
-
 But the LORD your God ye shall fear; and he shall deliver you out of the hand of all your enemies.

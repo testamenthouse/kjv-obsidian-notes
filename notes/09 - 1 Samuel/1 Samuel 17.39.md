@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 17:39
-
 And David girded his sword upon his armor, and he assayed to go; for he had not proved it. And David said unto Saul, I cannot go with these; for I have not proved them. And David put them off him.

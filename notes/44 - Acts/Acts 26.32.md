@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:32
-
 Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Caesar.

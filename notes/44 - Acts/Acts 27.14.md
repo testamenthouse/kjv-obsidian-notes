@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:14
-
 But not long after there arose against it a tempestuous wind, called Euroclydon.

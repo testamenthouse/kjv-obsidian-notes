@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-Thessalonians"]
 ---
-
-# 2 Thessalonians 3:6
-
 Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.

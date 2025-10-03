@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 35:1
-
 The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.

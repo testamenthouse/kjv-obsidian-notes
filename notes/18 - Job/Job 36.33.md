@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:33
-
 The noise thereof sheweth concerning it, the cattle also concerning the vapour.

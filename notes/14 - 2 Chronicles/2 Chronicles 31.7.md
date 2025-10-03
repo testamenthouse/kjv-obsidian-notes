@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 31:7
-
 In the third month they began to lay the foundation of the heaps, and finished them in the seventh month.

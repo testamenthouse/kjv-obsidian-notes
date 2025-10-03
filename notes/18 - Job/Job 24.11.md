@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:11
-
 Which make oil within their walls, and tread their winepresses, and suffer thirst.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 1:24
-
 Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves:

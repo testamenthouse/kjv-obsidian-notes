@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 4:8
-
 And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, LORD God Almighty, which was, and is, and is to come.

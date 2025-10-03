@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 7:8
-
 The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not.

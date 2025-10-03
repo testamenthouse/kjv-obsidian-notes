@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 51:11
-
 Cast me not away from thy presence; and take not thy holy spirit from me.

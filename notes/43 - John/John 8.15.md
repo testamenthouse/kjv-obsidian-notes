@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:15
-
 Ye judge after the flesh; I judge no man.

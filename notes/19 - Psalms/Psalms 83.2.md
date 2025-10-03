@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 83:2
-
 For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 8:6
-
 That we may buy the poor for silver, and the needy for a pair of shoes; yea, and sell the refuse of the wheat?

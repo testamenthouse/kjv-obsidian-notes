@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 90:12
-
 So teach us to number our days, that we may apply our hearts unto wisdom.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 30:16
-
 And they stood in their place after their manner, according to the law of Moses the man of God: the priests sprinkled the blood, which they received of the hand of the Levites.

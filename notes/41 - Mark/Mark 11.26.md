@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:26
-
 But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses.

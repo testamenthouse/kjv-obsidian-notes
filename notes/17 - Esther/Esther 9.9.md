@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 9:9
-
 And Parmashta, and Arisai, and Aridai, and Vajezatha,

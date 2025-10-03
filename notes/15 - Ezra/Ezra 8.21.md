@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:21
-
 Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance.

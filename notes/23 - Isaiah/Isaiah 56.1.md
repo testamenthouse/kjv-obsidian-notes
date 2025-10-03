@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 56:1
-
 Thus saith the LORD, Keep ye judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 4:13
-
 And he said, O my LORD, send, I pray thee, by the hand of him whom thou wilt send.

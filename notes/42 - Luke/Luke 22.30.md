@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:30
-
 That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.

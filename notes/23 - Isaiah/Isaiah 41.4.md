@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 41:4
-
 Who hath wrought and done it, calling the generations from the beginning? I the LORD, the first, and with the last; I am he.

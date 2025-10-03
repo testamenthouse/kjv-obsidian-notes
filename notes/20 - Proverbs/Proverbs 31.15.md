@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 31:15
-
 She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 14:2
-
 The LORD looked down from heaven upon the children of men, to see if there were any that did understand, and seek God.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:37
-
 The children of Immer, a thousand fifty and two.

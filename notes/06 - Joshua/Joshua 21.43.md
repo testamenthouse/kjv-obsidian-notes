@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 21:43
-
 And the LORD gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein.

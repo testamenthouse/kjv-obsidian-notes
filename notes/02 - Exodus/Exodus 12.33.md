@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 12:33
-
 And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We be all dead men.

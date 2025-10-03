@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:47
-
 Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?

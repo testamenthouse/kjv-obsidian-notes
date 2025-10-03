@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 26:1
-
 Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide.

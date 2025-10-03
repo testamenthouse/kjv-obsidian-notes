@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 4:9
-
 She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 3:18
-
 Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;

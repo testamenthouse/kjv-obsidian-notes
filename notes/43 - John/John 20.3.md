@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 20:3
-
 Peter therefore went forth, and that other disciple, and came to the sepulchre.

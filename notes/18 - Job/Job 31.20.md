@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:20
-
 If his loins have not blessed me, and if he were not warmed with the fleece of my sheep;

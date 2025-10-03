@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 16:18
-
 For they have refreshed my spirit and your's: therefore acknowledge ye them that are such.

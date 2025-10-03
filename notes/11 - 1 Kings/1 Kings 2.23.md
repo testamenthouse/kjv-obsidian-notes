@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:23
-
 Then king Solomon sware by the LORD, saying, God do so to me, and more also, if Adonijah have not spoken this word against his own life.

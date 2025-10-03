@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title, lament]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:50
-
 Jesus, when he had cried again with a loud voice, yielded up the ghost.

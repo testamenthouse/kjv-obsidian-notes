@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:32
-
 Some therefore cried one thing, and some another: for the assembly was confused: and the more part knew not wherefore they were come together.

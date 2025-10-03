@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 1:13
-
 Then Solomon came from his journey to the high place that was at Gibeon to Jerusalem, from before the tabernacle of the congregation, and reigned over Israel.

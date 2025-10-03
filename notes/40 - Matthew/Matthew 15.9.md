@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:9
-
 But in vain they do worship me, teaching for doctrines the commandments of men.

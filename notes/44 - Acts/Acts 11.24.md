@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:24
-
 For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord.

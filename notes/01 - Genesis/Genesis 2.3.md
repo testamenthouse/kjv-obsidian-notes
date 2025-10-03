@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 2:3
-
 And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 12:15
-
 And it shall come to pass, after that I have plucked them out I will return, and have compassion on them, and will bring them again, every man to his heritage, and every man to his land.

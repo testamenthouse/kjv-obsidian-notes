@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 17:5
-
 He took also of the seed of the land, and planted it in a fruitful field; he placed it by great waters, and set it as a willow tree.

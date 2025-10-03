@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:21
-
 And Peter calling to remembrance saith unto him, Master, behold, the fig tree which thou cursedst is withered away.

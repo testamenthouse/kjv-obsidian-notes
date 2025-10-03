@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:8
-
 Which goeth in company with the workers of iniquity, and walketh with wicked men.

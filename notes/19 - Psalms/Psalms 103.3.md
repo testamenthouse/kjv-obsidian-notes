@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:3
-
 Who forgiveth all thine iniquities; who healeth all thy diseases;

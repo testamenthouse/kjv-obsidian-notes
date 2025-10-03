@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 18:1
-
 Now Jehoshaphat had riches and honor in abundance, and joined affinity with Ahab.

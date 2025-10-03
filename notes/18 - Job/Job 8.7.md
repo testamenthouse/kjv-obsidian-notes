@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:7
-
 Though thy beginning was small, yet thy latter end should greatly increase.

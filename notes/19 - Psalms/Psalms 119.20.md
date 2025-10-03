@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:20
-
 My soul breaketh for the longing that it hath unto thy judgments at all times.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:24
-
 And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds.

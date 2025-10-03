@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 28:28
-
 Be it known therefore unto you, that the salvation of God is sent unto the Gentiles, and that they will hear it.

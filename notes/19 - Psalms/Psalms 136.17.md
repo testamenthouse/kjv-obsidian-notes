@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 136:17
-
 To him which smote great kings: for his mercy endureth for ever:

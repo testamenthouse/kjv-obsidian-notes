@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 28:21
-
 And they said unto him, We neither received letters out of Judaea concerning thee, neither any of the brethren that came shewed or spake any harm of thee.

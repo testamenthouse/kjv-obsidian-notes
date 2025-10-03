@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, demonic-phrases, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 12:28
-
 But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you.

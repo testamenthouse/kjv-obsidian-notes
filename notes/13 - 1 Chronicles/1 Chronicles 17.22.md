@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 17:22
-
 For thy people Israel didst thou make thine own people for ever; and thou, LORD, becamest their God.

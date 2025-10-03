@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [jesus, jesus-title, lament]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 9:27
-
 And when Jesus departed thence, two blind men followed him, crying, and saying, Thou son of David, have mercy on us.

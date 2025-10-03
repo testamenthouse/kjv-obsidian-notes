@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:45
-
 The children of Lebanah, the children of Hagabah, the children of Akkub,

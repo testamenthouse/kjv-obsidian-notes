@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 13:8
-
 Therefore thus saith the Lord GOD; Because ye have spoken vanity, and seen lies, therefore, behold, I am against you, saith the Lord GOD.

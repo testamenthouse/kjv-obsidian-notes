@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:18
-
 Now then do it: for the LORD hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.

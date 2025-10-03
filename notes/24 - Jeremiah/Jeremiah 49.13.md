@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 49:13
-
 For I have sworn by myself, saith the LORD, that Bozrah shall become a desolation, a reproach, a waste, and a curse; and all the cities thereof shall be perpetual wastes.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 16:23
-
 The grace of our Lord Jesus Christ be with you.

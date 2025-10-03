@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 2:11
-
 He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.

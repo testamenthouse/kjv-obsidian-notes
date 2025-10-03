@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:2
-
 Oh that I were as in months past, as in the days when God preserved me;

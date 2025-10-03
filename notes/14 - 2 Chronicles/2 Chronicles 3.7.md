@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 3:7
-
 He overlaid also the house, the beams, the posts, and the walls thereof, and the doors thereof, with gold; and graved cherubim on the walls.

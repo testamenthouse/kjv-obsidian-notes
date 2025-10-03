@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, jesus, jesus-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:13
-
 Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the LORD Jesus, saying, We adjure you by Jesus whom Paul preacheth.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 4:10
-
 And Judah said, The strength of the bearers of burdens is decayed, and there is much rubbish; so that we are not able to build the wall.

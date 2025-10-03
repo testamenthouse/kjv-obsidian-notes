@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 36:20
-
 These are the sons of Seir the Horite, who inhabited the land; Lotan, and Shobal, and Zibeon, and Anah,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 14:23
-
 For they also built them high places, and images, and groves, on every high hill, and under every green tree.

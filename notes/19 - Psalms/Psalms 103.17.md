@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:17
-
 But the mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness unto children's children;

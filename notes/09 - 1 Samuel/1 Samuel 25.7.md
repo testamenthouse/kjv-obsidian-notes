@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 25:7
-
 And now I have heard that thou hast shearers: now thy shepherds which were with us, we hurt them not, neither was there ought missing unto them, all the while they were in Carmel.

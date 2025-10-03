@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 4:7
-
 For God hath not called us unto uncleanness, but unto holiness.

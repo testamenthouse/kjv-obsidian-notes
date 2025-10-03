@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 18:26
-
 And the children of Dan went their way: and when Micah saw that they were too strong for him, he turned and went back unto his house.

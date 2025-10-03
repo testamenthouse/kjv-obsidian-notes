@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 46:2
-
 They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.

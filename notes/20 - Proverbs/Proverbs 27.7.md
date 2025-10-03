@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 27:7
-
 The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet.

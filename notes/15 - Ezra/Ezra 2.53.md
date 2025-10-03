@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:53
-
 The children of Barkos, the children of Sisera, the children of Thamah,

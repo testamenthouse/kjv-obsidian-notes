@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 11:5
-
 And Maaseiah the son of Baruch, the son of Colhozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni.

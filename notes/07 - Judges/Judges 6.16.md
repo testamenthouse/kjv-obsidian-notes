@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 6:16
-
 And the LORD said unto him, Surely I will be with thee, and thou shalt smite the Midianites as one man.

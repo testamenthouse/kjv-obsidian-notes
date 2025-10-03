@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god, adversary-title, adversary]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 1:16
-
 Count not thine handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken hitherto.

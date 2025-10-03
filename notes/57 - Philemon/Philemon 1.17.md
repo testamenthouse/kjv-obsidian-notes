@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philemon"]
 ---
-
-# Philemon 1:17
-
 If thou count me therefore a partner, receive him as myself.

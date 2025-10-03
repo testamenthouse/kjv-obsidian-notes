@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 9:25
-
 And their brethren, which were in their villages, were to come after seven days from time to time with them.

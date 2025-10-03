@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 39:15
-
 Now the word of the LORD came unto Jeremiah, while he was shut up in the court of the prison, saying,

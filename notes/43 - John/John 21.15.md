@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 21:15
-
 So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.

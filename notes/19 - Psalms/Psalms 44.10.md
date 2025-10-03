@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 44:10
-
 Thou makest us to turn back from the enemy: and they which hate us spoil for themselves.

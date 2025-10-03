@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:33
-
 And they shall scourge him, and put him to death: and the third day he shall rise again.

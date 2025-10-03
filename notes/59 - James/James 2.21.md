@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 2:21
-
 Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?

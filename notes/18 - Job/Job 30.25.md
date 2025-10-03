@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:25
-
 Did not I weep for him that was in trouble? was not my soul grieved for the poor?

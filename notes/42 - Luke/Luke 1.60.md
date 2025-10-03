@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:60
-
 And his mother answered and said, Not so; but he shall be called John.

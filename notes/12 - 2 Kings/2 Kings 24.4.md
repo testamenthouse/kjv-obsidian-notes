@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 24:4
-
 And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the LORD would not pardon.

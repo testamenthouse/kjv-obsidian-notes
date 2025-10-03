@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 4:43
-
 And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the LORD, They shall eat, and shall leave thereof.

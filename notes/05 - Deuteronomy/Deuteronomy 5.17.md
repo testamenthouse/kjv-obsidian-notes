@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [warfare, negative-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 5:17
-
 Thou shalt not kill.

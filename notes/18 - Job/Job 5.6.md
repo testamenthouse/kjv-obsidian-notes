@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:6
-
 Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;

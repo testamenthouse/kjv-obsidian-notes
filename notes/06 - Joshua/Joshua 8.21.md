@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 8:21
-
 And when Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai.

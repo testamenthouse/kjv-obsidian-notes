@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-seasons, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 4:29
-
 But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come.

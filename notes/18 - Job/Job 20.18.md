@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:18
-
 That which he laboured for shall he restore, and shall not swallow it down: according to his substance shall the restitution be, and he shall not rejoice therein.

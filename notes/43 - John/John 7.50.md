@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title, time-parts-of-day, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:50
-
 Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)

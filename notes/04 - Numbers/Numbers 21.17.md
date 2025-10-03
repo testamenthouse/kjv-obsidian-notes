@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 21:17
-
 Then Israel sang this song, Spring up, O well; sing ye unto it:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 4:2
-
 For ye know what commandments we gave you by the Lord Jesus.

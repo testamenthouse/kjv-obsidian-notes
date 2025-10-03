@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:14
-
 For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company.

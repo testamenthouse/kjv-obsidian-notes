@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:7
-
 Be not ye therefore partakers with them.

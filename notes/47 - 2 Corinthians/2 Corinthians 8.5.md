@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 8:5
-
 And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God.

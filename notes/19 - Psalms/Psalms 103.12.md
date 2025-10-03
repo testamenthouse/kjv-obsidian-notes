@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:12
-
 As far as the east is from the west, so far hath he removed our transgressions from us.

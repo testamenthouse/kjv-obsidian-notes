@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 28:18
-
 Who, when they had examined me, would have let me go, because there was no cause of death in me.

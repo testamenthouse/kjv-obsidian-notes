@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 36:9
-
 Neither shall the inheritance remove from one tribe to another tribe; but every one of the tribes of the children of Israel shall keep himself to his own inheritance.

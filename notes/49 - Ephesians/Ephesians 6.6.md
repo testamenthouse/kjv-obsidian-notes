@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 6:6
-
 Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;

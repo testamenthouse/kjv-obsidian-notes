@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:32
-
 Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:

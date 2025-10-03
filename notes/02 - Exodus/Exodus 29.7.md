@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 29:7
-
 Then shalt thou take the anointing oil, and pour it upon his head, and anoint him.

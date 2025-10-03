@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:2
-
 And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.

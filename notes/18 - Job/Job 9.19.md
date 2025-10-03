@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:19
-
 If I speak of strength, lo, he is strong: and if of judgment, who shall set me a time to plead?

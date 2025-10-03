@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 33:28
-
 For I will lay the land most desolate, and the pomp of her strength shall cease; and the mountains of Israel shall be desolate, that none shall pass through.

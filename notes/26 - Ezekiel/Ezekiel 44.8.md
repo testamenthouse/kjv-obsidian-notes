@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 44:8
-
 And ye have not kept the charge of mine holy things: but ye have set keepers of my charge in my sanctuary for yourselves.

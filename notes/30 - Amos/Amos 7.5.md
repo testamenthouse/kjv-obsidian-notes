@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 7:5
-
 Then said I, O Lord GOD, cease, I beseech thee: by whom shall Jacob arise? for he is small.

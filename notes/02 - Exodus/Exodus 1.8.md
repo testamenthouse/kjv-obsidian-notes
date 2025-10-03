@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 1:8
-
 Now there arose up a new king over Egypt, which knew not Joseph.

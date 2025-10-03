@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 16:8
-
 Then the lords of the Philistines brought up to her seven green withes which had not been dried, and she bound him with them.

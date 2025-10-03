@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:1
-
 Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.

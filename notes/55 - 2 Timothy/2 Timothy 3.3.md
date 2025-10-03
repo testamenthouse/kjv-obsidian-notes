@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 3:3
-
 Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,

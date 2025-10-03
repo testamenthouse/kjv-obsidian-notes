@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 12:29
-
 When the LORD thy God shall cut off the nations from before thee, whither thou goest to possess them, and thou succeedest them, and dwellest in their land;

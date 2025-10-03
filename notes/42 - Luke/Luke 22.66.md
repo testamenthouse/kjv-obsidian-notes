@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:66
-
 And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,

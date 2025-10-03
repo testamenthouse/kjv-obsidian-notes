@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 62:3
-
 How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall shall ye be, and as a tottering fence.

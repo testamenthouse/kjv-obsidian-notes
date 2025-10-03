@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 1:9
-
 As we said before, so say I now again, if any man preach any other gospel unto you than that ye have received, let him be accursed.

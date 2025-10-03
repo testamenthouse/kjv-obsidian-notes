@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 10:10
-
 For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.

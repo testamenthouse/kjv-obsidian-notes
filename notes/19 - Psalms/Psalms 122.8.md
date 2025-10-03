@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 122:8
-
 For my brethren and companions' sakes, I will now say, Peace be within thee.

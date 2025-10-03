@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:22
-
 Then call thou, and I will answer: or let me speak, and answer thou me.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:32
-
 Yet shall he be brought to the grave, and shall remain in the tomb.

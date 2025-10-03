@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 127:1
-
 Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.

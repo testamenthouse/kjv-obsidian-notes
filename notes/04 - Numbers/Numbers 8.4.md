@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 8:4
-
 And this work of the candlestick was of beaten gold, unto the shaft thereof, unto the flowers thereof, was beaten work: according unto the pattern which the LORD had showed Moses, so he made the candlestick.

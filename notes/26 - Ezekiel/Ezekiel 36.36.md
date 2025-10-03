@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 36:36
-
 Then the heathen that are left round about you shall know that I the LORD build the ruined places, and plant that that was desolate: I the LORD have spoken it, and I will do it.

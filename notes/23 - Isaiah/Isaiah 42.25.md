@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast, cause-effect]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 42:25
-
 Therefore he hath poured upon him the fury of his anger, and the strength of battle: and it hath set him on fire round about, yet he knew not; and it burned him, yet he laid it not to heart.

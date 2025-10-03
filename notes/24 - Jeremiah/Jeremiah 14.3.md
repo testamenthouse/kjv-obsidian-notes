@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 14:3
-
 And their nobles have sent their little ones to the waters: they came to the pits, and found no water; they returned with their vessels empty; they were ashamed and confounded, and covered their heads.

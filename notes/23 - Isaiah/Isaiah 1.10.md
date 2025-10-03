@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 1:10
-
 Hear the word of the LORD, ye rulers of Sodom; give ear unto the law of our God, ye people of Gomorrah.

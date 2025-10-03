@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:29
-
 Come, see a man, which told me all things that ever I did: is not this the Christ?

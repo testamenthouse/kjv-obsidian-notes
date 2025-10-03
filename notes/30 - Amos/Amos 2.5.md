@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 2:5
-
 But I will send a fire upon Judah, and it shall devour the palaces of Jerusalem.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 32:42
-
 For thus saith the LORD; Like as I have brought all this great evil upon this people, so will I bring upon them all the good that I have promised them.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 8:3
-
 And Aaron did so; he lighted the lamps thereof over against the candlestick, as the LORD commanded Moses.

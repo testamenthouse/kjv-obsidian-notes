@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 18:9
-
 And at what instant I shall speak concerning a nation, and concerning a kingdom, to build and to plant it;

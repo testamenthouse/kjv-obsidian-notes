@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 21:3
-
 For thou preventest him with the blessings of goodness: thou settest a crown of pure gold on his head.

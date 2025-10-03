@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:19
-
 Behold, this is the joy of his way, and out of the earth shall others grow.

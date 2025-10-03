@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 2:7
-
 So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 20:7
-
 And upon the first day of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight.

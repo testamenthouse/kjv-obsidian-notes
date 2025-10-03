@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:9
-
 We would have healed Babylon, but she is not healed: forsake her, and let us go every one into his own country: for her judgment reacheth unto heaven, and is lifted up even to the skies.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 11:7
-
 Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely?

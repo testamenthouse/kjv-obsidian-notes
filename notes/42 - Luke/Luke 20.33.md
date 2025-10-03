@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:33
-
 Therefore in the resurrection whose wife of them is she? for seven had her to wife.

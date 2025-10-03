@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 14:20
-
 And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.

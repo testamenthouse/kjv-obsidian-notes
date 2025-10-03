@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 5:1
-
 The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:

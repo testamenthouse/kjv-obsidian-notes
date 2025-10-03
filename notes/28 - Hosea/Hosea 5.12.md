@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 5:12
-
 Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness.

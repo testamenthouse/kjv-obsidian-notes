@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:26
-
 To cause it to rain on the earth, where no man is; on the wilderness, wherein there is no man;

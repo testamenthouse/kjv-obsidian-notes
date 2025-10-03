@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, benediction, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 1:48
-
 And also thus said the king, Blessed be the LORD God of Israel, which hath given one to sit on my throne this day, mine eyes even seeing it.

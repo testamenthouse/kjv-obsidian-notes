@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 125:4
-
 Do good, O LORD, unto those that be good, and to them that are upright in their hearts.

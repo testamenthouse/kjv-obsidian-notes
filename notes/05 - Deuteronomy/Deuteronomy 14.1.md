@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 14:1
-
 Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.

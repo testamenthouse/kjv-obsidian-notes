@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 5:17
-
 So will I send upon you famine and evil beasts, and they shall bereave thee: and pestilence and blood shall pass through thee; and I will bring the sword upon thee. I the LORD have spoken it.

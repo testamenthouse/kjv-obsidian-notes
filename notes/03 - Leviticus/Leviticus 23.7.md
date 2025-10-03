@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 23:7
-
 In the first day ye shall have an holy convocation: ye shall do no servile work therein.

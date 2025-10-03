@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 18:25
-
 Then the king of Israel said, Take ye Micaiah, and carry him back to Amon the governor of the city, and to Joash the king's son;

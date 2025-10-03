@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 9:44
-
 And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel.

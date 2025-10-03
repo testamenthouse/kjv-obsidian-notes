@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 5:7
-
 Thou shalt have none other gods before me.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:13
-
 Hold your peace, let me alone, that I may speak, and let come on me what will.

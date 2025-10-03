@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:31
-
 Jesus answered them, Do ye now believe?

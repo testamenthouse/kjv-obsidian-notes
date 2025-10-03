@@ -13,7 +13,4 @@ grammar_tags: [exclamation, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 3:10
-
 And the king of Israel said, Alas! that the LORD hath called these three kings together, to deliver them into the hand of Moab!

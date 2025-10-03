@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 1:28
-
 And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:

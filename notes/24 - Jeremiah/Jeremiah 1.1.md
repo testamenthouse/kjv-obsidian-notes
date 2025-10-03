@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 1:1
-
 The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:

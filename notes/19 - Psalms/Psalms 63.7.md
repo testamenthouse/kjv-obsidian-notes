@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 63:7
-
 Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.

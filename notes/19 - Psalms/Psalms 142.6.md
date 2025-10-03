@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 142:6
-
 Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.

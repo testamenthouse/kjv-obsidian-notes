@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:35
-
 Until I make thy foes thy footstool.

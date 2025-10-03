@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:19
-
 God layeth up his iniquity for his children: he rewardeth him, and he shall know it.

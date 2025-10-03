@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:9
-
 For evildoers shall be cut off: but those that wait upon the LORD, they shall inherit the earth.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 47:8
-
 God reigneth over the heathen: God sitteth upon the throne of his holiness.

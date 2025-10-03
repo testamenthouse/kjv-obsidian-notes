@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 10:5
-
 And Jair died, and was buried in Camon.

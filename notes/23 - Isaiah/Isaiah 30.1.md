@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 30:1
-
 Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 25:4
-
 Thou shalt not muzzle the ox when he treadeth out the corn.

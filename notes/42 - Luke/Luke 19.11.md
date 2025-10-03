@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:11
-
 And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.

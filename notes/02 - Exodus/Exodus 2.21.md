@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 2:21
-
 And Moses was content to dwell with the man: and he gave Moses Zipporah his daughter.

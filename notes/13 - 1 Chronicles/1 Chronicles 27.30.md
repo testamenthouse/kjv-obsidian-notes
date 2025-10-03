@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:30
-
 Over the camels also was Obil the Ishmaelite: and over the asses was Jehdeiah the Meronothite:

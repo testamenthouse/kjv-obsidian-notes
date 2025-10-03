@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 3:12
-
 And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:

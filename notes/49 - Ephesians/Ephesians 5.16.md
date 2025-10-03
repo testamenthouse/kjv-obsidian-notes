@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:16
-
 Redeeming the time, because the days are evil.

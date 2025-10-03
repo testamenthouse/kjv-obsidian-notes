@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 38:8
-
 I am feeble and sore broken: I have roared by reason of the disquietness of my heart.

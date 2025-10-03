@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 1:13
-
 And Othniel the son of Kenaz, Caleb's younger brother, took it: and he gave him Achsah his daughter to wife.

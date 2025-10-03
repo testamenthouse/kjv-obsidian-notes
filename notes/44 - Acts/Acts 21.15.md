@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:15
-
 And after those days we took up our carriages, and went up to Jerusalem.

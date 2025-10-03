@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 21:5
-
 His glory is great in thy salvation: honour and majesty hast thou laid upon him.

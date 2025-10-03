@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 139:14
-
 I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.

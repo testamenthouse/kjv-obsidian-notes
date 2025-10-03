@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 22:10
-
 Weep ye not for the dead, neither bemoan him: but weep sore for him that goeth away: for he shall return no more, nor see his native country.

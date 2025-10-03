@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 16:16
-
 The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it.

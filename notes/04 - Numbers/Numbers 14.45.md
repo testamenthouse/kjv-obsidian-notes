@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:45
-
 Then the Amalekites came down, and the Canaanites which dwelt in that hill, and smote them, and discomfited them, even unto Hormah.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 5:5
-
 And now go to; I will tell you what I will do to my vineyard: I will take away the hedge thereof, and it shall be eaten up; and break down the wall thereof, and it shall be trodden down:

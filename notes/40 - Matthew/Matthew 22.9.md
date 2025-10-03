@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 22:9
-
 Go ye therefore into the highways, and as many as ye shall find, bid to the marriage.

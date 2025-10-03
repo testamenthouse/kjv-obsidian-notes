@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:10
-
 Such as sit in darkness and in the shadow of death, being bound in affliction and iron;

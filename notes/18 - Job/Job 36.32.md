@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:32
-
 With clouds he covereth the light; and commandeth it not to shine by the cloud that cometh betwixt.

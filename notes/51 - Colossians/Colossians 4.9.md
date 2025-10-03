@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 4:9
-
 With Onesimus, a faithful and beloved brother, who is one of you. They shall make known unto you all things which are done here.

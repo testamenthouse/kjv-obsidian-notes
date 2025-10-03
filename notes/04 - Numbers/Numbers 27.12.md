@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 27:12
-
 And the LORD said unto Moses, Get thee up into this mount Abarim, and see the land which I have given unto the children of Israel.

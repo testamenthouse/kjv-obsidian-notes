@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 24:2
-
 Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.

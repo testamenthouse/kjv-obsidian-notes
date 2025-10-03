@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:40
-
 But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubilee.

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:15
-
 And the Jews marvelled, saying, How knoweth this man letters, having never learned?

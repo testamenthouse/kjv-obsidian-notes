@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 34:6
-
 And so did he in the cities of Manasseh, and Ephraim, and Simeon, even unto Naphtali, with their mattocks round about.

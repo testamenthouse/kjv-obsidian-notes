@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 10:16
-
 Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 28:24
-
 The LORD shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed.

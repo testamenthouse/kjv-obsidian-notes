@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:24
-
 They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn.

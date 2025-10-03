@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 30:14
-
 But the word is very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it.

@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:49
-
 Then said I, Ah Lord GOD! they say of me, Doth he not speak parables?

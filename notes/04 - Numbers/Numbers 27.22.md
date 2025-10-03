@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 27:22
-
 And Moses did as the LORD commanded him: and he took Joshua, and set him before Eleazar the priest, and before all the congregation:

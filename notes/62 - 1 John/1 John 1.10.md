@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 1:10
-
 If we say that we have not sinned, we make him a liar, and his word is not in us.

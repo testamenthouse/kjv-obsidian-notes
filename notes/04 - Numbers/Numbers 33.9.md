@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 33:9
-
 And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there.

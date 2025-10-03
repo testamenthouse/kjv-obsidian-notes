@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: [names-of-god, positive-command, time-feasts, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 16:2
-
 Thou shalt therefore sacrifice the passover unto the LORD thy God, of the flock and the herd, in the place which the LORD shall choose to place his name there.

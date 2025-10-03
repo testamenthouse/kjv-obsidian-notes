@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 18:12
-
 Thou shalt not uncover the nakedness of thy father's sister: she is thy father's near kinswoman.

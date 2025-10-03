@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:25
-
 And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and reigned over Israel two years.

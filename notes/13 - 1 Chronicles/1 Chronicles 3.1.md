@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 3:1
-
 Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:

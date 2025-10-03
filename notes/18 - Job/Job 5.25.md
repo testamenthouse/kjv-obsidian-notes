@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:25
-
 Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:12
-
 And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle are ring-streaked, speckled, and grizzled: for I have seen all that Laban doeth unto thee.

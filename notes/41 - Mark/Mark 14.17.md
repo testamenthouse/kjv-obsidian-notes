@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:17
-
 And in the evening he cometh with the twelve.

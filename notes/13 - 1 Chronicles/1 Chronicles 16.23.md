@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship, time-units, time]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 16:23
-
 Sing unto the LORD, all the earth; show forth from day to day his salvation.

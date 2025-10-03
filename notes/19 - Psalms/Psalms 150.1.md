@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 150:1
-
 Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.

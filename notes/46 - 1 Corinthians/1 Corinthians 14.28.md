@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 14:28
-
 But if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:30
-
 Then they sought to take him: but no man laid hands on him, because his hour was not yet come.

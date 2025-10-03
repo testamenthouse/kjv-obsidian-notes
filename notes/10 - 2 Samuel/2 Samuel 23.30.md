@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 23:30
-
 Benaiah the Pirathonite, Hiddai of the brooks of Gaash,

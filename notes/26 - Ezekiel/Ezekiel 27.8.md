@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:8
-
 The inhabitants of Zidon and Arvad were thy mariners: thy wise men, O Tyrus, that were in thee, were thy pilots.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 44:10
-
 And he said, Now also let it be according unto your words: he with whom it is found shall be my servant; and ye shall be blameless.

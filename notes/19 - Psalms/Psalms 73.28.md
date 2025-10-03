@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 73:28
-
 But it is good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all thy works.

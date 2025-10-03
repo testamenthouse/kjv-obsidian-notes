@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-eschatology, time-units, time-feasts, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 81:3
-
 Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.

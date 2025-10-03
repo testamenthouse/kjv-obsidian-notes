@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 32:14
-
 Then will I make their waters deep, and cause their rivers to run like oil, saith the Lord GOD.

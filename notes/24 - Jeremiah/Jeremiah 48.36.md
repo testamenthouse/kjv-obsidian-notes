@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:36
-
 Therefore mine heart shall sound for Moab like pipes, and mine heart shall sound like pipes for the men of Kirheres: because the riches that he hath gotten are perished.

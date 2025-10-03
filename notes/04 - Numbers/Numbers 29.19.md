@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 29:19
-
 And one kid of the goats for a sin offering; beside the continual burnt offering, and the meat offering thereof, and their drink offerings.

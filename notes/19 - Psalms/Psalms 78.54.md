@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:54
-
 And he brought them to the border of his sanctuary, even to this mountain, which his right hand had purchased.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:46
-
 I am come a light into the world, that whosoever believeth on me should not abide in darkness.

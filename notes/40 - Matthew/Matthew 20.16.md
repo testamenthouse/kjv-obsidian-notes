@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 20:16
-
 So the last shall be first, and the first last: for many be called, but few chosen.

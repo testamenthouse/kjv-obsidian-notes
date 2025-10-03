@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 10:9
-
 Moreover the children of Ammon passed over Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim; so that Israel was sore distressed.

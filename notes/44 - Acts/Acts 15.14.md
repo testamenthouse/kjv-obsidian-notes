@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:14
-
 Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name.

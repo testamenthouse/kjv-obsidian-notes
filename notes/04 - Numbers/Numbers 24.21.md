@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 24:21
-
 And he looked on the Kenites, and took up his parable, and said, Strong is thy dwelling place, and thou puttest thy nest in a rock.

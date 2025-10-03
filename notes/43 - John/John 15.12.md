@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [one-another]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 15:12
-
 This is my commandment, That ye love one another, as I have loved you.

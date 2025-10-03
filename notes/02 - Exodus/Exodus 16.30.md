@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 16:30
-
 So the people rested on the seventh day.

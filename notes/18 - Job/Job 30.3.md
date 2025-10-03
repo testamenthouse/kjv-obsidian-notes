@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:3
-
 For want and famine they were solitary; fleeing into the wilderness in former time desolate and waste.

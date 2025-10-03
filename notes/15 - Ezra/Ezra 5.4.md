@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 5:4
-
 Then said we unto them after this manner, What are the names of the men that make this building?

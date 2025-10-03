@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:2
-
 And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon's son, to betray him;

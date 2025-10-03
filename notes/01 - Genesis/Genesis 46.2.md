@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 46:2
-
 And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I.

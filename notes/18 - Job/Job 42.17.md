@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 42:17
-
 So Job died, being old and full of days.

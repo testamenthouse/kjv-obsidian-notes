@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 1:11
-
 Then David took hold on his clothes, and rent them; and likewise all the men that were with him:

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 126:2
-
 Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.

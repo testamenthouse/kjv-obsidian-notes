@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 6:9
-
 These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God.

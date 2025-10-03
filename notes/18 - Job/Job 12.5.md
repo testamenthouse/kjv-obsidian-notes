@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:5
-
 He that is ready to slip with his feet is as a lamp despised in the thought of him that is at ease.

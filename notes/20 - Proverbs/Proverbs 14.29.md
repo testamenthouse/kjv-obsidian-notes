@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 14:29
-
 He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.

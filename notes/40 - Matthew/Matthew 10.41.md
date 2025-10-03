@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 10:41
-
 He that receiveth a prophet in the name of a prophet shall receive a prophet's reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward.

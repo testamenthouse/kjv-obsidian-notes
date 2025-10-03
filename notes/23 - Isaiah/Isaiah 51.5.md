@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 51:5
-
 My righteousness is near; my salvation is gone forth, and mine arms shall judge the people; the isles shall wait upon me, and on mine arm shall they trust.

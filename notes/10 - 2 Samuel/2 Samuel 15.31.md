@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 15:31
-
 And one told David, saying, Ahithophel is among the conspirators with Absalom. And David said, O LORD, I pray thee, turn the counsel of Ahithophel into foolishness.

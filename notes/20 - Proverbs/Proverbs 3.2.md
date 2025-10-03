@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 3:2
-
 For length of days, and long life, and peace, shall they add to thee.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 52:12
-
 For ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel will be your rereward.

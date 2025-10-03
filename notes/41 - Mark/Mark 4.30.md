@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 4:30
-
 And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?

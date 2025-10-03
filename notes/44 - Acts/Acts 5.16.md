@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [demonic-entities, adversary]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:16
-
 There came also a multitude out of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one.

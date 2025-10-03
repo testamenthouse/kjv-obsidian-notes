@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 12:23
-
 And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost.

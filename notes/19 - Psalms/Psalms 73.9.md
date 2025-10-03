@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 73:9
-
 They set their mouth against the heavens, and their tongue walketh through the earth.

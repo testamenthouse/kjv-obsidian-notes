@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 3:4
-
 Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.

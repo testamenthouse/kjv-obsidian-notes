@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:37
-
 Peter said unto him, Lord, why cannot I follow thee now? I will lay down my life for thy sake.

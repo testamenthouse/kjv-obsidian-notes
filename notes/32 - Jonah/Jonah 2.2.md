@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Jonah"]
 ---
-
-# Jonah 2:2
-
 And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice.

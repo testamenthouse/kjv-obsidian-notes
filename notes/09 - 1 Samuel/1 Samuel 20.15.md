@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 20:15
-
 But also thou shalt not cut off thy kindness from my house for ever: no, not when the LORD hath cut off the enemies of David every one from the face of the earth.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 31:14
-
 And Kore the son of Imnah the Levite, the porter toward the east, was over the freewill offerings of God, to distribute the oblations of the LORD, and the most holy things.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:10
-
 And have ye not read this scripture; The stone which the builders rejected is become the head of the corner:

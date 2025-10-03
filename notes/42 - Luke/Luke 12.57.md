@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:57
-
 Yea, and why even of yourselves judge ye not what is right?

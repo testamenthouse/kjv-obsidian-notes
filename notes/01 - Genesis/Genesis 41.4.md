@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:4
-
 And the ill favored and leanfleshed kine did eat up the seven well favored and fat kine. So Pharaoh awoke.

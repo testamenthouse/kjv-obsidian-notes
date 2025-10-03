@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:51
-
 Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.

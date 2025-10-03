@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 11:26
-
 He that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it.

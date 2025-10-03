@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 128:2
-
 For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee.

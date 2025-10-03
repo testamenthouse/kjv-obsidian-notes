@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 11:6
-
 Then the LORD said unto me, Proclaim all these words in the cities of Judah, and in the streets of Jerusalem, saying, Hear ye the words of this covenant, and do them.

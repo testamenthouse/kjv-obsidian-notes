@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:45
-
 Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also.

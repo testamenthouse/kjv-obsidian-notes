@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 26:6
-
 The foot shall tread it down, even the feet of the poor, and the steps of the needy.

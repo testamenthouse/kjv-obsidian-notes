@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 80:6
-
 Thou makest us a strife unto our neighbours: and our enemies laugh among themselves.

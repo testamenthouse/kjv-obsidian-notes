@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:36
-
 They also which saw it told them by what means he that was possessed of the devils was healed.

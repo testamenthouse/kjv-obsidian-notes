@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:29
-
 Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it.

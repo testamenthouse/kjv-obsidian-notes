@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 4:15
-
 Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me.

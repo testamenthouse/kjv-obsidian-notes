@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:5
-
 Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth;

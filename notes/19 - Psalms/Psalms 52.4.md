@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 52:4
-
 Thou lovest all devouring words, O thou deceitful tongue.

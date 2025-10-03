@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 8:14
-
 And when Jesus was come into Peter's house, he saw his wife's mother laid, and sick of a fever.

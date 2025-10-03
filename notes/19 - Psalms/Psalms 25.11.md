@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 25:11
-
 For thy name's sake, O LORD, pardon mine iniquity; for it is great.

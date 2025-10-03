@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 121:7
-
 The LORD shall preserve thee from all evil: he shall preserve thy soul.

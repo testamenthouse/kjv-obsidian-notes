@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 28:2
-
 Behold, the Lord hath a mighty and strong one, which as a tempest of hail and a destroying storm, as a flood of mighty waters overflowing, shall cast down to the earth with the hand.

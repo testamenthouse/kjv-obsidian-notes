@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:17
-
 For he breaketh me with a tempest, and multiplieth my wounds without cause.

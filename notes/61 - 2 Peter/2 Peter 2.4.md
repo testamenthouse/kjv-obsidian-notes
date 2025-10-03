@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 2:4
-
 For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment;

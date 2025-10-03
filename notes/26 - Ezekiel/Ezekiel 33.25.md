@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 33:25
-
 Wherefore say unto them, Thus saith the Lord GOD; Ye eat with the blood, and lift up your eyes toward your idols, and shed blood: and shall ye possess the land?

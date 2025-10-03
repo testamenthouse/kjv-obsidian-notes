@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-feasts, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 30:2
-
 For the king had taken counsel, and his princes, and all the congregation in Jerusalem, to keep the passover in the second month.

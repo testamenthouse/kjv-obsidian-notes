@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:30
-
 Now Jesus was not yet come into the town, but was in that place where Martha met him.

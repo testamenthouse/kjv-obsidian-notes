@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:20
-
 These are the things which defile a man: but to eat with unwashen hands defileth not a man.

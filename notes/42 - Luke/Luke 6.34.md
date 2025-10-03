@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:34
-
 And if ye lend to them of whom ye hope to receive, what thank have ye? for sinners also lend to sinners, to receive as much again.

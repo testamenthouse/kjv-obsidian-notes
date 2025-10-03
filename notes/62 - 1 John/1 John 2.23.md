@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:23
-
 Whosoever denieth the Son, the same hath not the Father: he that acknowledgeth the Son hath the Father also.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:19
-
 To preach the acceptable year of the Lord.

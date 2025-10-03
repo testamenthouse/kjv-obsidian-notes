@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 60:22
-
 A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time.

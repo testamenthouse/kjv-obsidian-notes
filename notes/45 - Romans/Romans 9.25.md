@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 9:25
-
 As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 5:27
-
 TEKEL; Thou art weighed in the balances, and art found wanting.

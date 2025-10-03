@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:19
-
 The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all.

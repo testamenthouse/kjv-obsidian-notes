@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 9:10
-
 Then said Saul to his servant, Well said; come, let us go. So they went unto the city where the man of God was.

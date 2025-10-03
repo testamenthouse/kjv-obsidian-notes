@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:36
-
 The seed also of his servants shall inherit it: and they that love his name shall dwell therein.

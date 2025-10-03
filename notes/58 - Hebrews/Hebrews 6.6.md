@@ -13,7 +13,4 @@ grammar_tags: [conditional, genealogy-structure]
 thematic_tags: [names-of-god, son-of-god, jesus]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 6:6
-
 If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.

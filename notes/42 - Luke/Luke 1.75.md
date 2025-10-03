@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:75
-
 In holiness and righteousness before him, all the days of our life.

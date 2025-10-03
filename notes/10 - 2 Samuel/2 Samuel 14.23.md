@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 14:23
-
 So Joab arose and went to Geshur, and brought Absalom to Jerusalem.

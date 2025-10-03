@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 141:3
-
 Set a watch, O LORD, before my mouth; keep the door of my lips.

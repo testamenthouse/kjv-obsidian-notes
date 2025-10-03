@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 35:2
-
 Thinkest thou this to be right, that thou saidst, My righteousness is more than God's?

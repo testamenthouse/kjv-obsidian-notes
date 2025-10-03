@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 5:12
-
 And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.

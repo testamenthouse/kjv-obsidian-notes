@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 5:24
-
 But let judgment run down as waters, and righteousness as a mighty stream.

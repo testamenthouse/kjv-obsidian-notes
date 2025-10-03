@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 6:4
-
 If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church.

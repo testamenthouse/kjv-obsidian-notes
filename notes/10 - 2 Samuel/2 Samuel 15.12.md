@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 15:12
-
 And Absalom sent for Ahithophel the Gilonite, David's counselor, from his city, even from Giloh, while he offered sacrifices. And the conspiracy was strong; for the people increased continually with Absalom.

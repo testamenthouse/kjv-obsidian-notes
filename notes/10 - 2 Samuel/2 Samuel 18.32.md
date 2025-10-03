@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 18:32
-
 And the king said unto Cushy, Is the young man Absalom safe? And Cushy answered, The enemies of my lord the king, and all that rise against thee to do thee hurt, be as that young man is.

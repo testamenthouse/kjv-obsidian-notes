@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 9:22
-
 And at Taberah, and at Massah, and at Kibrothhattaavah, ye provoked the LORD to wrath.

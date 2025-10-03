@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 3:17
-
 It shall be a perpetual statute for your generations throughout all your dwellings, that ye eat neither fat nor blood.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 10:5
-
 His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them.

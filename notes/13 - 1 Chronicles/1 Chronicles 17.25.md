@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 17:25
-
 For thou, O my God, hast told thy servant that thou wilt build him an house: therefore thy servant hath found in his heart to pray before thee.

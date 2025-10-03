@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 8:12
-
 Upon one day in all the provinces of king Ahasuerus, namely, upon the thirteenth day of the twelfth month, which is the month Adar.

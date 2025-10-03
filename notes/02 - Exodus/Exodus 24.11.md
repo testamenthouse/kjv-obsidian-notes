@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 24:11
-
 And upon the nobles of the children of Israel he laid not his hand: also they saw God, and did eat and drink.

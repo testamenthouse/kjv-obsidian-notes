@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:21
-
 For his eyes are upon the ways of man, and he seeth all his goings.

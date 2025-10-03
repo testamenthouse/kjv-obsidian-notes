@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:23
-
 The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.

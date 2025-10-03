@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:20
-
 And because I doubted of such manner of questions, I asked him whether he would go to Jerusalem, and there be judged of these matters.

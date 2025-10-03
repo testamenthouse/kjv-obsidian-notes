@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 28:19
-
 All this, said David, the LORD made me understand in writing by his hand upon me, even all the works of this pattern.

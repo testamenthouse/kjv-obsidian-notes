@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 3:17
-
 The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.

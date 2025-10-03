@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 22:9
-
 And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me.

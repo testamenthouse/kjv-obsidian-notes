@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:9
-
 He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness.

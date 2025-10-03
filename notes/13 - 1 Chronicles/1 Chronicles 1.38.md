@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 1:38
-
 And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezar, and Dishan.

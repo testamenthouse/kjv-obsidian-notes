@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 22:10
-
 And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, saying,

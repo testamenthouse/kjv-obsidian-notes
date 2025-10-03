@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:47
-
 And Laban called it Jegarsahadutha: but Jacob called it Galeed.

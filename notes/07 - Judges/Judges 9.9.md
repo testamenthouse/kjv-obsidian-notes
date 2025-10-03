@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:9
-
 But the olive tree said unto them, Should I leave my fatness, wherewith by me they honor God and man, and go to be promoted over the trees?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 32:19
-
 And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:42
-
 Rise up, let us go; lo, he that betrayeth me is at hand.

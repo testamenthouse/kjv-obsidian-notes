@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:19
-
 He hath cast me into the mire, and I am become like dust and ashes.

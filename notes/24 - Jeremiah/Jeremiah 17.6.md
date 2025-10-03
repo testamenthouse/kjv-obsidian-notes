@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 17:6
-
 For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, in a salt land and not inhabited.

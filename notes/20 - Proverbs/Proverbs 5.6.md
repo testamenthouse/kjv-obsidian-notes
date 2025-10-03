@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 5:6
-
 Lest thou shouldest ponder the path of life, her ways are moveable, that thou canst not know them.

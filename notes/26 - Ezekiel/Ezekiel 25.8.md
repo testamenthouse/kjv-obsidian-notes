@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 25:8
-
 Thus saith the Lord GOD; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen;

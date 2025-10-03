@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 9:9
-
 The LORD also will be a refuge for the oppressed, a refuge in times of trouble.

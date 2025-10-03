@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:22
-
 In his neck remaineth strength, and sorrow is turned into joy before him.

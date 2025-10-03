@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [time-units, time-seasons, time-feasts, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 24:20
-
 But pray ye that your flight be not in the winter, neither on the sabbath day:

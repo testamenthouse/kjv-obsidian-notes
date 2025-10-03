@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:3
-
 Shall vain words have an end? or what emboldeneth thee that thou answerest?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 35:2
-
 Go unto the house of the Rechabites, and speak unto them, and bring them into the house of the LORD, into one of the chambers, and give them wine to drink.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-feasts, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 9:2
-
 Let the children of Israel also keep the passover at his appointed season.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 24:18
-
 And thou hast showed this day how that thou hast dealt well with me: forasmuch as when the LORD had delivered me into thine hand, thou killedst me not.

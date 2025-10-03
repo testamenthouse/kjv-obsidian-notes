@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 6:11
-
 For, behold, the LORD commandeth, and he will smite the great house with breaches, and the little house with clefts.

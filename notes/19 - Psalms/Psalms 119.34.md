@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:34
-
 Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart.

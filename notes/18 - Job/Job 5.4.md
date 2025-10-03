@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:4
-
 His children are far from safety, and they are crushed in the gate, neither is there any to deliver them.

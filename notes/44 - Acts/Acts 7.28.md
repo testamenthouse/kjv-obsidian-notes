@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:28
-
 Wilt thou kill me, as thou diddest the Egyptian yesterday?

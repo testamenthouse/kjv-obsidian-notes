@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 10:6
-
 And king Rehoboam took counsel with the old men that had stood before Solomon his father while he yet lived, saying, What counsel give ye me to return answer to this people?

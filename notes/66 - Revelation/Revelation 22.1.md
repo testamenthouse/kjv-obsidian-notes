@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 22:1
-
 And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.

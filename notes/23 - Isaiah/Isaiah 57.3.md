@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 57:3
-
 But draw near hither, ye sons of the sorceress, the seed of the adulterer and the whore.

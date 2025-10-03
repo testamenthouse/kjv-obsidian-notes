@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:10
-
 Wherefore I caused them to go forth out of the land of Egypt, and brought them into the wilderness.

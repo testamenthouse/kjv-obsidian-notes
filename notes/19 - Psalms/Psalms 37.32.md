@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:32
-
 The wicked watcheth the righteous, and seeketh to slay him.

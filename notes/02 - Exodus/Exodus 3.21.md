@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 3:21
-
 And I will give this people favor in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty.

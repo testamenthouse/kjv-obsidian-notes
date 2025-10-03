@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 4:1
-
 Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.

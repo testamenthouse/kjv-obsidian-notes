@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 10:20
-
 Thou shalt fear the LORD thy God; him shalt thou serve, and to him shalt thou cleave, and swear by his name.

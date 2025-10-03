@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 45:3
-
 And of this measure shalt thou measure the length of five and twenty thousand, and the breadth of ten thousand: and in it shall be the sanctuary and the most holy place.

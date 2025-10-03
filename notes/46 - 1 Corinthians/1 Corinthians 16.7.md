@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 16:7
-
 For I will not see you now by the way; but I trust to tarry a while with you, if the Lord permit.

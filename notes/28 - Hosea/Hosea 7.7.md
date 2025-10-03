@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 7:7
-
 They are all hot as an oven, and have devoured their judges; all their kings are fallen: there is none among them that calleth unto me.

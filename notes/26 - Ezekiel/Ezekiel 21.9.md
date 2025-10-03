@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, warfare, son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 21:9
-
 Son of man, prophesy, and say, Thus saith the LORD; Say, A sword, a sword is sharpened, and also furbished:

@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 20:7
-
 Sanctify yourselves therefore, and be ye holy: for I am the LORD your God.

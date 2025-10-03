@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 6:17
-
 The sons of Gershon; Libni, and Shimi, according to their families.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 12:19
-
 Take heed to thyself that thou forsake not the Levite as long as thou livest upon the earth.

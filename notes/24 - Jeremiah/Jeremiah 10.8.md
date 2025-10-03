@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 10:8
-
 But they are altogether brutish and foolish: the stock is a doctrine of vanities.

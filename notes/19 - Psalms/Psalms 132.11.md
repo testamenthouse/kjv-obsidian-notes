@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 132:11
-
 The LORD hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.

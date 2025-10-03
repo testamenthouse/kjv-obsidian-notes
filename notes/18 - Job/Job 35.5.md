@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 35:5
-
 Look unto the heavens, and see; and behold the clouds which are higher than thou.

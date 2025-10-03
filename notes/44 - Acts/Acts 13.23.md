@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:23
-
 Of this man's seed hath God according to his promise raised unto Israel a Saviour, Jesus:

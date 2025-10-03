@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:24
-
 Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake.

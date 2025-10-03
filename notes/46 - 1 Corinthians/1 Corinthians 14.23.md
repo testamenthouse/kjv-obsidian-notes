@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 14:23
-
 If therefore the whole church be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that ye are mad?

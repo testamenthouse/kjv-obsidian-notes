@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 12:21
-
 Of Hilkiah, Hashabiah; of Jedaiah, Nethaneel.

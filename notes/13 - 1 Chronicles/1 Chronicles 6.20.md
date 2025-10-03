@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 6:20
-
 Of Gershom; Libni his son, Jahath his son, Zimmah his son,

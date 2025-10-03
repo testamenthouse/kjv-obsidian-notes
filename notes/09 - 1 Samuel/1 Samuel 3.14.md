@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 3:14
-
 And therefore I have sworn unto the house of Eli, that the iniquity of Eli's house shall not be purged with sacrifice nor offering for ever.

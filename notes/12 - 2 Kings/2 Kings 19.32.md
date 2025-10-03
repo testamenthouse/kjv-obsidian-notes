@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 19:32
-
 Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it.

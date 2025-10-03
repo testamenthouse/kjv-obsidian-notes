@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:33
-
 And they answered and said unto Jesus, We cannot tell. And Jesus answering saith unto them, Neither do I tell you by what authority I do these things.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 149:2
-
 Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.

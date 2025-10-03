@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:32
-
 If thou hast anything to say, answer me: speak, for I desire to justify thee.

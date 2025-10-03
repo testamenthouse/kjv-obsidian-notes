@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:38
-
 And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?

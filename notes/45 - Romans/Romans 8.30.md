@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 8:30
-
 Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.

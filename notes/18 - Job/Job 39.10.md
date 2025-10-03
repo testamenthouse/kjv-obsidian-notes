@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:10
-
 Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?

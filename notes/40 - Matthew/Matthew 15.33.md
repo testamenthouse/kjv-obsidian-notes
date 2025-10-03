@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:33
-
 And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?

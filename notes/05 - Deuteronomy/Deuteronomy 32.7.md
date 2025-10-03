@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 32:7
-
 Remember the days of old, consider the years of many generations: ask thy father, and he will show thee; thy elders, and they will tell thee.

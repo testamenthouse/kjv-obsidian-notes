@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 50:22
-
 Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.

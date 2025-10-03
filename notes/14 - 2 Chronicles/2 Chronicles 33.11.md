@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 33:11
-
 Wherefore the LORD brought upon them the captains of the host of the king of Assyria, which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:4
-
 Let that day be darkness; let not God regard it from above, neither let the light shine upon it.|

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 1:26
-
 And the man went into the land of the Hittites, and built a city, and called the name thereof Luz: which is the name thereof unto this day.

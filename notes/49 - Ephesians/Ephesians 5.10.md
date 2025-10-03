@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:10
-
 Proving what is acceptable unto the Lord.

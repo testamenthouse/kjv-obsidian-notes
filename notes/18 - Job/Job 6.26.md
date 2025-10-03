@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:26
-
 Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?

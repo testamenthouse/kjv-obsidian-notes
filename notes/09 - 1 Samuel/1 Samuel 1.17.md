@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 1:17
-
 Then Eli answered and said, Go in peace: and the God of Israel grant thee thy petition that thou hast asked of him.

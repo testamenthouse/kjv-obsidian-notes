@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 1:15
-
 Alas for the day! for the day of the LORD is at hand, and as a destruction from the Almighty shall it come.

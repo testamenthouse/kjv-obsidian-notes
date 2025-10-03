@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 13:59
-
 This is the law of the plague of leprosy in a garment of woolen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean.

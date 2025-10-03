@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 14:17
-
 For thou verily givest thanks well, but the other is not edified.

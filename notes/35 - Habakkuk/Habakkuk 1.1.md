@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 1:1
-
 The burden which Habakkuk the prophet did see.

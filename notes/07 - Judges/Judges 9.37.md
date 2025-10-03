@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:37
-
 And Gaal spake again, and said, See there come people down by the middle of the land, and another company come along by the plain of Meonenim.

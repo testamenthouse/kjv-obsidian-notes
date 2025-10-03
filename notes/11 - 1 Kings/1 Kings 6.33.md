@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 6:33
-
 So also made he for the door of the temple posts of olive tree, a fourth part of the wall.

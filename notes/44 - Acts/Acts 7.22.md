@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:22
-
 And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.

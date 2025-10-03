@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:37
-
 Having land, sold it, and brought the money, and laid it at the apostles' feet.

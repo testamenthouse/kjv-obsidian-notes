@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 56:12
-
 Come ye, say they, I will fetch wine, and we will fill ourselves with strong drink; and to morrow shall be as this day, and much more abundant.

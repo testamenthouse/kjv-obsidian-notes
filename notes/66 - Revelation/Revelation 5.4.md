@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 5:4
-
 And I wept much, because no man was found worthy to open and to read the book, neither to look thereon.

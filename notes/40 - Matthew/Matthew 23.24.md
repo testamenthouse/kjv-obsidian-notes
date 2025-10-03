@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 23:24
-
 Ye blind guides, which strain at a gnat, and swallow a camel.

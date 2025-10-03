@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:7
-
 Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.

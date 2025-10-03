@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 34:9
-
 And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses.

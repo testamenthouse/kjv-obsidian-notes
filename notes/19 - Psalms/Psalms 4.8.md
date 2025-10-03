@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 4:8
-
 I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.

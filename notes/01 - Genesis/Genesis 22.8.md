@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 22:8
-
 And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.

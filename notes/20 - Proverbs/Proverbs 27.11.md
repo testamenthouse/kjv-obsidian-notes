@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 27:11
-
 My son, be wise, and make my heart glad, that I may answer him that reproacheth me.

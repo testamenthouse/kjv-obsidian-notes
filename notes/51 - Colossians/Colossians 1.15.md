@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 1:15
-
 Who is the image of the invisible God, the firstborn of every creature:

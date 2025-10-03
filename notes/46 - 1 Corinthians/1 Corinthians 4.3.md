@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 4:3
-
 But with me it is a very small thing that I should be judged of you, or of man's judgment: yea, I judge not mine own self.

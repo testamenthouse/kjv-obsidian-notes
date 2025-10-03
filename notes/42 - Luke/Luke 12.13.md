@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:13
-
 And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.

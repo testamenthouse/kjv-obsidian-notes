@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 9:20
-
 And they put the fat upon the breasts, and he burnt the fat upon the altar:

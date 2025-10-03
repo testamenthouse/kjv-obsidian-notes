@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 6:8
-
 And having food and raiment let us be therewith content.

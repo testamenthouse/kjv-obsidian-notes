@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 3:11
-
 But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.

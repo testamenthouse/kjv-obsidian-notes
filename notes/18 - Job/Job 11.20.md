@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:20
-
 But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.

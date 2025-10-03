@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 20:39
-
 But the lad knew not any thing: only Jonathan and David knew the matter.

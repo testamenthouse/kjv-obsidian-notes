@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 22:10
-
 Thou shalt not plow with an ox and an ass together.

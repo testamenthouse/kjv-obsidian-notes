@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god, adversary-title, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 10:25
-
 It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?

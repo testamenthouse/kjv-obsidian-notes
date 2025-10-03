@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 8:9
-
 But take heed lest by any means this liberty of your's become a stumblingblock to them that are weak.

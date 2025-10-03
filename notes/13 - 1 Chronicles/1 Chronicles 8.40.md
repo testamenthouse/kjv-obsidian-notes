@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 8:40
-
 And the sons of Ulam were mighty men of valor, archers, and had many sons, and sons' sons, an hundred and fifty. All these are of the sons of Benjamin.

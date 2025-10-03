@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:8
-
 They are wet with the showers of the mountains, and embrace the rock for want of a shelter.

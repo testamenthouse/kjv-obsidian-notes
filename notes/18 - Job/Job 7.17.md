@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 7:17
-
 What is man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?

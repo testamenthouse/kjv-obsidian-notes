@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 6:79
-
 Kedemoth also with her suburbs, and Mephaath with her suburbs:

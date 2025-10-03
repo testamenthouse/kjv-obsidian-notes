@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 130:2
-
 Lord, hear my voice: let thine ears be attentive to the voice of my supplications.

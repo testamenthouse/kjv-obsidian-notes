@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:24
-
 These were thy merchants in all sorts of things, in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise.

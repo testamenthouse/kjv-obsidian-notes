@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 25:36
-
 Their knops and their branches shall be of the same: all it shall be one beaten work of pure gold.

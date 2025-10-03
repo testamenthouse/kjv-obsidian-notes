@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 71:19
-
 Thy righteousness also, O God, is very high, who hast done great things: O God, who is like unto thee!

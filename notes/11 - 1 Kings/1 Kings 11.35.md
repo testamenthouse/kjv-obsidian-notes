@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:35
-
 But I will take the kingdom out of his son's hand, and will give it unto thee, even ten tribes.

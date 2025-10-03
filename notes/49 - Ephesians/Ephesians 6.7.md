@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 6:7
-
 With good will doing service, as to the Lord, and not to men:

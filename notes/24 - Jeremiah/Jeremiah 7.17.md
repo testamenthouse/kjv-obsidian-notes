@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 7:17
-
 Seest thou not what they do in the cities of Judah and in the streets of Jerusalem?

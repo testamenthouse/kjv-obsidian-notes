@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:11
-
 Wilt thou trust him, because his strength is great? or wilt thou leave thy labour to him?

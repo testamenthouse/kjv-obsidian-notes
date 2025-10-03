@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 26:7
-
 The sons of Shemaiah; Othni, and Rephael, and Obed, Elzabad, whose brethren were strong men, Elihu, and Semachiah.

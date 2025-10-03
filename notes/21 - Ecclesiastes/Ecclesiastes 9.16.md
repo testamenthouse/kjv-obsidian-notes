@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 9:16
-
 Then said I, Wisdom is better than strength: nevertheless the poor man's wisdom is despised, and his words are not heard.

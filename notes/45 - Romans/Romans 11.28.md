@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 11:28
-
 As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the father's sakes.

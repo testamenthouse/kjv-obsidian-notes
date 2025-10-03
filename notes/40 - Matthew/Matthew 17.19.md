@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 17:19
-
 Then came the disciples to Jesus apart, and said, Why could not we cast him out?

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 6:26
-
 The LORD lift up his countenance upon thee, and give thee peace.

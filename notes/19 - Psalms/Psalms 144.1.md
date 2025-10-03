@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 144:1
-
 Blessed be the LORD my strength which teacheth my hands to war, and my fingers to fight:

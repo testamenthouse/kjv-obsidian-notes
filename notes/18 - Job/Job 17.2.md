@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:2
-
 Are there not mockers with me? and doth not mine eye continue in their provocation?

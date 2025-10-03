@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:5
-
 And they were glad, and covenanted to give him money.

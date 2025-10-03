@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 4:30
-
 And Aaron spake all the words which the LORD had spoken unto Moses, and did the signs in the sight of the people.

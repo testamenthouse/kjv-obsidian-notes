@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 14:11
-
 Then said the LORD unto me, Pray not for this people for their good.

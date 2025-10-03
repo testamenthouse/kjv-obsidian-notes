@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:16
-
 In the dark they dig through houses, which they had marked for themselves in the daytime: they know not the light.

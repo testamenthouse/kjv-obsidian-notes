@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 1:8
-
 But with an overrunning flood he will make an utter end of the place thereof, and darkness shall pursue his enemies.

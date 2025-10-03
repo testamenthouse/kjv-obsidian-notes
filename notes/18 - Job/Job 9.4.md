@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:4
-
 He is wise in heart, and mighty in strength: who hath hardened himself against him, and hath prospered?

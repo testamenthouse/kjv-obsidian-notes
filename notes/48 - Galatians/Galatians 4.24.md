@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 4:24
-
 Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.

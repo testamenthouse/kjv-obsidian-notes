@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 1:4
-
 To give subtilty to the simple, to the young man knowledge and discretion.

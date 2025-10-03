@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 16:2
-
 Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come.

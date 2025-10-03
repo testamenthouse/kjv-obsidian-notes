@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 5:12
-
 The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.

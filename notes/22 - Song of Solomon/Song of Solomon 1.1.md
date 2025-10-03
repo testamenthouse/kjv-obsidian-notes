@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 1:1
-
 The song of songs, which is Solomon's.

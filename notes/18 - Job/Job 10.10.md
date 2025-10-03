@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:10
-
 Hast thou not poured me out as milk, and curdled me like cheese?

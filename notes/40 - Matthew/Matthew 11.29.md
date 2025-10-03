@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 11:29
-
 Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.

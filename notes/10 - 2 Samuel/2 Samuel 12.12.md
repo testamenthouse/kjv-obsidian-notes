@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 12:12
-
 For thou didst it secretly: but I will do this thing before all Israel, and before the sun.

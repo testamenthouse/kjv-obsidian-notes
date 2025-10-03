@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 31:15
-
 My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.

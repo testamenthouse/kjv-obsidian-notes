@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 123:3
-
 Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:34
-
 He maketh my feet like hinds' feet: and setteth me upon my high places.

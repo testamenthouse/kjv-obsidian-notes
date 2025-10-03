@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:27
-
 Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is.

@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:11
-
 My days are past, my purposes are broken off, even the thoughts of my heart.

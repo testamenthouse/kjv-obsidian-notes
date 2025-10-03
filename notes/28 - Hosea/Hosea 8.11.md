@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 8:11
-
 Because Ephraim hath made many altars to sin, altars shall be unto him to sin.

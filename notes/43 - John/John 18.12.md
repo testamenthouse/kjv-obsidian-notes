@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:12
-
 Then the band and the captain and officers of the Jews took Jesus, and bound him,

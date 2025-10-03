@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, genealogy-structure]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 3:14
-
 Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.

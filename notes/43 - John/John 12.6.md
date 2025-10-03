@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:6
-
 This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 9:10
-
 Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.

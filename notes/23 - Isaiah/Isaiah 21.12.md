@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 21:12
-
 The watchman said, The morning cometh, and also the night: if ye will enquire, enquire ye: return, come.

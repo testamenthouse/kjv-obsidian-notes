@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 3:1
-
 After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:13
-
 Then shall the virgin rejoice in the dance, both young men and old together: for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow.

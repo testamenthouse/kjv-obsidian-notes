@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:45
-
 He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 19:8
-
 And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints.

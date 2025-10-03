@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 5:15
-
 And said unto him, Take these vessels, go, carry them into the temple that is in Jerusalem, and let the house of God be builded in his place.

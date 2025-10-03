@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:39
-
 And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth.

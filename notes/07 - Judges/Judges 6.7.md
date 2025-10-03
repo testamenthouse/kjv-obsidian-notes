@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 6:7
-
 And it came to pass, when the children of Israel cried unto the LORD because of the Midianites,

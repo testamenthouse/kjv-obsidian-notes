@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 47:5
-
 Baldness is come upon Gaza; Ashkelon is cut off with the remnant of their valley: how long wilt thou cut thyself?

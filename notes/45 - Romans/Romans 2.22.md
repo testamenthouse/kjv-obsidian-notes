@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 2:22
-
 Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?

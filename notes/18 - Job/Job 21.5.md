@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:5
-
 Mark me, and be astonished, and lay your hand upon your mouth.

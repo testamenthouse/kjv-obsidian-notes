@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, negation, contrast, cause-effe
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 7:27
-
 Therefore thou shalt speak all these words unto them; but they will not hearken to thee: thou shalt also call unto them; but they will not answer thee.

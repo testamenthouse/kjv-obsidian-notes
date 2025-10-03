@@ -13,7 +13,4 @@ grammar_tags: [question, contrast, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 31:27
-
 For I know thy rebellion, and thy stiff neck: behold, while I am yet alive with you this day, ye have been rebellious against the LORD; and how much more after my death?

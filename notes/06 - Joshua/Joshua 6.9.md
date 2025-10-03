@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 6:9
-
 And the armed men went before the priests that blew with the trumpets, and the rearward came after the ark, the priests going on, and blowing with the trumpets.

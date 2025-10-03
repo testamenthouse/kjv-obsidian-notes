@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 4:22
-
 Take also the sum of the sons of Gershon, throughout the houses of their fathers, by their families;

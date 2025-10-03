@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:38
-
 And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.

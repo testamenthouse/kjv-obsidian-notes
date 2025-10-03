@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:13
-
 So are the paths of all that forget God; and the hypocrite's hope shall perish:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:23
-
 That Christ should suffer, and that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles.

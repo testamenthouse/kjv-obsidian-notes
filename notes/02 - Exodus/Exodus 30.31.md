@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 30:31
-
 And thou shalt speak unto the children of Israel, saying, This shall be an holy anointing oil unto me throughout your generations.

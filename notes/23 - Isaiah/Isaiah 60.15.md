@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 60:15
-
 Whereas thou has been forsaken and hated, so that no man went through thee, I will make thee an eternal excellency, a joy of many generations.

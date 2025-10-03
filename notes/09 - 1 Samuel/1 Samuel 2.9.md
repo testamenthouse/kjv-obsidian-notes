@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 2:9
-
 He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.

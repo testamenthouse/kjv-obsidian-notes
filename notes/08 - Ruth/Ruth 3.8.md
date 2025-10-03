@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Ruth"]
 ---
-
-# Ruth 3:8
-
 And it came to pass at midnight, that the man was afraid, and turned himself: and, behold, a woman lay at his feet.

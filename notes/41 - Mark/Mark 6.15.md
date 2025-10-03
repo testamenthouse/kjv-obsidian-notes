@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:15
-
 Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:19
-
 Where is the way where light dwelleth? and as for darkness, where is the place thereof,

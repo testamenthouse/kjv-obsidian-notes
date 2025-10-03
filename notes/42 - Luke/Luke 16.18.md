@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 16:18
-
 Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from her husband committeth adultery.

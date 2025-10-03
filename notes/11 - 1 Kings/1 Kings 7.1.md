@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 7:1
-
 But Solomon was building his own house thirteen years, and he finished all his house.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 13:8
-
 And the man of God said unto the king, If thou wilt give me half thine house, I will not go in with thee, neither will I eat bread nor drink water in this place:

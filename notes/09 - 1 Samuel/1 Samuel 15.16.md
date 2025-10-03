@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 15:16
-
 Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said to me this night. And he said unto him, Say on.

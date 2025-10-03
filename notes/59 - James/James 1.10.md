@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 1:10
-
 But the rich, in that he is made low: because as the flower of the grass he shall pass away.

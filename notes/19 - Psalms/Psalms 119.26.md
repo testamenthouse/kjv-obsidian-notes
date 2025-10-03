@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:26
-
 I have declared my ways, and thou heardest me: teach me thy statutes.

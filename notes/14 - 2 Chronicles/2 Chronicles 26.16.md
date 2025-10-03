@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 26:16
-
 But when he was strong, his heart was lifted up to his destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense.

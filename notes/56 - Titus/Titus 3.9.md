@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 3:9
-
 But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.

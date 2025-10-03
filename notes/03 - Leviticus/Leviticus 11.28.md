@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:28
-
 And he that beareth the carcass of them shall wash his clothes, and be unclean until the even: they are unclean unto you.

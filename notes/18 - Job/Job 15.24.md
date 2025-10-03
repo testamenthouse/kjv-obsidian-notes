@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:24
-
 Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle.

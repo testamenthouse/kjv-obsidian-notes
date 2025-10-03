@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:24
-
 My knees are weak through fasting; and my flesh faileth of fatness.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 92:14
-
 They shall still bring forth fruit in old age; they shall be fat and flourishing;

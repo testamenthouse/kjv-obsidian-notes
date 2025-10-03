@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 32:13
-
 Know ye not what I and my fathers have done unto all the people of other lands? were the gods of the nations of those lands any ways able to deliver their lands out of mine hand?

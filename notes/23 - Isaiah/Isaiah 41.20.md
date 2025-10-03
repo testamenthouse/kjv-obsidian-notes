@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 41:20
-
 That they may see, and know, and consider, and understand together, that the hand of the LORD hath done this, and the Holy One of Israel hath created it.

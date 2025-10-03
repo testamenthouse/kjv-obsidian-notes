@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, contrast, conditional]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 5:22
-
 But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?

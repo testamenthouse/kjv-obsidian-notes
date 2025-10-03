@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:39
-
 For he remembered that they were but flesh; a wind that passeth away, and cometh not again.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:50
-
 And he led them out as far as to Bethany, and he lifted up his hands, and blessed them.

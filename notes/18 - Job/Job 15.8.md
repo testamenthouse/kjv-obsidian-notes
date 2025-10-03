@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:8
-
 Hast thou heard the secret of God? and dost thou restrain wisdom to thyself?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 31:11
-
 And when the inhabitants of Jabeshgilead heard of that which the Philistines had done to Saul;

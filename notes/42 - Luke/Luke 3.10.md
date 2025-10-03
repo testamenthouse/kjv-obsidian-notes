@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 3:10
-
 And the people asked him, saying, What shall we do then?

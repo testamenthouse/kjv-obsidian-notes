@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:36
-
 For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption:

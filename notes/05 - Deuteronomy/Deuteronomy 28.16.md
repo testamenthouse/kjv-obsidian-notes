@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 28:16
-
 Cursed shalt thou be in the city, and cursed shalt thou be in the field.

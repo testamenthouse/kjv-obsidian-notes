@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 85:10
-
 Mercy and truth are met together; righteousness and peace have kissed each other.

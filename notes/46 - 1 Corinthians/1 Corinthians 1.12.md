@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 1:12
-
 Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:24
-
 Though he fall, he shall not be utterly cast down: for the LORD upholdeth him with his hand.

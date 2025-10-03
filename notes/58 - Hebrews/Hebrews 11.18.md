@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 11:18
-
 Of whom it was said, That in Isaac shall thy seed be called:

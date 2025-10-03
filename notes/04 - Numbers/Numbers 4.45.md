@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 4:45
-
 These be those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the LORD by the hand of Moses.

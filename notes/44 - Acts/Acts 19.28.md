@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:28
-
 And when they heard these sayings, they were full of wrath, and cried out, saying, Great is Diana of the Ephesians.

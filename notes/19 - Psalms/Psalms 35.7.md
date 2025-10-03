@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 35:7
-
 For without cause have they hid for me their net in a pit, which without cause they have digged for my soul.

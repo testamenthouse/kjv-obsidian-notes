@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:23
-
 If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 2:23
-
 (As it is written in the law of the LORD, Every male that openeth the womb shall be called holy to the Lord;)

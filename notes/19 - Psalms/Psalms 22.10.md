@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 22:10
-
 I was cast upon thee from the womb: thou art my God from my mother's belly.

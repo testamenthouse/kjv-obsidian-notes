@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 75:10
-
 All the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted.

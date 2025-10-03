@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:40
-
 For thus saith the LORD; Behold, he shall fly as an eagle, and shall spread his wings over Moab.

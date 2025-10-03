@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 7:26
-
 For she hath cast down many wounded: yea, many strong men have been slain by her.

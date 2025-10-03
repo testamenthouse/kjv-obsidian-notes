@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 4:28
-
 All this came upon the king Nebuchadnezzar.

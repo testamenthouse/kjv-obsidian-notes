@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:26
-
 The carcasses of every beast which divideth the hoof, and is not cloven-footed, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean.

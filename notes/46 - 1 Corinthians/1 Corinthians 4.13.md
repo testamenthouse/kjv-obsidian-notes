@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 4:13
-
 Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day.

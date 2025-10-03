@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 113:1
-
 Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD.

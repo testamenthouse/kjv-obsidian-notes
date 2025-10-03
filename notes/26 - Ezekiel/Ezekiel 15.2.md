@@ -13,7 +13,4 @@ grammar_tags: [question, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 15:2
-
 Son of man, what is the vine tree more than any tree, or than a branch which is among the trees of the forest?

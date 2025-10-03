@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, adversary-title, adversary-metaphor, adversary, time-units, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 20:2
-
 And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,

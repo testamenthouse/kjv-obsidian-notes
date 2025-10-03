@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Malachi"]
 ---
-
-# Malachi 2:7
-
 For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the LORD of hosts.

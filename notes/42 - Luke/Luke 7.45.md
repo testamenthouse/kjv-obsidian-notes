@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 7:45
-
 Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet.

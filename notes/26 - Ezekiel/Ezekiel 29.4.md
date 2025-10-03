@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 29:4
-
 But I will put hooks in thy jaws, and I will cause the fish of thy rivers to stick unto thy scales, and I will bring thee up out of the midst of thy rivers, and all the fish of thy rivers shall stick unto thy scales.

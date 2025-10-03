@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:10
-
 Then said Paul, I stand at Caesar's judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest.

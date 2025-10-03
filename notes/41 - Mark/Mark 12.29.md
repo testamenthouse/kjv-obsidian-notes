@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:29
-
 And Jesus answered him, The first of all the commandments is, Hear, O Israel; The Lord our God is one Lord:

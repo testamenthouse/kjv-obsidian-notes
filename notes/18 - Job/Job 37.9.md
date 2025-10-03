@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:9
-
 Out of the south cometh the whirlwind: and cold out of the north.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 12:17
-
 He that speaketh truth sheweth forth righteousness: but a false witness deceit.

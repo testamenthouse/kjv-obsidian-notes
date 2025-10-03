@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:12
-
 So Jeroboam and all the people came to Rehoboam the third day, as the king had appointed, saying, Come to me again the third day.

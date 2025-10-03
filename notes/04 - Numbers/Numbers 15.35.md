@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 15:35
-
 And the LORD said unto Moses, The man shall be surely put to death: all the congregation shall stone him with stones without the camp.

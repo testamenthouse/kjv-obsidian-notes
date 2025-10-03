@@ -13,7 +13,4 @@ grammar_tags: [exclamation, conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 13:30
-
 And he laid his carcass in his own grave; and they mourned over him, saying, Alas, my brother!

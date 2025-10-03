@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 43:22
-
 And on the second day thou shalt offer a kid of the goats without blemish for a sin offering; and they shall cleanse the altar, as they did cleanse it with the bullock.

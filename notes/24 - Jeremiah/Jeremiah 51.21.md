@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:21
-
 And with thee will I break in pieces the horse and his rider; and with thee will I break in pieces the chariot and his rider;

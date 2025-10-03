@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 2:6
-
 Who, being in the form of God, thought it not robbery to be equal with God:

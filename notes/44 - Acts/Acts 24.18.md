@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 24:18
-
 Whereupon certain Jews from Asia found me purified in the temple, neither with multitude, nor with tumult.

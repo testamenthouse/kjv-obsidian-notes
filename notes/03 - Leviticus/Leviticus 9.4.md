@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 9:4
-
 Also a bullock and a ram for peace offerings, to sacrifice before the LORD; and a meat offering mingled with oil: for to day the LORD will appear unto you.

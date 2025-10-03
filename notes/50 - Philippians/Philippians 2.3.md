@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 2:3
-
 Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.

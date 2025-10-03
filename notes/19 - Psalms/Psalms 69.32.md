@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:32
-
 The humble shall see this, and be glad: and your heart shall live that seek God.

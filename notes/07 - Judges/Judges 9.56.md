@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:56
-
 Thus God rendered the wickedness of Abimelech, which he did unto his father, in slaying his seventy brethren:

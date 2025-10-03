@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 1:9
-
 But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:

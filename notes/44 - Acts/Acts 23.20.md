@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 23:20
-
 And he said, The Jews have agreed to desire thee that thou wouldest bring down Paul to morrow into the council, as though they would enquire somewhat of him more perfectly.

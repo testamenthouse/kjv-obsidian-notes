@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 19:15
-
 So the king returned, and came to Jordan. And Judah came to Gilgal, to go to meet the king, to conduct the king over Jordan.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:59
-
 And they sent away Rebekah their sister, and her nurse, and Abraham's servant, and his men.

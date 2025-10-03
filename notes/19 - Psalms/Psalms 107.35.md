@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:35
-
 He turneth the wilderness into a standing water, and dry ground into watersprings.

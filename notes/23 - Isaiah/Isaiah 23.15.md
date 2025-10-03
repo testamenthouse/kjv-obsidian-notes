@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 23:15
-
 And it shall come to pass in that day, that Tyre shall be forgotten seventy years, according to the days of one king: after the end of seventy years shall Tyre sing as an harlot.

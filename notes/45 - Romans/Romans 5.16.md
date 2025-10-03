@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 5:16
-
 And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:21
-
 Then Jesus went thence, and departed into the coasts of Tyre and Sidon.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 5:26
-
 And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day.

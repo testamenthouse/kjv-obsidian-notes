@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 19:31
-
 And Barzillai the Gileadite came down from Rogelim, and went over Jordan with the king, to conduct him over Jordan.

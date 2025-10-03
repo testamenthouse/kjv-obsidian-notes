@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 7:6
-
 But he whose descent is not counted from them received tithes of Abraham, and blessed him that had the promises.

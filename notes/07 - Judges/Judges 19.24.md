@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 19:24
-
 Behold, here is my daughter a maiden, and his concubine; them I will bring out now, and humble ye them, and do with them what seemeth good unto you: but unto this man do not so vile a thing.

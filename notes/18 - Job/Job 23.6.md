@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:6
-
 Will he plead against me with his great power? No; but he would put strength in me.

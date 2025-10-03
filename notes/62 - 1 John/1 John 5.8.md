@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 5:8
-
 And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one.

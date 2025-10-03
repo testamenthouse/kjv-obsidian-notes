@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 37:17
-
 And join them one to another into one stick; and they shall become one in thine hand.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 9:6
-
 O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.

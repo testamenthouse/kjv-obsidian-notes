@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 11:11
-
 And after three days and an half the spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.

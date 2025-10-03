@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 29:9
-
 For they prophesy falsely unto you in my name: I have not sent them, saith the LORD.

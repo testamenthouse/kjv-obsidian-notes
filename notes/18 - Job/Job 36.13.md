@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:13
-
 But the hypocrites in heart heap up wrath: they cry not when he bindeth them.

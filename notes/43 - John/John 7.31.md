@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:31
-
 And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this man hath done?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 27:4
-
 And thou shalt make for it a grate of network of brass; and upon the net shalt thou make four brazen rings in the four corners thereof.

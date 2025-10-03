@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:2
-
 A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.

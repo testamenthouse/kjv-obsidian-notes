@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:19
-
 Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation. Selah.

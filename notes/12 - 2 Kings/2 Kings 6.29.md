@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 6:29
-
 So we boiled my son, and did eat him: and I said unto her on the next day, Give thy son, that we may eat him: and she hath hid her son.

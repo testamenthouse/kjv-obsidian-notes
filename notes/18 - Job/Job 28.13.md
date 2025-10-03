@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:13
-
 Man knoweth not the price thereof; neither is it found in the land of the living.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 18:5
-
 And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel.

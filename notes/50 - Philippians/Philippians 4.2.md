@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 4:2
-
 I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord.

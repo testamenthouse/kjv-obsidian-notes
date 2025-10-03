@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:22
-
 Pilate answered, What I have written I have written.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 12:5
-
 And the LORD came down in the pillar of the cloud, and stood in the door of the tabernacle, and called Aaron and Miriam: and they both came forth.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:10
-
 Deck thyself now with majesty and excellency; and array thyself with glory and beauty.

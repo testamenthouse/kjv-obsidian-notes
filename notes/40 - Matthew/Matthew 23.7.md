@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 23:7
-
 And greetings in the markets, and to be called of men, Rabbi, Rabbi.

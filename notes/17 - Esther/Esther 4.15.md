@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 4:15
-
 Then Esther bade them return Mordecai this answer,

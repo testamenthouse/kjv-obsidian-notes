@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 115:11
-
 Ye that fear the LORD, trust in the LORD: he is their help and their shield.

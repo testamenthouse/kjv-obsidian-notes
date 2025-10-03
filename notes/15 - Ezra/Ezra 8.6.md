@@ -13,7 +13,4 @@ grammar_tags: [conditional, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:6
-
 Of the sons also of Adin; Ebed the son of Jonathan, and with him fifty males.

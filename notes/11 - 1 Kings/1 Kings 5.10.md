@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 5:10
-
 So Hiram gave Solomon cedar trees and fir trees according to all his desire.

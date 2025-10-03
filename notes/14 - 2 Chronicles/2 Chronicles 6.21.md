@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 6:21
-
 Hearken therefore unto the supplications of thy servant, and of thy people Israel, which they shall make toward this place: hear thou from thy dwelling place, even from heaven; and when thou hearest, forgive.

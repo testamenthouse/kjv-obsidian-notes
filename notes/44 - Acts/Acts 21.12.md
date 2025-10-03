@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:12
-
 And when we heard these things, both we, and they of that place, besought him not to go up to Jerusalem.

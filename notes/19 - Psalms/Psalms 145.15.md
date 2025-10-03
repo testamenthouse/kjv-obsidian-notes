@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 145:15
-
 The eyes of all wait upon thee; and thou givest them their meat in due season.

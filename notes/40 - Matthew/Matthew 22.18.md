@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 22:18
-
 But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites?

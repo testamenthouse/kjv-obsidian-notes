@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 40:36
-
 The little chambers thereof, the posts thereof, and the arches thereof, and the windows to it round about: the length was fifty cubits, and the breadth five and twenty cubits.

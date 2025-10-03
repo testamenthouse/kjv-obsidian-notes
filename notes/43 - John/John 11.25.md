@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:25
-
 Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 23:28
-
 And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee.

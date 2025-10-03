@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 8:3
-
 And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.

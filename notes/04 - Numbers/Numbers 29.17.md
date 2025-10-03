@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 29:17
-
 And on the second day ye shall offer twelve young bullocks, two rams, fourteen lambs of the first year without spot:

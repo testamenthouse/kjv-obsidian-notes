@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: []
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 4:18
-
 The salutation by the hand of me Paul. Remember my bonds. Grace be with you. Amen.

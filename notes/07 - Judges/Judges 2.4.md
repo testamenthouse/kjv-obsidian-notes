@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 2:4
-
 And it came to pass, when the angel of the LORD spake these words unto all the children of Israel, that the people lifted up their voice, and wept.

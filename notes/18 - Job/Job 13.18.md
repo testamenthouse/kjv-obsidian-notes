@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:18
-
 Behold now, I have ordered my cause; I know that I shall be justified.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 31:2
-
 Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me.

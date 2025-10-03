@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 18:30
-
 Neither let Hezekiah make you trust in the LORD, saying, The LORD will surely deliver us, and this city shall not be delivered into the hand of the king of Assyria.

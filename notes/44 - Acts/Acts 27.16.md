@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:16
-
 And running under a certain island which is called Clauda, we had much work to come by the boat:

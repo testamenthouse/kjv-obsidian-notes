@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 5:11
-
 Ephraim is oppressed and broken in judgment, because he willingly walked after the commandment.

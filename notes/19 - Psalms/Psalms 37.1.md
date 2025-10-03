@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:1
-
 Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.

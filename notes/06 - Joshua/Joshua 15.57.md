@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 15:57
-
 Cain, Gibeah, and Timnah; ten cities with their villages:

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 36:9
-
 How then wilt thou turn away the face of one captain of the least of my master's servants, and put thy trust on Egypt for chariots and for horsemen?

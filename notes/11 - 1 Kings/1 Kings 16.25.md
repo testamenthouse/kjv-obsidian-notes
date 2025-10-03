@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 16:25
-
 But Omri wrought evil in the eyes of the LORD, and did worse than all that were before him.

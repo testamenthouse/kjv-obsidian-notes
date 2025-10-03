@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 19:5
-
 And the waters shall fail from the sea, and the river shall be wasted and dried up.

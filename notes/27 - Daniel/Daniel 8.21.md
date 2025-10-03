@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 8:21
-
 And the rough goat is the king of Grecia: and the great horn that is between his eyes is the first king.

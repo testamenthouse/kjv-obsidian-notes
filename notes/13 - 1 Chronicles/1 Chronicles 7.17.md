@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 7:17
-
 And the sons of Ulam; Bedan. These were the sons of Gilead, the son of Machir, the son of Manasseh.

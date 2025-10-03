@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 16:4
-
 And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood.

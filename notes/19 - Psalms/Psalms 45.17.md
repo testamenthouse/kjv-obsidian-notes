@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [praise-worship, time-eschatology, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 45:17
-
 I will make thy name to be remembered in all generations: therefore shall the people praise thee for ever and ever.

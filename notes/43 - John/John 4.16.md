@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:16
-
 Jesus saith unto her, Go, call thy husband, and come hither.

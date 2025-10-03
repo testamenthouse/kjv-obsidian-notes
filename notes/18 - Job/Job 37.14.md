@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:14
-
 Hearken unto this, O Job: stand still, and consider the wondrous works of God.

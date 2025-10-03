@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 86:7
-
 In the day of my trouble I will call upon thee: for thou wilt answer me.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 9:20
-
 Put them in fear, O LORD: that the nations may know themselves to be but men. Selah.

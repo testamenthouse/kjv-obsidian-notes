@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 18:20
-
 Shall evil be recompensed for good? for they have digged a pit for my soul. Remember that I stood before thee to speak good for them, and to turn away thy wrath from them.

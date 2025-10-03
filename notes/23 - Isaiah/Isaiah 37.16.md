@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 37:16
-
 O LORD of hosts, God of Israel, that dwellest between the cherubims, thou art the God, even thou alone, of all the kingdoms of the earth: thou hast made heaven and earth.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 3:30
-
 He must increase, but I must decrease.

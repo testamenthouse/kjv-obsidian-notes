@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:43
-
 And fear came upon every soul: and many wonders and signs were done by the apostles.

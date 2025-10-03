@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 20:4
-
 Grant thee according to thine own heart, and fulfil all thy counsel.

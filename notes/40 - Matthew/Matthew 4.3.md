@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [names-of-god, warfare, son-of-god, jesus, adversary-epithet, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 4:3
-
 And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 7:16
-
 And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever.

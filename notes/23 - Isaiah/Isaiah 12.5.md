@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 12:5
-
 Sing unto the LORD; for he hath done excellent things: this is known in all the earth.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:12
-
 But if they obey not, they shall perish by the sword, and they shall die without knowledge.

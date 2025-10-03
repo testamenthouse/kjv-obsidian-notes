@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 27:11
-
 But the nations that bring their neck under the yoke of the king of Babylon, and serve him, those will I let remain still in their own land, saith the LORD; and they shall till it, and dwell therein.

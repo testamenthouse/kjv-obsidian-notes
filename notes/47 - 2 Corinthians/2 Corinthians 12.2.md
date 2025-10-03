@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: [names-of-god, jesus-title, jesus, time-units, time]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 12:2
-
 I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.

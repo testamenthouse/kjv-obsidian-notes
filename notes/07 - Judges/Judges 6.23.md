@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 6:23
-
 And the LORD said unto him, Peace be unto thee; fear not: thou shalt not die.

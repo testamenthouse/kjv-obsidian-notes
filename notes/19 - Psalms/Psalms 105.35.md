@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:35
-
 And did eat up all the herbs in their land, and devoured the fruit of their ground.

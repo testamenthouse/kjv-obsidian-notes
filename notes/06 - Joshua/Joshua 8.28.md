@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 8:28
-
 And Joshua burnt Ai, and made it an heap for ever, even a desolation unto this day.

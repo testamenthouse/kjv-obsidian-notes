@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 5:5
-
 (I stood between the LORD and you at that time, to show you the word of the LORD: for ye were afraid by reason of the fire, and went not up into the mount;) saying,

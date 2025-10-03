@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:20
-
 Now there were seven brethren: and the first took a wife, and dying left no seed.

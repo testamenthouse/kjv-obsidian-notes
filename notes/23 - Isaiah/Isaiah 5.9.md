@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 5:9
-
 In mine ears said the LORD of hosts, Of a truth many houses shall be desolate, even great and fair, without inhabitant.

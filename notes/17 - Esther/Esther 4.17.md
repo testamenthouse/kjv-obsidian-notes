@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 4:17
-
 So Mordecai went his way, and did according to all that Esther had commanded him.

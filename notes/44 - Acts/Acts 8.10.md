@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:10
-
 To whom they all gave heed, from the least to the greatest, saying, This man is the great power of God.

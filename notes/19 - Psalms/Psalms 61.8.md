@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 61:8
-
 So will I sing praise unto thy name for ever, that I may daily perform my vows.

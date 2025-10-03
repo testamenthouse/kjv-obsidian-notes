@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:41
-
 And he was withdrawn from them about a stone's cast, and kneeled down, and prayed,

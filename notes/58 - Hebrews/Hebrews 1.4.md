@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 1:4
-
 Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.

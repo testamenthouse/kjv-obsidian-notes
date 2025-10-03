@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 12:13
-
 Howbeit there were not made for the house of the LORD bowls of silver, snuffers, basins, trumpets, any vessels of gold, or vessels of silver, of the money that was brought into the house of the LORD:

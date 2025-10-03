@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 14:10
-
 And the vale of Siddim was full of slime pits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.

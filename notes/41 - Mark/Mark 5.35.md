@@ -13,7 +13,4 @@ grammar_tags: [question, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:35
-
 While he yet spake, there came from the ruler of the synagogue's house certain which said, Thy daughter is dead: why troublest thou the Master any further?

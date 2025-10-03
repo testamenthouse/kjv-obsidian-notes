@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 10:7
-
 But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm.

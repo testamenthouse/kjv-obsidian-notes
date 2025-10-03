@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, adversary-title, demonic-entities, demonic-phrases, adversary]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:39
-
 And he preached in their synagogues throughout all Galilee, and cast out devils.

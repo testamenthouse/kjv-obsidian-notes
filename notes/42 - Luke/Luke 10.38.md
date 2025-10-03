@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:38
-
 Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.

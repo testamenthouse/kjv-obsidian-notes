@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:38
-
 If my land cry against me, or that the furrows likewise thereof complain;

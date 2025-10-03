@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 29:25
-
 And the LORD magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him such royal majesty as had not been on any king before him in Israel.

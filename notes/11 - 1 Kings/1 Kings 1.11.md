@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 1:11
-
 Wherefore Nathan spake unto Bathsheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth it not?

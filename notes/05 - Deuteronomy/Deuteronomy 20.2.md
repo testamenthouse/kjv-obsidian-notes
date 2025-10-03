@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 20:2
-
 And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:3
-
 And when they had fasted and prayed, and laid their hands on them, they sent them away.

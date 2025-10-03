@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:55
-
 And when ye see the south wind blow, ye say, There will be heat; and it cometh to pass.

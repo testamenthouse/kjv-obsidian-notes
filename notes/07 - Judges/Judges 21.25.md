@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 21:25
-
 In those days there was no king in Israel: every man did that which was right in his own eyes.

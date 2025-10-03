@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 27:23
-
 Cursed be he that lieth with his mother in law. And all the people shall say, Amen.

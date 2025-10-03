@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 6:22
-
 But Joshua had said unto the two men that had spied out the country, Go into the harlot's house, and bring out thence the woman, and all that she hath, as ye sware unto her.

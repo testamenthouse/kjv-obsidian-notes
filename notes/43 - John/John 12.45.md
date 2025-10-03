@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:45
-
 And he that seeth me seeth him that sent me.

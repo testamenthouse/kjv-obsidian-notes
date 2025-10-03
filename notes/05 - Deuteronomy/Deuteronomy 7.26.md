@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 7:26
-
 Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: but thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a cursed thing.

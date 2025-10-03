@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 1:6
-
 And all they that were about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all that was willingly offered.

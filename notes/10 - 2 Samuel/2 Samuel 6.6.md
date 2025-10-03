@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 6:6
-
 And when they came to Nachon's threshingfloor, Uzzah put forth his hand to the ark of God, and took hold of it; for the oxen shook it.

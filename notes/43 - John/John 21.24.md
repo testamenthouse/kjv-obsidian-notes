@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 21:24
-
 This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true.

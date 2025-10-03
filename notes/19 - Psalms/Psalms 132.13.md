@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 132:13
-
 For the LORD hath chosen Zion; he hath desired it for his habitation.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 25:11
-
 And this whole land shall be a desolation, and an astonishment; and these nations shall serve the king of Babylon seventy years.

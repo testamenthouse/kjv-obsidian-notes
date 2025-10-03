@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 16:16
-
 And Moses said unto Korah, Be thou and all thy company before the LORD, thou, and they, and Aaron, to morrow:

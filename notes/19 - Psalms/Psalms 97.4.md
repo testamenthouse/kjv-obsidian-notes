@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 97:4
-
 His lightnings enlightened the world: the earth saw, and trembled.

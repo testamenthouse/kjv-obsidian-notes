@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:14
-
 For thy servants take pleasure in her stones, and favour the dust thereof.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 8:27
-
 Only the cattle and the spoil of that city Israel took for a prey unto themselves, according unto the word of the LORD which he commanded Joshua.

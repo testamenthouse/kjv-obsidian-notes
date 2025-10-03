@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:18
-
 He shall be driven from light into darkness, and chased out of the world.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 5:28
-
 Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,

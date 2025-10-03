@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 21:3
-
 Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing.

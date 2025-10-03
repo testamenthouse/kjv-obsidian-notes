@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:8
-
 Surely thou hast spoken in mine hearing, and I have heard the voice of thy words, saying,

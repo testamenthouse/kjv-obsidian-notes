@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast]
 thematic_tags: [names-of-god, adversary-title, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 13:38
-
 The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one;

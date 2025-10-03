@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 141:10
-
 Let the wicked fall into their own nets, whilst that I withal escape.

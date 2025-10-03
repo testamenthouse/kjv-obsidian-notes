@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:19
-
 Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee.

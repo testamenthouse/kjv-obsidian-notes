@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 3:6
-
 Even as Abraham believed God, and it was accounted to him for righteousness.

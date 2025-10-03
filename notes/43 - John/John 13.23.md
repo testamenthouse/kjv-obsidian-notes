@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:23
-
 Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved.

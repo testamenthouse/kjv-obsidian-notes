@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:3
-
 I have heard the check of my reproach, and the spirit of my understanding causeth me to answer.

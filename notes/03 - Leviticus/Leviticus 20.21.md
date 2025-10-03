@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 20:21
-
 And if a man shall take his brother's wife, it is an unclean thing: he hath uncovered his brother's nakedness; they shall be childless.

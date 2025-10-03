@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 28:17
-
 And when they saw him, they worshipped him: but some doubted.

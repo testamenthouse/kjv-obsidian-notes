@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 16:35
-
 And when it was day, the magistrates sent the serjeants, saying, Let those men go.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:27
-
 My bowels boiled, and rested not: the days of affliction prevented me.

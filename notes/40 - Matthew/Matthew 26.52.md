@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [warfare, jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:52
-
 Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword.

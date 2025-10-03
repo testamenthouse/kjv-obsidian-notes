@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 6:23
-
 For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.

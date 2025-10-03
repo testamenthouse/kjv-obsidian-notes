@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional, cause-effect]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 6:4
-
 Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.

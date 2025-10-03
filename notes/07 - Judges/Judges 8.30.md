@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 8:30
-
 And Gideon had threescore and ten sons of his body begotten: for he had many wives.

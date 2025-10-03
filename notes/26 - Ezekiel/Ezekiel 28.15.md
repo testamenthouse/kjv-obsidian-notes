@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 28:15
-
 Thou wast perfect in thy ways from the day that thou wast created, till iniquity was found in thee.

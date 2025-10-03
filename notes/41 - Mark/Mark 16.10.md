@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 16:10
-
 And she went and told them that had been with him, as they mourned and wept.

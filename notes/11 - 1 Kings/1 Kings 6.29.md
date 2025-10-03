@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 6:29
-
 And he carved all the walls of the house round about with carved figures of cherubim and palm trees and open flowers, within and without.

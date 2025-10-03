@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, thanksgiving, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 18:49
-
 Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name.

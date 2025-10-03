@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 6:11
-
 Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.

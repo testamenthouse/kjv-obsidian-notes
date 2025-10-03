@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 16:1
-
 Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.

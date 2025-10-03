@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:9
-
 The princes refrained talking, and laid their hand on their mouth.

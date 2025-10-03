@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 6:8
-
 The Lord GOD hath sworn by himself, saith the LORD the God of hosts, I abhor the excellency of Jacob, and hate his palaces: therefore will I deliver up the city with all that is therein.

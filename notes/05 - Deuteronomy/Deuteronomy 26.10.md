@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 26:10
-
 And now, behold, I have brought the firstfruits of the land, which thou, O LORD, hast given me. And thou shalt set it before the LORD thy God, and worship before the LORD thy God:

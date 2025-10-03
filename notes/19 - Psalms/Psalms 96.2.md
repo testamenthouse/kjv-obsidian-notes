@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 96:2
-
 Sing unto the LORD, bless his name; shew forth his salvation from day to day.

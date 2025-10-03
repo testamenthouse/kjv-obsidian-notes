@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:120
-
 My flesh trembleth for fear of thee; and I am afraid of thy judgments.

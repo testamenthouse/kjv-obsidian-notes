@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 7:14
-
 In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.

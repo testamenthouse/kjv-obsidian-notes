@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:20
-
 And when they heard it, they glorified the Lord, and said unto him, Thou seest, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 1:15
-
 And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;

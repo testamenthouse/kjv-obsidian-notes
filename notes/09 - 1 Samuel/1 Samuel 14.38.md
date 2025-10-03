@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 14:38
-
 And Saul said, Draw ye near hither, all the chief of the people: and know and see wherein this sin hath been this day.

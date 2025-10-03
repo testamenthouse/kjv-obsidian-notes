@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:40
-
 Therefore was the wrath of the LORD kindled against his people, insomuch that he abhorred his own inheritance.

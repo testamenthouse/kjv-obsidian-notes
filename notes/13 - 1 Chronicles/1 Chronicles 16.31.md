@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 16:31
-
 Let the heavens be glad, and let the earth rejoice: and let men say among the nations, The LORD reigneth.

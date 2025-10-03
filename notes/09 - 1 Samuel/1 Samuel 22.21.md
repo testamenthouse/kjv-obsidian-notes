@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 22:21
-
 And Abiathar showed David that Saul had slain the LORD's priests.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:8
-
 Wherefore the wrath of the LORD was upon Judah and Jerusalem, and he hath delivered them to trouble, to astonishment, and to hissing, as ye see with your eyes.

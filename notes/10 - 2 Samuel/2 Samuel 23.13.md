@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 23:13
-
 And three of the thirty chief went down, and came to David in the harvest time unto the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:31
-
 And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 12:8
-
 Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, which was over the thanksgiving, he and his brethren.

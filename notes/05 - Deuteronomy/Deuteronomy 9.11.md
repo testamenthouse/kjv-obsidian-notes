@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, covenant, time-units, time-parts-of-day, time-period, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 9:11
-
 And it came to pass at the end of forty days and forty nights, that the LORD gave me the two tables of stone, even the tables of the covenant.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 4:23
-
 I beheld the earth, and, lo, it was without form, and void; and the heavens, and they had no light.

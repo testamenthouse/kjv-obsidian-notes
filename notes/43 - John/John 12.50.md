@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:50
-
 And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak.

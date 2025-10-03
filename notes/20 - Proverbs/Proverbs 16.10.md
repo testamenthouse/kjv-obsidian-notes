@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 16:10
-
 A divine sentence is in the lips of the king: his mouth transgresseth not in judgment.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 10:25
-
 As the whirlwind passeth, so is the wicked no more: but the righteous is an everlasting foundation.

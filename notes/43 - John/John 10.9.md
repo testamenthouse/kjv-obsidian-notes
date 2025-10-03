@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:9
-
 I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:27
-
 If I say, I will forget my complaint, I will leave off my heaviness, and comfort myself:

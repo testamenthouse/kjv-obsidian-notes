@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 18:4
-
 And he said unto them, Thus and thus dealeth Micah with me, and hath hired me, and I am his priest.

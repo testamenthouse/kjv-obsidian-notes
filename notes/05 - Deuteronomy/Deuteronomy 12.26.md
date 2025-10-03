@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 12:26
-
 Only thy holy things which thou hast, and thy vows, thou shalt take, and go unto the place which the LORD shall choose:

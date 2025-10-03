@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 10:23
-
 So king Solomon exceeded all the kings of the earth for riches and for wisdom.

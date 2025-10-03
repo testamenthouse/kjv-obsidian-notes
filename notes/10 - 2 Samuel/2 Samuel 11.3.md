@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, conditional, genealogy-st
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 11:3
-
 And David sent and inquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:15
-
 Thus saith the LORD; A voice was heard in Ramah, lamentation, and bitter weeping; Rahel weeping for her children refused to be comforted for her children, because they were not.

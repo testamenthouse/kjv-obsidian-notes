@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 94:9
-
 He that planted the ear, shall he not hear? he that formed the eye, shall he not see?

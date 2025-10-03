@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 17:20
-
 O LORD, there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears.

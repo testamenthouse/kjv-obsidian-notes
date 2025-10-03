@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 7:11
-
 And this is the law of the sacrifice of peace offerings, which he shall offer unto the LORD.

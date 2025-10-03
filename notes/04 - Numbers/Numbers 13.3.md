@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 13:3
-
 And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men were heads of the children of Israel.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 25:42
-
 And Abigail hasted, and arose and rode upon an ass, with five damsels of hers that went after her; and she went after the messengers of David, and became his wife.

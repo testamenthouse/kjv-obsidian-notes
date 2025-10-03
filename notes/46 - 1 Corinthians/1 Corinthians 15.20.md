@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:20
-
 But now is Christ risen from the dead, and become the firstfruits of them that slept.

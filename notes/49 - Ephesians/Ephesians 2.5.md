@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 2:5
-
 Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)

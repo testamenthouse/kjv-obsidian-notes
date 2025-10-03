@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 7:11
-
 God judgeth the righteous, and God is angry with the wicked every day.

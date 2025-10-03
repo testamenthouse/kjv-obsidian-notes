@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 8:11
-
 But now I will not be unto the residue of this people as in the former days, saith the LORD of hosts.

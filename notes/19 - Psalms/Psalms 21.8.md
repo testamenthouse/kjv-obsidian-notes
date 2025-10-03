@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 21:8
-
 Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee.

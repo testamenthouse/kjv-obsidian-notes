@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 48:7
-
 They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them.

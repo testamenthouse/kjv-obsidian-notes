@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:32
-
 That which I see not teach thou me: if I have done iniquity, I will do no more.

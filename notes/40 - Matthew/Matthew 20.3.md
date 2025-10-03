@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 20:3
-
 And he went out about the third hour, and saw others standing idle in the marketplace,

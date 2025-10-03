@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:6
-
 As soon then as he had said unto them, I am he, they went backward, and fell to the ground.

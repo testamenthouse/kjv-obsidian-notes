@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 35:24
-
 Every one that did offer an offering of silver and brass brought the LORD's offering: and every man, with whom was found shittim wood for any work of the service, brought it.

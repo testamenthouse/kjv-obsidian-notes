@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 12:37
-
 And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, beside children.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:31
-
 Now is the judgment of this world: now shall the prince of this world be cast out.

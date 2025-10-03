@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:16
-
 Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 10:25
-
 And Moses said, Thou must give us also sacrifices and burnt offerings, that we may sacrifice unto the LORD our God.

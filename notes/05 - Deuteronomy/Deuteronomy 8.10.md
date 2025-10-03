@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 8:10
-
 When thou hast eaten and art full, then thou shalt bless the LORD thy God for the good land which he hath given thee.

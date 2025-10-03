@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 4:1
-
 And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.

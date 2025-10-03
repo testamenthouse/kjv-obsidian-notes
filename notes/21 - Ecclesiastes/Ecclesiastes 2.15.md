@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 2:15
-
 Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.

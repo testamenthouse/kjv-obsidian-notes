@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 51:2
-
 Wash me throughly from mine iniquity, and cleanse me from my sin.

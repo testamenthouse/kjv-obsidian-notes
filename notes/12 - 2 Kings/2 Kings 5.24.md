@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 5:24
-
 And when he came to the tower, he took them from their hand, and bestowed them in the house: and he let the men go, and they departed.

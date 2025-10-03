@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 52:5
-
 Now therefore, what have I here, saith the LORD, that my people is taken away for nought? they that rule over them make them to howl, saith the LORD; and my name continually every day is blasphemed.

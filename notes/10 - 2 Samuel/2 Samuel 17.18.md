@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 17:18
-
 Nevertheless a lad saw them, and told Absalom: but they went both of them away quickly, and came to a man's house in Bahurim, which had a well in his court; whither they went down.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 1:8
-
 For God is my record, how greatly I long after you all in the bowels of Jesus Christ.

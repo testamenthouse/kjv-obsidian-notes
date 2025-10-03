@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 15:11
-
 And the rest of the acts of Zachariah, behold, they are written in the book of the chronicles of the kings of Israel.

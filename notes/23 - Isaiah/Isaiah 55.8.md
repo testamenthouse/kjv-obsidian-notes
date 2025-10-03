@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 55:8
-
 For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD.

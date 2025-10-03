@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 11:20
-
 And if so be that the king's wrath arise, and he say unto thee, Wherefore approached ye so nigh unto the city when ye did fight? knew ye not that they would shoot from the wall?

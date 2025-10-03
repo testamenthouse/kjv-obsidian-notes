@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time-parts-of-day, time-seasons, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 8:22
-
 While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","2-Thessalonians"]
 ---
-
-# 2 Thessalonians 3:11
-
 For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.

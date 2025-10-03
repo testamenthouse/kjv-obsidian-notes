@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 84:1
-
 How amiable are thy tabernacles, O LORD of hosts!

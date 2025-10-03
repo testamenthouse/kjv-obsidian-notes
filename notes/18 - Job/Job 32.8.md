@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:8
-
 But there is a spirit in man: and the inspiration of the Almighty giveth them understanding.

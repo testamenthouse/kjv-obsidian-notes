@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 16:8
-
 The border went out from Tappuah westward unto the river Kanah; and the goings out thereof were at the sea. This is the inheritance of the tribe of the children of Ephraim by their families.

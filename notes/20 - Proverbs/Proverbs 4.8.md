@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 4:8
-
 Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:31
-
 Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:

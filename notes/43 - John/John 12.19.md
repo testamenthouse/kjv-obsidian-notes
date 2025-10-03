@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:19
-
 The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him.

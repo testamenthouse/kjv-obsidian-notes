@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 24:13
-
 When thus it shall be in the midst of the land among the people, there shall be as the shaking of an olive tree, and as the gleaning grapes when the vintage is done.

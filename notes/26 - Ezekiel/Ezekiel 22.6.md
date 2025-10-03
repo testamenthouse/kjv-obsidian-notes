@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 22:6
-
 Behold, the princes of Israel, every one were in thee to their power to shed blood.

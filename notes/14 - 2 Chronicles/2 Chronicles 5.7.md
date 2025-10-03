@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 5:7
-
 And the priests brought in the ark of the covenant of the LORD unto his place, to the oracle of the house, into the most holy place, even under the wings of the cherubim:

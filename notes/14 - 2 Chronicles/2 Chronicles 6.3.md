@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 6:3
-
 And the king turned his face, and blessed the whole congregation of Israel: and all the congregation of Israel stood.

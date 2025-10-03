@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:4
-
 Howbeit many of them which heard the word believed; and the number of the men was about five thousand.

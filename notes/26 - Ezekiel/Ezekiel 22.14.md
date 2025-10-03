@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 22:14
-
 Can thine heart endure, or can thine hands be strong, in the days that I shall deal with thee? I the LORD have spoken it, and will do it.

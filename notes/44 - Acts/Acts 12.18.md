@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 12:18
-
 Now as soon as it was day, there was no small stir among the soldiers, what was become of Peter.

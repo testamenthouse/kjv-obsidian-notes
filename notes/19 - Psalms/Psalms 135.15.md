@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 135:15
-
 The idols of the heathen are silver and gold, the work of men's hands.

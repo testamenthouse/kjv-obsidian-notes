@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 146:5
-
 Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God:

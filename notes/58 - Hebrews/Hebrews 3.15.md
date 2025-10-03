@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 3:15
-
 While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.

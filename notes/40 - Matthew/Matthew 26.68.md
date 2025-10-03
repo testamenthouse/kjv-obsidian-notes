@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [warfare, jesus-title, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:68
-
 Saying, Prophesy unto us, thou Christ, Who is he that smote thee?

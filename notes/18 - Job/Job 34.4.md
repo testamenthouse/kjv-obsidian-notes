@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:4
-
 Let us choose to us judgment: let us know among ourselves what is good.

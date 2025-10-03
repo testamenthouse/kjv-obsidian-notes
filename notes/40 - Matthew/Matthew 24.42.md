@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 24:42
-
 Watch therefore: for ye know not what hour your Lord doth come.

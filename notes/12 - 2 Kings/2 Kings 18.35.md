@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 18:35
-
 Who are they among all the gods of the countries, that have delivered their country out of mine hand, that the LORD should deliver Jerusalem out of mine hand?

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 4:15
-
 For that ye ought to say, If the Lord will, we shall live, and do this, or that.

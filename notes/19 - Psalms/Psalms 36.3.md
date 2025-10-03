@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 36:3
-
 The words of his mouth are iniquity and deceit: he hath left off to be wise, and to do good.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 33:5
-
 And he lifted up his eyes, and saw the women and the children; and said, Who are those with thee? And he said, The children which God hath graciously given thy servant.

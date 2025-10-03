@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 55:11
-
 Wickedness is in the midst thereof: deceit and guile depart not from her streets.

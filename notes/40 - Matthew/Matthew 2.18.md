@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 2:18
-
 In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.

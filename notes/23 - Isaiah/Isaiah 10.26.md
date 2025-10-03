@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 10:26
-
 And the LORD of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and as his rod was upon the sea, so shall he lift it up after the manner of Egypt.

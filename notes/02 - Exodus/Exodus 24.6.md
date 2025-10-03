@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 24:6
-
 And Moses took half of the blood, and put it in basins; and half of the blood he sprinkled on the altar.

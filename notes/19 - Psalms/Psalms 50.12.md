@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 50:12
-
 If I were hungry, I would not tell thee: for the world is mine, and the fulness thereof.

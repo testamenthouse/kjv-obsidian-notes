@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 59:5
-
 Thou therefore, O LORD God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 13:19
-
 But I beseech you the rather to do this, that I may be restored to you the sooner.

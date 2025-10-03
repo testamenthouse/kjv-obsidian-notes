@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:15
-
 And forgetteth that the foot may crush them, or that the wild beast may break them.

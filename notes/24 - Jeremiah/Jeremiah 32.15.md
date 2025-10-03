@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 32:15
-
 For thus saith the LORD of hosts, the God of Israel; Houses and fields and vineyards shall be possessed again in this land.

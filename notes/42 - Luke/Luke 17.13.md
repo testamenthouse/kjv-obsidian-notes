@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:13
-
 And they lifted up their voices, and said, Jesus, Master, have mercy on us.

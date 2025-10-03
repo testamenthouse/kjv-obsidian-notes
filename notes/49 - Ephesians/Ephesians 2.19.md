@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 2:19
-
 Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;

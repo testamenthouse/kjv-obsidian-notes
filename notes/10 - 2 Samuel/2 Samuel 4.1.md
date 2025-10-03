@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 4:1
-
 And when Saul's son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled.

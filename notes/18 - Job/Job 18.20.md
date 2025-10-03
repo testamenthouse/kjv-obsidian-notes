@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:20
-
 They that come after him shall be astonied at his day, as they that went before were affrighted.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 22:9
-
 Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled.

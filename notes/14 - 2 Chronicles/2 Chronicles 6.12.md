@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 6:12
-
 And he stood before the altar of the LORD in the presence of all the congregation of Israel, and spread forth his hands:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 24:9
-
 Remember what the LORD thy God did unto Miriam by the way, after that ye were come forth out of Egypt.

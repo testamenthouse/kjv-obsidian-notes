@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 4:10
-
 We are fools for Christ's sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised.

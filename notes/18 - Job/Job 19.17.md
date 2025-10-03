@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:17
-
 My breath is strange to my wife, though I intreated for the children's sake of mine own body.

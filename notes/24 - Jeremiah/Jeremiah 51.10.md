@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:10
-
 The LORD hath brought forth our righteousness: come, and let us declare in Zion the work of the LORD our God.

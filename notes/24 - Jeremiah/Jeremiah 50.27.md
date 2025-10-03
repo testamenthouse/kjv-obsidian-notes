@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:27
-
 Slay all her bullocks; let them go down to the slaughter: woe unto them! for their day is come, the time of their visitation.

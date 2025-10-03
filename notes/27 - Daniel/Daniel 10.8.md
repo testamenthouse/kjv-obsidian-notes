@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 10:8
-
 Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength.

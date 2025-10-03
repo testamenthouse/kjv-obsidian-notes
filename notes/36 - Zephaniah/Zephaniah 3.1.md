@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [praise-worship, lament]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 3:1
-
 Woe to her that is filthy and polluted, to the oppressing city!

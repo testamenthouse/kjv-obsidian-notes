@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 10:3
-
 But in those sacrifices there is a remembrance again made of sins every year.

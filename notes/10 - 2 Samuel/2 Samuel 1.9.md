@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 1:9
-
 He said unto me again, Stand, I pray thee, upon me, and slay me: for anguish is come upon me, because my life is yet whole in me.

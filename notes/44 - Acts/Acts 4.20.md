@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:20
-
 For we cannot but speak the things which we have seen and heard.

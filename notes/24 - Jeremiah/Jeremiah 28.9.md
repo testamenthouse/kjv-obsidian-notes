@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 28:9
-
 The prophet which prophesieth of peace, when the word of the prophet shall come to pass, then shall the prophet be known, that the LORD hath truly sent him.

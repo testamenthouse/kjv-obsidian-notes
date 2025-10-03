@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 10:17
-
 For we being many are one bread, and one body: for we are all partakers of that one bread.

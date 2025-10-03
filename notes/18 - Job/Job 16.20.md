@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:20
-
 My friends scorn me: but mine eye poureth out tears unto God.

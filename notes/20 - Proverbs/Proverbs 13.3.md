@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 13:3
-
 He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.

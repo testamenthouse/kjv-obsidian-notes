@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-period, time]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 2:17
-
 Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether.

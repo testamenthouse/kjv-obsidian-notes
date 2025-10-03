@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 4:12
-
 And they showed Sisera that Barak the son of Abinoam was gone up to mount Tabor.

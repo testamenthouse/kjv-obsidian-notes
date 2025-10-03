@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, genealogy-structure]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:48
-
 And many charged him that he should hold his peace: but he cried the more a great deal, Thou son of David, have mercy on me.

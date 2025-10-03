@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 21:31
-
 Helkath with her suburbs, and Rehob with her suburbs; four cities.

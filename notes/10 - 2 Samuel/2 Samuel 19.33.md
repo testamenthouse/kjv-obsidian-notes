@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 19:33
-
 And the king said unto Barzillai, Come thou over with me, and I will feed thee with me in Jerusalem.

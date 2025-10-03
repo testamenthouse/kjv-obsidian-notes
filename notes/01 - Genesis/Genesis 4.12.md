@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 4:12
-
 When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.

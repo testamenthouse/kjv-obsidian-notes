@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 1:23
-
 But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;

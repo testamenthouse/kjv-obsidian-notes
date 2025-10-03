@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 13:20
-
 Neither did Jeroboam recover strength again in the days of Abijah: and the LORD struck him, and he died.

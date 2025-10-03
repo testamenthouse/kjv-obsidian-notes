@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 22:11
-
 Now, my son, the LORD be with thee; and prosper thou, and build the house of the LORD thy God, as he hath said of thee.

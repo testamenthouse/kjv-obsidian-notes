@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 77:3
-
 I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.

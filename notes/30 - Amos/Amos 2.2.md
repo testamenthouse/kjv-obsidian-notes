@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 2:2
-
 But I will send a fire upon Moab, and it shall devour the palaces of Kirioth: and Moab shall die with tumult, with shouting, and with the sound of the trumpet:

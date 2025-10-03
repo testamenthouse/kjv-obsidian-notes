@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:35
-
 And he said, Thy brother came with subtilty, and hath taken away thy blessing.

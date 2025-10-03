@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 10:26
-
 For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,

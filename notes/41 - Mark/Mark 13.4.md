@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:4
-
 Tell us, when shall these things be? and what shall be the sign when all these things shall be fulfilled?

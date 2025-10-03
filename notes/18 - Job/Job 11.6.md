@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:6
-
 And that he would shew thee the secrets of wisdom, that they are double to that which is! Know therefore that God exacteth of thee less than thine iniquity deserveth.

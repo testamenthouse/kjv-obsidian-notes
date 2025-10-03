@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:27
-
 And of Kohath was the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these are the families of the Kohathites.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:12
-
 He hath bent his bow, and set me as a mark for the arrow.

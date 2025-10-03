@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 13:44
-
 He is a leprous man, he is unclean: the priest shall pronounce him utterly unclean; his plague is in his head.

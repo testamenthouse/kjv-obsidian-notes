@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 5:35
-
 But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.

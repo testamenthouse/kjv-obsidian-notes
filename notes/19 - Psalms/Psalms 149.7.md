@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 149:7
-
 To execute vengeance upon the heathen, and punishments upon the people;

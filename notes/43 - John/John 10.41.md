@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:41
-
 And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:30
-
 And Jesus saith unto him, Verily I say unto thee, That this day, even in this night, before the cock crow twice, thou shalt deny me thrice.

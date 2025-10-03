@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 1:25
-
 That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place.

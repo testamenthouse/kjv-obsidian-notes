@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:22
-
 The enemy shall not exact upon him; nor the son of wickedness afflict him.

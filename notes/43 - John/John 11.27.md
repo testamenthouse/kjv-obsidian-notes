@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, jesus-title, jesus, son-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:27
-
 She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.

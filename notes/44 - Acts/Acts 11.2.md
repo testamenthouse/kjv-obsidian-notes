@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:2
-
 And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 4:14
-
 Luke, the beloved physician, and Demas, greet you.

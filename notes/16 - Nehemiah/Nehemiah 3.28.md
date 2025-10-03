@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 3:28
-
 From above the horse gate repaired the priests, every one over against his house.

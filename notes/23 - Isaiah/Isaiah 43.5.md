@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 43:5
-
 Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;

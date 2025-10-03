@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 74:14
-
 Thou brakest the heads of leviathan in pieces, and gavest him to be meat to the people inhabiting the wilderness.

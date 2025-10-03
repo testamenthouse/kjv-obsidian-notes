@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 4:22
-
 But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land.

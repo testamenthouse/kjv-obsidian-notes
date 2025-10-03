@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 3:16
-
 Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:48
-
 After that he is sold he may be redeemed again; one of his brethren may redeem him:

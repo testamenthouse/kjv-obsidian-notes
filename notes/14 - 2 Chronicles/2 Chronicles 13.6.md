@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 13:6
-
 Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, is risen up, and hath rebelled against his lord.

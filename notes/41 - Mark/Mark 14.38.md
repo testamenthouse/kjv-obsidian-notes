@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:38
-
 Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak.

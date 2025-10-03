@@ -13,7 +13,4 @@ grammar_tags: [question, genealogy-structure]
 thematic_tags: [names-of-god, jesus, jesus-title, son-of-god, lament]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 8:29
-
 And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?

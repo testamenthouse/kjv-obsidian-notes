@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 19:38
-
 And Iron, and Migdalel, Horem, and Bethanath, and Bethshemesh; nineteen cities with their villages.

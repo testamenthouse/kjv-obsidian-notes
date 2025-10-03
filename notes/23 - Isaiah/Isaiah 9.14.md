@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 9:14
-
 Therefore the LORD will cut off from Israel head and tail, branch and rush, in one day.

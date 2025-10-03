@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 20:18
-
 Every purpose is established by counsel: and with good advice make war.

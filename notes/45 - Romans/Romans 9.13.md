@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 9:13
-
 As it is written, Jacob have I loved, but Esau have I hated.

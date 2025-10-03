@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:26
-
 And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives taken with the sword?

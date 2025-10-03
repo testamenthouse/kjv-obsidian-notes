@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 1:23
-
 And Ophir, and Havilah, and Jobab. All these were the sons of Joktan.

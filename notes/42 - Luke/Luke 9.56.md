@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:56
-
 For the Son of man is not come to destroy men's lives, but to save them. And they went to another village.

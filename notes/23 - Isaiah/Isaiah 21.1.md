@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 21:1
-
 The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land.

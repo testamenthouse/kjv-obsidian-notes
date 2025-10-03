@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast-opener, negation]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 14:27
-
 But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid.

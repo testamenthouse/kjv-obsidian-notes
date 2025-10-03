@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 19:3
-
 And she brought up one of her whelps: it became a young lion, and it learned to catch the prey; it devoured men.

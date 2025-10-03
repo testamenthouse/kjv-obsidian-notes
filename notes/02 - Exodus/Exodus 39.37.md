@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 39:37
-
 The pure candlestick, with the lamps thereof, even with the lamps to be set in order, and all the vessels thereof, and the oil for light,

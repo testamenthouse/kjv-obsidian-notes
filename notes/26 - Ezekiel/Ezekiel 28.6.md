@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 28:6
-
 Therefore thus saith the Lord GOD; Because thou hast set thine heart as the heart of God;

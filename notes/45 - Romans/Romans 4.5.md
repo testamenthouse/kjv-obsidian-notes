@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 4:5
-
 But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 2:13
-
 For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 16:9
-
 And Aaron shall bring the goat upon which the LORD's lot fell, and offer him for a sin offering.

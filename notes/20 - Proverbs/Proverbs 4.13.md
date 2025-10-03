@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 4:13
-
 Take fast hold of instruction; let her not go: keep her; for she is thy life.

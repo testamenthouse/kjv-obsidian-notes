@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 38:10
-
 Their pillars were twenty, and their brazen sockets twenty; the hooks of the pillars and their fillets were of silver.

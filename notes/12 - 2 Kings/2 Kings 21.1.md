@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 21:1
-
 Manasseh was twelve years old when he began to reign, and reigned fifty and five years in Jerusalem. And his mother's name was Hephzibah.

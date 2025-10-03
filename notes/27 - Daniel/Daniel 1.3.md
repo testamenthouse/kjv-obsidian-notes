@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 1:3
-
 And the king spake unto Ashpenaz the master of his eunuchs, that he should bring certain of the children of Israel, and of the king's seed, and of the princes;

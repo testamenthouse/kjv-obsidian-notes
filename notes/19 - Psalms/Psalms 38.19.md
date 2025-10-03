@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 38:19
-
 But mine enemies are lively, and they are strong: and they that hate me wrongfully are multiplied.

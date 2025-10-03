@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 135:18
-
 They that make them are like unto them: so is every one that trusteth in them.

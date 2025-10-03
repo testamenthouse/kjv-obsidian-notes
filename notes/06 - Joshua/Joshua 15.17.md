@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 15:17
-
 And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife.

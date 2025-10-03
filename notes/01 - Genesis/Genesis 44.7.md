@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 44:7
-
 And they said unto him, Wherefore saith my lord these words? God forbid that thy servants should do according to this thing:

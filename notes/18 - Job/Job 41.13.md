@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:13
-
 Who can discover the face of his garment? or who can come to him with his double bridle?

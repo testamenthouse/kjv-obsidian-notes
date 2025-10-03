@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 21:2
-
 Son of man, set thy face toward Jerusalem, and drop thy word toward the holy places, and prophesy against the land of Israel,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 11:19
-
 Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure.

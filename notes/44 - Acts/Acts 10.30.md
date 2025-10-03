@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:30
-
 And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,

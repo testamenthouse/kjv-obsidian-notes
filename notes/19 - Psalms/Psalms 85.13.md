@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 85:13
-
 Righteousness shall go before him; and shall set us in the way of his steps.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 2:17
-
 Even so faith, if it hath not works, is dead, being alone.

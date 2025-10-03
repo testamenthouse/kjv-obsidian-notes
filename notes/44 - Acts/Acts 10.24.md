@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:24
-
 And the morrow after they entered into Caesarea. And Cornelius waited for them, and he had called together his kinsmen and near friends.

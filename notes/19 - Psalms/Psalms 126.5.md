@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 126:5
-
 They that sow in tears shall reap in joy.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 9:16
-
 So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.

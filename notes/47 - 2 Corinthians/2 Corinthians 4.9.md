@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 4:9
-
 Persecuted, but not forsaken; cast down, but not destroyed;

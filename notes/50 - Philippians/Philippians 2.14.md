@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 2:14
-
 Do all things without murmurings and disputings:

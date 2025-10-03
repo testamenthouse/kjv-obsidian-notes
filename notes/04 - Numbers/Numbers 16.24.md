@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 16:24
-
 Speak unto the congregation, saying, Get you up from about the tabernacle of Korah, Dathan, and Abiram.

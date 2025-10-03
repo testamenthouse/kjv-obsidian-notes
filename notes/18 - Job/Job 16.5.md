@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:5
-
 But I would strengthen you with my mouth, and the moving of my lips should asswage your grief.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship, lament]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 6:26
-
 And as the king of Israel was passing by upon the wall, there cried a woman unto him, saying, Help, my lord, O king.

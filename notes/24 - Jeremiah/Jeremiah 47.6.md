@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 47:6
-
 O thou sword of the LORD, how long will it be ere thou be quiet? put up thyself into thy scabbard, rest, and be still.

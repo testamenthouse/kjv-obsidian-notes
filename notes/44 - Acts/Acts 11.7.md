@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:7
-
 And I heard a voice saying unto me, Arise, Peter; slay and eat.

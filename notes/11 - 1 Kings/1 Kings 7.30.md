@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 7:30
-
 And every base had four brazen wheels, and plates of brass: and the four corners thereof had undersetters: under the laver were undersetters molten, at the side of every addition.

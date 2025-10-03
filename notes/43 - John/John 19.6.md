@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional, cause-effect]
 thematic_tags: [lament]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:6
-
 When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take ye him, and crucify him: for I find no fault in him.

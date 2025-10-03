@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:8
-
 And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.

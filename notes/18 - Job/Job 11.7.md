@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:7
-
 Canst thou by searching find out God? canst thou find out the Almighty unto perfection?

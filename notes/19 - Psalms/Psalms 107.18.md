@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:18
-
 Their soul abhorreth all manner of meat; and they draw near unto the gates of death.

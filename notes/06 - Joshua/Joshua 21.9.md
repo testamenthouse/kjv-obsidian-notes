@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 21:9
-
 And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name.

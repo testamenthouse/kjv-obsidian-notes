@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 22:1
-
 Thus saith the LORD; Go down to the house of the king of Judah, and speak there this word,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [demonic-entities, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:24
-
 When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house whence I came out.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:42
-
 And Moses numbered, as the LORD commanded him, all the firstborn among the children of Israel.

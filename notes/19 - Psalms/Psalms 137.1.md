@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 137:1
-
 By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.

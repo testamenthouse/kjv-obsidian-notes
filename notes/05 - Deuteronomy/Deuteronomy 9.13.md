@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 9:13
-
 Furthermore the LORD spake unto me, saying, I have seen this people, and, behold, it is a stiffnecked people:

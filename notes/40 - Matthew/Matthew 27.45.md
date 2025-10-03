@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:45
-
 Now from the sixth hour there was darkness over all the land unto the ninth hour.

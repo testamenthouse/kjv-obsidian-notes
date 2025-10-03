@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 22:7
-
 And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the LORD had anointed to cut off the house of Ahab.

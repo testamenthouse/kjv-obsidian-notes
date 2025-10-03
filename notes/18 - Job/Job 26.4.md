@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 26:4
-
 To whom hast thou uttered words? and whose spirit came from thee?

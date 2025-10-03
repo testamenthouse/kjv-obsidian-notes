@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:7
-
 And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner.

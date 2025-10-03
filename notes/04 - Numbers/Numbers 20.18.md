@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 20:18
-
 And Edom said unto him, Thou shalt not pass by me, lest I come out against thee with the sword.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 24:17
-
 And the sight of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel.

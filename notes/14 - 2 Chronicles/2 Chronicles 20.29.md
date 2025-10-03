@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 20:29
-
 And the fear of God was on all the kingdoms of those countries, when they had heard that the LORD fought against the enemies of Israel.

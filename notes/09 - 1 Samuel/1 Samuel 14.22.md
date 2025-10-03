@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 14:22
-
 Likewise all the men of Israel which had hid themselves in mount Ephraim, when they heard that the Philistines fled, even they also followed hard after them in the battle.

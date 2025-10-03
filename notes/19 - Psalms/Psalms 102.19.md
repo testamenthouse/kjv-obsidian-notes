@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:19
-
 For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 30:37
-
 And Jacob took him rods of green poplar, and of the hazel and chestnut tree; and pilled white streaks in them, and made the white appear which was in the rods.

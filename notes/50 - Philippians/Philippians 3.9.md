@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 3:9
-
 And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:

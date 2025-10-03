@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:30
-
 So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:

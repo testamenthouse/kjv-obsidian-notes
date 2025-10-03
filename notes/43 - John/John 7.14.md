@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:14
-
 Now about the midst of the feast Jesus went up into the temple, and taught.

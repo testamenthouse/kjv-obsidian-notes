@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 1:20
-
 And the LORD shewed me four carpenters.

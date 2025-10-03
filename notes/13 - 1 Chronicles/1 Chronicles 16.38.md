@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 16:38
-
 And Obededom with their brethren, threescore and eight; Obededom also the son of Jeduthun and Hosah to be porters:

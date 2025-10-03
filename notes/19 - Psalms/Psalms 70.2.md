@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 70:2
-
 Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.

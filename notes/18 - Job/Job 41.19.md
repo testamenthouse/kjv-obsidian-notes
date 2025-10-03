@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:19
-
 Out of his mouth go burning lamps, and sparks of fire leap out.

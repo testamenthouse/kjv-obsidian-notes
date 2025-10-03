@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 32:1
-
 Blessed is he whose transgression is forgiven, whose sin is covered.

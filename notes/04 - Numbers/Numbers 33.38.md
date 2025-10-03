@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 33:38
-
 And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.

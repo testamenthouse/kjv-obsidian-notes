@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:21
-
 He poureth contempt upon princes, and weakeneth the strength of the mighty.

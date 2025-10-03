@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 16:4
-
 Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles.

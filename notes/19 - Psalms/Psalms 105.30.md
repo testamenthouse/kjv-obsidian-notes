@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:30
-
 Their land brought forth frogs in abundance, in the chambers of their kings.

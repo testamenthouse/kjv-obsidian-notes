@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 18:15
-
 But if it be a question of words and names, and of your law, look ye to it; for I will be no judge of such matters.

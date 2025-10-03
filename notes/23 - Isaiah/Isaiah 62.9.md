@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 62:9
-
 But they that have gathered it shall eat it, and praise the LORD; and they that have brought it together shall drink it in the courts of my holiness.

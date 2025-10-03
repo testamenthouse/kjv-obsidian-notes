@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 18:6
-
 But Jehoshaphat said, Is there not here a prophet of the LORD besides, that we might enquire of him?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 26:18
-
 And if ye will not yet for all this hearken unto me, then I will punish you seven times more for your sins.

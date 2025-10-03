@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 9:3
-
 And the glory of the God of Israel was gone up from the cherub, whereupon he was, to the threshold of the house. And he called to the man clothed with linen, which had the writer's inkhorn by his side;

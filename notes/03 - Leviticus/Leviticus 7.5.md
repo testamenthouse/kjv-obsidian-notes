@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 7:5
-
 And the priest shall burn them upon the altar for an offering made by fire unto the LORD: it is a trespass offering.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:13
-
 And after they had held their peace, James answered, saying, Men and brethren, hearken unto me:

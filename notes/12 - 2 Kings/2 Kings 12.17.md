@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 12:17
-
 Then Hazael king of Syria went up, and fought against Gath, and took it: and Hazael set his face to go up to Jerusalem.

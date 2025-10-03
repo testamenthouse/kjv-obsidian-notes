@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:25
-
 The singers went before, the players on instruments followed after; among them were the damsels playing with timbrels.

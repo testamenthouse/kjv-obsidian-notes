@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 9:16
-
 So it was alway: the cloud covered it by day, and the appearance of fire by night.

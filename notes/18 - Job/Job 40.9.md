@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:9
-
 Hast thou an arm like God? or canst thou thunder with a voice like him?

@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 36:17
-
 Son of man, when the house of Israel dwelt in their own land, they defiled it by their own way and by their doings: their way was before me as the uncleanness of a removed woman.

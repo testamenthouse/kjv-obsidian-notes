@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 14:5
-
 And in the fourteenth year came Chedorlaomer, and the kings that were with him, and smote the Rephaim in Ashteroth Karnaim, and the Zuzims in Ham, and the Emins in Shaveh Kiriathaim,

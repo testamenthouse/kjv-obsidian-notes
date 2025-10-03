@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 49:23
-
 Concerning Damascus. Hamath is confounded, and Arpad: for they have heard evil tidings: they are fainthearted; there is sorrow on the sea; it cannot be quiet.

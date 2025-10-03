@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 24:20
-
 For through the anger of the LORD it came to pass in Jerusalem and Judah, until he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.

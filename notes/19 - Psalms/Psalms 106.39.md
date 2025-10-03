@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:39
-
 Thus were they defiled with their own works, and went a whoring with their own inventions.

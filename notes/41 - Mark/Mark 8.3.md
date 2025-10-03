@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 8:3
-
 And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far.

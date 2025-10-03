@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 33:9
-
 For he spake, and it was done; he commanded, and it stood fast.

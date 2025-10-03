@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 8:13
-
 Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear it.

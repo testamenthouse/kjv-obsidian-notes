@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 14:27
-
 For the LORD of hosts hath purposed, and who shall disannul it? and his hand is stretched out, and who shall turn it back?

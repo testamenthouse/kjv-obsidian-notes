@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 2:10
-
 Arise ye, and depart; for this is not your rest: because it is polluted, it shall destroy you, even with a sore destruction.

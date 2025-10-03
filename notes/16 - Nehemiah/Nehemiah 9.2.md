@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 9:2
-
 And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.

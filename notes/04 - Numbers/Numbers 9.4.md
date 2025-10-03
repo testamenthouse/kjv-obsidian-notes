@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-feasts, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 9:4
-
 And Moses spake unto the children of Israel, that they should keep the passover.

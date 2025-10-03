@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 5:21
-
 Little children, keep yourselves from idols. Amen.

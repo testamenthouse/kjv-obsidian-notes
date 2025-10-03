@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 7:5
-
 And Samuel said, Gather all Israel to Mizpeh, and I will pray for you unto the LORD.

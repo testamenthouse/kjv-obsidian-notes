@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:31
-
 Surely it is meet to be said unto God, I have borne chastisement, I will not offend any more:

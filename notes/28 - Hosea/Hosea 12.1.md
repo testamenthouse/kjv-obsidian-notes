@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 12:1
-
 Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.

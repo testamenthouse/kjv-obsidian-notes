@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 17:4
-
 As for me, behold, my covenant is with thee, and thou shalt be a father of many nations.

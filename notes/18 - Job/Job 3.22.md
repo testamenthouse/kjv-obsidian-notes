@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:22
-
 Which rejoice exceedingly, and are glad, when they can find the grave?

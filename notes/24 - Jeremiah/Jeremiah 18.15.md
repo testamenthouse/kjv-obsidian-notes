@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 18:15
-
 Because my people hath forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways from the ancient paths, to walk in paths, in a way not cast up;

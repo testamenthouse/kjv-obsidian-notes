@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 27:31
-
 And if a man will at all redeem ought of his tithes, he shall add thereto the fifth part thereof.

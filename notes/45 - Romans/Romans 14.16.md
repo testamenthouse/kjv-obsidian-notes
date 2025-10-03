@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 14:16
-
 Let not then your good be evil spoken of:

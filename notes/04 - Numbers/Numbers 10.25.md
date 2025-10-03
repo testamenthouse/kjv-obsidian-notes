@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 10:25
-
 And the standard of the camp of the children of Dan set forward, which was the rearward of all the camps throughout their hosts: and over his host was Ahiezer the son of Ammishaddai.

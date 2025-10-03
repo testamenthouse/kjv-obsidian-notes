@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:32
-
 And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau.

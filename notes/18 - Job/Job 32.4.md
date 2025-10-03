@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:4
-
 Now Elihu had waited till Job had spoken, because they were elder than he.

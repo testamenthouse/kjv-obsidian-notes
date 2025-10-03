@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:3
-
 Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed?

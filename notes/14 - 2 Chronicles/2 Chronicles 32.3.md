@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 32:3
-
 He took counsel with his princes and his mighty men to stop the waters of the fountains which were without the city: and they did help him.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 4:13
-
 About forty thousand prepared for war passed over before the LORD unto battle, to the plains of Jericho.

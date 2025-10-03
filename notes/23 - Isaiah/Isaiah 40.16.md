@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 40:16
-
 And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.

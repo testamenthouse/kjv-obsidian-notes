@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 1:12
-
 And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;

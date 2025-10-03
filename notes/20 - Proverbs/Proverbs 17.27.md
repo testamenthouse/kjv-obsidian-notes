@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 17:27
-
 He that hath knowledge spareth his words: and a man of understanding is of an excellent spirit.

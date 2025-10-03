@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 22:11
-
 And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus.

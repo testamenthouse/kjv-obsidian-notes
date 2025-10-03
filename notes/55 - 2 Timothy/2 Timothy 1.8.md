@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, cause-effect]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 1:8
-
 Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;

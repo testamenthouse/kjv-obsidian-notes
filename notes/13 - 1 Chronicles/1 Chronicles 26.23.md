@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 26:23
-
 Of the Amramites, and the Izharites, the Hebronites, and the Uzzielites:

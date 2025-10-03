@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 41:21
-
 The posts of the temple were squared, and the face of the sanctuary; the appearance of the one as the appearance of the other.

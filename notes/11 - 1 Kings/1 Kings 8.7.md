@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:7
-
 For the cherubim spread forth their two wings over the place of the ark, and the cherubim covered the ark and the staves thereof above.

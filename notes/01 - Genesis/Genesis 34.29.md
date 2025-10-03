@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 34:29
-
 And all their wealth, and all their little ones, and their wives took they captive, and spoiled even all that was in the house.

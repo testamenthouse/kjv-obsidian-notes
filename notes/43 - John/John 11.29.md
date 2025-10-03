@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:29
-
 As soon as she heard that, she arose quickly, and came unto him.

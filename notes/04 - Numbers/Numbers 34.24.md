@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 34:24
-
 And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan.

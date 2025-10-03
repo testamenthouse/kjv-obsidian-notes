@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:3
-
 For my days are consumed like smoke, and my bones are burned as an hearth.

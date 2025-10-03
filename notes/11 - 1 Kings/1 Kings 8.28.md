@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god, lament, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:28
-
 Yet have thou respect unto the prayer of thy servant, and to his supplication, O LORD my God, to hearken unto the cry and to the prayer, which thy servant prayeth before thee to day:

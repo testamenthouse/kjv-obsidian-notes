@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 41:11
-
 By this I know that thou favourest me, because mine enemy doth not triumph over me.

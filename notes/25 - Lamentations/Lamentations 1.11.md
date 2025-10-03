@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 1:11
-
 All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O LORD, and consider; for I am become vile.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 34:3
-
 Their slain also shall be cast out, and their stink shall come up out of their carcases, and the mountains shall be melted with their blood.

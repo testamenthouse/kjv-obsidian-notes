@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare, covenant]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 15:25
-
 So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the LORD out of the house of Obededom with joy.

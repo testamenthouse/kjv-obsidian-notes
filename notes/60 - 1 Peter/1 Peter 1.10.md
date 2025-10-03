@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 1:10
-
 Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you:

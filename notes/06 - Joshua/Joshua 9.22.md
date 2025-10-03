@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 9:22
-
 And Joshua called for them, and he spake unto them, saying, Wherefore have ye beguiled us, saying, We are very far from you; when ye dwell among us?

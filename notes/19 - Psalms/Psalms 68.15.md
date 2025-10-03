@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:15
-
 The hill of God is as the hill of Bashan; an high hill as the hill of Bashan.

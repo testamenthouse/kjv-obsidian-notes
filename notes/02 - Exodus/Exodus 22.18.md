@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 22:18
-
 Thou shalt not suffer a witch to live.

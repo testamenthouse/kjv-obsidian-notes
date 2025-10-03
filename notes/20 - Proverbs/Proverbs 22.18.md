@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 22:18
-
 For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.

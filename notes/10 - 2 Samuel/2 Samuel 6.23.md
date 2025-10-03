@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 6:23
-
 Therefore Michal the daughter of Saul had no child unto the day of her death.

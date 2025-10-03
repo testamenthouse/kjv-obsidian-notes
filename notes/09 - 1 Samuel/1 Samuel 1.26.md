@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 1:26
-
 And she said, Oh my lord, as thy soul liveth, my lord, I am the woman that stood by thee here, praying unto the LORD.

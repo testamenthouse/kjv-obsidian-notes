@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 10:12
-
 Be of good courage, and let us play the men for our people, and for the cities of our God: and the LORD do that which seemeth him good.

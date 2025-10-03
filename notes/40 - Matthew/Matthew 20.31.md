@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, genealogy-structure]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 20:31
-
 And the multitude rebuked them, because they should hold their peace: but they cried the more, saying, Have mercy on us, O Lord, thou son of David.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 2:29
-
 And also upon the servants and upon the handmaids in those days will I pour out my spirit.

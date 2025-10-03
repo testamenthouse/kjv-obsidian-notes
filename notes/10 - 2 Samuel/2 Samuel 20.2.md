@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 20:2
-
 So every man of Israel went up from after David, and followed Sheba the son of Bichri: but the men of Judah clave unto their king, from Jordan even to Jerusalem.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 32:27
-
 And Hezekiah had exceeding much riches and honor: and he made himself treasuries for silver, and for gold, and for precious stones, and for spices, and for shields, and for all manner of pleasant jewels;

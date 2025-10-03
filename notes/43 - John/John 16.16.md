@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:16
-
 A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father.

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 18:18
-
 And these went into Micah's house, and fetched the carved image, the ephod, and the teraphim, and the molten image. Then said the priest unto them, What do ye?

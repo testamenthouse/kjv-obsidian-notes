@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 6:37
-
 The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,

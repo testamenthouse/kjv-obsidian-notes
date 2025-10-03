@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 1:27
-
 Is this thing done by my lord the king, and thou hast not showed it unto thy servant, who should sit on the throne of my lord the king after him?

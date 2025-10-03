@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 8:22
-
 But Jesus said unto him, Follow me; and let the dead bury their dead.

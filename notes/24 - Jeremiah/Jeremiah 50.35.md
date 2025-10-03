@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:35
-
 A sword is upon the Chaldeans, saith the LORD, and upon the inhabitants of Babylon, and upon her princes, and upon her wise men.

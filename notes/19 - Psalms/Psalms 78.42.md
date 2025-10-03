@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:42
-
 They remembered not his hand, nor the day when he delivered them from the enemy.

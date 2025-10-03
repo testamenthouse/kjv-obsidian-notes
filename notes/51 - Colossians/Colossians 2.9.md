@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 2:9
-
 For in him dwelleth all the fulness of the Godhead bodily.

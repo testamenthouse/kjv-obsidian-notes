@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 14:7
-
 If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 11:4
-
 Riches profit not in the day of wrath: but righteousness delivereth from death.

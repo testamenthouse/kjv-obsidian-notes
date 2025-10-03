@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 13:17
-
 And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:9
-
 And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer.

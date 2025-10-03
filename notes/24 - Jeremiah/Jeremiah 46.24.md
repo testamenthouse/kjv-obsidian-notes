@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 46:24
-
 The daughter of Egypt shall be confounded; she shall be delivered into the hand of the people of the north.

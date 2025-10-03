@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 38:8
-
 And he made the laver of brass, and the foot of it of brass, of the lookingglasses of the women assembling, which assembled at the door of the tabernacle of the congregation.

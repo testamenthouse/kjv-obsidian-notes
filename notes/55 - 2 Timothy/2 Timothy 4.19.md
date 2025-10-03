@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 4:19
-
 Salute Prisca and Aquila, and the household of Onesiphorus.

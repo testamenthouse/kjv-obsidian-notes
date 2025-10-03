@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 19:14
-
 Then came Jeremiah from Tophet, whither the LORD had sent him to prophesy; and he stood in the court of the LORD's house; and said to all the people,

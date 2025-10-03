@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:22
-
 Philip cometh and telleth Andrew: and again Andrew and Philip tell Jesus.

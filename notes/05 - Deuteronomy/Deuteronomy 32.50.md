@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 32:50
-
 And die in the mount whither thou goest up, and be gathered unto thy people; as Aaron thy brother died in mount Hor, and was gathered unto his people:

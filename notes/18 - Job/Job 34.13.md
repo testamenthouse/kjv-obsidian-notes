@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:13
-
 Who hath given him a charge over the earth? or who hath disposed the whole world?

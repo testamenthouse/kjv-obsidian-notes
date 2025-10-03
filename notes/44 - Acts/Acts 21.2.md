@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:2
-
 And finding a ship sailing over unto Phenicia, we went aboard, and set forth.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 19:29
-
 And when he was come into his house, he took a knife, and laid hold on his concubine, and divided her, together with her bones, into twelve pieces, and sent her into all the coasts of Israel.

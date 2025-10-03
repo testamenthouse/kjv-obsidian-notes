@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 4:8
-
 Woe unto us! who shall deliver us out of the hand of these mighty Gods? these are the Gods that smote the Egyptians with all the plagues in the wilderness.

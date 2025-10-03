@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:38
-
 And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants.

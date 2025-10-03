@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 118:16
-
 The right hand of the LORD is exalted: the right hand of the LORD doeth valiantly.

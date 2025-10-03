@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 13:2
-
 Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.

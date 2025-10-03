@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 6:30
-
 And no sin offering, whereof any of the blood is brought into the tabernacle of the congregation to reconcile withal in the holy place, shall be eaten: it shall be burnt in the fire.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:34
-
 And saith unto them, My soul is exceeding sorrowful unto death: tarry ye here, and watch.

@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:18
-
 They said therefore, What is this that he saith, A little while? we cannot tell what he saith.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 33:8
-
 The highways lie waste, the wayfaring man ceaseth: he hath broken the covenant, he hath despised the cities, he regardeth no man.

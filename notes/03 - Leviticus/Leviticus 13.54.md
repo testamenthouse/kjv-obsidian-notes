@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 13:54
-
 Then the priest shall command that they wash the thing wherein the plague is, and he shall shut it up seven days more:

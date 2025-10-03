@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 20:3
-
 That the slayer that killeth any person unawares and unwittingly may flee thither: and they shall be your refuge from the avenger of blood.

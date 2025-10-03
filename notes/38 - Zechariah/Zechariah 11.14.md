@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 11:14
-
 Then I cut asunder mine other staff, even Bands, that I might break the brotherhood between Judah and Israel.

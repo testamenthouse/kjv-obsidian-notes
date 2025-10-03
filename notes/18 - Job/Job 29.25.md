@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:25
-
 I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforteth the mourners.

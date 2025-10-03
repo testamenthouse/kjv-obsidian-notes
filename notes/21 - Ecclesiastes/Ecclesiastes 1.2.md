@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 1:2
-
 Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.

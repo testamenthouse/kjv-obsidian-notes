@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 13:13
-
 But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment was behind them.

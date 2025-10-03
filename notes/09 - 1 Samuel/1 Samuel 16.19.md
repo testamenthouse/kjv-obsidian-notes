@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 16:19
-
 Wherefore Saul sent messengers unto Jesse, and said, Send me David thy son, which is with the sheep.

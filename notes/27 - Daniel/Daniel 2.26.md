@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 2:26
-
 The king answered and said to Daniel, whose name was Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof?

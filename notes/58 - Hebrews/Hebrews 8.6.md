@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 8:6
-
 But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.

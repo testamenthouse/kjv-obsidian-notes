@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 4:2
-
 And Reaiah the son of Shobal begat Jahath; and Jahath begat Ahumai, and Lahad. These are the families of the Zorathites.

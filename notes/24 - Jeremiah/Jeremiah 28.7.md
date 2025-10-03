@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 28:7
-
 Nevertheless hear thou now this word that I speak in thine ears, and in the ears of all the people;

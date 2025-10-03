@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 29:17
-
 Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.

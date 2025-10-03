@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 2:12
-
 Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.

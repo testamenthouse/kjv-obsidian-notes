@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 6:5
-
 And David and all the house of Israel played before the LORD on all manner of instruments made of fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals.

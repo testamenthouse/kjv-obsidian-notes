@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:16
-
 For if the dead rise not, then is not Christ raised:

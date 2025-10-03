@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:16
-
 Because thou shalt forget thy misery, and remember it as waters that pass away:

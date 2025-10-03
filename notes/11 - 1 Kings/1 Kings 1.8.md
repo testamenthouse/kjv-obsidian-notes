@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 1:8
-
 But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah.

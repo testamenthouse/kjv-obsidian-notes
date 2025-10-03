@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Thessalonians"]
 ---
-
-# 2 Thessalonians 3:13
-
 But ye, brethren, be not weary in well doing.

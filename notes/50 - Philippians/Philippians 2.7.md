@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 2:7
-
 But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:

@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation, contrast, conditional, caus
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 6:25
-
 Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?

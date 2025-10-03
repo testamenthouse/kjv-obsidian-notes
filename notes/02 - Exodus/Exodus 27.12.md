@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 27:12
-
 And for the breadth of the court on the west side shall be hangings of fifty cubits: their pillars ten, and their sockets ten.

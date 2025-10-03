@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 4:12
-
 Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:

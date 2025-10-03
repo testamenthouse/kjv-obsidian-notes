@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, jesus-title, jesus, son-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 4:13
-
 Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:

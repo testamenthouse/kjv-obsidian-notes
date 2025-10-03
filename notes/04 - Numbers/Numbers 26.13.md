@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 26:13
-
 Of Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites.

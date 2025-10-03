@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 9:37
-
 And the carcass of Jezebel shall be as dung upon the face of the field in the portion of Jezreel; so that they shall not say, This is Jezebel.

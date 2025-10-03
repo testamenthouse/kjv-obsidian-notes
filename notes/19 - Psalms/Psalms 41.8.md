@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 41:8
-
 An evil disease, say they, cleaveth fast unto him: and now that he lieth he shall rise up no more.

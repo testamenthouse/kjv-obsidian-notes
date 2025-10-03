@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:7
-
 And they brought the colt to Jesus, and cast their garments on him; and he sat upon him.

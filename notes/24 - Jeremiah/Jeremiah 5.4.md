@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 5:4
-
 Therefore I said, Surely these are poor; they are foolish: for they know not the way of the LORD, nor the judgment of their God.

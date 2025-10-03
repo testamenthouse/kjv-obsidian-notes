@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 3:17
-
 But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him?

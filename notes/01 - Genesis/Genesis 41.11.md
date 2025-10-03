@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:11
-
 And we dreamed a dream in one night, I and he; we dreamed each man according to the interpretation of his dream.

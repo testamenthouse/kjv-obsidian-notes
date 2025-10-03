@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 30:1
-
 And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it.

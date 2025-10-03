@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 26:2
-
 How hast thou helped him that is without power? how savest thou the arm that hath no strength?

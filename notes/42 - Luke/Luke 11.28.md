@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:28
-
 But he said, Yea rather, blessed are they that hear the word of God, and keep it.

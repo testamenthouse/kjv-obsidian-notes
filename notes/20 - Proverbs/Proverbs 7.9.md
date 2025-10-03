@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 7:9
-
 In the twilight, in the evening, in the black and dark night:

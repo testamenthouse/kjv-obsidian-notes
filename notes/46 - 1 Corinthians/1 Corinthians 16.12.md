@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 16:12
-
 As touching our brother Apollos, I greatly desired him to come unto you with the brethren: but his will was not at all to come at this time; but he will come when he shall have convenient time.

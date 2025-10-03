@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 2:21
-
 (Touch not; taste not; handle not;

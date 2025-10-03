@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 28:10
-
 This is the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering.

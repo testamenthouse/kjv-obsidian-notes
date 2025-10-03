@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 4:12
-
 Now when Jesus had heard that John was cast into prison, he departed into Galilee;

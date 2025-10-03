@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [warfare, one-another, praise-worship]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 21:11
-
 And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands?

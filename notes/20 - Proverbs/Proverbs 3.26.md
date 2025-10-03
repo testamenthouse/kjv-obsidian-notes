@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 3:26
-
 For the LORD shall be thy confidence, and shall keep thy foot from being taken.

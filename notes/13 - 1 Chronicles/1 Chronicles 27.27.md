@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:27
-
 And over the vineyards was Shimei the Ramathite: over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite:

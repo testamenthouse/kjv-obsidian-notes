@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jude"]
 ---
-
-# Jude 1:10
-
 But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves.

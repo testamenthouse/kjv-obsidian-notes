@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 18:24
-
 And Chepharhaammonai, and Ophni, and Gaba; twelve cities with their villages:

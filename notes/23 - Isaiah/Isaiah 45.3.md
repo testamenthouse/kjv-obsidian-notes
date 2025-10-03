@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 45:3
-
 And I will give thee the treasures of darkness, and hidden riches of secret places, that thou mayest know that I, the LORD, which call thee by thy name, am the God of Israel.

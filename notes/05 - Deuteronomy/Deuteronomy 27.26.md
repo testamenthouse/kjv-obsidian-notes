@@ -13,7 +13,4 @@ grammar_tags: [negation, greeting/closing]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 27:26
-
 Cursed be he that confirmeth not all the words of this law to do them. And all the people shall say, Amen.

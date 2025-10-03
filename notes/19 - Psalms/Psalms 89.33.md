@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:33
-
 Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.

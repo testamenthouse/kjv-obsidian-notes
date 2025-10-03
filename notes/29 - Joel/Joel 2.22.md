@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 2:22
-
 Be not afraid, ye beasts of the field: for the pastures of the wilderness do spring, for the tree beareth her fruit, the fig tree and the vine do yield their strength.

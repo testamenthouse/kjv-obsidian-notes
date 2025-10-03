@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 37:37
-
 So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.

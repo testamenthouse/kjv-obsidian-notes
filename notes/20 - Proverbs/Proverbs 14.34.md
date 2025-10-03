@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 14:34
-
 Righteousness exalteth a nation: but sin is a reproach to any people.

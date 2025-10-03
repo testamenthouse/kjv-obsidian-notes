@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, contrast, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 45:11
-
 And there will I nourish thee; for yet there are five years of famine; lest thou, and thy household, and all that thou hast, come to poverty.

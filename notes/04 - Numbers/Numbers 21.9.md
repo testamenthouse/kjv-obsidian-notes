@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, adversary-metaphor, adversary]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 21:9
-
 And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.

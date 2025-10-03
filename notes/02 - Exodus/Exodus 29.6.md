@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 29:6
-
 And thou shalt put the mitre upon his head, and put the holy crown upon the mitre.

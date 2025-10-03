@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 7:11
-
 And the LORD said unto Moses, They shall offer their offering, each prince on his day, for the dedicating of the altar.

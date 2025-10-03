@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:18
-
 Whose feet they hurt with fetters: he was laid in iron:

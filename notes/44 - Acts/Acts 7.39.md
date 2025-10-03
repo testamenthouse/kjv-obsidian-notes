@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:39
-
 To whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,

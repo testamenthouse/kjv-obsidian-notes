@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 51:13
-
 Then will I teach transgressors thy ways; and sinners shall be converted unto thee.

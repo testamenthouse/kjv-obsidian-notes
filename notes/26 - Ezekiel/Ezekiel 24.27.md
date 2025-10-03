@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 24:27
-
 In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I am the LORD.

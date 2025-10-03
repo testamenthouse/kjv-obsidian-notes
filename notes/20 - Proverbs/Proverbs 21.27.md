@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 21:27
-
 The sacrifice of the wicked is abomination: how much more, when he bringeth it with a wicked mind?

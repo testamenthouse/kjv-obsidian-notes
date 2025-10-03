@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:59
-
 For thus saith the Lord GOD; I will even deal with thee as thou hast done, which hast despised the oath in breaking the covenant.

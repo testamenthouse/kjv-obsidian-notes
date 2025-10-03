@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 4:19
-
 But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 4:5
-
 And Joshua said unto them, Pass over before the ark of the LORD your God into the midst of Jordan, and take you up every man of you a stone upon his shoulder, according unto the number of the tribes of the children of Israel:

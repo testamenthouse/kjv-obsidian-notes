@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:33
-
 In the third year of Asa king of Judah began Baasha the son of Ahijah to reign over all Israel in Tirzah, twenty and four years.

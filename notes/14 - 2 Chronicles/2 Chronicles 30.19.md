@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 30:19
-
 That prepareth his heart to seek God, the LORD God of his fathers, though he be not cleansed according to the purification of the sanctuary.

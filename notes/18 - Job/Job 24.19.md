@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:19
-
 Drought and heat consume the snow waters: so doth the grave those which have sinned.

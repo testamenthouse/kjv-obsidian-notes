@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 30:9
-
 But every vow of a widow, and of her that is divorced, wherewith they have bound their souls, shall stand against her.

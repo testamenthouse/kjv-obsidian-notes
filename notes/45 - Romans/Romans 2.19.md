@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 2:19
-
 And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 9:9
-
 And they said unto him, From a very far country thy servants are come because of the name of the LORD thy God: for we have heard the fame of him, and all that he did in Egypt,

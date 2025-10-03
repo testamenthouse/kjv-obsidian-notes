@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:22
-
 Wondrous works in the land of Ham, and terrible things by the Red sea.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:57
-
 And I will make drunk her princes, and her wise men, her captains, and her rulers, and her mighty men: and they shall sleep a perpetual sleep, and not wake, saith the King, whose name is the LORD of hosts.

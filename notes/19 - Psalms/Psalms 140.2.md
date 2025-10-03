@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 140:2
-
 Which imagine mischiefs in their heart; continually are they gathered together for war.

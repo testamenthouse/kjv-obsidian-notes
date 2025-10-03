@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 33:4
-
 For the Egyptians buried all their firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments.

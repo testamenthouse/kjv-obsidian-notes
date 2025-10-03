@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 21:19
-
 And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:

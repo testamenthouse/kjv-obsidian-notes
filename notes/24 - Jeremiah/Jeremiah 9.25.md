@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 9:25
-
 Behold, the days come, saith the LORD, that I will punish all them which are circumcised with the uncircumcised;

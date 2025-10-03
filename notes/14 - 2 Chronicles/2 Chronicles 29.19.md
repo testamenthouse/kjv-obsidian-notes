@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:19
-
 Moreover all the vessels, which king Ahaz in his reign did cast away in his transgression, have we prepared and sanctified, and, behold, they are before the altar of the LORD.

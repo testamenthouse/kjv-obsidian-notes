@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:15
-
 Yet also I lifted up my hand unto them in the wilderness, that I would not bring them into the land which I had given them, flowing with milk and honey, which is the glory of all lands;

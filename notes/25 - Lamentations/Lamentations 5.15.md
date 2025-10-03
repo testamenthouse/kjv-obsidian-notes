@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 5:15
-
 The joy of our heart is ceased; our dance is turned into mourning.

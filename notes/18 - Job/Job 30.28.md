@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:28
-
 I went mourning without the sun: I stood up, and I cried in the congregation.

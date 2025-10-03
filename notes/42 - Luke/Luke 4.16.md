@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:16
-
 And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read.

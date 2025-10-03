@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, one-another, jesus, jesus-title]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:5
-
 Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:

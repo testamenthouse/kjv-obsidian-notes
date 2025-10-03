@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, jesus-title, jesus, covenant, time-period, time]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 2:12
-
 That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:

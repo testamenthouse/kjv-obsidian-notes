@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:35
-
 Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also.

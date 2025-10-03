@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 7:22
-
 For I spake not unto your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt offerings or sacrifices:

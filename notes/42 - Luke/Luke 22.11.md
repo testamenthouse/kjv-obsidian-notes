@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:11
-
 And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?

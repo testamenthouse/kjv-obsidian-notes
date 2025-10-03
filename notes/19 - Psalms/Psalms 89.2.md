@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:2
-
 For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.

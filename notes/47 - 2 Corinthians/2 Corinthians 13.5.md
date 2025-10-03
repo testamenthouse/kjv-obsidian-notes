@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 13:5
-
 Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?

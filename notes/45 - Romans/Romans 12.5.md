@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [one-another, jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 12:5
-
 So we, being many, are one body in Christ, and every one members one of another.

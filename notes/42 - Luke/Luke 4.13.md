@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, adversary-title, adversary, time-period, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:13
-
 And when the devil had ended all the temptation, he departed from him for a season.

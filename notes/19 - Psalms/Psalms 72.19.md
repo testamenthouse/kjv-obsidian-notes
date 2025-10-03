@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, greeting/closing]
 thematic_tags: [benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 72:19
-
 And blessed be his glorious name for ever: and let the whole earth be filled with his glory; Amen, and Amen.

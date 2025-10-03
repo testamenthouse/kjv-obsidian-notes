@@ -13,7 +13,4 @@ grammar_tags: [exclamation, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 30:2
-
 That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!

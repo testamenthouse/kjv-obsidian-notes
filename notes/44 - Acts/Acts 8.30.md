@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:30
-
 And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?

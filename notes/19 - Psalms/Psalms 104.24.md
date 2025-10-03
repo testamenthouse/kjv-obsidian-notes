@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:24
-
 O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.

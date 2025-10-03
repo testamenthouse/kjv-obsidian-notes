@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:60
-
 But found none: yea, though many false witnesses came, yet found they none. At the last came two false witnesses,

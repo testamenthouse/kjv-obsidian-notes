@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 11:30
-
 Are they not on the other side Jordan, by the way where the sun goeth down, in the land of the Canaanites, which dwell in the champaign over against Gilgal, beside the plains of Moreh?

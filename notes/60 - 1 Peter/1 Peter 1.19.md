@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 1:19
-
 But with the precious blood of Christ, as of a lamb without blemish and without spot:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 13:17
-
 Heshbon, and all her cities that are in the plain; Dibon, and Bamothbaal, and Bethbaalmeon,

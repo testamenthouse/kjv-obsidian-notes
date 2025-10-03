@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [demonic-entities, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 7:21
-
 And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave sight.

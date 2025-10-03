@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 18:25
-
 And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants.

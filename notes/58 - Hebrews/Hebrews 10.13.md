@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 10:13
-
 From henceforth expecting till his enemies be made his footstool.

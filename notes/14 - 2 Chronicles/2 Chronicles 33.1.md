@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 33:1
-
 Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:

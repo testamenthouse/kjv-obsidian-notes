@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 16:7
-
 And put fire therein, and put incense in them before the LORD to morrow: and it shall be that the man whom the LORD doth choose, he shall be holy: ye take too much upon you, ye sons of Levi.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 7:34
-
 And there were four undersetters to the four corners of one base: and the undersetters were of the very base itself.

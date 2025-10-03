@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 15:20
-
 Whereas thou camest but yesterday, should I this day make thee go up and down with us? seeing I go whither I may, return thou, and take back thy brethren: mercy and truth be with thee.

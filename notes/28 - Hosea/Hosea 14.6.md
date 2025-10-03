@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 14:6
-
 His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon.

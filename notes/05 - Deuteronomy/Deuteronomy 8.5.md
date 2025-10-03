@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 8:5
-
 Thou shalt also consider in thine heart, that, as a man chasteneth his son, so the LORD thy God chasteneth thee.

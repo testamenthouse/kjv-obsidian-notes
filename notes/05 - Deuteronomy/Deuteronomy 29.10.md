@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 29:10
-
 Ye stand this day all of you before the LORD your God; your captains of your tribes, your elders, and your officers, with all the men of Israel,

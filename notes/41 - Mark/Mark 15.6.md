@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:6
-
 Now at that feast he released unto them one prisoner, whomsoever they desired.

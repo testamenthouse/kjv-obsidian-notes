@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-John"]
 ---
-
-# 2 John 1:3
-
 Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.

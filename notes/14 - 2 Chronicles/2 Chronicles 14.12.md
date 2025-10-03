@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 14:12
-
 So the LORD smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled.

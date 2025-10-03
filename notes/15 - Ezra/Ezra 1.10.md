@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 1:10
-
 Thirty basins of gold, silver basins of a second sort four hundred and ten, and other vessels a thousand.

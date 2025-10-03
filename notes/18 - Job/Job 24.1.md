@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:1
-
 Why, seeing times are not hidden from the Almighty, do they that know him not see his days?

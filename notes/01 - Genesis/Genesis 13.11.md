@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 13:11
-
 Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.

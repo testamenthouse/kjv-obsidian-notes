@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 4:7
-
 Submit yourselves therefore to God. Resist the devil, and he will flee from you.

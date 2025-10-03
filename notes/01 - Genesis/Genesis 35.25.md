@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 35:25
-
 And the sons of Bilhah, Rachel's handmaid; Dan, and Naphtali:

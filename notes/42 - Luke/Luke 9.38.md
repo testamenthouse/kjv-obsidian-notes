@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:38
-
 And, behold, a man of the company cried out, saying, Master, I beseech thee, look upon my son: for he is mine only child.

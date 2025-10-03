@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 140:11
-
 Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow him.

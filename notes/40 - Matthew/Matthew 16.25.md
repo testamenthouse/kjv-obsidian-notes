@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 16:25
-
 For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.

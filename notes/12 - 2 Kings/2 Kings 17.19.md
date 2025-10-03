@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 17:19
-
 Also Judah kept not the commandments of the LORD their God, but walked in the statutes of Israel which they made.

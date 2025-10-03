@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, thanksgiving, praise-worship]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 29:13
-
 Now therefore, our God, we thank thee, and praise thy glorious name.

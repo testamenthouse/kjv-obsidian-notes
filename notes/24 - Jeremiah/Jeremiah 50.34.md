@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:34
-
 Their Redeemer is strong; the LORD of hosts is his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon.

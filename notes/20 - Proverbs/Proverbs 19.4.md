@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 19:4
-
 Wealth maketh many friends; but the poor is separated from his neighbour.

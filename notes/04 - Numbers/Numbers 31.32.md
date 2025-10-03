@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 31:32
-
 And the booty, being the rest of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 118:25
-
 Save now, I beseech thee, O LORD: O LORD, I beseech thee, send now prosperity.

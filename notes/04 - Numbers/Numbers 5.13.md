@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 5:13
-
 And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witness against her, neither she be taken with the manner;

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:17
-
 But thou hast fulfilled the judgment of the wicked: judgment and justice take hold on thee.

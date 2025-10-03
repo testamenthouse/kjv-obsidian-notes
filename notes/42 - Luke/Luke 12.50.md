@@ -13,7 +13,4 @@ grammar_tags: [exclamation, contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:50
-
 But I have a baptism to be baptized with; and how am I straitened till it be accomplished!

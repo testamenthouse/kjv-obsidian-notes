@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, warfare, son-of-man, jesus, time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 8:31
-
 And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again.

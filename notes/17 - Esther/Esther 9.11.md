@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 9:11
-
 On that day the number of those that were slain in Shushan the palace was brought before the king.

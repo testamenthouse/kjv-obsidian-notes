@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:39
-
 And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through.

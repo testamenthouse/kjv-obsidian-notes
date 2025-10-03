@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 11:3
-
 And to the Canaanite on the east and on the west, and to the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and to the Hivite under Hermon in the land of Mizpeh.

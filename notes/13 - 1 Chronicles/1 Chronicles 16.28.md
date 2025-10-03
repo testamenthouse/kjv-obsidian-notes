@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 16:28
-
 Give unto the LORD, ye kindred of the people, give unto the LORD glory and strength.

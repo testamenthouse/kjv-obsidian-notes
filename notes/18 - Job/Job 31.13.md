@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:13
-
 If I did despise the cause of my manservant or of my maidservant, when they contended with me;

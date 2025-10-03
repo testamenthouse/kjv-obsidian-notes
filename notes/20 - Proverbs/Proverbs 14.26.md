@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 14:26
-
 In the fear of the LORD is strong confidence: and his children shall have a place of refuge.

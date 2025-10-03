@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 25:10
-
 And Nabal answered David's servants, and said, Who is David? and who is the son of Jesse? there be many servants now a days that break away every man from his master.

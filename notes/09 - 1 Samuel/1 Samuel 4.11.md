@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 4:11
-
 And the ark of God was taken; and the two sons of Eli, Hophni and Phinehas, were slain.

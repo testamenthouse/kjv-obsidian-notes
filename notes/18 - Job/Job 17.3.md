@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:3
-
 Lay down now, put me in a surety with thee; who is he that will strike hands with me?

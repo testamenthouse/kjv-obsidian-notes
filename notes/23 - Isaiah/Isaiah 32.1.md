@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 32:1
-
 Behold, a king shall reign in righteousness, and princes shall rule in judgment.

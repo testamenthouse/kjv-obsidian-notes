@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:14
-
 I put on righteousness, and it clothed me: my judgment was as a robe and a diadem.

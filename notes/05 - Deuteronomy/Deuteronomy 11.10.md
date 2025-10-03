@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 11:10
-
 For the land, whither thou goest in to possess it, is not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst it with thy foot, as a garden of herbs:

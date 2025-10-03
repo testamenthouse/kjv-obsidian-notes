@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:13
-
 He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.

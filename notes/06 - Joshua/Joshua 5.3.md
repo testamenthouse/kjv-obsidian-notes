@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 5:3
-
 And Joshua made him sharp knives, and circumcised the children of Israel at the hill of the foreskins.

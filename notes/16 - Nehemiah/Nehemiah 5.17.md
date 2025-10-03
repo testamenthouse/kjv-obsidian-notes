@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 5:17
-
 Moreover there were at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that are about us.

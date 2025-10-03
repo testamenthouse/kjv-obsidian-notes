@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 48:22
-
 Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow.

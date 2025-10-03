@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:16
-
 Then came the first, saying, Lord, thy pound hath gained ten pounds.

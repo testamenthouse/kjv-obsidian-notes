@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 16:6
-
 And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:

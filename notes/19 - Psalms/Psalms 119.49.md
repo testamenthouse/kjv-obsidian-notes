@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:49
-
 Remember the word unto thy servant, upon which thou hast caused me to hope.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, adversary-metaphor, adversary]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 12:7
-
 And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,

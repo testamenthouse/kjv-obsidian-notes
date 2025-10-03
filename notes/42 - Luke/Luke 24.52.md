@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:52
-
 And they worshipped him, and returned to Jerusalem with great joy:

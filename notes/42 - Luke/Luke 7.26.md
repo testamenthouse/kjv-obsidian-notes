@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 7:26
-
 But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:26
-
 Upon this I awaked, and beheld; and my sleep was sweet unto me.

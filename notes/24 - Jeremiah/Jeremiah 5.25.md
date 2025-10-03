@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 5:25
-
 Your iniquities have turned away these things, and your sins have withholden good things from you.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 9:9
-
 And all the people shall know, even Ephraim and the inhabitant of Samaria, that say in the pride and stoutness of heart,

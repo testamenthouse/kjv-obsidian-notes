@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 5:3
-
 Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell.

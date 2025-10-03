@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-units, time-period, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 12:41
-
 And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the LORD went out from the land of Egypt.

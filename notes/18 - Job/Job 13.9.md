@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:9
-
 Is it good that he should search you out? or as one man mocketh another, do ye so mock him?

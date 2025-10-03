@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Thessalonians"]
 ---
-
-# 2 Thessalonians 3:3
-
 But the Lord is faithful, who shall stablish you, and keep you from evil.

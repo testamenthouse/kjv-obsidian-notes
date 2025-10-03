@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 3:7
-
 But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judaea,

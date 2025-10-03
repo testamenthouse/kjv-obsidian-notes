@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, praise-worship, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 11:27
-
 A blessing, if ye obey the commandments of the LORD your God, which I command you this day:

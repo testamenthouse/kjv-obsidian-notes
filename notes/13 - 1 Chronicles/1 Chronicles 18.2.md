@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 18:2
-
 And he smote Moab; and the Moabites became David's servants, and brought gifts.

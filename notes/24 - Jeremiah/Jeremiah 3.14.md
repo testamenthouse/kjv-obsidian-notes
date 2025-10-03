@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 3:14
-
 Turn, O backsliding children, saith the LORD; for I am married unto you: and I will take you one of a city, and two of a family, and I will bring you to Zion:

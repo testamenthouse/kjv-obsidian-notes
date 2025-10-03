@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:18
-
 And thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety.

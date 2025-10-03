@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 8:14
-
 Why do we sit still? assemble yourselves, and let us enter into the defenced cities, and let us be silent there: for the LORD our God hath put us to silence, and given us water of gall to drink, because we have sinned against the LORD.

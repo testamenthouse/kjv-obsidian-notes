@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 3:10
-
 Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings.

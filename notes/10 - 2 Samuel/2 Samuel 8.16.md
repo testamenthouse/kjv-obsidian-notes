@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 8:16
-
 And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud was recorder;

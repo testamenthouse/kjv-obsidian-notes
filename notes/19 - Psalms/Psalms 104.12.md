@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:12
-
 By them shall the fowls of the heaven have their habitation, which sing among the branches.

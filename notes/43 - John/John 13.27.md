@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, jesus, jesus-title, adversary-title, adversary]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:27
-
 And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly.

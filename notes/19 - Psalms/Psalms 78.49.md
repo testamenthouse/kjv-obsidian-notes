@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:49
-
 He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them.

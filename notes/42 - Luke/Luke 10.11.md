@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:11
-
 Even the very dust of your city, which cleaveth on us, we do wipe off against you: notwithstanding be ye sure of this, that the kingdom of God is come nigh unto you.

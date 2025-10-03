@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:28
-
 This is the thing which I have spoken unto Pharaoh: What God is about to do he showeth unto Pharaoh.

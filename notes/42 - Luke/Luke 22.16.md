@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:16
-
 For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.

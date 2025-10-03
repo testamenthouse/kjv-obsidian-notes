@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 18:11
-
 And there went from thence of the family of the Danites, out of Zorah and out of Eshtaol, six hundred men appointed with weapons of war.

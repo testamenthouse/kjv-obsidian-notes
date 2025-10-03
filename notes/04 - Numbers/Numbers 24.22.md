@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 24:22
-
 Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.

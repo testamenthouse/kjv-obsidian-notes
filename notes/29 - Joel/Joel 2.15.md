@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 2:15
-
 Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:

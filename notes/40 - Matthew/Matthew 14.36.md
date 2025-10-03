@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 14:36
-
 And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole.

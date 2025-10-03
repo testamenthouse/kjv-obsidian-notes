@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 23:21
-
 Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name is in him.

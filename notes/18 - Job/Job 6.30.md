@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:30
-
 Is there iniquity in my tongue? cannot my taste discern perverse things?

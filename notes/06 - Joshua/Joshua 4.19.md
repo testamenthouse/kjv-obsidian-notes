@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 4:19
-
 And the people came up out of Jordan on the tenth day of the first month, and encamped in Gilgal, in the east border of Jericho.

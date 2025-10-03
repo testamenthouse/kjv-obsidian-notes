@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 148:11
-
 Kings of the earth, and all people; princes, and all judges of the earth:

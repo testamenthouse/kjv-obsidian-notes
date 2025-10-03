@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 11:6
-
 And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief.

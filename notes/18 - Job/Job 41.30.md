@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:30
-
 Sharp stones are under him: he spreadeth sharp pointed things upon the mire.

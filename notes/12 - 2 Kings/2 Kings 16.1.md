@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 16:1
-
 In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.

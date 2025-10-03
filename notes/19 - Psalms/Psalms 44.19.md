@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 44:19
-
 Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.

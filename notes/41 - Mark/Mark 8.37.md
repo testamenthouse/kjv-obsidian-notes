@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 8:37
-
 Or what shall a man give in exchange for his soul?

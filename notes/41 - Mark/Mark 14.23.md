@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:23
-
 And he took the cup, and when he had given thanks, he gave it to them: and they all drank of it.

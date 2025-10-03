@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:23
-
 If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles.

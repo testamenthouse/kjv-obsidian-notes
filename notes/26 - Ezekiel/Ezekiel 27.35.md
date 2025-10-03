@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:35
-
 All the inhabitants of the isles shall be astonished at thee, and their kings shall be sore afraid, they shall be troubled in their countenance.

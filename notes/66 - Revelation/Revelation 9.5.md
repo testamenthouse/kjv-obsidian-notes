@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 9:5
-
 And to them it was given that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when he striketh a man.

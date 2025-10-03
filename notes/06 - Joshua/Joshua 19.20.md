@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 19:20
-
 And Rabbith, and Kishion, and Abez,

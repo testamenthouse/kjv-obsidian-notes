@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 36:11
-
 When Michaiah the son of Gemariah, the son of Shaphan, had heard out of the book all the words of the LORD,

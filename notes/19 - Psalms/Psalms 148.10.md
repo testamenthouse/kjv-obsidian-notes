@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 148:10
-
 Beasts, and all cattle; creeping things, and flying fowl:

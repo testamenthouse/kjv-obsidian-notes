@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 3:10
-
 And let these also first be proved; then let them use the office of a deacon, being found blameless.

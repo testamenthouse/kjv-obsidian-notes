@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 6:9
-
 And I delivered you out of the hand of the Egyptians, and out of the hand of all that oppressed you, and drave them out from before you, and gave you their land;

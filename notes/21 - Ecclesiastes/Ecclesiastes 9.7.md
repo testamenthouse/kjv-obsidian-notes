@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 9:7
-
 Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works.

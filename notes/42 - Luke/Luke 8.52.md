@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:52
-
 And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.

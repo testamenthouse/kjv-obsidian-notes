@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 1:4
-
 Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do.

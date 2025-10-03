@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 13:13
-
 Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the LORD of hosts, and in the day of his fierce anger.

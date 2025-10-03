@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 8:11
-
 And Aaron shall offer the Levites before the LORD for an offering of the children of Israel, that they may execute the service of the LORD.

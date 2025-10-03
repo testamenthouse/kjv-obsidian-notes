@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 3:24
-
 O Lord GOD, thou hast begun to show thy servant thy greatness, and thy mighty hand: for what God is there in heaven or in earth, that can do according to thy works, and according to thy might?

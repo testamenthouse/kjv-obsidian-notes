@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time-period, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 3:16
-
 And it came to pass at the end of seven days, that the word of the LORD came unto me, saying,

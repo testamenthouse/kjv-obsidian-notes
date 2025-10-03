@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:39
-
 And he spake a parable unto them, Can the blind lead the blind? shall they not both fall into the ditch?

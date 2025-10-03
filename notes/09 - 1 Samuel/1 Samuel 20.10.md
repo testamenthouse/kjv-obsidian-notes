@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 20:10
-
 Then said David to Jonathan, Who shall tell me? or what if thy father answer thee roughly?

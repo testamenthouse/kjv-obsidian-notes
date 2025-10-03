@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:22
-
 Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come.

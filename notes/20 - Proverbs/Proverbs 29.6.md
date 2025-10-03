@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 29:6
-
 In the transgression of an evil man there is a snare: but the righteous doth sing and rejoice.

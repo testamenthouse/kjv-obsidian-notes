@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 14:7
-
 And he took six hundred chosen chariots, and all the chariots of Egypt, and captains over every one of them.

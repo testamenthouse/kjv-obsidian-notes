@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:57
-
 And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest.

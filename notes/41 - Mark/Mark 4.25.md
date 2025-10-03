@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 4:25
-
 For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath.

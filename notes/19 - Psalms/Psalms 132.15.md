@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 132:15
-
 I will abundantly bless her provision: I will satisfy her poor with bread.

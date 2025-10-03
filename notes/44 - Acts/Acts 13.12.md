@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:12
-
 Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord.

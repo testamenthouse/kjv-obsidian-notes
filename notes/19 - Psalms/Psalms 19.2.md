@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 19:2
-
 Day unto day uttereth speech, and night unto night sheweth knowledge.

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 3:13
-
 And who is he that will harm you, if ye be followers of that which is good?

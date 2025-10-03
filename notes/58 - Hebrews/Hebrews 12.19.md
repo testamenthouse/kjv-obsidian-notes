@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 12:19
-
 And the sound of a trumpet, and the voice of words; which voice they that heard intreated that the word should not be spoken to them any more:

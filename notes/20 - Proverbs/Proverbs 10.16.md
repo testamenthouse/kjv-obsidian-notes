@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 10:16
-
 The labour of the righteous tendeth to life: the fruit of the wicked to sin.

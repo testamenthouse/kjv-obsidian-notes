@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 1:3
-
 The ox knoweth his owner, and the ass his master's crib: but Israel doth not know, my people doth not consider.

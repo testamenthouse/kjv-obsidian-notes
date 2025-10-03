@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 2:8
-
 But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,

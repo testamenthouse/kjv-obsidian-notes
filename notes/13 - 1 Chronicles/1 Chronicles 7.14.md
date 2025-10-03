@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 7:14
-
 The sons of Manasseh; Ashriel, whom she bare: (but his concubine the Aramitess bare Machir the father of Gilead:

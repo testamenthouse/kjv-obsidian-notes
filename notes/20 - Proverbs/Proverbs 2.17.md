@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 2:17
-
 Which forsaketh the guide of her youth, and forgetteth the covenant of her God.

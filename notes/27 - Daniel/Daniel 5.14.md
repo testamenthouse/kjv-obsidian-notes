@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 5:14
-
 I have even heard of thee, that the spirit of the gods is in thee, and that light and understanding and excellent wisdom is found in thee.

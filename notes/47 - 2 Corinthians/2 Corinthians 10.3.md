@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 10:3
-
 For though we walk in the flesh, we do not war after the flesh:

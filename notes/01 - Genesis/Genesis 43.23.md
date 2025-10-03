@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 43:23
-
 And he said, Peace be to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them.

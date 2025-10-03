@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:28
-
 Then Peter began to say unto him, Lo, we have left all, and have followed thee.

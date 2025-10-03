@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 20:18
-
 And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 147:16
-
 He giveth snow like wool: he scattereth the hoarfrost like ashes.

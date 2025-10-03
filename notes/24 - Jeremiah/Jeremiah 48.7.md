@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:7
-
 For because thou hast trusted in thy works and in thy treasures, thou shalt also be taken: and Chemosh shall go forth into captivity with his priests and his princes together.

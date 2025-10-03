@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command, time-eschatology, time-units, time-feasts, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 23:15
-
 Thou shalt keep the feast of unleavened bread: (thou shalt eat unleavened bread seven days, as I commanded thee, in the time appointed of the month Abib; for in it thou camest out from Egypt: and none shall appear before me empty:)

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 25:18
-
 Look upon mine affliction and my pain; and forgive all my sins.

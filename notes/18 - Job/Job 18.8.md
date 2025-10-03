@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:8
-
 For he is cast into a net by his own feet, and he walketh upon a snare.

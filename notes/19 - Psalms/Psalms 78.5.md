@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:5
-
 For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:

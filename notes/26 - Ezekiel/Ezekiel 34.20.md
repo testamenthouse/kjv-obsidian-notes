@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 34:20
-
 Therefore thus saith the Lord GOD unto them; Behold, I, even I, will judge between the fat cattle and between the lean cattle.

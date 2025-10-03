@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 4:9
-
 Use hospitality one to another without grudging.

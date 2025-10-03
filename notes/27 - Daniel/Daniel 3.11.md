@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 3:11
-
 And whoso falleth not down and worshippeth, that he should be cast into the midst of a burning fiery furnace.

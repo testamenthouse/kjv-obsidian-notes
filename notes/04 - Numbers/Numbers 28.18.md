@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 28:18
-
 In the first day shall be an holy convocation; ye shall do no manner of servile work therein:

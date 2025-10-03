@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 15:16
-
 Better is little with the fear of the LORD than great treasure and trouble therewith.

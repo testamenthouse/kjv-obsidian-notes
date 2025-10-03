@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 11:12
-
 And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, and he utterly destroyed them, as Moses the servant of the LORD commanded.

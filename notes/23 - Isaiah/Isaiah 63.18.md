@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 63:18
-
 The people of thy holiness have possessed it but a little while: our adversaries have trodden down thy sanctuary.

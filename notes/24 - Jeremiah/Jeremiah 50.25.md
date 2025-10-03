@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:25
-
 The LORD hath opened his armoury, and hath brought forth the weapons of his indignation: for this is the work of the Lord GOD of hosts in the land of the Chaldeans.

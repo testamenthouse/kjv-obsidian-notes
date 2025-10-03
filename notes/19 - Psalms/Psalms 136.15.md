@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 136:15
-
 But overthrew Pharaoh and his host in the Red sea: for his mercy endureth for ever.

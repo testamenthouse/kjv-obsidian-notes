@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 13:14
-
 But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.

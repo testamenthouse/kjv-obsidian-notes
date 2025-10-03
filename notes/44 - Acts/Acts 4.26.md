@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:26
-
 The kings of the earth stood up, and the rulers were gathered together against the Lord, and against his Christ.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 16:22
-
 But the people that followed Omri prevailed against the people that followed Tibni the son of Ginath: so Tibni died, and Omri reigned.

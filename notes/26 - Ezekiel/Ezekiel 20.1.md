@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:1
-
 And it came to pass in the seventh year, in the fifth month, the tenth day of the month, that certain of the elders of Israel came to enquire of the LORD, and sat before me.

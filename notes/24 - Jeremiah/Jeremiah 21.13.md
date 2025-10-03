@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 21:13
-
 Behold, I am against thee, O inhabitant of the valley, and rock of the plain, saith the LORD; which say, Who shall come down against us? or who shall enter into our habitations?

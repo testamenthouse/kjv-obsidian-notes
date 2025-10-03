@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 2:12
-
 The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin.

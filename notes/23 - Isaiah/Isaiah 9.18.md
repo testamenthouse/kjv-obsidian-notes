@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 9:18
-
 For wickedness burneth as the fire: it shall devour the briers and thorns, and shall kindle in the thickets of the forest, and they shall mount up like the lifting up of smoke.

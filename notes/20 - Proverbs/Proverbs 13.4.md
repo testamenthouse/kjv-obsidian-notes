@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 13:4
-
 The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat.

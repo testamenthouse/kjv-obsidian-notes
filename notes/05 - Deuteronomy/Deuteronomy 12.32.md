@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 12:32
-
 What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it.

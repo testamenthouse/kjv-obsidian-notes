@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:16
-
 He shall suck the poison of asps: the viper's tongue shall slay him.

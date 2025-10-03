@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 5:19
-
 Brethren, if any of you do err from the truth, and one convert him;

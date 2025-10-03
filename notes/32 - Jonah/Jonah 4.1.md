@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jonah"]
 ---
-
-# Jonah 4:1
-
 But it displeased Jonah exceedingly, and he was very angry.

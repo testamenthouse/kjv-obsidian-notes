@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 16:15
-
 And he said unto them, Go ye into all the world, and preach the gospel to every creature.

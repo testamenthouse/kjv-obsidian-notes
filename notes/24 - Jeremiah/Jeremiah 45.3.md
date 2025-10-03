@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 45:3
-
 Thou didst say, Woe is me now! for the LORD hath added grief to my sorrow; I fainted in my sighing, and I find no rest.

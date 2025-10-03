@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 4:11
-
 And upon the golden altar they shall spread a cloth of blue, and cover it with a covering of badgers' skins, and shall put to the staves thereof:

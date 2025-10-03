@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 20:17
-
 And Jesus going up to Jerusalem took the twelve disciples apart in the way, and said unto them,

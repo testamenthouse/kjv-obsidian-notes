@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 10:14
-
 Go and cry unto the gods which ye have chosen; let them deliver you in the time of your tribulation.

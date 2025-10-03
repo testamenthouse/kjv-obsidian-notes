@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 149:5
-
 Let the saints be joyful in glory: let them sing aloud upon their beds.

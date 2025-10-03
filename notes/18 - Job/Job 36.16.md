@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:16
-
 Even so would he have removed thee out of the strait into a broad place, where there is no straitness; and that which should be set on thy table should be full of fatness.

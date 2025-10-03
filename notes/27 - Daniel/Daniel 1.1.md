@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 1:1
-
 In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.

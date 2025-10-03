@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 8:2
-
 And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know.

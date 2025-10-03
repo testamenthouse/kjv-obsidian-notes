@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 7:3
-
 O LORD my God, If I have done this; if there be iniquity in my hands;

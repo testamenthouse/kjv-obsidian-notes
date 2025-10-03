@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 26:7
-
 These are the families of the Reubenites: and they that were numbered of them were forty and three thousand and seven hundred and thirty.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 4:1
-
 Masters, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven.

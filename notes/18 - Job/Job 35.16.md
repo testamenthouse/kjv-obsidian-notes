@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 35:16
-
 Therefore doth Job open his mouth in vain; he multiplieth words without knowledge.

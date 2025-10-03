@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, greeting/closing]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:53
-
 And were continually in the temple, praising and blessing God. Amen.

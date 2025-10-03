@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 7:29
-
 But this I say, brethren, the time is short: it remaineth, that both they that have wives be as though they had none;

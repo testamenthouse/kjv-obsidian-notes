@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:3
-
 Let the day perish wherein I was born, and the night in which it was said, There is a man child conceived.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:40
-
 The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.

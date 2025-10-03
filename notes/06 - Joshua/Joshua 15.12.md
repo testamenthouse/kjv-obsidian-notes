@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 15:12
-
 And the west border was to the great sea, and the coast thereof. This is the coast of the children of Judah round about according to their families.

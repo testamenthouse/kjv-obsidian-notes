@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:46
-
 And the hand of the LORD was on Elijah; and he girded up his loins, and ran before Ahab to the entrance of Jezreel.

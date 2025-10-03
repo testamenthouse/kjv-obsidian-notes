@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 9:22
-
 But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ.

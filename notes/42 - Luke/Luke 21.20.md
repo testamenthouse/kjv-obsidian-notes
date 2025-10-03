@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:20
-
 And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.

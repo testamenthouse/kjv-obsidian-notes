@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 6:30
-
 Men do not despise a thief, if he steal to satisfy his soul when he is hungry;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 5:16
-
 And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 17:14
-
 Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou art my praise.

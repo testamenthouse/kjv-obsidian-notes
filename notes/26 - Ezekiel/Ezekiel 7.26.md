@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 7:26
-
 Mischief shall come upon mischief, and rumour shall be upon rumour; then shall they seek a vision of the prophet; but the law shall perish from the priest, and counsel from the ancients.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:24
-
 Joab the son of Zeruiah began to number, but he finished not, because there fell wrath for it against Israel; neither was the number put in the account of the chronicles of king David.

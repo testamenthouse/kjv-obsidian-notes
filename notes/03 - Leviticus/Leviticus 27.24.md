@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 27:24
-
 In the year of the jubilee the field shall return unto him of whom it was bought, even to him to whom the possession of the land did belong.

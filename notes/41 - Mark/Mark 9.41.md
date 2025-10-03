@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 9:41
-
 For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward.

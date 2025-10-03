@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 24:17
-
 And he that killeth any man shall surely be put to death.

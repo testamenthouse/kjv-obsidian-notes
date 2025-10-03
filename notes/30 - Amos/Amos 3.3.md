@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 3:3
-
 Can two walk together, except they be agreed?

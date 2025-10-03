@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 5:2
-
 Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity.

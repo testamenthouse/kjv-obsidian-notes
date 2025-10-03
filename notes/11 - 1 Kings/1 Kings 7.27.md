@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 7:27
-
 And he made ten bases of brass; four cubits was the length of one base, and four cubits the breadth thereof, and three cubits the height of it.

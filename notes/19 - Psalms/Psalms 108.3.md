@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 108:3
-
 I will praise thee, O LORD, among the people: and I will sing praises unto thee among the nations.

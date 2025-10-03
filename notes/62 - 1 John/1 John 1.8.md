@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 1:8
-
 If we say that we have no sin, we deceive ourselves, and the truth is not in us.

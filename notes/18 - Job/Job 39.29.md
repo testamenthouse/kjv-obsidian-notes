@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:29
-
 From thence she seeketh the prey, and her eyes behold afar off.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:55
-
 I called upon thy name, O LORD, out of the low dungeon.

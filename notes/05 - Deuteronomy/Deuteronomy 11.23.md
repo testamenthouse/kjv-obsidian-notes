@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 11:23
-
 Then will the LORD drive out all these nations from before you, and ye shall possess greater nations and mightier than yourselves.

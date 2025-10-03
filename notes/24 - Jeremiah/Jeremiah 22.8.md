@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 22:8
-
 And many nations shall pass by this city, and they shall say every man to his neighbour, Wherefore hath the LORD done thus unto this great city?

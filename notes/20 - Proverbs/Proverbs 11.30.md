@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 11:30
-
 The fruit of the righteous is a tree of life; and he that winneth souls is wise.

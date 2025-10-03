@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 2:12
-
 The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land;

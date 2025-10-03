@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 129:8
-
 Neither do they which go by say, The blessing of the LORD be upon you: we bless you in the name of the LORD.

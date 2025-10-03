@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 9:13
-
 And he said, What cities are these which thou hast given me, my brother? And he called them the land of Cabul unto this day.

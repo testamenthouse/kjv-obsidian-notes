@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 25:46
-
 And these shall go away into everlasting punishment: but the righteous into life eternal.

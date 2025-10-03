@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 6:17
-
 And he shall offer the ram for a sacrifice of peace offerings unto the LORD, with the basket of unleavened bread: the priest shall offer also his meat offering, and his drink offering.

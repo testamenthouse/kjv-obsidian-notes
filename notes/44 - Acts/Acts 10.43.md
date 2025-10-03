@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:43
-
 To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.

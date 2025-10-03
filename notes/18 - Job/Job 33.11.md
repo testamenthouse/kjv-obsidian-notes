@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:11
-
 He putteth my feet in the stocks, he marketh all my paths.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 18:21
-
 Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.

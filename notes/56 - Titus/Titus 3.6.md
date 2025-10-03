@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 3:6
-
 Which he shed on us abundantly through Jesus Christ our Saviour;

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 24:3
-
 Then said the LORD unto me, What seest thou, Jeremiah? And I said, Figs; the good figs, very good; and the evil, very evil, that cannot be eaten, they are so evil.

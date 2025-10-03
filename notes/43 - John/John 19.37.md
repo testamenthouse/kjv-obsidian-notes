@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:37
-
 And again another scripture saith, They shall look on him whom they pierced.

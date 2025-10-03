@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 8:35
-
 For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel's, the same shall save it.

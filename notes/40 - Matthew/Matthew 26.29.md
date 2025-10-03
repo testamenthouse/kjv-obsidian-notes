@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [time-units, time-period, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:29
-
 But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father's kingdom.

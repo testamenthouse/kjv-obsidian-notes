@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 1:6
-
 To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.

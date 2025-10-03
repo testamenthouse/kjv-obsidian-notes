@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 8:31
-
 And the LORD did according to the word of Moses; and he removed the swarms of flies from Pharaoh, from his servants, and from his people; there remained not one.

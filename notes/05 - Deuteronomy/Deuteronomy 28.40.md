@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 28:40
-
 Thou shalt have olive trees throughout all thy coasts, but thou shalt not anoint thyself with the oil; for thine olive shall cast his fruit.

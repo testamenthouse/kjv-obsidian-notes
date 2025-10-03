@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 3:5
-
 Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.

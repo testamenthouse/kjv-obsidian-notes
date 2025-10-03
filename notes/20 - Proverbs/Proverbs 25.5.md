@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 25:5
-
 Take away the wicked from before the king, and his throne shall be established in righteousness.

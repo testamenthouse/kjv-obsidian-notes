@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 1:5
-
 And it shall come to pass at that day, that I will break the bow of Israel, in the valley of Jezreel.

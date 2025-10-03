@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:42
-
 So shall I have wherewith to answer him that reproacheth me: for I trust in thy word.

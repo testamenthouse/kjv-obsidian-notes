@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 93:3
-
 The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.

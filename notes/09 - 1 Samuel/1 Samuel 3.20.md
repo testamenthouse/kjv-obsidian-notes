@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 3:20
-
 And all Israel from Dan even to Beersheba knew that Samuel was established to be a prophet of the LORD.

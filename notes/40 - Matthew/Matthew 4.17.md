@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 4:17
-
 From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.

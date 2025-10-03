@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 17:4
-
 And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me.

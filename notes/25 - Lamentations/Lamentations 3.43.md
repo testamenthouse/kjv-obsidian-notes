@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:43
-
 Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 21:22
-
 And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.

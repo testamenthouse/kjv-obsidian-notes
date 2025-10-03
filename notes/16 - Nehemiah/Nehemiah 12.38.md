@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 12:38
-
 And the other company of them that gave thanks went over against them, and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;

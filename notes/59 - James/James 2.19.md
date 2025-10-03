@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 2:19
-
 Thou believest that there is one God; thou doest well: the devils also believe, and tremble.

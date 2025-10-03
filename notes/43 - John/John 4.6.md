@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, jesus, jesus-title, time-parts-of-day, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:6
-
 Now Jacob's well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.

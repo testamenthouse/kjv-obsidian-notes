@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 28:28
-
 When the wicked rise, men hide themselves: but when they perish, the righteous increase.

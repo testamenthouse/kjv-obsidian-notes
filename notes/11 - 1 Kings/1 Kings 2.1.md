@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:1
-
 Now the days of David drew nigh that he should die; and he charged Solomon his son, saying,

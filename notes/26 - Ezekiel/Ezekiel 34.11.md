@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 34:11
-
 For thus saith the Lord GOD; Behold, I, even I, will both search my sheep, and seek them out.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:37
-
 And if any part of their carcass fall upon any sowing seed which is to be sown, it shall be clean.

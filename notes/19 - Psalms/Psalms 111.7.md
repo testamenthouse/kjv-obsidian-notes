@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 111:7
-
 The works of his hands are verity and judgment; all his commandments are sure.

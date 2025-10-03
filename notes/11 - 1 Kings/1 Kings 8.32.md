@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:32
-
 Then hear thou in heaven, and do, and judge thy servants, condemning the wicked, to bring his way upon his head; and justifying the righteous, to give him according to his righteousness.

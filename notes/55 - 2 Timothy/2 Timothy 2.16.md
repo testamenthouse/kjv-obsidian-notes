@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 2:16
-
 But shun profane and vain babblings: for they will increase unto more ungodliness.

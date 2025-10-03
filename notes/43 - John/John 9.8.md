@@ -13,7 +13,4 @@ grammar_tags: [question, negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:8
-
 The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?

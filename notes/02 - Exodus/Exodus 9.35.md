@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 9:35
-
 And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses.

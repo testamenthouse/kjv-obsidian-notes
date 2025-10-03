@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 32:25
-
 And thou hast said unto me, O Lord GOD, Buy thee the field for money, and take witnesses; for the city is given into the hand of the Chaldeans.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:29
-
 And they shall come from the east, and from the west, and from the north, and from the south, and shall sit down in the kingdom of God.

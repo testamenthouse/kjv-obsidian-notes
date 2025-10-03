@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 3:24
-
 For John was not yet cast into prison.

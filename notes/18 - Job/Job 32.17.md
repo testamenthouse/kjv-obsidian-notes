@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:17
-
 I said, I will answer also my part, I also will shew mine opinion.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:56
-
 And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment.

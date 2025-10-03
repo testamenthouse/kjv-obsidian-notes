@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 5:14
-
 And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:

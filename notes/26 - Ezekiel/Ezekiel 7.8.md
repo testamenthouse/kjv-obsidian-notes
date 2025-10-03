@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 7:8
-
 Now will I shortly pour out my fury upon thee, and accomplish mine anger upon thee: and I will judge thee according to thy ways, and will recompense thee for all thine abominations.

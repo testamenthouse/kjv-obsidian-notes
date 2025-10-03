@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 34:10
-
 And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,

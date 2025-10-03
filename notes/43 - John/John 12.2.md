@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:2
-
 There they made him a supper; and Martha served: but Lazarus was one of them that sat at the table with him.

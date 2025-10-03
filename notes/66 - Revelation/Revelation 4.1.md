@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 4:1
-
 After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.

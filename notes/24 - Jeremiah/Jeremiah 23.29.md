@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 23:29
-
 Is not my word like as a fire? saith the LORD; and like a hammer that breaketh the rock in pieces?

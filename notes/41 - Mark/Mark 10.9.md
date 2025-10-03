@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:9
-
 What therefore God hath joined together, let not man put asunder.

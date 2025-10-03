@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 10:11
-
 And into whatsoever city or town ye shall enter, enquire who in it is worthy; and there abide till ye go thence.

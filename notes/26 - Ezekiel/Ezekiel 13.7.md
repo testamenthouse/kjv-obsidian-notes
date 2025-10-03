@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 13:7
-
 Have ye not seen a vain vision, and have ye not spoken a lying divination, whereas ye say, The LORD saith it; albeit I have not spoken?

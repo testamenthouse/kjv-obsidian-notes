@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 23:3
-
 Be not desirous of his dainties: for they are deceitful meat.

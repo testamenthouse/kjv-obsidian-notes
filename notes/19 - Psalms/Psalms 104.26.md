@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:26
-
 There go the ships: there is that leviathan, whom thou hast made to play therein.

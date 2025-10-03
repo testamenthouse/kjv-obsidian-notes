@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:10
-
 They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:35
-
 But in every nation he that feareth him, and worketh righteousness, is accepted with him.

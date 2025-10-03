@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 32:22
-
 For a fire is kindled in mine anger, and shall burn unto the lowest hell, and shall consume the earth with her increase, and set on fire the foundations of the mountains.

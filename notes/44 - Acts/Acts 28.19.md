@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 28:19
-
 But when the Jews spake against it, I was constrained to appeal unto Caesar; not that I had ought to accuse my nation of.

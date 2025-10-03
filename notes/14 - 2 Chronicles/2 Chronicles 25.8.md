@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 25:8
-
 But if thou wilt go, do it; be strong for the battle: God shall make thee fall before the enemy: for God hath power to help, and to cast down.

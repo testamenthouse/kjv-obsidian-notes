@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 6:11
-
 Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.

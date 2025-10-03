@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 40:19
-
 And he spread abroad the tent over the tabernacle, and put the covering of the tent above upon it; as the LORD commanded Moses.

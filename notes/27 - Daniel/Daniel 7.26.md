@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 7:26
-
 But the judgment shall sit, and they shall take away his dominion, to consume and to destroy it unto the end.

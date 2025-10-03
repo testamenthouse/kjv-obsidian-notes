@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:24
-
 When John had first preached before his coming the baptism of repentance to all the people of Israel.

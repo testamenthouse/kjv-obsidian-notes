@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:23
-
 Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy them.

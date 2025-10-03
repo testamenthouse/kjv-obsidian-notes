@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 15:31
-
 And he said unto him, Son, thou art ever with me, and all that I have is thine.

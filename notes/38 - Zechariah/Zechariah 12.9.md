@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 12:9
-
 And it shall come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem.

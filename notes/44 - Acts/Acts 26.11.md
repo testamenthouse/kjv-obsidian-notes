@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:11
-
 And I punished them oft in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even unto strange cities.

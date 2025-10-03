@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:7
-
 They cause the naked to lodge without clothing, that they have no covering in the cold.

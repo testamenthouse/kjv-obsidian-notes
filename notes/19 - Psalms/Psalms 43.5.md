@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 43:5
-
 Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Ruth"]
 ---
-
-# Ruth 4:19
-
 And Hezron begat Ram, and Ram begat Amminadab,

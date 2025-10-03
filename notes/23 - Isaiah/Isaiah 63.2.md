@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 63:2
-
 Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat?

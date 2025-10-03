@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:31
-
 And he made an house of high places, and made priests of the lowest of the people, which were not of the sons of Levi.

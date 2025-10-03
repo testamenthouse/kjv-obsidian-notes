@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:32
-
 But he said unto them, I have meat to eat that ye know not of.

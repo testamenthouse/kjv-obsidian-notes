@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 24:33
-
 So likewise ye, when ye shall see all these things, know that it is near, even at the doors.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:71
-
 It is good for me that I have been afflicted; that I might learn thy statutes.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 2:2
-
 Every man of the children of Israel shall pitch by his own standard, with the ensign of their father's house: far off about the tabernacle of the congregation shall they pitch.

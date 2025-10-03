@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 30:4
-
 If any of thine be driven out unto the outmost parts of heaven, from thence will the LORD thy God gather thee, and from thence will he fetch thee:

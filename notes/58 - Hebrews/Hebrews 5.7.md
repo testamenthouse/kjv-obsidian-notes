@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament, time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 5:7
-
 Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;

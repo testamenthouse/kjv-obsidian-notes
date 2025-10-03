@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:9
-
 For I am the least of the apostles, that am not meet to be called an apostle, because I persecuted the church of God.

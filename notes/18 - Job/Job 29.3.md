@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:3
-
 When his candle shined upon my head, and when by his light I walked through darkness;

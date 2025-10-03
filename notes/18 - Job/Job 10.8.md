@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:8
-
 Thine hands have made me and fashioned me together round about; yet thou dost destroy me.

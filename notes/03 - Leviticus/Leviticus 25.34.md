@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:34
-
 But the field of the suburbs of their cities may not be sold; for it is their perpetual possession.

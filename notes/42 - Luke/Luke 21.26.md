@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:26
-
 Men's hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.

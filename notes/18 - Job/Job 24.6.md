@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:6
-
 They reap every one his corn in the field: and they gather the vintage of the wicked.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 38:5
-
 And she yet again conceived, and bare a son; and called his name Shelah: and he was at Chezib, when she bare him.

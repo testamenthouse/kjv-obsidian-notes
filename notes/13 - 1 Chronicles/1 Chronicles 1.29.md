@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 1:29
-
 These are their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam,

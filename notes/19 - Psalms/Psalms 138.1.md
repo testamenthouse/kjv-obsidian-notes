@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 138:1
-
 I will praise thee with my whole heart: before the gods will I sing praise unto thee.

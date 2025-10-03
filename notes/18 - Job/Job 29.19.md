@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:19
-
 My root was spread out by the waters, and the dew lay all night upon my branch.

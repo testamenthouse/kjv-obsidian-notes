@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 15:36
-
 And all the congregation brought him without the camp, and stoned him with stones, and he died; as the LORD commanded Moses.

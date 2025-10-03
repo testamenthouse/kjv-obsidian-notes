@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 24:18
-
 And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly.

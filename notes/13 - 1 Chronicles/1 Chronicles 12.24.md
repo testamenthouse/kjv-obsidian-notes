@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 12:24
-
 The children of Judah that bare shield and spear were six thousand and eight hundred, ready armed to the war.

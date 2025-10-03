@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:21
-
 His breath kindleth coals, and a flame goeth out of his mouth.

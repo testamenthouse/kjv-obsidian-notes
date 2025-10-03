@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:20
-
 And it came to pass, when all Israel heard that Jeroboam was come again, that they sent and called him unto the congregation, and made him king over all Israel: there was none that followed the house of David, but the tribe of Judah only.

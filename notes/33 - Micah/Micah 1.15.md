@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 1:15
-
 Yet will I bring an heir unto thee, O inhabitant of Mareshah: he shall come unto Adullam the glory of Israel.

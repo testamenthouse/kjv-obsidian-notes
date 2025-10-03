@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 13:20
-
 So the merchants and sellers of all kind of ware lodged without Jerusalem once or twice.

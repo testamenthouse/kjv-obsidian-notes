@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 1:9
-
 And I spake unto you at that time, saying, I am not able to bear you myself alone:

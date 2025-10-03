@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 76:10
-
 Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain.

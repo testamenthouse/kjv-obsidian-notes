@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 27:9
-
 And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead.

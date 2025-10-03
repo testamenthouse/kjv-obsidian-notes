@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 15:28
-
 And he was angry, and would not go in: therefore came his father out, and intreated him.

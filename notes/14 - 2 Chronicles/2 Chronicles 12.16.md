@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 12:16
-
 And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his stead.

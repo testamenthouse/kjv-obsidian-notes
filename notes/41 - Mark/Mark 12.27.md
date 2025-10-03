@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:27
-
 He is not the God of the dead, but the God of the living: ye therefore do greatly err.

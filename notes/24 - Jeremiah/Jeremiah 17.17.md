@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 17:17
-
 Be not a terror unto me: thou art my hope in the day of evil.

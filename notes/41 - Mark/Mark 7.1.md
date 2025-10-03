@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 7:1
-
 Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 4:19
-
 The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:43
-
 Blessed is that servant, whom his lord when he cometh shall find so doing.

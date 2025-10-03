@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 11:4
-
 And Moses said, Thus saith the LORD, About midnight will I go out into the midst of Egypt:

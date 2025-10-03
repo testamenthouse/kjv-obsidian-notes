@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 9:35
-
 And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife's name was Maachah:

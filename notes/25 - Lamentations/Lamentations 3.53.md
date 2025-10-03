@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:53
-
 They have cut off my life in the dungeon, and cast a stone upon me.

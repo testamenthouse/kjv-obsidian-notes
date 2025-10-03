@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 1:7
-
 As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 12:25
-
 Of the children of Simeon, mighty men of valor for the war, seven thousand and one hundred.

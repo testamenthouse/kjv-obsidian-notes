@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, adversary-metaphor, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 23:33
-
 Ye serpents, ye generation of vipers, how can ye escape the damnation of hell?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:69
-
 And we believe and are sure that thou art that Christ, the Son of the living God.

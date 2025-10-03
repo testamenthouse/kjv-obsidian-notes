@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:8
-
 Then let me sow, and let another eat; yea, let my offspring be rooted out.

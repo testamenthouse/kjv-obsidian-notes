@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:18
-
 Because there is wrath, beware lest he take thee away with his stroke: then a great ransom cannot deliver thee.

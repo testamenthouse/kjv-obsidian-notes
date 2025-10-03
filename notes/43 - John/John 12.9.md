@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, cause-effect]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:9
-
 Much people of the Jews therefore knew that he was there: and they came not for Jesus' sake only, but that they might see Lazarus also, whom he had raised from the dead.

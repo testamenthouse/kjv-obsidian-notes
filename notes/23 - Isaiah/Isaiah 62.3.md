@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 62:3
-
 Thou shalt also be a crown of glory in the hand of the LORD, and a royal diadem in the hand of thy God.

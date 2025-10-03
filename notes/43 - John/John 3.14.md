@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [son-of-man, jesus, adversary-metaphor, adversary]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 3:14
-
 And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:

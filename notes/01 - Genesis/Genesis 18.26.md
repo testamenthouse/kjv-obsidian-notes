@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 18:26
-
 And the LORD said, If I find in Sodom fifty righteous within the city, then I will spare all the place for their sakes.

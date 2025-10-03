@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:18
-
 Is it fit to say to a king, Thou art wicked? and to princes, Ye are ungodly?

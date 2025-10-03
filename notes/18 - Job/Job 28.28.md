@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:28
-
 And unto man he said, Behold, the fear of the LORD, that is wisdom; and to depart from evil is understanding.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:19
-
 He appointed the moon for seasons: the sun knoweth his going down.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 4:1
-
 Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the LORD God of Israel;

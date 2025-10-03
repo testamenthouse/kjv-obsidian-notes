@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 32:30
-
 And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 28:25
-
 The LORD shall cause thee to be smitten before thine enemies: thou shalt go out one way against them, and flee seven ways before them: and shalt be removed into all the kingdoms of the earth.

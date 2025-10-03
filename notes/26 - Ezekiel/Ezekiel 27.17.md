@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:17
-
 Judah, and the land of Israel, they were thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm.

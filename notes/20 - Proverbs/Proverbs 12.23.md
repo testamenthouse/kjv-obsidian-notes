@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 12:23
-
 A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 5:19
-
 Quench not the Spirit.

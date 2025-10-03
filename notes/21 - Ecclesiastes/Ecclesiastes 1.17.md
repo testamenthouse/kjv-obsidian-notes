@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 1:17
-
 And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.

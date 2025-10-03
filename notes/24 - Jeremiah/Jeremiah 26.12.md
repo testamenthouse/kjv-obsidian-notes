@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 26:12
-
 Then spake Jeremiah unto all the princes and to all the people, saying, The LORD sent me to prophesy against this house and against this city all the words that ye have heard.

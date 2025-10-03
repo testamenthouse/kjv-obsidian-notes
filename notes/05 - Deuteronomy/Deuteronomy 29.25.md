@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 29:25
-
 Then men shall say, Because they have forsaken the covenant of the LORD God of their fathers, which he made with them when he brought them forth out of the land of Egypt:

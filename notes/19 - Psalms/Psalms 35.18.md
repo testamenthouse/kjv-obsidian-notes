@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [thanksgiving, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 35:18
-
 I will give thee thanks in the great congregation: I will praise thee among much people.

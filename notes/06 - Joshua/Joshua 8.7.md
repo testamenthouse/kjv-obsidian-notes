@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 8:7
-
 Then ye shall rise up from the ambush, and seize upon the city: for the LORD your God will deliver it into your hand.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 14:18
-
 For he that in these things serveth Christ is acceptable to God, and approved of men.

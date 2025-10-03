@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 13:22
-
 And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)

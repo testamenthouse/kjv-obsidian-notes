@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 27:8
-
 When thou saidst, Seek ye my face; my heart said unto thee, Thy face, LORD, will I seek.

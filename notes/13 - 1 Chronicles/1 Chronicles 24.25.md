@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 24:25
-
 The brother of Michah was Isshiah: of the sons of Isshiah; Zechariah.

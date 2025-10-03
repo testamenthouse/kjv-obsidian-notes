@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:11
-
 Terrors shall make him afraid on every side, and shall drive him to his feet.

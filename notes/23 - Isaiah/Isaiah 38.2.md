@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 38:2
-
 Then Hezekiah turned his face toward the wall, and prayed unto the LORD,

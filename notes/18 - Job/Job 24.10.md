@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:10
-
 They cause him to go naked without clothing, and they take away the sheaf from the hungry;

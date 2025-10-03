@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 4:18
-
 There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.

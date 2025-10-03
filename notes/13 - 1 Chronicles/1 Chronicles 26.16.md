@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 26:16
-
 To Shuppim and Hosah the lot came forth westward, with the gate Shallecheth, by the causeway of the going up, ward against ward.

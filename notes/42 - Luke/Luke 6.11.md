@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:11
-
 And they were filled with madness; and communed one with another what they might do to Jesus.

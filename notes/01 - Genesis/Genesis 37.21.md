@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 37:21
-
 And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him.

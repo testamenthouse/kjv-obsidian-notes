@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 4:30
-
 And Solomon's wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.

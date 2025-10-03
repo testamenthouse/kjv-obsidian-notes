@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 24:21
-
 Concerning Rehabiah: of the sons of Rehabiah, the first was Isshiah.

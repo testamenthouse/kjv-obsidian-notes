@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 41:4
-
 I said, LORD, be merciful unto me: heal my soul; for I have sinned against thee.

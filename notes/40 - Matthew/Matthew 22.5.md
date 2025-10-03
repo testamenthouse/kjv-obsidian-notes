@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 22:5
-
 But they made light of it, and went their ways, one to his farm, another to his merchandise:

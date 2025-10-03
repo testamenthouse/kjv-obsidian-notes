@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:26
-
 But ye shall not be so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve.

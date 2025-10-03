@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:35
-
 And a certain man of the sons of the prophets said unto his neighbor in the word of the LORD, Smite me, I pray thee. And the man refused to smite him.

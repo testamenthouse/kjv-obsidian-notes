@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 5:20
-
 Declare this in the house of Jacob, and publish it in Judah, saying,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:21
-
 And of the sons of Harim; Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah.

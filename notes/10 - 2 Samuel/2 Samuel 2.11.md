@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 2:11
-
 And the time that David was king in Hebron over the house of Judah was seven years and six months.

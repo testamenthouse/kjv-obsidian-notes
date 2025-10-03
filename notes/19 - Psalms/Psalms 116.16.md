@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 116:16
-
 O LORD, truly I am thy servant; I am thy servant, and the son of thine handmaid: thou hast loosed my bonds.

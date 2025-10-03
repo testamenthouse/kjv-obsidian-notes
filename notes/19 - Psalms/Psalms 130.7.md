@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 130:7
-
 Let Israel hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption.

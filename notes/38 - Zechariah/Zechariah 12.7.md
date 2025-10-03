@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 12:7
-
 The LORD also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem do not magnify themselves against Judah.

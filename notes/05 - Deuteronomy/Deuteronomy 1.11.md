@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 1:11
-
 (The LORD God of your fathers make you a thousand times so many more as ye are, and bless you, as he hath promised you!)

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:26
-
 For thou writest bitter things against me, and makest me to possess the iniquities of my youth.

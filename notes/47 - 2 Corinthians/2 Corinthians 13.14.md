@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 13:14
-
 The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.

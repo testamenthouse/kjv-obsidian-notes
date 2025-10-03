@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:57
-
 Before thy wickedness was discovered, as at the time of thy reproach of the daughters of Syria, and all that are round about her, the daughters of the Philistines, which despise thee round about.

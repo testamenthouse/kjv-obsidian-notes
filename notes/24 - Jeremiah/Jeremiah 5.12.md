@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 5:12
-
 They have belied the LORD, and said, It is not he; neither shall evil come upon us; neither shall we see sword nor famine:

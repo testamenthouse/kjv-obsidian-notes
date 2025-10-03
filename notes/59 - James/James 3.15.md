@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 3:15
-
 This wisdom descendeth not from above, but is earthly, sensual, devilish.

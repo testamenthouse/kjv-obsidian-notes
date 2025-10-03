@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 35:1
-
 The word which came unto Jeremiah from the LORD in the days of Jehoiakim the son of Josiah king of Judah, saying,

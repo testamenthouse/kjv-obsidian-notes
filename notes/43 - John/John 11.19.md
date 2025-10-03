@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:19
-
 And many of the Jews came to Martha and Mary, to comfort them concerning their brother.

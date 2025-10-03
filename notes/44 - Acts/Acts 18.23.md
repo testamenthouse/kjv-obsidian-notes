@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 18:23
-
 And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples.

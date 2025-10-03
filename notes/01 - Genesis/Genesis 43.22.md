@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 43:22
-
 And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks.

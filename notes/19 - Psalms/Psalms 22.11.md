@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 22:11
-
 Be not far from me; for trouble is near; for there is none to help.

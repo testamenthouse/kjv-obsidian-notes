@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:12
-
 The wicked plotteth against the just, and gnasheth upon him with his teeth.

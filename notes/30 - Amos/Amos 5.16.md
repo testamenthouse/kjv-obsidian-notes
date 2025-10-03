@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 5:16
-
 Therefore the LORD, the God of hosts, the LORD, saith thus; Wailing shall be in all streets; and they shall say in all the highways, Alas! alas! and they shall call the husbandman to mourning, and such as are skilful of lamentation to wailing.

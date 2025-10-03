@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 31:10
-
 And they burnt all their cities wherein they dwelt, and all their goodly castles, with fire.

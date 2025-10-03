@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 15:23
-
 Even all that the LORD hath commanded you by the hand of Moses, from the day that the LORD commanded Moses, and henceforward among your generations;

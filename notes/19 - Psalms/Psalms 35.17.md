@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 35:17
-
 Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions.

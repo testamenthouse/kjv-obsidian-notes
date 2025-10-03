@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 25:5
-
 If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband's brother shall go in unto her, and take her to him to wife, and perform the duty of an husband's brother unto her.

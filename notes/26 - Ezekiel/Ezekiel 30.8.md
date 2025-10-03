@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 30:8
-
 And they shall know that I am the LORD, when I have set a fire in Egypt, and when all her helpers shall be destroyed.

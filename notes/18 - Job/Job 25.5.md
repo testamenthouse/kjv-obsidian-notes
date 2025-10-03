@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 25:5
-
 Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.

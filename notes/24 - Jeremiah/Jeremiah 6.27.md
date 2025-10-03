@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 6:27
-
 I have set thee for a tower and a fortress among my people, that thou mayest know and try their way.

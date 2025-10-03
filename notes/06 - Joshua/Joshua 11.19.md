@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 11:19
-
 There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all other they took in battle.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 18:13
-
 Otherwise I should have wrought falsehood against mine own life: for there is no matter hid from the king, and thou thyself wouldest have set thyself against me.

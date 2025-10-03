@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 13:8
-
 And they shall be afraid: pangs and sorrows shall take hold of them; they shall be in pain as a woman that travaileth: they shall be amazed one at another; their faces shall be as flames.

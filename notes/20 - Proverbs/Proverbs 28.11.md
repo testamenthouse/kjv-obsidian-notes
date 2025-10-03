@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 28:11
-
 The rich man is wise in his own conceit; but the poor that hath understanding searcheth him out.

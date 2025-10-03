@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 110:4
-
 The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.

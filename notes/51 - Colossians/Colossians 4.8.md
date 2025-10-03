@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 4:8
-
 Whom I have sent unto you for the same purpose, that he might know your estate, and comfort your hearts;

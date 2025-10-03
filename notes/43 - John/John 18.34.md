@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:34
-
 Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?

@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 22:13
-
 Behold, therefore I have smitten mine hand at thy dishonest gain which thou hast made, and at thy blood which hath been in the midst of thee.

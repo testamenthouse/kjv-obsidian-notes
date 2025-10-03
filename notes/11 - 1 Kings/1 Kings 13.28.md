@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 13:28
-
 And he went and found his carcass cast in the way, and the ass and the lion standing by the carcass: the lion had not eaten the carcass, nor torn the ass.

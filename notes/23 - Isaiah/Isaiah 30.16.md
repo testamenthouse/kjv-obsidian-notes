@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast-opener, conditional, cause-effect]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 30:16
-
 But ye said, No; for we will flee upon horses; therefore shall ye flee: and, We will ride upon the swift; therefore shall they that pursue you be swift.

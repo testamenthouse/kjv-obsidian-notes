@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 49:27
-
 Benjamin shall raven as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.

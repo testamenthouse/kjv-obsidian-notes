@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 6:2
-
 And the LORD said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, and the mighty men of valor.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 4:11
-
 These things command and teach.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:27
-
 And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,

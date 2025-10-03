@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 17:1
-
 Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife.

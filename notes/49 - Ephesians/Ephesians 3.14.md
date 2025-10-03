@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 3:14
-
 For this cause I bow my knees unto the Father of our Lord Jesus Christ,

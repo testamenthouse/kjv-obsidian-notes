@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 24:6
-
 Wherefore thus saith the Lord GOD; Woe to the bloody city, to the pot whose scum is therein, and whose scum is not gone out of it! bring it out piece by piece; let no lot fall upon it.

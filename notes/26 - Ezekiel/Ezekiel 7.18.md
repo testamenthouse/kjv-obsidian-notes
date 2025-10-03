@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 7:18
-
 They shall also gird themselves with sackcloth, and horror shall cover them; and shame shall be upon all faces, and baldness upon all their heads.

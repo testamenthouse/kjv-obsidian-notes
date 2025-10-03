@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-units, time-feasts, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 23:6
-
 And on the fifteenth day of the same month is the feast of unleavened bread unto the LORD: seven days ye must eat unleavened bread.

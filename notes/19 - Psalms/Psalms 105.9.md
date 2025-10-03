@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:9
-
 Which covenant he made with Abraham, and his oath unto Isaac;

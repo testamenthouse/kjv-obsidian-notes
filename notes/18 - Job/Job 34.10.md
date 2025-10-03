@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:10
-
 Therefore hearken unto me ye men of understanding: far be it from God, that he should do wickedness; and from the Almighty, that he should commit iniquity.

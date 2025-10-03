@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:26
-
 Behold, God is great, and we know him not, neither can the number of his years be searched out.

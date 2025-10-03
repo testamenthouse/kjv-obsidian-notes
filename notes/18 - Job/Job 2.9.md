@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 2:9
-
 Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.

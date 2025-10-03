@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:30
-
 The waters are hid as with a stone, and the face of the deep is frozen.

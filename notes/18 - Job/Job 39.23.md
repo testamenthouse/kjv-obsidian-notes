@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:23
-
 The quiver rattleth against him, the glittering spear and the shield.

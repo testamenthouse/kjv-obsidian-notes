@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 31:9
-
 And he shall pass over to his strong hold for fear, and his princes shall be afraid of the ensign, saith the LORD, whose fire is in Zion, and his furnace in Jerusalem.

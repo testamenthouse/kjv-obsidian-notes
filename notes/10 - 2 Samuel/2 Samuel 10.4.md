@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 10:4
-
 Wherefore Hanun took David's servants, and shaved off the one half of their beards, and cut off their garments in the middle, even to their buttocks, and sent them away.

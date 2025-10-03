@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 7:19
-
 And the sons of Shemidah were, Ahian, and Shechem, and Likhi, and Aniam.

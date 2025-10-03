@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time-period, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 52:11
-
 Then he put out the eyes of Zedekiah; and the king of Babylon bound him in chains, and carried him to Babylon, and put him in prison till the day of his death.

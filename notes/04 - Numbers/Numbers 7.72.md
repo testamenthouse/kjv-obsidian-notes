@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 7:72
-
 On the eleventh day Pagiel the son of Ocran, prince of the children of Asher, offered:

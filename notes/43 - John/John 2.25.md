@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 2:25
-
 And needed not that any should testify of man: for he knew what was in man.

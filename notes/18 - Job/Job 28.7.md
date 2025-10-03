@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:7
-
 There is a path which no fowl knoweth, and which the vulture's eye hath not seen:

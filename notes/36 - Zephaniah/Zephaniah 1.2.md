@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 1:2
-
 I will utterly consume all things from off the land, saith the LORD.

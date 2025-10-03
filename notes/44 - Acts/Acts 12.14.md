@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 12:14
-
 And when she knew Peter's voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate.

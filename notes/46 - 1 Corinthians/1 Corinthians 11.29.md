@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 11:29
-
 For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord's body.

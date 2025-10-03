@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 17:19
-
 And they took him, and brought him unto Areopagus, saying, May we know what this new doctrine, whereof thou speakest, is?

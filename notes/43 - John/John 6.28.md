@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:28
-
 Then said they unto him, What shall we do, that we might work the works of God?

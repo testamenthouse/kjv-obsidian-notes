@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:21
-
 And the people waited for Zacharias, and marvelled that he tarried so long in the temple.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 52:28
-
 This is the people whom Nebuchadrezzar carried away captive: in the seventh year three thousand Jews and three and twenty:

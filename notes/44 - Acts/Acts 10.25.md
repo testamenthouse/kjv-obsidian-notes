@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:25
-
 And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped him.

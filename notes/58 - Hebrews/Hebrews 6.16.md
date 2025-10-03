@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 6:16
-
 For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.

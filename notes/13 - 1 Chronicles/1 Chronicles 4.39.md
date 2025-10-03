@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 4:39
-
 And they went to the entrance of Gedor, even unto the east side of the valley, to seek pasture for their flocks.

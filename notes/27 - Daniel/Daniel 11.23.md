@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 11:23
-
 And after the league made with him he shall work deceitfully: for he shall come up, and shall become strong with a small people.

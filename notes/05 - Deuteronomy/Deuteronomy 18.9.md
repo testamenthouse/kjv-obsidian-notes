@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 18:9
-
 When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations.

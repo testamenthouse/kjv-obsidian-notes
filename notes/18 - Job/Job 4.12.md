@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 4:12
-
 Now a thing was secretly brought to me, and mine ear received a little thereof.

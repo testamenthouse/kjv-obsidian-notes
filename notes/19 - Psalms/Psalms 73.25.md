@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 73:25
-
 Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.

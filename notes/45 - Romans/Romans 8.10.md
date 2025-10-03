@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 8:10
-
 And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.

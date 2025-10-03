@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:33
-
 In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth.

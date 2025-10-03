@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 7:13
-
 But prophesy not again any more at Bethel: for it is the king's chapel, and it is the king's court.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 19:3
-
 And I will go out and stand beside my father in the field where thou art, and I will commune with my father of thee; and what I see, that I will tell thee.

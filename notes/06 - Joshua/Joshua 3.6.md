@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 3:6
-
 And Joshua spake unto the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people.

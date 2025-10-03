@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:10
-
 But when his brethren were gone up, then went he also up unto the feast, not openly, but as it were in secret.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 6:26
-
 The height of the one cherub was ten cubits, and so was it of the other cherub.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:16
-
 If I have withheld the poor from their desire, or have caused the eyes of the widow to fail;

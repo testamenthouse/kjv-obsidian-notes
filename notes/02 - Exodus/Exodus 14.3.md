@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 14:3
-
 For Pharaoh will say of the children of Israel, They are entangled in the land, the wilderness hath shut them in.

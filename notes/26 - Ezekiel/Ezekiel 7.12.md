@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 7:12
-
 The time is come, the day draweth near: let not the buyer rejoice, nor the seller mourn: for wrath is upon all the multitude thereof.

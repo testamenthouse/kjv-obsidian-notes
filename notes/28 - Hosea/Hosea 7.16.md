@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 7:16
-
 They return, but not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 2:32
-
 Can a maid forget her ornaments, or a bride her attire? yet my people have forgotten me days without number.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 3:22
-
 Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:

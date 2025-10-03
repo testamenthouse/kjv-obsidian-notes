@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast, cause-effect]
 thematic_tags: [names-of-god, time-seasons, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:2
-
 Therefore said he unto them, The harvest truly is great, but the labourers are few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest.

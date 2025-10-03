@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:22
-
 Did I say, Bring unto me? or, Give a reward for me of your substance?

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 13:2
-
 And Amnon was so vexed, that he fell sick for his sister Tamar; for she was a virgin; and Amnon thought it hard for him to do anything to her.

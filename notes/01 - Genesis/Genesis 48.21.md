@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 48:21
-
 And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 1:23
-
 For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:

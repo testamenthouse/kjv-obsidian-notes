@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 46:6
-
 The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 6:25
-
 And the other cherub was ten cubits: both the cherubim were of one measure and one size.

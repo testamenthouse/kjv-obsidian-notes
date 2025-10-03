@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 73:19
-
 How are they brought into desolation, as in a moment! they are utterly consumed with terrors.

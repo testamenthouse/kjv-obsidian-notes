@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:14
-
 And, behold, ye are risen up in your fathers' stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel.

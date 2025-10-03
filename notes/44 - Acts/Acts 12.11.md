@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 12:11
-
 And when Peter was come to himself, he said, Now I know of a surety, that the LORD hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.

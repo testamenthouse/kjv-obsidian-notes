@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:35
-
 And said unto them, Ye men of Israel, take heed to yourselves what ye intend to do as touching these men.

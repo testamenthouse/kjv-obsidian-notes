@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:7
-
 And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house.

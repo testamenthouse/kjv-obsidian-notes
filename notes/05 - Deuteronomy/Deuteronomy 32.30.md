@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 32:30
-
 How should one chase a thousand, and two put ten thousand to flight, except their Rock had sold them, and the LORD had shut them up?

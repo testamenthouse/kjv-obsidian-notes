@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 37:7
-
 And he made two cherubim of gold, beaten out of one piece made he them, on the two ends of the mercy seat;

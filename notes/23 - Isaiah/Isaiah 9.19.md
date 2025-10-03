@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 9:19
-
 Through the wrath of the LORD of hosts is the land darkened, and the people shall be as the fuel of the fire: no man shall spare his brother.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 12:6
-
 Therefore turn thou to thy God: keep mercy and judgment and wait on thy God continually.

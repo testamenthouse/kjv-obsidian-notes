@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:5
-
 They have made all thy ship boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee.

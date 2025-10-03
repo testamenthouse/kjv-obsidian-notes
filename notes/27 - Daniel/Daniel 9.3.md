@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 9:3
-
 And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:

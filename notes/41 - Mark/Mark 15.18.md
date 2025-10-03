@@ -13,7 +13,4 @@ grammar_tags: [exclamation, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:18
-
 And began to salute him, Hail, King of the Jews!

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:15
-
 Their sword shall enter into their own heart, and their bows shall be broken.

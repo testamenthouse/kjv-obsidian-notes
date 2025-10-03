@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 6:25
-
 Go not forth into the field, nor walk by the way; for the sword of the enemy and fear is on every side.

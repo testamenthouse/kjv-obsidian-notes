@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 3:10
-
 And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.

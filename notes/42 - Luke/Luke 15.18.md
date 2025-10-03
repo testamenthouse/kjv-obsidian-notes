@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 15:18
-
 I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,

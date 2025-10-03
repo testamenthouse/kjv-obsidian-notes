@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command, time-parts-of-day, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 28:23
-
 Ye shall offer these beside the burnt offering in the morning, which is for a continual burnt offering.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 3:13
-
 I heard also the noise of the wings of the living creatures that touched one another, and the noise of the wheels over against them, and a noise of a great rushing.

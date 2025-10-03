@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 6:17
-
 And these are the golden emerods which the Philistines returned for a trespass offering unto the LORD; for Ashdod one, for Gaza one, for Askelon one, for Gath one, for Ekron one;

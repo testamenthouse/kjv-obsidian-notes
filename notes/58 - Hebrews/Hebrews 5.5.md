@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god, jesus-title, jesus, time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 5:5
-
 So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee.

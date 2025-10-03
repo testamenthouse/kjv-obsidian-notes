@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 14:21
-
 Ye shall not eat of anything that dieth of itself: thou shalt give it unto the stranger that is in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou art an holy people unto the LORD thy God. Thou shalt not seethe a kid in his mother's milk.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 3:9
-
 So the king of Israel went, and the king of Judah, and the king of Edom: and they fetched a compass of seven days' journey: and there was no water for the host, and for the cattle that followed them.

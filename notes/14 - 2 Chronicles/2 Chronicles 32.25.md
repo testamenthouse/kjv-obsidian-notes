@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 32:25
-
 But Hezekiah rendered not again according to the benefit done unto him; for his heart was lifted up: therefore there was wrath upon him, and upon Judah and Jerusalem.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 29:21
-
 That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.

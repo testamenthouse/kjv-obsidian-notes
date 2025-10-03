@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 8:28
-
 And we know that all things work together for good to them that love God, to them who are the called according to his purpose.

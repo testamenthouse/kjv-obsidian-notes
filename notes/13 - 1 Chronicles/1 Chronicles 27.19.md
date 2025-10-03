@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:19
-
 Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel:

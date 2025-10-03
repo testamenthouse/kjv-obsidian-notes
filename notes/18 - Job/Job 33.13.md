@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:13
-
 Why dost thou strive against him? for he giveth not account of any of his matters.

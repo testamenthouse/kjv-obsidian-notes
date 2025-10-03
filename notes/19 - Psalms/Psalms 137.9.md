@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 137:9
-
 Happy shall he be, that taketh and dasheth thy little ones against the stones.

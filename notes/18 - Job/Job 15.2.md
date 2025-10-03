@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:2
-
 Should a wise man utter vain knowledge, and fill his belly with the east wind?

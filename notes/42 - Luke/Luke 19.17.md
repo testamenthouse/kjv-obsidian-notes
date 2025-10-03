@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:17
-
 And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.

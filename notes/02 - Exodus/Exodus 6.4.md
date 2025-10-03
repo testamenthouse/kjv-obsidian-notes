@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 6:4
-
 And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, wherein they were strangers.

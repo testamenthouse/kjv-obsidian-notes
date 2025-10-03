@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 4:14
-
 Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.

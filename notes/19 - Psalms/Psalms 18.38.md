@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 18:38
-
 I have wounded them that they were not able to rise: they are fallen under my feet.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 1:3
-
 Therefore say thou unto them, Thus saith the LORD of hosts; Turn ye unto me, saith the LORD of hosts, and I will turn unto you, saith the LORD of hosts.

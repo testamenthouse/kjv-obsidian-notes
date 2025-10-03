@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:2
-
 And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel.

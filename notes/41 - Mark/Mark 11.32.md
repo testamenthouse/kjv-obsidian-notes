@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:32
-
 But if we shall say, Of men; they feared the people: for all men counted John, that he was a prophet indeed.

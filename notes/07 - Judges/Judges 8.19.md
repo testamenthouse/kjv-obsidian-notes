@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 8:19
-
 And he said, They were my brethren, even the sons of my mother: as the LORD liveth, if ye had saved them alive, I would not slay you.

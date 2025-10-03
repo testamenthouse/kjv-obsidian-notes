@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 24:9
-
 And they made a proclamation through Judah and Jerusalem, to bring in to the LORD the collection that Moses the servant of God laid upon Israel in the wilderness.

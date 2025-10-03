@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:22
-
 And he went through the cities and villages, teaching, and journeying toward Jerusalem.

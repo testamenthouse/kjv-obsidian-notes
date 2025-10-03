@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:8
-
 Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?

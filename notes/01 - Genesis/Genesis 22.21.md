@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 22:21
-
 Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,

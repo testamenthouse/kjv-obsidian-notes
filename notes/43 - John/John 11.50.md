@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:50
-
 Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.

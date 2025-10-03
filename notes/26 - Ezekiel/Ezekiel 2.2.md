@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 2:2
-
 And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me.

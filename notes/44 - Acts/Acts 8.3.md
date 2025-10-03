@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:3
-
 As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 2:5
-
 For I, saith the LORD, will be unto her a wall of fire round about, and will be the glory in the midst of her.

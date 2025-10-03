@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 15:16
-
 And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.

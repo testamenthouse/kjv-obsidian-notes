@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:14
-
 Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.

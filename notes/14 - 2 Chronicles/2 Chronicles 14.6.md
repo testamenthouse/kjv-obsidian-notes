@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 14:6
-
 And he built fenced cities in Judah: for the land had rest, and he had no war in those years; because the LORD had given him rest.

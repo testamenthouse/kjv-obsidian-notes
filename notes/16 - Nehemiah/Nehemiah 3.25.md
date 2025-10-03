@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 3:25
-
 Palal the son of Uzai, over against the turning of the wall, and the tower which lieth out from the king's high house, that was by the court of the prison. After him Pedaiah the son of Parosh.

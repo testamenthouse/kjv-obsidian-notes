@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:17
-
 What time they wax warm, they vanish: when it is hot, they are consumed out of their place.

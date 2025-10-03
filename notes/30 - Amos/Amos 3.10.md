@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 3:10
-
 For they know not to do right, saith the LORD, who store up violence and robbery in their palaces.

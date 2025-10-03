@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 34:15
-
 The eyes of the LORD are upon the righteous, and his ears are open unto their cry.

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Jonah"]
 ---
-
-# Jonah 4:11
-
 And should not I spare Nineveh, that great city, wherein are more then sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:43
-
 Fear, and the pit, and the snare, shall be upon thee, O inhabitant of Moab, saith the LORD.

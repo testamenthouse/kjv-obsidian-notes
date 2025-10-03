@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 26:29
-
 Of the sons of Manasseh: of Machir, the family of the Machirites: and Machir begat Gilead: of Gilead come the family of the Gileadites.

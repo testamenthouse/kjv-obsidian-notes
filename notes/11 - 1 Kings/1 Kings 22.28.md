@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:28
-
 And Micaiah said, If thou return at all in peace, the LORD hath not spoken by me. And he said, Hearken, O people, every one of you.

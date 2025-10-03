@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:14
-
 Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening.

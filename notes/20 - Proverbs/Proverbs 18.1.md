@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 18:1
-
 Through desire a man, having separated himself, seeketh and intermeddleth with all wisdom.

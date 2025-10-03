@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 17:10
-
 Yea, behold, being planted, shall it prosper? shall it not utterly wither, when the east wind toucheth it? it shall wither in the furrows where it grew.

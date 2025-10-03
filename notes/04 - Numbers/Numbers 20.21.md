@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 20:21
-
 Thus Edom refused to give Israel passage through his border: wherefore Israel turned away from him.

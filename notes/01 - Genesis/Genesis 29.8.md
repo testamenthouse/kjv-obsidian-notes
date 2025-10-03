@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 29:8
-
 And they said, We cannot, until all the flocks be gathered together, and till they roll the stone from the well's mouth; then we water the sheep.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:14
-
 Then sent Joseph, and called his father Jacob to him, and all his kindred, threescore and fifteen souls.

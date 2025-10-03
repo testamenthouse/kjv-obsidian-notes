@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 10:16
-
 The LORD is King for ever and ever: the heathen are perished out of his land.

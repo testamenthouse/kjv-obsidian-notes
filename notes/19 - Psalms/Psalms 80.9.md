@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 80:9
-
 Thou preparedst room before it, and didst cause it to take deep root, and it filled the land.

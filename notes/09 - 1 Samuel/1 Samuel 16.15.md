@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, demonic-entities, adversary]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 16:15
-
 And Saul's servants said unto him, Behold now, an evil spirit from God troubleth thee.

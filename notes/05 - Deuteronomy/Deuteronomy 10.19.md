@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 10:19
-
 Love ye therefore the stranger: for ye were strangers in the land of Egypt.

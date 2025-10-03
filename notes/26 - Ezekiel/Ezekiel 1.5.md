@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 1:5
-
 Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man.

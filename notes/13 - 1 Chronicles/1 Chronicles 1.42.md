@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 1:42
-
 The sons of Ezer; Bilhan, and Zavan, and Jakan. The sons of Dishan; Uz, and Aran.

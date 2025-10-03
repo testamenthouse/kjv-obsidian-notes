@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 13:2
-
 How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?

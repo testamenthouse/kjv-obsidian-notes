@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:5
-
 God thundereth marvellously with his voice; great things doeth he, which we cannot comprehend.

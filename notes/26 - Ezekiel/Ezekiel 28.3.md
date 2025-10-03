@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 28:3
-
 Behold, thou art wiser than Daniel; there is no secret that they can hide from thee:

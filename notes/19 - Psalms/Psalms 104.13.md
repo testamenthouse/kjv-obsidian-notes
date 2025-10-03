@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:13
-
 He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works.

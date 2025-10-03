@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:57
-
 As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me.

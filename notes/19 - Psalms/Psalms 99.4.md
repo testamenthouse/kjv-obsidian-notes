@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 99:4
-
 The king's strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.

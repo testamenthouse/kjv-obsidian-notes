@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 17:16
-
 And David the king came and sat before the LORD, and said, Who am I, O LORD God, and what is mine house, that thou hast brought me hitherto?

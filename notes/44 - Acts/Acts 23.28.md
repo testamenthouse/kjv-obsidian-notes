@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 23:28
-
 And when I would have known the cause wherefore they accused him, I brought him forth into their council:

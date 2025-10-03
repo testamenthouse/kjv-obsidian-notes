@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command, time-parts-of-day, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 30:29
-
 Ye shall have a song, as in the night when a holy solemnity is kept; and gladness of heart, as when one goeth with a pipe to come into the mountain of the LORD, to the mighty One of Israel.

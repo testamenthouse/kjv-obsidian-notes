@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 19:18
-
 In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the LORD of hosts; one shall be called, The city of destruction.

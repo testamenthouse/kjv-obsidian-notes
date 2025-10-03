@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 147:11
-
 The LORD taketh pleasure in them that fear him, in those that hope in his mercy.

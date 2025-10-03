@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:9
-
 For I have eaten ashes like bread, and mingled my drink with weeping.

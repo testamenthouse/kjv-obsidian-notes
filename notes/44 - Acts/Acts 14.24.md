@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 14:24
-
 And after they had passed throughout Pisidia, they came to Pamphylia.

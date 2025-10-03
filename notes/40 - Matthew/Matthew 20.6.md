@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 20:6
-
 And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle?

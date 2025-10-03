@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 17:26
-
 And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the LORD.

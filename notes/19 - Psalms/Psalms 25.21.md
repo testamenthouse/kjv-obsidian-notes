@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 25:21
-
 Let integrity and uprightness preserve me; for I wait on thee.

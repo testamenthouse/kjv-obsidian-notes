@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 71:2
-
 Deliver me in thy righteousness, and cause me to escape: incline thine ear unto me, and save me.

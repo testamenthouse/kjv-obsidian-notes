@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:16
-
 For he hath broken the gates of brass, and cut the bars of iron in sunder.

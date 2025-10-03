@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 14:4
-
 But the multitude of the city was divided: and part held with the Jews, and part with the apostles.

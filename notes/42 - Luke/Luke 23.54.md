@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:54
-
 And that day was the preparation, and the sabbath drew on.

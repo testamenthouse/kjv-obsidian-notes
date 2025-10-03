@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:15
-
 For these are not drunken, as ye suppose, seeing it is but the third hour of the day.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:7
-
 The steps of his strength shall be straitened, and his own counsel shall cast him down.

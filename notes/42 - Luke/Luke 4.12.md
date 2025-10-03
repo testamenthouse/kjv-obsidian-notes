@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:12
-
 And Jesus answering said unto him, It is said, Thou shalt not tempt the Lord thy God.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 4:12
-
 And Tychicus have I sent to Ephesus.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 4:20
-
 And those twelve stones, which they took out of Jordan, did Joshua pitch in Gilgal.

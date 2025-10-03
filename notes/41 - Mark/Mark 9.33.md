@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 9:33
-
 And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 3:29
-
 Devise not evil against thy neighbour, seeing he dwelleth securely by thee.

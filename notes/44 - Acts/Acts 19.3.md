@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:3
-
 And he said unto them, Unto what then were ye baptized? And they said, Unto John's baptism.

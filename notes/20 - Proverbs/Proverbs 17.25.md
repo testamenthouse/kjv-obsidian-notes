@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 17:25
-
 A foolish son is a grief to his father, and bitterness to her that bare him.

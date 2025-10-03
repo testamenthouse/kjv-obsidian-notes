@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 21:3
-
 Then said Jeremiah unto them, Thus shall ye say to Zedekiah:

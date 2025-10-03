@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:16
-
 Hear me, O LORD; for thy lovingkindness is good: turn unto me according to the multitude of thy tender mercies.

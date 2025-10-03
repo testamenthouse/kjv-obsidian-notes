@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 7:27
-
 This is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.

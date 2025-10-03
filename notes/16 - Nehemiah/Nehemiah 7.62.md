@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 7:62
-
 The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred forty and two.

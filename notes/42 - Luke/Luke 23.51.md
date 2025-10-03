@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:51
-
 (The same had not consented to the counsel and deed of them;) he was of Arimathaea, a city of the Jews: who also himself waited for the kingdom of God.

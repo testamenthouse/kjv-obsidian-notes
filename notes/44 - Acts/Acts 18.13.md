@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 18:13
-
 Saying, This fellow persuadeth men to worship God contrary to the law.

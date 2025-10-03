@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:8
-
 Remove out of the midst of Babylon, and go forth out of the land of the Chaldeans, and be as the he goats before the flocks.

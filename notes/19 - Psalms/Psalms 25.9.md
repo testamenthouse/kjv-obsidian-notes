@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 25:9
-
 The meek will he guide in judgment: and the meek will he teach his way.

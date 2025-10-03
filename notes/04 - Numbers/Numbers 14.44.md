@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:44
-
 But they presumed to go up unto the hill top: nevertheless the ark of the covenant of the LORD, and Moses, departed not out of the camp.

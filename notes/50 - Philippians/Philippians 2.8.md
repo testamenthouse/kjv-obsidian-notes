@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 2:8
-
 And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.

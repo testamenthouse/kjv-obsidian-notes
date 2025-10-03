@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 16:22
-
 And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat them.

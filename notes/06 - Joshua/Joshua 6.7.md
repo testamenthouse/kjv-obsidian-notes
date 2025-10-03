@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 6:7
-
 And he said unto the people, Pass on, and compass the city, and let him that is armed pass on before the ark of the LORD.

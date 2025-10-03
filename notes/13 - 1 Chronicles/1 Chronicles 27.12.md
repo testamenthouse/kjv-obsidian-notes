@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:12
-
 The ninth captain for the ninth month was Abiezer the Anetothite, of the Benjamites: and in his course were twenty and four thousand.

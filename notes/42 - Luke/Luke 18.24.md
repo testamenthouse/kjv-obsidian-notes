@@ -13,7 +13,4 @@ grammar_tags: [exclamation, conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:24
-
 And when Jesus saw that he was very sorrowful, he said, How hardly shall they that have riches enter into the kingdom of God!

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:1
-
 In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 88:2
-
 Let my prayer come before thee: incline thine ear unto my cry;

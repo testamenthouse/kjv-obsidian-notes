@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 15:9
-
 Then the Philistines went up, and pitched in Judah, and spread themselves in Lehi.

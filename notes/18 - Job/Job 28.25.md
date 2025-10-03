@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:25
-
 To make the weight for the winds; and he weigheth the waters by measure.

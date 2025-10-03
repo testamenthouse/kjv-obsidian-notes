@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 10:5
-
 And he that was over the house, and he that was over the city, the elders also, and the bringers up of the children, sent to Jehu, saying, We are thy servants, and will do all that thou shalt bid us; we will not make any king: do thou that which is good in thine eyes.

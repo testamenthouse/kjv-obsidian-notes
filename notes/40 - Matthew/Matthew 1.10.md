@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 1:10
-
 And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;

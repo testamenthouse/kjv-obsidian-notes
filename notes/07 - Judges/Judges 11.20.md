@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 11:20
-
 But Sihon trusted not Israel to pass through his coast: but Sihon gathered all his people together, and pitched in Jahaz, and fought against Israel.

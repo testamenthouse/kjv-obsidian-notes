@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 31:18
-
 She perceiveth that her merchandise is good: her candle goeth not out by night.

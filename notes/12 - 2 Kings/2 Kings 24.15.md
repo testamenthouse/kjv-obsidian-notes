@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 24:15
-
 And he carried away Jehoiachin to Babylon, and the king's mother, and the king's wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon.

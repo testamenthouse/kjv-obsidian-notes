@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 132:18
-
 His enemies will I clothe with shame: but upon himself shall his crown flourish.

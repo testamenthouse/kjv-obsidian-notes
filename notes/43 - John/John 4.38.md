@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:38
-
 I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.

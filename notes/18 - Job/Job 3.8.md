@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:8
-
 Let them curse it that curse the day, who are ready to raise up their mourning.

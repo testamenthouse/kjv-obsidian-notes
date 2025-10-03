@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:37
-
 Who is he that saith, and it cometh to pass, when the Lord commandeth it not?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:25
-
 It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul,

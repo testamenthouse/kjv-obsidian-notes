@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:48
-
 Mine eye runneth down with rivers of water for the destruction of the daughter of my people.

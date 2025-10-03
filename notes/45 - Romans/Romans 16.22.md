@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 16:22
-
 I Tertius, who wrote this epistle, salute you in the Lord.

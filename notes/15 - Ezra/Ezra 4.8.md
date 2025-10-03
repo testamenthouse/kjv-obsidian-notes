@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 4:8
-
 Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king in this sort:

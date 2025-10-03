@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 16:22
-
 And it came to pass, that the beggar died, and was carried by the angels into Abraham's bosom: the rich man also died, and was buried;

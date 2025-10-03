@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 2:11
-
 Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;

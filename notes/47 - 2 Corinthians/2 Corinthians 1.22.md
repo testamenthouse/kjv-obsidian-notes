@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 1:22
-
 Who hath also sealed us, and given the earnest of the Spirit in our hearts.

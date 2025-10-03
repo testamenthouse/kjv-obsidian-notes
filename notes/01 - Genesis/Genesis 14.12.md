@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 14:12
-
 And they took Lot, Abram's brother's son, who dwelt in Sodom, and his goods, and departed.

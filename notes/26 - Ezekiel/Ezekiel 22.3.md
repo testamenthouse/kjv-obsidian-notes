@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 22:3
-
 Then say thou, Thus saith the Lord GOD, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:24
-
 Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar's.

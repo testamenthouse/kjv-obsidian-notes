@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 28:3
-
 Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts.

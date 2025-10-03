@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 24:8
-
 And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the LORD hath made with you concerning all these words.

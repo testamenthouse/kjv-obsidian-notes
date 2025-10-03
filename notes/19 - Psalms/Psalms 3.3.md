@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 3:3
-
 But thou, O LORD, art a shield for me; my glory, and the lifter up of mine head.

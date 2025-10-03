@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:19
-
 And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused.

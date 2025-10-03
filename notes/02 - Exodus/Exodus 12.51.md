@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 12:51
-
 And it came to pass the selfsame day, that the LORD did bring the children of Israel out of the land of Egypt by their armies.

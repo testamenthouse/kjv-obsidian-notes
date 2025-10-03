@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 1:12
-
 Art thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction.

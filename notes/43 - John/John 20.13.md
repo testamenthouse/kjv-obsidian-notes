@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 20:13
-
 And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my LORD, and I know not where they have laid him.

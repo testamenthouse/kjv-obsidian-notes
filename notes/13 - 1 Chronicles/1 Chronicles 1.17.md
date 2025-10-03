@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 1:17
-
 The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.

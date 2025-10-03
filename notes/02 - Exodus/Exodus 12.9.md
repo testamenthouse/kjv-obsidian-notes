@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 12:9
-
 Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the purtenance thereof.

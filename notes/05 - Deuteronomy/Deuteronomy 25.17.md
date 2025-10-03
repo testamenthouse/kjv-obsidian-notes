@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 25:17
-
 Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;

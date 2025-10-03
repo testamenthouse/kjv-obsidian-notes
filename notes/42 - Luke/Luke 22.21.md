@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:21
-
 But, behold, the hand of him that betrayeth me is with me on the table.

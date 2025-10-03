@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 9:6
-
 Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man.

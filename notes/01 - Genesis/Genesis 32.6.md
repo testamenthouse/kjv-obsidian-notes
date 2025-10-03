@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 32:6
-
 And the messengers returned to Jacob, saying, We came to thy brother Esau, and also he cometh to meet thee, and four hundred men with him.

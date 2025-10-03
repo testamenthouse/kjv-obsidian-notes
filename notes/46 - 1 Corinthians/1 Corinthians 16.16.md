@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 16:16
-
 That ye submit yourselves unto such, and to every one that helpeth with us, and laboureth.

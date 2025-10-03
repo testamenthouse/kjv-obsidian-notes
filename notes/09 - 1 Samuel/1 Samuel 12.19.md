@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 12:19
-
 And all the people said unto Samuel, Pray for thy servants unto the LORD thy God, that we die not: for we have added unto all our sins this evil, to ask us a king.

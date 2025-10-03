@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 19:16
-
 And Shimei the son of Gera, a Benjamite, which was of Bahurim, hasted and came down with the men of Judah to meet king David.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 41:12
-
 And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.

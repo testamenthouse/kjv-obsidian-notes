@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 21:16
-
 For thus hath the LORD said unto me, Within a year, according to the years of an hireling, and all the glory of Kedar shall fail:

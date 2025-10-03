@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:10
-
 And forty and one years reigned he in Jerusalem. And his mother's name was Maachah, the daughter of Abishalom.

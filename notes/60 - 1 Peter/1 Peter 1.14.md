@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 1:14
-
 As obedient children, not fashioning yourselves according to the former lusts in your ignorance:

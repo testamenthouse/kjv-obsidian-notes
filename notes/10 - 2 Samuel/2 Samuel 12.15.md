@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 12:15
-
 And Nathan departed unto his house. And the LORD struck the child that Uriah's wife bare unto David, and it was very sick.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 7:30
-
 But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:9
-
 I am clean without transgression, I am innocent; neither is there iniquity in me.

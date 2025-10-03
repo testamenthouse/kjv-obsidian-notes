@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 28:12
-
 And three tenth deals of flour for a meat offering, mingled with oil, for one bullock; and two tenth deals of flour for a meat offering, mingled with oil, for one ram;

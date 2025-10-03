@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament, benediction]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:13
-
 Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of Israel that cometh in the name of the Lord.

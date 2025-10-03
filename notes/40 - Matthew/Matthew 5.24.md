@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 5:24
-
 Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.

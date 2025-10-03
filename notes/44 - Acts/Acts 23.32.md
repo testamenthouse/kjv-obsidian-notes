@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 23:32
-
 On the morrow they left the horsemen to go with him, and returned to the castle:

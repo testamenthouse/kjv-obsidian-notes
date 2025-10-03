@@ -13,7 +13,4 @@ grammar_tags: [question, contrast]
 thematic_tags: [names-of-god, praise-worship, time-units, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 19:35
-
 I am this day fourscore years old: and can I discern between good and evil? can thy servant taste what I eat or what I drink? can I hear any more the voice of singing men and singing women? wherefore then should thy servant be yet a burden unto my lord the king?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 33:5
-
 And he was king in Jeshurun, when the heads of the people and the tribes of Israel were gathered together.

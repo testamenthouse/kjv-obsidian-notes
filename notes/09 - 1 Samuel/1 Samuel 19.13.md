@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 19:13
-
 And Michal took an image, and laid it in the bed, and put a pillow of goats' hair for his bolster, and covered it with a cloth.

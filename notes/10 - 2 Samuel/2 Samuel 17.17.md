@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 17:17
-
 Now Jonathan and Ahimaaz stayed by Enrogel; for they might not be seen to come into the city: and a wench went and told them; and they went and told king David.

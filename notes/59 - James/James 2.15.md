@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 2:15
-
 If a brother or sister be naked, and destitute of daily food,

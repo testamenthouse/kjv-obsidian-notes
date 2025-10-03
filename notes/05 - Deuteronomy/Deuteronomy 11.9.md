@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 11:9
-
 And that ye may prolong your days in the land, which the LORD sware unto your fathers to give unto them and to their seed, a land that floweth with milk and honey.

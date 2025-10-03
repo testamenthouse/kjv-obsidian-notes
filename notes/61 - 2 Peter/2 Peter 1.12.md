@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 1:12
-
 Wherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and be established in the present truth.

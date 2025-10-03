@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 3:9
-
 Hear this, I pray you, ye heads of the house of Jacob, and princes of the house of Israel, that abhor judgment, and pervert all equity.

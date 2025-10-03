@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:3
-
 These ten times have ye reproached me: ye are not ashamed that ye make yourselves strange to me.

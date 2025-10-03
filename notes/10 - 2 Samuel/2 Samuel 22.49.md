@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:49
-
 And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me: thou hast delivered me from the violent man.

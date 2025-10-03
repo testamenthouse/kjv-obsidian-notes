@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:18
-
 For this cause the people also met him, for that they heard that he had done this miracle.

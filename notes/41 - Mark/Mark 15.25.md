@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:25
-
 And it was the third hour, and they crucified him.

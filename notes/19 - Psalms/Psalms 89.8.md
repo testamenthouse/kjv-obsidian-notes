@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:8
-
 O LORD God of hosts, who is a strong LORD like unto thee? or to thy faithfulness round about thee?

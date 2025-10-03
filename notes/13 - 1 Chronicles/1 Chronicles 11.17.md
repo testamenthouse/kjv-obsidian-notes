@@ -13,7 +13,4 @@ grammar_tags: [exclamation, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 11:17
-
 And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, that is at the gate!

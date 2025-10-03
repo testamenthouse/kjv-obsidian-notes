@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 39:2
-
 I was dumb with silence, I held my peace, even from good; and my sorrow was stirred.

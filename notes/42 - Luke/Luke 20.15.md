@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:15
-
 So they cast him out of the vineyard, and killed him. What therefore shall the lord of the vineyard do unto them?

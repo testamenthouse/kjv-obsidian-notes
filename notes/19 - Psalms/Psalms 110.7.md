@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 110:7
-
 He shall drink of the brook in the way: therefore shall he lift up the head.

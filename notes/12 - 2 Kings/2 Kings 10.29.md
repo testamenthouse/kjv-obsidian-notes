@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 10:29
-
 Howbeit from the sins of Jeroboam the son of Nebat, who made Israel to sin, Jehu departed not from after them, to wit, the golden calves that were in Bethel, and that were in Dan.

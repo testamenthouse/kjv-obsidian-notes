@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 4:19
-
 Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.

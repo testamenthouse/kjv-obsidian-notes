@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 3:2
-
 Only the people sacrificed in high places, because there was no house built unto the name of the LORD, until those days.

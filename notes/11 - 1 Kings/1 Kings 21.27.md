@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 21:27
-
 And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly.

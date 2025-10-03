@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 4:10
-
 Then said I, Ah, Lord GOD! surely thou hast greatly deceived this people and Jerusalem, saying, Ye shall have peace; whereas the sword reacheth unto the soul.

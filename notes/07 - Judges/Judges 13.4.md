@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 13:4
-
 Now therefore beware, I pray thee, and drink not wine nor strong drink, and eat not any unclean thing:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 47:17
-
 And the border from the sea shall be Hazarenan, the border of Damascus, and the north northward, and the border of Hamath. And this is the north side.

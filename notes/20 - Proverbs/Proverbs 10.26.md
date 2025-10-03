@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 10:26
-
 As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to them that send him.

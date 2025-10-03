@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 7:18
-
 And he made the pillars, and two rows round about upon the one network, to cover the chapiters that were upon the top, with pomegranates: and so did he for the other chapiter.

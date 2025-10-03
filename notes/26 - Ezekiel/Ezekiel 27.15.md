@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:15
-
 The men of Dedan were thy merchants; many isles were the merchandise of thine hand: they brought thee for a present horns of ivory and ebony.

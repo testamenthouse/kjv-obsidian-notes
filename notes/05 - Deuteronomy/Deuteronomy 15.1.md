@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-period, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 15:1
-
 At the end of every seven years thou shalt make a release.

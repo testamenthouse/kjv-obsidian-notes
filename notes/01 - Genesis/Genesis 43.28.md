@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 43:28
-
 And they answered, Thy servant our father is in good health, he is yet alive. And they bowed down their heads, and made obeisance.

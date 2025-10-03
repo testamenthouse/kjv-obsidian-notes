@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 24:20
-
 The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:53
-
 For thou didst separate them from among all the people of the earth, to be thine inheritance, as thou spakest by the hand of Moses thy servant, when thou broughtest our fathers out of Egypt, O LORD God.

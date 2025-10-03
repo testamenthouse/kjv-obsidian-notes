@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 1:11
-
 Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god.

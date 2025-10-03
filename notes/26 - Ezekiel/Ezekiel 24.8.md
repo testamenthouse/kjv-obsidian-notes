@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 24:8
-
 That it might cause fury to come up to take vengeance; I have set her blood upon the top of a rock, that it should not be covered.

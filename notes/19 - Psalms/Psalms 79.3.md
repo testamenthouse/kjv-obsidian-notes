@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 79:3
-
 Their blood have they shed like water round about Jerusalem; and there was none to bury them.

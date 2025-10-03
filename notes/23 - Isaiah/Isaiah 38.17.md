@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 38:17
-
 Behold, for peace I had great bitterness: but thou hast in love to my soul delivered it from the pit of corruption: for thou hast cast all my sins behind thy back.

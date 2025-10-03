@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 4:15
-
 Because the law worketh wrath: for where no law is, there is no transgression.

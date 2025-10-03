@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:21
-
 It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened.

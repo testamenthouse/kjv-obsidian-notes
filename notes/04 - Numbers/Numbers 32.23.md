@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:23
-
 But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out.

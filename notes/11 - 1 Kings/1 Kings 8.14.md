@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:14
-
 And the king turned his face about, and blessed all the congregation of Israel: (and all the congregation of Israel stood;)

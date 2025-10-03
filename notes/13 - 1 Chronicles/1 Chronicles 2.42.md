@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 2:42
-
 Now the sons of Caleb the brother of Jerahmeel were, Mesha his firstborn, which was the father of Ziph; and the sons of Mareshah the father of Hebron.

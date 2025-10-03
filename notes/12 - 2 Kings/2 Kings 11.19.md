@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 11:19
-
 And he took the rulers over hundreds, and the captains, and the guard, and all the people of the land; and they brought down the king from the house of the LORD, and came by the way of the gate of the guard to the king's house. And he sat on the throne of the kings.

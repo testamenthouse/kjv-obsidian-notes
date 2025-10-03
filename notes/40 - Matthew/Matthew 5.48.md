@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 5:48
-
 Be ye therefore perfect, even as your Father which is in heaven is perfect.

@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 6:5
-
 For in death there is no remembrance of thee: in the grave who shall give thee thanks?

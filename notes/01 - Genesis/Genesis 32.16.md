@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 32:16
-
 And he delivered them into the hand of his servants, every drove by themselves; and said unto his servants, Pass over before me, and put a space betwixt drove and drove.

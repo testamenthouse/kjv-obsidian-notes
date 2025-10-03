@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 19:6
-
 And they shall turn the rivers far away; and the brooks of defence shall be emptied and dried up: the reeds and flags shall wither.

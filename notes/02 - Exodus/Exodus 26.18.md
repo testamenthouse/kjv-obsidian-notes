@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 26:18
-
 And thou shalt make the boards for the tabernacle, twenty boards on the south side southward.

@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 3:17
-
 But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?

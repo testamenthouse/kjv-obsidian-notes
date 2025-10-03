@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 116:19
-
 In the courts of the LORD's house, in the midst of thee, O Jerusalem. Praise ye the LORD.

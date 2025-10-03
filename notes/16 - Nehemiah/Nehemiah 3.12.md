@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 3:12
-
 And next unto him repaired Shallum the son of Halohesh, the ruler of the half part of Jerusalem, he and his daughters.

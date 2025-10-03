@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 4:14
-
 The sower soweth the word.

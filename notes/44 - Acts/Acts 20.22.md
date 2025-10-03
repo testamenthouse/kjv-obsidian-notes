@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 20:22
-
 And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there:

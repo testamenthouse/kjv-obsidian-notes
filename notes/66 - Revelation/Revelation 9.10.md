@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 9:10
-
 And they had tails like unto scorpions, and there were stings in their tails: and their power was to hurt men five months.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 7:14
-
 For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth.

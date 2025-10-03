@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, genealogy-structure]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:39
-
 And they which went before rebuked him, that he should hold his peace: but he cried so much the more, Thou son of David, have mercy on me.

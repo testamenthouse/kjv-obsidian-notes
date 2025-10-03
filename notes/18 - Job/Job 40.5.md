@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:5
-
 Once have I spoken; but I will not answer: yea, twice; but I will proceed no further.

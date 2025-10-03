@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 71:21
-
 Thou shalt increase my greatness, and comfort me on every side.

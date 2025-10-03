@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, conditional]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 52:1
-
 Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.

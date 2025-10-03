@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:22
-
 And upon Dibon, and upon Nebo, and upon Bethdiblathaim,

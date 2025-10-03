@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:62
-
 He gave his people over also unto the sword; and was wroth with his inheritance.

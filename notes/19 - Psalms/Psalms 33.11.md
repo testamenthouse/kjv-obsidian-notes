@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 33:11
-
 The counsel of the LORD standeth for ever, the thoughts of his heart to all generations.

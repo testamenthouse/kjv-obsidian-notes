@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 22:3
-
 And sent forth his servants to call them that were bidden to the wedding: and they would not come.

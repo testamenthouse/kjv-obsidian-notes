@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 16:10
-
 Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also do.

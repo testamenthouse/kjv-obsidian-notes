@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 12:10
-
 And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire.

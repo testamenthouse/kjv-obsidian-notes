@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 4:28
-
 Now we, brethren, as Isaac was, are the children of promise.

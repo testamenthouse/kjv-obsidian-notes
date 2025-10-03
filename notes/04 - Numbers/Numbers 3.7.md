@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:7
-
 And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 48:28
-
 And by the border of Gad, at the south side southward, the border shall be even from Tamar unto the waters of strife in Kadesh, and to the river toward the great sea.

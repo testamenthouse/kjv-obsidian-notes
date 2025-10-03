@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 21:24
-
 Eye for eye, tooth for tooth, hand for hand, foot for foot,

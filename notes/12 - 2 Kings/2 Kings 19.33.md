@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 19:33
-
 By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD.

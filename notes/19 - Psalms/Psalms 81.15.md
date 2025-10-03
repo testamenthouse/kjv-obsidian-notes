@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 81:15
-
 The haters of the LORD should have submitted themselves unto him: but their time should have endured for ever.

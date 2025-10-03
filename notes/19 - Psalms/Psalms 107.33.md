@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:33
-
 He turneth rivers into a wilderness, and the watersprings into dry ground;

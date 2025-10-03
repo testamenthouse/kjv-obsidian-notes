@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 26:21
-
 As concerning the sons of Laadan; the sons of the Gershonite Laadan, chief fathers, even of Laadan the Gershonite, were Jehieli.

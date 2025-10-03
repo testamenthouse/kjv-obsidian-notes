@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 2:8
-
 But Nineveh is of old like a pool of water: yet they shall flee away. Stand, stand, shall they cry; but none shall look back.

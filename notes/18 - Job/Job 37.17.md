@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:17
-
 How thy garments are warm, when he quieteth the earth by the south wind?

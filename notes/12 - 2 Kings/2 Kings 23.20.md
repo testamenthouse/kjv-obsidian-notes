@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 23:20
-
 And he slew all the priests of the high places that were there upon the altars, and burned men's bones upon them, and returned to Jerusalem.

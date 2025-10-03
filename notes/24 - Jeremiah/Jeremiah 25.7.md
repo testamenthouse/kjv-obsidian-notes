@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 25:7
-
 Yet ye have not hearkened unto me, saith the LORD; that ye might provoke me to anger with the works of your hands to your own hurt.

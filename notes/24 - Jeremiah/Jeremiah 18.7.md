@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 18:7
-
 At what instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy it;

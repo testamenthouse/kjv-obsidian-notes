@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 3:17
-
 Therefore the LORD will smite with a scab the crown of the head of the daughters of Zion, and the LORD will discover their secret parts.

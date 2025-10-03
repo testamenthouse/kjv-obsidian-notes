@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:24
-
 The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?

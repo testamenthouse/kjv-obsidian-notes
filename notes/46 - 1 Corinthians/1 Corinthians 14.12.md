@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 14:12
-
 Even so ye, forasmuch as ye are zealous of spiritual gifts, seek that ye may excel to the edifying of the church.

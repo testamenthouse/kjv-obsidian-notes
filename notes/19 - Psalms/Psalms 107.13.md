@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:13
-
 Then they cried unto the LORD in their trouble, and he saved them out of their distresses.

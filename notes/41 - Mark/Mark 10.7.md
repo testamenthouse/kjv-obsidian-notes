@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:7
-
 For this cause shall a man leave his father and mother, and cleave to his wife;

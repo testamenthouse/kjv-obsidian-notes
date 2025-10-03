@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 8:3
-
 And death shall be chosen rather than life by all the residue of them that remain of this evil family, which remain in all the places whither I have driven them, saith the LORD of hosts.

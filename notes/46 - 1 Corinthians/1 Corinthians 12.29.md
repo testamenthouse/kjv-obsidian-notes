@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 12:29
-
 Are all apostles? are all prophets? are all teachers? are all workers of miracles?

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 13:21
-
 Yet they had a file for the mattocks, and for the coulters, and for the forks, and for the axes, and to sharpen the goads.

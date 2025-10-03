@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 16:7
-
 And he shall take the two goats, and present them before the LORD at the door of the tabernacle of the congregation.

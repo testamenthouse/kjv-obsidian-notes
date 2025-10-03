@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 3:20
-
 But Judah shall dwell for ever, and Jerusalem from generation to generation.

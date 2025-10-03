@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:19
-
 Teach us what we shall say unto him; for we cannot order our speech by reason of darkness.

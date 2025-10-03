@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 2:35
-
 And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai.

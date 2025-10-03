@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 16:1
-
 And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;

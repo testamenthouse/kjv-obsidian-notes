@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 6:5
-
 I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?

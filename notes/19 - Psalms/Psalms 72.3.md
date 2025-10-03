@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 72:3
-
 The mountains shall bring peace to the people, and the little hills, by righteousness.

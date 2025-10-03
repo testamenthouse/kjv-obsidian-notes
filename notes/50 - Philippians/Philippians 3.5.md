@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 3:5
-
 Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;

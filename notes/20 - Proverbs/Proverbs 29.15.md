@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 29:15
-
 The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:35
-
 And the chief of the house of the father of the families of Merari was Zuriel the son of Abihail: these shall pitch on the side of the tabernacle northward.

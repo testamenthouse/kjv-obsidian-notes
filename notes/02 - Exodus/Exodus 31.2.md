@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 31:2
-
 See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 57:19
-
 I create the fruit of the lips; Peace, peace to him that is far off, and to him that is near, saith the LORD; and I will heal him.

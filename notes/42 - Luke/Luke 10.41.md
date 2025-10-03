@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:41
-
 And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:

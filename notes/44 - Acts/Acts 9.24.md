@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [warfare, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 9:24
-
 But their laying await was known of Saul. And they watched the gates day and night to kill him.

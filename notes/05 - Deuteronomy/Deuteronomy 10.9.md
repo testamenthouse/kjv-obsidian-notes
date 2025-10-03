@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 10:9
-
 Wherefore Levi hath no part nor inheritance with his brethren; the LORD is his inheritance, according as the LORD thy God promised him.

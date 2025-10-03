@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 1:14
-
 That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.

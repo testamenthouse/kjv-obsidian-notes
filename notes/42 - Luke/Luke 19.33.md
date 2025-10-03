@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:33
-
 And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?

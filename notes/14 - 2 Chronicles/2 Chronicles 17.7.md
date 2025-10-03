@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 17:7
-
 Also in the third year of his reign he sent to his princes, even to Benhail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 2:2
-
 For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 22:12
-
 And when the children of Israel heard of it, the whole congregation of the children of Israel gathered themselves together at Shiloh, to go up to war against them.

@@ -13,7 +13,4 @@ grammar_tags: [conditional, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 10:30
-
 Lift up thy voice, O daughter of Gallim: cause it to be heard unto Laish, O poor Anathoth.

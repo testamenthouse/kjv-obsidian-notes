@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:25
-
 And Jesus rebuked him, saying, Hold thy peace, and come out of him.

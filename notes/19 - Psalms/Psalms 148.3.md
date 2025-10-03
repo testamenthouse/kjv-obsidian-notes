@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 148:3
-
 Praise ye him, sun and moon: praise him, all ye stars of light.

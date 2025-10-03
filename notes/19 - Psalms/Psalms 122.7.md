@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 122:7
-
 Peace be within thy walls, and prosperity within thy palaces.

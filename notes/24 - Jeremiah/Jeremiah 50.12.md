@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:12
-
 Your mother shall be sore confounded; she that bare you shall be ashamed: behold, the hindermost of the nations shall be a wilderness, a dry land, and a desert.

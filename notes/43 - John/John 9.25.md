@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:25
-
 He answered and said, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see.

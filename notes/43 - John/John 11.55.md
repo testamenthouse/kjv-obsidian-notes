@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-feasts, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:55
-
 And the Jews' passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.

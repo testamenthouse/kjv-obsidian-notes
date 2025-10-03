@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 36:19
-
 And he made a covering for the tent of rams' skins dyed red, and a covering of badgers' skins above that.

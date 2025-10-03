@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 9:25
-
 And Solomon had four thousand stalls for horses and chariots, and twelve thousand horsemen; whom he bestowed in the chariot cities, and with the king at Jerusalem.

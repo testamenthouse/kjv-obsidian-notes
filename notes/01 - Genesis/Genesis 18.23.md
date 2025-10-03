@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 18:23
-
 And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?

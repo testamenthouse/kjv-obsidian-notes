@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:4
-
 Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 6:25
-
 And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 6:6
-
 In all your dwellingplaces the cities shall be laid waste, and the high places shall be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your images may be cut down, and your works may be abolished.

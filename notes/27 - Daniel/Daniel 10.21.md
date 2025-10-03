@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 10:21
-
 But I will shew thee that which is noted in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince.

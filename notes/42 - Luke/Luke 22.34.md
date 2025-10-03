@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:34
-
 And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me.

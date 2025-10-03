@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:10
-
 And Judas Iscariot, one of the twelve, went unto the chief priests, to betray him unto them.

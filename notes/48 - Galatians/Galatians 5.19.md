@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:19
-
 Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,

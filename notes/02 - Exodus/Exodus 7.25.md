@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 7:25
-
 And seven days were fulfilled, after that the LORD had smitten the river.

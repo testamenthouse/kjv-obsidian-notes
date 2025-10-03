@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 4:17
-
 As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.

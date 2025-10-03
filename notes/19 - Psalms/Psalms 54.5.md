@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 54:5
-
 He shall reward evil unto mine enemies: cut them off in thy truth.

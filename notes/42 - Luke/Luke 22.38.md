@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:38
-
 And they said, Lord, behold, here are two swords. And he said unto them, It is enough.

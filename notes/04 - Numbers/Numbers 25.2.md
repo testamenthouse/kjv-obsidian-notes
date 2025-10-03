@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 25:2
-
 And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods.

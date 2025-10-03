@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 10:9
-
 He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.

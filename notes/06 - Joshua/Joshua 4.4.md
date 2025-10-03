@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 4:4
-
 Then Joshua called the twelve men, whom he had prepared of the children of Israel, out of every tribe a man:

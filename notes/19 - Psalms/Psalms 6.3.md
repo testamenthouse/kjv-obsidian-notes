@@ -13,7 +13,4 @@ grammar_tags: [question, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 6:3
-
 My soul is also sore vexed: but thou, O LORD, how long?

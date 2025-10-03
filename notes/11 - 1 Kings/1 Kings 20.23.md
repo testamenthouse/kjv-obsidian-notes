@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, contrast, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:23
-
 And the servants of the king of Syria said unto him, Their gods are gods of the hills; therefore they were stronger than we; but let us fight against them in the plain, and surely we shall be stronger than they.

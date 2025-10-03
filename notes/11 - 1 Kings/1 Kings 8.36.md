@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:36
-
 Then hear thou in heaven, and forgive the sin of thy servants, and of thy people Israel, that thou teach them the good way wherein they should walk, and give rain upon thy land, which thou hast given to thy people for an inheritance.

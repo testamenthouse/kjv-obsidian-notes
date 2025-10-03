@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:38
-
 And all the people came early in the morning to him in the temple, for to hear him.

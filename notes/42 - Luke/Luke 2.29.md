@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 2:29
-
 Lord, now lettest thou thy servant depart in peace, according to thy word:

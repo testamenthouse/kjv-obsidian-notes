@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 9:4
-
 But flesh with the life thereof, which is the blood thereof, shall ye not eat.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:22
-
 And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD.

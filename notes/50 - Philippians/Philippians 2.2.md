@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 2:2
-
 Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.

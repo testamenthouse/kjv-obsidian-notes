@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:9
-
 Doth he thank that servant because he did the things that were commanded him? I trow not.

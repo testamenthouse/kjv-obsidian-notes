@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:9
-
 Who knoweth not in all these that the hand of the LORD hath wrought this?

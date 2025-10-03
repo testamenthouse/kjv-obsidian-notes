@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 14:22
-
 Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.

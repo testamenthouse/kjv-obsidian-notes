@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 3:26
-
 But the LORD was wroth with me for your sakes, and would not hear me: and the LORD said unto me, Let it suffice thee; speak no more unto me of this matter.

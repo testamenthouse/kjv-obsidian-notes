@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [warfare, negative-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 20:13
-
 Thou shalt not kill.

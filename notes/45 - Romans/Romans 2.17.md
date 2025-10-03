@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 2:17
-
 Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,

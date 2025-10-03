@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:16
-
 And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:

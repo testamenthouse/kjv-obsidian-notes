@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:16
-
 They shall go down to the bars of the pit, when our rest together is in the dust.

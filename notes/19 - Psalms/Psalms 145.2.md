@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 145:2
-
 Every day will I bless thee; and I will praise thy name for ever and ever.

@@ -13,7 +13,4 @@ grammar_tags: [question, conditional, genealogy-structure]
 thematic_tags: [names-of-god, son-of-god, jesus]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:36
-
 Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?

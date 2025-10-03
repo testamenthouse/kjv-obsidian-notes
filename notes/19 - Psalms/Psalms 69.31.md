@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:31
-
 This also shall please the LORD better than an ox or bullock that hath horns and hoofs.

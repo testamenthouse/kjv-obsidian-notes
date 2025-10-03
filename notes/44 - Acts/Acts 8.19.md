@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:19
-
 Saying, Give me also this power, that on whomsoever I lay hands, he may receive the Holy Ghost.

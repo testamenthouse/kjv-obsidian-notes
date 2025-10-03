@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 10:18
-
 And Joshua said, Roll great stones upon the mouth of the cave, and set men by it for to keep them:

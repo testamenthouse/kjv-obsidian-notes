@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 7:50
-
 And he said to the woman, Thy faith hath saved thee; go in peace.

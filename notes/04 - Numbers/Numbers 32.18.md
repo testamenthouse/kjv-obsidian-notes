@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:18
-
 We will not return unto our houses, until the children of Israel have inherited every man his inheritance.

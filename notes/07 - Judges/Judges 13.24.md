@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 13:24
-
 And the woman bare a son, and called his name Samson: and the child grew, and the LORD blessed him.

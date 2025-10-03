@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 15:33
-
 Five and twenty years old was he when he began to reign, and he reigned sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.

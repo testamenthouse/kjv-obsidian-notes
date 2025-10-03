@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 1:14
-
 My beloved is unto me as a cluster of camphire in the vineyards of Engedi.

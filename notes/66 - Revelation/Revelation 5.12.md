@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, praise-worship]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 5:12
-
 Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.

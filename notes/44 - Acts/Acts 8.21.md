@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:21
-
 Thou hast neither part nor lot in this matter: for thy heart is not right in the sight of God.

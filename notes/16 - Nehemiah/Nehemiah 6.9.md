@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 6:9
-
 For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, O God, strengthen my hands.

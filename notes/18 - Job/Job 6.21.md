@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:21
-
 For now ye are nothing; ye see my casting down, and are afraid.

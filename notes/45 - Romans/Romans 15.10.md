@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:10
-
 And again he saith, Rejoice, ye Gentiles, with his people.

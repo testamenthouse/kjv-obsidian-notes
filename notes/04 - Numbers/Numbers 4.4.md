@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 4:4
-
 This shall be the service of the sons of Kohath in the tabernacle of the congregation, about the most holy things:

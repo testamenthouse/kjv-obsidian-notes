@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 2:15
-
 For indeed the hand of the LORD was against them, to destroy them from among the host, until they were consumed.

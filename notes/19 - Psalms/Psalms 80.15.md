@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 80:15
-
 And the vineyard which thy right hand hath planted, and the branch that thou madest strong for thyself.

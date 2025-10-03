@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 2:3
-
 He hath cut off in his fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, which devoureth round about.

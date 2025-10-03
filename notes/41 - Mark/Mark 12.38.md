@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:38
-
 And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,

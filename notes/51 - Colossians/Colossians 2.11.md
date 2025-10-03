@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 2:11
-
 In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:

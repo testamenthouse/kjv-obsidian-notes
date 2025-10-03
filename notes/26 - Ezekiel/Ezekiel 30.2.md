@@ -13,7 +13,4 @@ grammar_tags: [exclamation, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus, lament, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 30:2
-
 Son of man, prophesy and say, Thus saith the Lord GOD; Howl ye, Woe worth the day!

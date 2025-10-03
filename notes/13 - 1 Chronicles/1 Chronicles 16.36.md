@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, praise-worship, benediction, time-eschatology, time]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 16:36
-
 Blessed be the LORD God of Israel for ever and ever. And all the people said, Amen, and praised the LORD.

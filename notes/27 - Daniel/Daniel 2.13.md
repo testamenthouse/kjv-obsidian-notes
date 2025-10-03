@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 2:13
-
 And the decree went forth that the wise men should be slain; and they sought Daniel and his fellows to be slain.

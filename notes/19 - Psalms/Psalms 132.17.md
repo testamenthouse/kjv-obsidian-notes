@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 132:17
-
 There will I make the horn of David to bud: I have ordained a lamp for mine anointed.

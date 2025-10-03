@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 3:6
-
 And were baptized of him in Jordan, confessing their sins.

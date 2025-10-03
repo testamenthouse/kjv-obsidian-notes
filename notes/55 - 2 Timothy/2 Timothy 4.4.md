@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 4:4
-
 And they shall turn away their ears from the truth, and shall be turned unto fables.

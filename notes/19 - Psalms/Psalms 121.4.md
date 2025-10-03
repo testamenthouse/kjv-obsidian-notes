@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 121:4
-
 Behold, he that keepeth Israel shall neither slumber nor sleep.

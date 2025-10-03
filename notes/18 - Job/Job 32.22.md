@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:22
-
 For I know not to give flattering titles; in so doing my maker would soon take me away.

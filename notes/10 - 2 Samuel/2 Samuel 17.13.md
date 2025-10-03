@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 17:13
-
 Moreover, if he be gotten into a city, then shall all Israel bring ropes to that city, and we will draw it into the river, until there be not one small stone found there.

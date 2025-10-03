@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:35
-
 Moreover I will cause to cease in Moab, saith the LORD, him that offereth in the high places, and him that burneth incense to his gods.

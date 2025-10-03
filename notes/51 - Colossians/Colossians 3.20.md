@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 3:20
-
 Children, obey your parents in all things: for this is well pleasing unto the Lord.

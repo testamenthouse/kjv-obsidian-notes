@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 14:22
-
 Do they not err that devise evil? but mercy and truth shall be to them that devise good.

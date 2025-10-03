@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:5
-
 Thou shalt yet plant vines upon the mountains of Samaria: the planters shall plant, and shall eat them as common things.

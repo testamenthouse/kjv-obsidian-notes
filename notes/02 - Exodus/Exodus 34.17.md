@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 34:17
-
 Thou shalt make thee no molten gods.

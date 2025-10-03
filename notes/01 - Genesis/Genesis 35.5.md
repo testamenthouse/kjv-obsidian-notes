@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 35:5
-
 And they journeyed: and the terror of God was upon the cities that were round about them, and they did not pursue after the sons of Jacob.

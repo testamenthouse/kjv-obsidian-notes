@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-period, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 8:19
-
 And he said, Behold, I will make thee know what shall be in the last end of the indignation: for at the time appointed the end shall be.

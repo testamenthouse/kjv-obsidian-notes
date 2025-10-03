@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 4:18
-
 Wherefore comfort one another with these words.

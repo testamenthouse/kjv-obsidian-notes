@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 11:15
-
 Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.

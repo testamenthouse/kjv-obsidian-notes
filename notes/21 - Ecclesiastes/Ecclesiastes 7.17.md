@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 7:17
-
 Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?

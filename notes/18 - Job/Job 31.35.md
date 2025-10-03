@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:35
-
 Oh that one would hear me! behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book.

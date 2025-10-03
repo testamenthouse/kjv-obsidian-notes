@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 12:24
-
 For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked.

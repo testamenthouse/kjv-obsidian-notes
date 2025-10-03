@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:11
-
 He hath also kindled his wrath against me, and he counteth me unto him as one of his enemies.

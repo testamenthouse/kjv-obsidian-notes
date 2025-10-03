@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 47:20
-
 The west side also shall be the great sea from the border, till a man come over against Hamath. This is the west side.

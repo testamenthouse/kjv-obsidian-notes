@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 14:1
-
 In the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah.

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 6:33
-
 And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil is of the LORD; what should I wait for the LORD any longer?

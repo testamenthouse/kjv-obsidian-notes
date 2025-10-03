@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 2:23
-
 Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:

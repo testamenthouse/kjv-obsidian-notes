@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:34
-
 In the time when thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall.

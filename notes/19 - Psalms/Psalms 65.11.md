@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 65:11
-
 Thou crownest the year with thy goodness; and thy paths drop fatness.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:7
-
 Gird up thy loins now like a man: I will demand of thee, and declare thou unto me.

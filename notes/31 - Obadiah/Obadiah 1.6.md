@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: []
 tags: ["Bible","KJV","Obadiah"]
 ---
-
-# Obadiah 1:6
-
 How are the things of Esau searched out! how are his hidden things sought up!

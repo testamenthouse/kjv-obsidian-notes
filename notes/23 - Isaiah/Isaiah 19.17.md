@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 19:17
-
 And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the LORD of hosts, which he hath determined against it.

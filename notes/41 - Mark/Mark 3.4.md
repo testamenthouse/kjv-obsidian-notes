@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: [names-of-god, warfare, time-units, time-feasts, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 3:4
-
 And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace.

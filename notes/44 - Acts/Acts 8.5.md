@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:5
-
 Then Philip went down to the city of Samaria, and preached Christ unto them.

@@ -13,7 +13,4 @@ grammar_tags: [contrast, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 33:24
-
 Son of man, they that inhabit those wastes of the land of Israel speak, saying, Abraham was one, and he inherited the land: but we are many; the land is given us for inheritance.

@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 13:2
-
 Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.

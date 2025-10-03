@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 4:6
-
 And Naarah bare him Ahuzam, and Hepher, and Temeni, and Haahashtari. These were the sons of Naarah.

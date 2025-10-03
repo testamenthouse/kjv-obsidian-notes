@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 7:3
-
 And they brought their offering before the LORD, six covered wagons, and twelve oxen; a wagon for two of the princes, and for each one an ox: and they brought them before the tabernacle.

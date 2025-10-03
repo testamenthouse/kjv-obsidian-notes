@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 5:20
-
 Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.

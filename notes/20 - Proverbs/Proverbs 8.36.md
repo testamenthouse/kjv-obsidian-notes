@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 8:36
-
 But he that sinneth against me wrongeth his own soul: all they that hate me love death.

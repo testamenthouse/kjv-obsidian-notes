@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, cause-effect, genealogy-structure]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 9:7
-
 Therefore thus saith the LORD of hosts, Behold, I will melt them, and try them; for how shall I do for the daughter of my people?

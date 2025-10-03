@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 12:5
-
 And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne.

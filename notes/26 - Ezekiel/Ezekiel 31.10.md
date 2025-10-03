@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 31:10
-
 Therefore thus saith the Lord GOD; Because thou hast lifted up thyself in height, and he hath shot up his top among the thick boughs, and his heart is lifted up in his height;

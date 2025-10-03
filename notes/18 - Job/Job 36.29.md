@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:29
-
 Also can any understand the spreadings of the clouds, or the noise of his tabernacle?

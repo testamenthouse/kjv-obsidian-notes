@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 63:2
-
 To see thy power and thy glory, so as I have seen thee in the sanctuary.

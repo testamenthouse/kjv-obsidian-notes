@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 2:9
-
 The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:

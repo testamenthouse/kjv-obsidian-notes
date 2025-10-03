@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Thessalonians"]
 ---
-
-# 2 Thessalonians 3:1
-
 Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:11
-
 My days are like a shadow that declineth; and I am withered like grass.

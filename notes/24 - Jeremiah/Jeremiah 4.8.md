@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 4:8
-
 For this gird you with sackcloth, lament and howl: for the fierce anger of the LORD is not turned back from us.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 29:31
-
 And thou shalt take the ram of the consecration, and seethe his flesh in the holy place.

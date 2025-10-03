@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 4:14
-
 Fear came upon me, and trembling, which made all my bones to shake.

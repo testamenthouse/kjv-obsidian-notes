@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:32
-
 And the man came into the house: and he ungirded his camels, and gave straw and provender for the camels, and water to wash his feet, and the men's feet that were with him.

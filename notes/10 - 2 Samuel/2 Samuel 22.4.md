@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:4
-
 I will call on the LORD, who is worthy to be praised: so shall I be saved from mine enemies.

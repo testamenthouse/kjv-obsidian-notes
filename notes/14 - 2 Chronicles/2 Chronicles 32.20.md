@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect, genealogy-structure]
 thematic_tags: [lament]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 32:20
-
 And for this cause Hezekiah the king, and the prophet Isaiah the son of Amoz, prayed and cried to heaven.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 2:12
-
 If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, shall it be holy? And the priests answered and said, No.

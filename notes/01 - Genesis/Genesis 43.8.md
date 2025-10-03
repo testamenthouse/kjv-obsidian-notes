@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 43:8
-
 And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, and also our little ones.

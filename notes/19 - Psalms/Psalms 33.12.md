@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 33:12
-
 Blessed is the nation whose God is the LORD; and the people whom he hath chosen for his own inheritance.

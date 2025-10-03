@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 14:35
-
 And he that owneth the house shall come and tell the priest, saying, It seemeth to me there is as it were a plague in the house:

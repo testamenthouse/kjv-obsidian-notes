@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 4:7
-
 And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:19
-
 He leadeth princes away spoiled, and overthroweth the mighty.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 28:16
-
 The prince that wanteth understanding is also a great oppressor: but he that hateth covetousness shall prolong his days.

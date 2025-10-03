@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 7:8
-
 O LORD, what shall I say, when Israel turneth their backs before their enemies!

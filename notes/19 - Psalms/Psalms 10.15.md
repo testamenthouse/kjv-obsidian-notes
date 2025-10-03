@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 10:15
-
 Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none.

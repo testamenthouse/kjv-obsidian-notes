@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 8:20
-
 The harvest is past, the summer is ended, and we are not saved.

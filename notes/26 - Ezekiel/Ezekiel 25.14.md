@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 25:14
-
 And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord GOD.

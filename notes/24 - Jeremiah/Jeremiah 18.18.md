@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 18:18
-
 Then said they, Come and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and let us not give heed to any of his words.

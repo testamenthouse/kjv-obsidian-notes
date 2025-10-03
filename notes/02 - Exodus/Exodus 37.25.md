@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 37:25
-
 And he made the incense altar of shittim wood: the length of it was a cubit, and the breadth of it a cubit; it was foursquare; and two cubits was the height of it; the horns thereof were of the same.

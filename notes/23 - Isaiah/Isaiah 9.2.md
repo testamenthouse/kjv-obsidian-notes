@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 9:2
-
 The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined.

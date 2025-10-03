@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 7:23
-
 All these evil things come from within, and defile the man.

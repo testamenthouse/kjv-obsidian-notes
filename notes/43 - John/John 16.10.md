@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:10
-
 Of righteousness, because I go to my Father, and ye see me no more;

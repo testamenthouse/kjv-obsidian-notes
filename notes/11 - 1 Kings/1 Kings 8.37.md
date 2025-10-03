@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:37
-
 If there be in the land famine, if there be pestilence, blasting, mildew, locust, or if there be caterpillar; if their enemy besiege them in the land of their cities; whatsoever plague, whatsoever sickness there be;

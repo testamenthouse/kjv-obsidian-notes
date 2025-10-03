@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:49
-
 Lord, where are thy former lovingkindnesses, which thou swarest unto David in thy truth?

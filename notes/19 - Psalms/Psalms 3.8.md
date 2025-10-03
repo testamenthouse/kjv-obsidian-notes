@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 3:8
-
 Salvation belongeth unto the LORD: thy blessing is upon thy people. Selah.

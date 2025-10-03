@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 3:4
-
 They kept also the feast of tabernacles, as it is written, and offered the daily burnt offerings by number, according to the custom, as the duty of every day required;

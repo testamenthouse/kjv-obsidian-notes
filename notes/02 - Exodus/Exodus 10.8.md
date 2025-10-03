@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 10:8
-
 And Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go, serve the LORD your God: but who are they that shall go?

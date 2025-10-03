@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 23:12
-
 Else if ye do in any wise go back, and cleave unto the remnant of these nations, even these that remain among you, and shall make marriages with them, and go in unto them, and they to you:

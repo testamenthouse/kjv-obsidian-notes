@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:32
-
 This Jesus hath God raised up, whereof we all are witnesses.

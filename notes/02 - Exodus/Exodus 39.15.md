@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 39:15
-
 And they made upon the breastplate chains at the ends, of wreathed work of pure gold.

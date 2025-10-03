@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:12
-
 And he made darkness pavilions round about him, dark waters, and thick clouds of the skies.

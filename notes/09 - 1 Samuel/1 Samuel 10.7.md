@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 10:7
-
 And let it be, when these signs are come unto thee, that thou do as occasion serve thee; for God is with thee.

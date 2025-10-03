@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 1:7
-
 For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 2:27
-
 Daniel answered in the presence of the king, and said, The secret which the king hath demanded cannot the wise men, the astrologers, the magicians, the soothsayers, shew unto the king;

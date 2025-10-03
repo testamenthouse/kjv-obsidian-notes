@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 2:7
-
 But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:

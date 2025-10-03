@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:20
-
 Shall it be told him that I speak? if a man speak, surely he shall be swallowed up.

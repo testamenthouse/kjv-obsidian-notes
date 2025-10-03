@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 24:23
-
 Then if any man shall say unto you, Lo, here is Christ, or there; believe it not.

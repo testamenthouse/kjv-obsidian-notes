@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 2:7
-
 I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee.

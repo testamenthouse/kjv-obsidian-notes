@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:4
-
 For truly my words shall not be false: he that is perfect in knowledge is with thee.

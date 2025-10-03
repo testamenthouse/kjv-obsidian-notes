@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 12:25
-
 But if ye shall still do wickedly, ye shall be consumed, both ye and your king.

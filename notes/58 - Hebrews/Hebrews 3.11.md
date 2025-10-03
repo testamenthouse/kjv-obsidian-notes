@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 3:11
-
 So I sware in my wrath, They shall not enter into my rest.)

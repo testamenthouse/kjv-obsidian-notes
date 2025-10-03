@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 10:22
-
 And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host was Elishama the son of Ammihud.

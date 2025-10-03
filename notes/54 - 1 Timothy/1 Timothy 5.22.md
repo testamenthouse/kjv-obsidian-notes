@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 5:22
-
 Lay hands suddenly on no man, neither be partaker of other men's sins: keep thyself pure.

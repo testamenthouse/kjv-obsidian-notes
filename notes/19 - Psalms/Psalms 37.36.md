@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:36
-
 Yet he passed away, and, lo, he was not: yea, I sought him, but he could not be found.

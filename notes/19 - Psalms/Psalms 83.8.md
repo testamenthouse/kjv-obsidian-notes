@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 83:8
-
 Assur also is joined with them: they have holpen the children of Lot. Selah.

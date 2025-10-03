@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, cause-effect]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 15:4
-
 And Heshbon shall cry, and Elealeh: their voice shall be heard even unto Jahaz: therefore the armed soldiers of Moab shall cry out; his life shall be grievous unto him.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 11:8
-
 And shall also carry captives into Egypt their gods, with their princes, and with their precious vessels of silver and of gold; and he shall continue more years than the king of the north.

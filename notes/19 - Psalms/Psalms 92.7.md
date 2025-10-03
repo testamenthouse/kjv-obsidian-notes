@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 92:7
-
 When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever:

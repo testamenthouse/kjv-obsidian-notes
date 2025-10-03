@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 30:4
-
 And the sword shall come upon Egypt, and great pain shall be in Ethiopia, when the slain shall fall in Egypt, and they shall take away her multitude, and her foundations shall be broken down.

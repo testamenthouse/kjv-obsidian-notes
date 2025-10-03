@@ -13,7 +13,4 @@ grammar_tags: [exclamation, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 23:15
-
 And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, which is by the gate!

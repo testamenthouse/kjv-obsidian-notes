@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 10:32
-
 Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;

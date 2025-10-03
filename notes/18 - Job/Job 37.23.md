@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:23
-
 Touching the Almighty, we cannot find him out: he is excellent in power, and in judgment, and in plenty of justice: he will not afflict.

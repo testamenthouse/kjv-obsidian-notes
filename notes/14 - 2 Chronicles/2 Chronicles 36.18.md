@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 36:18
-
 And all the vessels of the house of God, great and small, and the treasures of the house of the LORD, and the treasures of the king, and of his princes; all these he brought to Babylon.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 44:22
-
 And we said unto my lord, The lad cannot leave his father: for if he should leave his father, his father would die.

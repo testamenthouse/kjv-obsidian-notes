@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god, time-feasts, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 9:13
-
 But the man that is clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the LORD in his appointed season, that man shall bear his sin.

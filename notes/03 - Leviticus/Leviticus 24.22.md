@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 24:22
-
 Ye shall have one manner of law, as well for the stranger, as for one of your own country: for I am the LORD your God.

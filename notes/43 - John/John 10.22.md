@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:22
-
 And it was at Jerusalem the feast of the dedication, and it was winter.

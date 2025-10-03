@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:28
-
 And say unto him, By what authority doest thou these things? and who gave thee this authority to do these things?

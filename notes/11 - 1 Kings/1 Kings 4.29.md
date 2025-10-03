@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 4:29
-
 And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea shore.

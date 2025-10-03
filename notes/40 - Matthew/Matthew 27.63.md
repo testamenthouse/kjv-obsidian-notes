@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [adversary-epithet, adversary, time-units, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:63
-
 Saying, Sir, we remember that that deceiver said, while he was yet alive, After three days I will rise again.

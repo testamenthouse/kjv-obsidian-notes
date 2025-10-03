@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:7
-
 Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee.

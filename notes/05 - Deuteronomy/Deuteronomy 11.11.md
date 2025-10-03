@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 11:11
-
 But the land, whither ye go to possess it, is a land of hills and valleys, and drinketh water of the rain of heaven:

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 5:5
-
 The foolish shall not stand in thy sight: thou hatest all workers of iniquity.

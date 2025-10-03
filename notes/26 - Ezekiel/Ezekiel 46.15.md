@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 46:15
-
 Thus shall they prepare the lamb, and the meat offering, and the oil, every morning for a continual burnt offering.

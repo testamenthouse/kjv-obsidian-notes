@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 33:7
-
 And Leah also with her children came near, and bowed themselves: and after came Joseph near and Rachel, and they bowed themselves.

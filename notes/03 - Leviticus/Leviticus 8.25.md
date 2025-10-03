@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 8:25
-
 And he took the fat, and the rump, and all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and the right shoulder:

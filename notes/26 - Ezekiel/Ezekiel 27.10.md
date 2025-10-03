@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:10
-
 They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness.

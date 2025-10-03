@@ -13,7 +13,4 @@ grammar_tags: [conditional, genealogy-structure]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 1:13
-
 O thou inhabitant of Lachish, bind the chariot to the swift beast: she is the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.

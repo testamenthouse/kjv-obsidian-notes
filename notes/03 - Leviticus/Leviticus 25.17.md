@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, cause-effect]
 thematic_tags: [names-of-god, one-another, positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:17
-
 Ye shall not therefore oppress one another; but thou shalt fear thy God: for I am the LORD your God.

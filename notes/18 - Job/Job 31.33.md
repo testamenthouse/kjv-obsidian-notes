@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:33
-
 If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:

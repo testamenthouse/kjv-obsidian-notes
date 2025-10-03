@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 11:6
-
 And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly.

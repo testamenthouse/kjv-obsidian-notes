@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 2:12
-
 Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.

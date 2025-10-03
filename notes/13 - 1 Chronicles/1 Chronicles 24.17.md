@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 24:17
-
 The one and twentieth to Jachin, the two and twentieth to Gamul,

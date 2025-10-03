@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 2:10
-
 Be wise now therefore, O ye kings: be instructed, ye judges of the earth.

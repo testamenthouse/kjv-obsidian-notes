@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 14:10
-
 And the king said, Whoever saith ought unto thee, bring him to me, and he shall not touch thee any more.

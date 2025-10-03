@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:14
-
 Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,

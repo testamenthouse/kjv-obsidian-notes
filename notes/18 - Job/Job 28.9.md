@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:9
-
 He putteth forth his hand upon the rock; he overturneth the mountains by the roots.

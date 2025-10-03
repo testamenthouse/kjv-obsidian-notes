@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 33:17
-
 And they departed from Kibrothhattaavah, and encamped at Hazeroth.

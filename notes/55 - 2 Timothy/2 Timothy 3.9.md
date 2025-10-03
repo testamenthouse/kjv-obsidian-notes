@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 3:9
-
 But they shall proceed no further: for their folly shall be manifest unto all men, as their's also was.

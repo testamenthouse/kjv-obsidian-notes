@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [one-another]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 15:17
-
 These things I command you, that ye love one another.

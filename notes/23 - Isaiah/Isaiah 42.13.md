@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 42:13
-
 The LORD shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies.

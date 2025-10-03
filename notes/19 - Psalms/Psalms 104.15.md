@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:15
-
 And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man's heart.

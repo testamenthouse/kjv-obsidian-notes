@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 10:10
-
 And the children of Israel cried unto the LORD, saying, We have sinned against thee, both because we have forsaken our God, and also served Baalim.

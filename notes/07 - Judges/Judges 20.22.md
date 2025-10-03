@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 20:22
-
 And the people the men of Israel encouraged themselves, and set their battle again in array in the place where they put themselves in array the first day.

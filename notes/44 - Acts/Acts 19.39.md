@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:39
-
 But if ye enquire any thing concerning other matters, it shall be determined in a lawful assembly.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 11:21
-
 Seven years old was Jehoash when he began to reign.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 3:7
-
 Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,

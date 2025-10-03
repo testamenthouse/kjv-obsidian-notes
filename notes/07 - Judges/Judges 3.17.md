@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 3:17
-
 And he brought the present unto Eglon king of Moab: and Eglon was a very fat man.

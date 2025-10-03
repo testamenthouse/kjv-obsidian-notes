@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 37:4
-
 Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the LORD.

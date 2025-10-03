@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 13:18
-
 Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers.

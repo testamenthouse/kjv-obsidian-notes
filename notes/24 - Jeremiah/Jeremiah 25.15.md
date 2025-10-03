@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 25:15
-
 For thus saith the LORD God of Israel unto me; Take the wine cup of this fury at my hand, and cause all the nations, to whom I send thee, to drink it.

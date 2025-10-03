@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 2:39
-
 And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.

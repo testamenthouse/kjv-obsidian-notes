@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 18:18
-
 The lot causeth contentions to cease, and parteth between the mighty.

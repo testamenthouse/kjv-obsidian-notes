@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 3:3
-
 Nevertheless he cleaved unto the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 15:3
-
 And Samson said concerning them, Now shall I be more blameless than the Philistines, though I do them a displeasure.

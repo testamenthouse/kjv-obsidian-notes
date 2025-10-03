@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 21:8
-
 Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the LORD, which sanctify you, am holy.

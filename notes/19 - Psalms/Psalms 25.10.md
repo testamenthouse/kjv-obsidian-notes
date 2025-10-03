@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 25:10
-
 All the paths of the LORD are mercy and truth unto such as keep his covenant and his testimonies.

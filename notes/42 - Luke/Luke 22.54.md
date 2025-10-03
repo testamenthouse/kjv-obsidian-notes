@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:54
-
 Then took they him, and led him, and brought him into the high priest's house. And Peter followed afar off.

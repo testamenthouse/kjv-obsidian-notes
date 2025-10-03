@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 17:11
-
 And the Levite was content to dwell with the man; and the young man was unto him as one of his sons.

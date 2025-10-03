@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:17
-
 The earth opened and swallowed up Dathan and covered the company of Abiram.

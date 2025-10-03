@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:26
-
 Thou hast also committed fornication with the Egyptians thy neighbours, great of flesh; and hast increased thy whoredoms, to provoke me to anger.

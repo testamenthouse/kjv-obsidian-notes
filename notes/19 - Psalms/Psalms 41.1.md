@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 41:1
-
 Blessed is he that considereth the poor: the LORD will deliver him in time of trouble.

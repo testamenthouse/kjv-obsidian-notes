@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 13:12
-
 The iniquity of Ephraim is bound up; his sin is hid.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 25:34
-
 Then Jacob gave Esau bread and pottage of lentils; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 15:17
-
 Then thou shalt take an awl, and thrust it through his ear unto the door, and he shall be thy servant for ever. And also unto thy maidservant thou shalt do likewise.

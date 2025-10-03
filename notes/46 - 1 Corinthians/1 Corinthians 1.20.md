@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 1:20
-
 Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world?

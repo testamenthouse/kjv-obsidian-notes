@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 16:4
-
 The LORD hath made all things for himself: yea, even the wicked for the day of evil.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 6:15
-
 For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.

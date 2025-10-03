@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 3:6
-
 Not to many people of a strange speech and of an hard language, whose words thou canst not understand. Surely, had I sent thee to them, they would have hearkened unto thee.

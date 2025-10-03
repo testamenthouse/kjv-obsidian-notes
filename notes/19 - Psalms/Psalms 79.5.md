@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 79:5
-
 How long, LORD? wilt thou be angry for ever? shall thy jealousy burn like fire?

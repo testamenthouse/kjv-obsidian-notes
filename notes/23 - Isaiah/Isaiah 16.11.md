@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 16:11
-
 Wherefore my bowels shall sound like an harp for Moab, and mine inward parts for Kirharesh.

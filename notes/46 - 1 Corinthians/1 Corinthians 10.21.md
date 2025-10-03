@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 10:21
-
 Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord's table, and of the table of devils.

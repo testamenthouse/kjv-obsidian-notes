@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 14:5
-
 The LORD hath broken the staff of the wicked, and the sceptre of the rulers.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 3:12
-
 All thy strong holds shall be like fig trees with the firstripe figs: if they be shaken, they shall even fall into the mouth of the eater.

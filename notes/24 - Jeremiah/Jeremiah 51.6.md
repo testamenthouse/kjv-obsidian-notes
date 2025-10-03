@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:6
-
 Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this is the time of the LORD's vengeance; he will render unto her a recompence.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 30:19
-
 Thus will I execute judgments in Egypt: and they shall know that I am the LORD.

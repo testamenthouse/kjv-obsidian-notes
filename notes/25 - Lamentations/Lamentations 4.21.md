@@ -13,7 +13,4 @@ grammar_tags: [conditional, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 4:21
-
 Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.

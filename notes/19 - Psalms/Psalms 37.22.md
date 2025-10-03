@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:22
-
 For such as be blessed of him shall inherit the earth; and they that be cursed of him shall be cut off.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:1
-
 Knowest thou the time when the wild goats of the rock bring forth? or canst thou mark when the hinds do calve?

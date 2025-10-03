@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 16:14
-
 And they said, Some say that thou art John the Baptist: some, Elias; and others, Jeremias, or one of the prophets.

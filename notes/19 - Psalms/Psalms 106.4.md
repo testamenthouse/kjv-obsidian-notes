@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:4
-
 Remember me, O LORD, with the favour that thou bearest unto thy people: O visit me with thy salvation;

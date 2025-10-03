@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 48:4
-
 Because I knew that thou art obstinate, and thy neck is an iron sinew, and thy brow brass;

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 81:1
-
 Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.

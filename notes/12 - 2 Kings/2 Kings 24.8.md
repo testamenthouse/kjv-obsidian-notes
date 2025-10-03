@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 24:8
-
 Jehoiachin was eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother's name was Nehushta, the daughter of Elnathan of Jerusalem.

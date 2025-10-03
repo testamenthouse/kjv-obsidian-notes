@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 8:6
-
 And he commanded the people to sit down on the ground: and he took the seven loaves, and gave thanks, and brake, and gave to his disciples to set before them; and they did set them before the people.

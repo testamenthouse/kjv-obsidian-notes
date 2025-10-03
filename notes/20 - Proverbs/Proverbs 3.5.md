@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 3:5
-
 Trust in the LORD with all thine heart; and lean not unto thine own understanding.

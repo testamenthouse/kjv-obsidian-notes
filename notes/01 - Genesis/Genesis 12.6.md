@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 12:6
-
 And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite was then in the land.

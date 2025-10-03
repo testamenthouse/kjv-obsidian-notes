@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 11:1
-
 Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.

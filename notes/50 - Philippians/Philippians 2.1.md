@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 2:1
-
 If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,

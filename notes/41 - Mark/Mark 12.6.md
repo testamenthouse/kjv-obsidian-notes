@@ -13,7 +13,4 @@ grammar_tags: [contrast, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:6
-
 Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, They will reverence my son.

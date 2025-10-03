@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 16:9
-
 Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.

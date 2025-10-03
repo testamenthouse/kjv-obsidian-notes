@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-eschatology, time-period, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 18:14
-
 Is any thing too hard for the LORD? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 3:16
-
 And unto the Reubenites and unto the Gadites I gave from Gilead even unto the river Arnon half the valley, and the border even unto the river Jabbok, which is the border of the children of Ammon;

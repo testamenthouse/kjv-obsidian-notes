@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 9:14
-
 And he did wash the inwards and the legs, and burnt them upon the burnt offering on the altar.

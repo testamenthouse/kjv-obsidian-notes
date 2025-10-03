@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 5:10
-
 There was nothing in the ark save the two tables which Moses put therein at Horeb, when the LORD made a covenant with the children of Israel, when they came out of Egypt.

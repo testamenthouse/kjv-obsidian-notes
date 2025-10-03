@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 49:24
-
 Damascus is waxed feeble, and turneth herself to flee, and fear hath seized on her: anguish and sorrows have taken her, as a woman in travail.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 22:23
-
 And as they cried out, and cast off their clothes, and threw dust into the air,

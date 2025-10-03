@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [time-eschatology, time-period, time]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 4:2
-
 But is under tutors and governors until the time appointed of the father.

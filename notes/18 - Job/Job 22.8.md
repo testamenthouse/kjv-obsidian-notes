@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:8
-
 But as for the mighty man, he had the earth; and the honourable man dwelt in it.

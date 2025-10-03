@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:27
-
 But I say unto you which hear, Love your enemies, do good to them which hate you,

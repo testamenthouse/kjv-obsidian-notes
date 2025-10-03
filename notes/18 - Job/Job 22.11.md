@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:11
-
 Or darkness, that thou canst not see; and abundance of waters cover thee.

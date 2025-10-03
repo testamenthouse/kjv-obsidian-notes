@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 6:12
-
 And Mordecai came again to the king's gate. But Haman hasted to his house mourning, and having his head covered.

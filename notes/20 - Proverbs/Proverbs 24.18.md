@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 24:18
-
 Lest the LORD see it, and it displease him, and he turn away his wrath from him.

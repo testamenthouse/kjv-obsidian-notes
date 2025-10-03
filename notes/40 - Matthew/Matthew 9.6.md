@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 9:6
-
 But that ye may know that the Son of man hath power on earth to forgive sins, (then saith he to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.

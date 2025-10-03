@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 123:4
-
 Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.

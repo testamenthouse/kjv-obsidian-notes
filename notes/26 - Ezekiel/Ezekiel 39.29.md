@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 39:29
-
 Neither will I hide my face any more from them: for I have poured out my spirit upon the house of Israel, saith the Lord GOD.

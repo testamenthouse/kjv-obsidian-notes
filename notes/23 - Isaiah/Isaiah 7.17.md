@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 7:17
-
 The LORD shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come, from the day that Ephraim departed from Judah; even the king of Assyria.

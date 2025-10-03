@@ -13,7 +13,4 @@ grammar_tags: [question, semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 3:4
-
 For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?

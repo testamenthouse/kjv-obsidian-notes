@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 12:40
-
 Now the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years.

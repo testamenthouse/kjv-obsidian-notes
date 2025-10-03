@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 22:10
-
 And ye have numbered the houses of Jerusalem, and the houses have ye broken down to fortify the wall.

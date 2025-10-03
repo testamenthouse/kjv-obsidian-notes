@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 6:77
-
 Unto the rest of the children of Merari were given out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:

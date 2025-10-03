@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:17
-
 My bones are pierced in me in the night season: and my sinews take no rest.

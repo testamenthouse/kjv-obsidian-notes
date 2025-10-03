@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:6
-
 Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee.

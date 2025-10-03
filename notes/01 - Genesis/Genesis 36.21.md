@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 36:21
-
 And Dishon, and Ezer, and Dishan: these are the dukes of the Horites, the children of Seir in the land of Edom.

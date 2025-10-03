@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 43:26
-
 And when Joseph came home, they brought him the present which was in their hand into the house, and bowed themselves to him to the earth.

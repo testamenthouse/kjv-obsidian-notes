@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:21
-
 But do thou for me, O GOD the Lord, for thy name's sake: because thy mercy is good, deliver thou me.

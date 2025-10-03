@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 38:1
-
 And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah.

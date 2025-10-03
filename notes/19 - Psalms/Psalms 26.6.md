@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 26:6
-
 I will wash mine hands in innocency: so will I compass thine altar, O LORD:

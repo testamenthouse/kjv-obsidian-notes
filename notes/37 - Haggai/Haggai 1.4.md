@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 1:4
-
 Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:26
-
 Men and brethren, children of the stock of Abraham, and whosoever among you feareth God, to you is the word of this salvation sent.

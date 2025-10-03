@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 27:1
-
 Jotham was twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother's name also was Jerushah, the daughter of Zadok.

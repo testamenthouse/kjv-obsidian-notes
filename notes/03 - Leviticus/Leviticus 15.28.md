@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 15:28
-
 But if she be cleansed of her issue, then she shall number to herself seven days, and after that she shall be clean.

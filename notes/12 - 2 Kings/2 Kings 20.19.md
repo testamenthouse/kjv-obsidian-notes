@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 20:19
-
 Then said Hezekiah unto Isaiah, Good is the word of the LORD which thou hast spoken. And he said, Is it not good, if peace and truth be in my days?

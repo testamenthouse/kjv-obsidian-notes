@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:32
-
 And Judas and Silas, being prophets also themselves, exhorted the brethren with many words, and confirmed them.

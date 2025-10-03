@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 20:23
-
 Save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me.

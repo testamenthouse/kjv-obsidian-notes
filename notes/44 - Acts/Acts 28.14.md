@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 28:14
-
 Where we found brethren, and were desired to tarry with them seven days: and so we went toward Rome.

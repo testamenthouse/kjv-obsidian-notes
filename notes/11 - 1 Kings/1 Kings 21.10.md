@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, adversary-title, adversary]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 21:10
-
 And set two men, sons of Belial, before him, to bear witness against him, saying, Thou didst blaspheme God and the king. And then carry him out, and stone him, that he may die.

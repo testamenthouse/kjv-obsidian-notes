@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 8:16
-
 And he brought me into the inner court of the LORD's house, and, behold, at the door of the temple of the LORD, between the porch and the altar, were about five and twenty men, with their backs toward the temple of the LORD, and their faces toward the east; and they worshipped the sun toward the east.

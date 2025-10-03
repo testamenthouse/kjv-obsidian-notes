@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Philemon"]
 ---
-
-# Philemon 1:6
-
 That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.

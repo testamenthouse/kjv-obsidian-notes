@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 22:11
-
 And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.

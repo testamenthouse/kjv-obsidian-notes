@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 18:9
-
 Hath walked in my statutes, and hath kept my judgments, to deal truly; he is just, he shall surely live, saith the Lord GOD.

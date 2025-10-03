@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 22:10
-
 And he inquired of the LORD for him, and gave him victuals, and gave him the sword of Goliath the Philistine.

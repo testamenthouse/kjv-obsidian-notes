@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, jesus-title, jesus, thanksgiving]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 2:14
-
 Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.

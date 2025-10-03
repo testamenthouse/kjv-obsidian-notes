@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:25
-
 I became also a reproach unto them: when they looked upon me they shaked their heads.

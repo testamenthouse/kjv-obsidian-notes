@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:9
-
 Give wings unto Moab, that it may flee and get away: for the cities thereof shall be desolate, without any to dwell therein.

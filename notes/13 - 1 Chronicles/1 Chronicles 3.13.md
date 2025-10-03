@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 3:13
-
 Ahaz his son, Hezekiah his son, Manasseh his son,

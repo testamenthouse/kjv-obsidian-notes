@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 5:9
-
 Then asked we those elders, and said unto them thus, Who commanded you to build this house, and to make up these walls?

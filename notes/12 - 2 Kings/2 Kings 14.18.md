@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 14:18
-
 And the rest of the acts of Amaziah, are they not written in the book of the chronicles of the kings of Judah?

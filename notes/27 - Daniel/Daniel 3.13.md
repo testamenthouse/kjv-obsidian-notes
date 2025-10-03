@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 3:13
-
 Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abednego. Then they brought these men before the king.

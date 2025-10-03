@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 3:4
-
 And such trust have we through Christ to God-ward:

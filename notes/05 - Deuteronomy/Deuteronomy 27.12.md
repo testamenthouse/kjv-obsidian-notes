@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 27:12
-
 These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin:

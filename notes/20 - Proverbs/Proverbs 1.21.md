@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 1:21
-
 She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,

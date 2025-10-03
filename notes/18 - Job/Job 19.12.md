@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:12
-
 His troops come together, and raise up their way against me, and encamp round about my tabernacle.

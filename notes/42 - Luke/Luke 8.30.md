@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, jesus, jesus-title, adversary-title, adversary-named, demonic-entities, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:30
-
 And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.

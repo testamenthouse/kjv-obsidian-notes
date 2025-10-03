@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 5:4
-
 They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the LORD.

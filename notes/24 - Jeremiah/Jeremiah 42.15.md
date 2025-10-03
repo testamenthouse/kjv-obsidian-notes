@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, conditional, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 42:15
-
 And now therefore hear the word of the LORD, ye remnant of Judah; Thus saith the LORD of hosts, the God of Israel; If ye wholly set your faces to enter into Egypt, and go to sojourn there;

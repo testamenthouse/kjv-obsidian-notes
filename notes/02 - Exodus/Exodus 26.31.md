@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 26:31
-
 And thou shalt make a vail of blue, and purple, and scarlet, and fine twined linen of cunning work: with cherubim shall it be made:

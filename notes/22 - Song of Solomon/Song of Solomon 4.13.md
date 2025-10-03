@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 4:13
-
 Thy plants are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,

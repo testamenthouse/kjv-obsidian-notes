@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 7:27
-
 But Jesus said unto her, Let the children first be filled: for it is not meet to take the children's bread, and to cast it unto the dogs.

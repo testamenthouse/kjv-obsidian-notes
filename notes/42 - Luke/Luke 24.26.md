@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:26
-
 Ought not Christ to have suffered these things, and to enter into his glory?

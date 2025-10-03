@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 2:21
-
 In those days, while Mordecai sat in the king's gate, two of the king's chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hands on the king Ahasuerus.

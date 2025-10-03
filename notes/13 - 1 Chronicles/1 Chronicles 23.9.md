@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 23:9
-
 The sons of Shimei; Shelomith, and Haziel, and Haran, three. These were the chief of the fathers of Laadan.

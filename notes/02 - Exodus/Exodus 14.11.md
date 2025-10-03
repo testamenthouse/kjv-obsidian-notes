@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 14:11
-
 And they said unto Moses, Because there were no graves in Egypt, hast thou taken us away to die in the wilderness? wherefore hast thou dealt thus with us, to carry us forth out of Egypt?

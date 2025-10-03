@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:11
-
 Of judgment, because the prince of this world is judged.

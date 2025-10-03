@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:32
-
 Or else, while the other is yet a great way off, he sendeth an ambassage, and desireth conditions of peace.

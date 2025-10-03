@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:5
-
 And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed them.

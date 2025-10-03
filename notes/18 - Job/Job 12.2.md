@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:2
-
 No doubt but ye are the people, and wisdom shall die with you.

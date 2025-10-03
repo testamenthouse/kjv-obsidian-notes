@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:25
-
 Wherefore, sirs, be of good cheer: for I believe God, that it shall be even as it was told me.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 30:3
-
 For the day is near, even the day of the LORD is near, a cloudy day; it shall be the time of the heathen.

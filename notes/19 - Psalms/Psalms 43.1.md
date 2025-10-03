@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 43:1
-
 Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.

@@ -13,7 +13,4 @@ grammar_tags: [question, semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:8
-
 It is as high as heaven; what canst thou do? deeper than hell; what canst thou know?

@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ruth"]
 ---
-
-# Ruth 2:10
-
 Then she fell on her face, and bowed herself to the ground, and said unto him, Why have I found grace in thine eyes, that thou shouldest take knowledge of me, seeing I am a stranger?

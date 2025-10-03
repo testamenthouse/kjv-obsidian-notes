@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 1:29
-
 Whereunto I also labour, striving according to his working, which worketh in me mightily.

@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 3:10
-
 Moreover he said unto me, Son of man, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears.

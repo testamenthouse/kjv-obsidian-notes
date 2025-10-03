@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 6:12
-
 Shall horses run upon the rock? will one plow there with oxen? for ye have turned judgment into gall, and the fruit of righteousness into hemlock:

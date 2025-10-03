@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 32:8
-
 All the bright lights of heaven will I make dark over thee, and set darkness upon thy land, saith the Lord GOD.

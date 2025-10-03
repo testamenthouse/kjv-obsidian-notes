@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:27
-
 Then came to him certain of the Sadducees, which deny that there is any resurrection; and they asked him,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:18
-
 And pray ye that your flight be not in the winter.

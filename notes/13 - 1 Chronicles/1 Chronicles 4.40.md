@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 4:40
-
 And they found fat pasture and good, and the land was wide, and quiet, and peaceable; for they of Ham had dwelt there of old.

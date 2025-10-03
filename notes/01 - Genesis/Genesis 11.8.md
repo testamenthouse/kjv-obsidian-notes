@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 11:8
-
 So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 7:12
-
 Am I a sea, or a whale, that thou settest a watch over me?

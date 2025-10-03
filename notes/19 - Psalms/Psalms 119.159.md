@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:159
-
 Consider how I love thy precepts: quicken me, O LORD, according to thy lovingkindness.

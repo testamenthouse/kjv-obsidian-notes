@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 5:8
-
 Jesus saith unto him, Rise, take up thy bed, and walk.

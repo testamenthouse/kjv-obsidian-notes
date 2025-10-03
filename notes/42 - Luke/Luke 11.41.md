@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:41
-
 But rather give alms of such things as ye have; and, behold, all things are clean unto you.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:8
-
 The young men saw me, and hid themselves: and the aged arose, and stood up.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 10:31
-
 Madmenah is removed; the inhabitants of Gebim gather themselves to flee.

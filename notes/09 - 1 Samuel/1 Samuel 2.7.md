@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 2:7
-
 The LORD maketh poor, and maketh rich: he bringeth low, and lifteth up.

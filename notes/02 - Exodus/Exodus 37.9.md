@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 37:9
-
 And the cherubim spread out their wings on high, and covered with their wings over the mercy seat, with their faces one to another; even to the mercy seatward were the faces of the cherubim.

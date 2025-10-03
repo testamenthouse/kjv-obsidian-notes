@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:30
-
 But he passing through the midst of them went his way,

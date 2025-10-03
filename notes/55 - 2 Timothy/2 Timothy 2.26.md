@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 2:26
-
 And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.

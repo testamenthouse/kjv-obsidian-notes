@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 6:11
-
 But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.

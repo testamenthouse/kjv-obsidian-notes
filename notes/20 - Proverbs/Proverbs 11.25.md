@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 11:25
-
 The liberal soul shall be made fat: and he that watereth shall be watered also himself.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 21:7
-
 Howbeit the LORD would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a light to him and to his sons for ever.

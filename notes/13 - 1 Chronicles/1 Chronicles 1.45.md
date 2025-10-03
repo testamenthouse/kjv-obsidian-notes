@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 1:45
-
 And when Jobab was dead, Husham of the land of the Temanites reigned in his stead.

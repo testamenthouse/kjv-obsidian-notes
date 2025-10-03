@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 46:11
-
 Calling a ravenous bird from the east, the man that executeth my counsel from a far country: yea, I have spoken it, I will also bring it to pass; I have purposed it, I will also do it.

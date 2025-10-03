@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 12:15
-
 And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel.

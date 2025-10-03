@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 39:25
-
 Therefore thus saith the Lord GOD; Now will I bring again the captivity of Jacob, and have mercy upon the whole house of Israel, and will be jealous for my holy name;

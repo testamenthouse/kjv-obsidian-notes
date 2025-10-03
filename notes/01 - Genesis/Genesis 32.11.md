@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 32:11
-
 Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, and the mother with the children.

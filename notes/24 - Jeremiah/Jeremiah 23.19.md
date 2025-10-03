@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 23:19
-
 Behold, a whirlwind of the LORD is gone forth in fury, even a grievous whirlwind: it shall fall grievously upon the head of the wicked.

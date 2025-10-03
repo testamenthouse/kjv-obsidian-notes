@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 5:18
-
 And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;

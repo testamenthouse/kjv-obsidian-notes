@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 15:15
-
 And the king's servants said unto the king, Behold, thy servants are ready to do whatsoever my lord the king shall appoint.

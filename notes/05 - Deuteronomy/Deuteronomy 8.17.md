@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 8:17
-
 And thou say in thine heart, My power and the might of mine hand hath gotten me this wealth.

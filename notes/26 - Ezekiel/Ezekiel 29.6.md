@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 29:6
-
 And all the inhabitants of Egypt shall know that I am the LORD, because they have been a staff of reed to the house of Israel.

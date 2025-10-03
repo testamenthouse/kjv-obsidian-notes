@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:30
-
 By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus.

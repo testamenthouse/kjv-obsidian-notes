@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 79:8
-
 O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.

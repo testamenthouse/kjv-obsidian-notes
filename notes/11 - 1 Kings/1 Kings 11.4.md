@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:4
-
 For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the LORD his God, as was the heart of David his father.

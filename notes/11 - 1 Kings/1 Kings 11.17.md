@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:17
-
 That Hadad fled, he and certain Edomites of his father's servants with him, to go into Egypt; Hadad being yet a little child.

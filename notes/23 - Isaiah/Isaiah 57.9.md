@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 57:9
-
 And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst debase thyself even unto hell.

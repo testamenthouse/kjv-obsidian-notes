@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 22:3
-
 And Moab was sore afraid of the people, because they were many: and Moab was distressed because of the children of Israel.

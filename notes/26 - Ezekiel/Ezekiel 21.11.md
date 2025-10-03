@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 21:11
-
 And he hath given it to be furbished, that it may be handled: this sword is sharpened, and it is furbished, to give it into the hand of the slayer.

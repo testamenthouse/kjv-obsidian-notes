@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 13:19
-
 The desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil.

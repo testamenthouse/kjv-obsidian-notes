@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 36:24
-
 Yet they were not afraid, nor rent their garments, neither the king, nor any of his servants that heard all these words.

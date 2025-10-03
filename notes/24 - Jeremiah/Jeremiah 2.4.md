@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 2:4
-
 Hear ye the word of the LORD, O house of Jacob, and all the families of the house of Israel:

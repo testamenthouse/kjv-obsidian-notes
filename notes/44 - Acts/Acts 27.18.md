@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:18
-
 And we being exceedingly tossed with a tempest, the next day they lightened the ship;

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 7:20
-
 He hath taken a bag of money with him, and will come home at the day appointed.

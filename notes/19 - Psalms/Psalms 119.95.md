@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:95
-
 The wicked have waited for me to destroy me: but I will consider thy testimonies.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 9:29
-
 Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority, to confirm this second letter of Purim.

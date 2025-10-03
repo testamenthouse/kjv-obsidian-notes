@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 18:23
-
 But the Levites shall do the service of the tabernacle of the congregation, and they shall bear their iniquity: it shall be a statute for ever throughout your generations, that among the children of Israel they have no inheritance.

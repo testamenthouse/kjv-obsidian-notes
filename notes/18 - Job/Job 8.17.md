@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:17
-
 His roots are wrapped about the heap, and seeth the place of stones.

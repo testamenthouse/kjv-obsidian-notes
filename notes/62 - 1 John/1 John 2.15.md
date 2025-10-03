@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:15
-
 Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.

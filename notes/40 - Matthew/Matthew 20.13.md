@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 20:13
-
 But he answered one of them, and said, Friend, I do thee no wrong: didst not thou agree with me for a penny?

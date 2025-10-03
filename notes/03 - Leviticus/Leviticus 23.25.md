@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 23:25
-
 Ye shall do no servile work therein: but ye shall offer an offering made by fire unto the LORD.

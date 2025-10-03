@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, benediction, time-period, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 113:2
-
 Blessed be the name of the LORD from this time forth and for evermore.

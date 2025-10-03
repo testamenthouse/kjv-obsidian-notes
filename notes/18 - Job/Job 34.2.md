@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:2
-
 Hear my words, O ye wise men; and give ear unto me, ye that have knowledge.

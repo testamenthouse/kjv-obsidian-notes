@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 14:20
-
 At that day ye shall know that I am in my Father, and ye in me, and I in you.

@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 4:33
-
 He went in therefore, and shut the door upon them twain, and prayed unto the LORD.

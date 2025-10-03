@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 23:11
-
 And after him was Shammah the son of Agee the Hararite. And the Philistines were gathered together into a troop, where was a piece of ground full of lentils: and the people fled from the Philistines.

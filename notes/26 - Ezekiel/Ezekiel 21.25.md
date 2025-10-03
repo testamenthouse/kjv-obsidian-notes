@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 21:25
-
 And thou, profane wicked prince of Israel, whose day is come, when iniquity shall have an end,

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:25
-
 And which of you with taking thought can add to his stature one cubit?

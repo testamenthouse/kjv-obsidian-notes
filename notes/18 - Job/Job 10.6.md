@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:6
-
 That thou enquirest after mine iniquity, and searchest after my sin?

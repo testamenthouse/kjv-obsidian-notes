@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 63:3
-
 Because thy lovingkindness is better than life, my lips shall praise thee.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 2:5
-
 For there is one God, and one mediator between God and men, the man Christ Jesus;

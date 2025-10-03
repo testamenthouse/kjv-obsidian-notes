@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 10:12
-
 For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.

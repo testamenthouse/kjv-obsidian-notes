@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 53:9
-
 And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth.

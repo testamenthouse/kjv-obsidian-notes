@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 56:6
-
 They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.

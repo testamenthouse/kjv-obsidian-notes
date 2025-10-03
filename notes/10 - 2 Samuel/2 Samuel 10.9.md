@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 10:9
-
 When Joab saw that the front of the battle was against him before and behind, he chose of all the choice men of Israel, and put them in array against the Syrians:

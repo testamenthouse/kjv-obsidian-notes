@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 29:10
-
 The LORD sitteth upon the flood; yea, the LORD sitteth King for ever.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 148:8
-
 Fire, and hail; snow, and vapours; stormy wind fulfilling his word:

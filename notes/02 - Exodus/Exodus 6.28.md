@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 6:28
-
 And it came to pass on the day when the LORD spake unto Moses in the land of Egypt,

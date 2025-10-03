@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 7:33
-
 And the carcases of this people shall be meat for the fowls of the heaven, and for the beasts of the earth; and none shall fray them away.

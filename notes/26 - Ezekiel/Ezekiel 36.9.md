@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 36:9
-
 For, behold, I am for you, and I will turn unto you, and ye shall be tilled and sown:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 14:16
-
 And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 19:19
-
 Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for thy handmaid, and for the young man which is with thy servants: there is no want of any thing.

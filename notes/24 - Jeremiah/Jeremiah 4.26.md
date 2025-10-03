@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 4:26
-
 I beheld, and, lo, the fruitful place was a wilderness, and all the cities thereof were broken down at the presence of the LORD, and by his fierce anger.

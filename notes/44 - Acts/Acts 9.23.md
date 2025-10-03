@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 9:23
-
 And after that many days were fulfilled, the Jews took counsel to kill him:

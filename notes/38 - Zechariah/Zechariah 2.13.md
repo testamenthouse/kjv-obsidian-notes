@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 2:13
-
 Be silent, O all flesh, before the LORD: for he is raised up out of his holy habitation.

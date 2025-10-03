@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:21
-
 Of the half tribe of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:

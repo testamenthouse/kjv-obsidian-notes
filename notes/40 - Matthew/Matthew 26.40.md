@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:40
-
 And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could ye not watch with me one hour?

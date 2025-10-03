@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 34:23
-
 The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod.

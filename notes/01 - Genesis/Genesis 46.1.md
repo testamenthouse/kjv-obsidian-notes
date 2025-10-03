@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 46:1
-
 And Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices unto the God of his father Isaac.

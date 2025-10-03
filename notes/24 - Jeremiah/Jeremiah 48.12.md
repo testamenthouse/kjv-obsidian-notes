@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:12
-
 Therefore, behold, the days come, saith the LORD, that I will send unto him wanderers, that shall cause him to wander, and shall empty his vessels, and break their bottles.

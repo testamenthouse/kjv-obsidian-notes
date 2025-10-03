@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:21
-
 The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth.

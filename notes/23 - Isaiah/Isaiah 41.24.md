@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 41:24
-
 Behold, ye are of nothing, and your work of nought: an abomination is he that chooseth you.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:54
-
 And he said also to the people, When ye see a cloud rise out of the west, straightway ye say, There cometh a shower; and so it is.

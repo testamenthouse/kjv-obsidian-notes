@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:31
-
 Behold, the days come, saith the LORD, that I will make a new covenant with the house of Israel, and with the house of Judah:

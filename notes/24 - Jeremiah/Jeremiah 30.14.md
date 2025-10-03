@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 30:14
-
 All thy lovers have forgotten thee; they seek thee not; for I have wounded thee with the wound of an enemy, with the chastisement of a cruel one, for the multitude of thine iniquity; because thy sins were increased.

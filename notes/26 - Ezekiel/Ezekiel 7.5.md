@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 7:5
-
 Thus saith the Lord GOD; An evil, an only evil, behold, is come.

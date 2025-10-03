@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 6:25
-
 Then king Darius wrote unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.

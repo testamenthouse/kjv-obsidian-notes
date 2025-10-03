@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 6:14
-
 That thou keep this commandment without spot, unrebukable, until the appearing of our Lord Jesus Christ:

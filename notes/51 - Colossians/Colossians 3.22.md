@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 3:22
-
 Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship, lament, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:41
-
 And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.

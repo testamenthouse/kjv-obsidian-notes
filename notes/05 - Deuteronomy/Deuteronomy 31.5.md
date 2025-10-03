@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 31:5
-
 And the LORD shall give them up before your face, that ye may do unto them according unto all the commandments which I have commanded you.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 46:13
-
 The word that the LORD spake to Jeremiah the prophet, how Nebuchadrezzar king of Babylon should come and smite the land of Egypt.

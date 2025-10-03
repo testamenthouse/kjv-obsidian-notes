@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 22:31
-
 But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,

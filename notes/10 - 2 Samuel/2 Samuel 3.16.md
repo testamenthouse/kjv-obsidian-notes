@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:16
-
 And her husband went with her along weeping behind her to Bahurim. Then said Abner unto him, Go, return. And he returned.

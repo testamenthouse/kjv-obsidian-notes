@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 7:21
-
 I beheld, and the same horn made war with the saints, and prevailed against them;

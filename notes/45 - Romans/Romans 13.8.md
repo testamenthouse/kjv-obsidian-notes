@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 13:8
-
 Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.

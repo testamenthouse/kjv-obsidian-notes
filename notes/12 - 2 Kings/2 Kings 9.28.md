@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 9:28
-
 And his servants carried him in a chariot to Jerusalem, and buried him in his sepulchre with his fathers in the city of David.

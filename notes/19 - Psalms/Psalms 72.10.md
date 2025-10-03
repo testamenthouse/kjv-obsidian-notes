@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 72:10
-
 The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 4:2
-
 Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:

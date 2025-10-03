@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 21:13
-
 Be thou exalted, LORD, in thine own strength: so will we sing and praise thy power.

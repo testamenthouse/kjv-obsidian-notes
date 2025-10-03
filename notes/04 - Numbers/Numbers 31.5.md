@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 31:5
-
 So there were delivered out of the thousands of Israel, a thousand of every tribe, twelve thousand armed for war.

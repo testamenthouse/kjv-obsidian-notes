@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 7:6
-
 For thou art an holy people unto the LORD thy God: the LORD thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth.

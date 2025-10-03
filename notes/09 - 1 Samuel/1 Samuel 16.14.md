@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, demonic-entities, adversary]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 16:14
-
 But the Spirit of the LORD departed from Saul, and an evil spirit from the LORD troubled him.

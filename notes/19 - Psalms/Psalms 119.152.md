@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:152
-
 Concerning thy testimonies, I have known of old that thou hast founded them for ever.

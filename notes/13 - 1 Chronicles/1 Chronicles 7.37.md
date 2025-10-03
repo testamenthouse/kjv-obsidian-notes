@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 7:37
-
 Bezer, and Hod, and Shamma, and Shilshah, and Ithran, and Beera.

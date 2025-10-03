@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 1:6
-
 And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer.

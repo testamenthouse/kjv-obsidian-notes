@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 4:11
-
 At that time shall it be said to this people and to Jerusalem, A dry wind of the high places in the wilderness toward the daughter of my people, not to fan, nor to cleanse,

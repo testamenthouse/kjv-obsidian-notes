@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 4:5
-
 And hired counsellors against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:50
-
 And one of them smote the servant of the high priest, and cut off his right ear.

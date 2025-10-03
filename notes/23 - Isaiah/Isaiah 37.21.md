@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 37:21
-
 Then Isaiah the son of Amoz sent unto Hezekiah, saying, Thus saith the LORD God of Israel, Whereas thou hast prayed to me against Sennacherib king of Assyria:

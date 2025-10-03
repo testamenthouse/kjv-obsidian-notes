@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 18:19
-
 Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies.

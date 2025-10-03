@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:8
-
 But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him, and which stood before him:

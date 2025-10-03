@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 2:2
-
 And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.

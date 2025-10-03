@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 37:22
-
 Their knops and their branches were of the same: all of it was one beaten work of pure gold.

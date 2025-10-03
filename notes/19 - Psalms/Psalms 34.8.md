@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 34:8
-
 O taste and see that the LORD is good: blessed is the man that trusteth in him.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title, time-parts-of-day, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:34
-
 Jesus said unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice.

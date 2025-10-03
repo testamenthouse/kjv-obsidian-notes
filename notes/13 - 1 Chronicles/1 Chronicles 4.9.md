@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 4:9
-
 And Jabez was more honorable than his brethren: and his mother called his name Jabez, saying, Because I bare him with sorrow.

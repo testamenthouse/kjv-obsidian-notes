@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 30:4
-
 And she gave him Bilhah her handmaid to wife: and Jacob went in unto her.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:26
-
 And Gaal the son of Ebed came with his brethren, and went over to Shechem: and the men of Shechem put their confidence in him.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 12:9
-
 For ye are not as yet come to the rest and to the inheritance, which the LORD your God giveth you.

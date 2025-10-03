@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 14:19
-
 Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.

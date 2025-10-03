@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:3
-
 Is it any pleasure to the Almighty, that thou art righteous? or is it gain to him, that thou makest thy ways perfect?

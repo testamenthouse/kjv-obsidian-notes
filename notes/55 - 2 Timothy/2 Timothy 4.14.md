@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 4:14
-
 Alexander the coppersmith did me much evil: the Lord reward him according to his works:

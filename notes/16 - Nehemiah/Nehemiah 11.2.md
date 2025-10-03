@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 11:2
-
 And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem.

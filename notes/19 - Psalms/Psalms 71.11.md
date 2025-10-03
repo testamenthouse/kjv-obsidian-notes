@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 71:11
-
 Saying, God hath forsaken him: persecute and take him; for there is none to deliver him.

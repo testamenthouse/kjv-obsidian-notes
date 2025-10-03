@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 3:22
-
 And they rose up early in the morning, and the sun shone upon the water, and the Moabites saw the water on the other side as red as blood:

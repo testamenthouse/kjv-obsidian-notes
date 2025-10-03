@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:43
-
 For the Amalekites and the Canaanites are there before you, and ye shall fall by the sword: because ye are turned away from the LORD, therefore the LORD will not be with you.

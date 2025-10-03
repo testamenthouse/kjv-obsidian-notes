@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 31:8
-
 And when Hezekiah and the princes came and saw the heaps, they blessed the LORD, and his people Israel.

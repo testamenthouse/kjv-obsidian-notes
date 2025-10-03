@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 13:4
-
 Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,

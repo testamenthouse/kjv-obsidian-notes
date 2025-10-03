@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 50:5
-
 Gather my saints together unto me; those that have made a covenant with me by sacrifice.

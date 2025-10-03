@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:12
-
 Tarshish was thy merchant by reason of the multitude of all kind of riches; with silver, iron, tin, and lead, they traded in thy fairs.

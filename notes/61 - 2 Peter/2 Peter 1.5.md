@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 1:5
-
 And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;

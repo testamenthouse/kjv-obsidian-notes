@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 3:3
-
 How that by revelation he made known unto me the mystery; (as I wrote afore in few words,

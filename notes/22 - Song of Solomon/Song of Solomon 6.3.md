@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 6:3
-
 I am my beloved's, and my beloved is mine: he feedeth among the lilies.

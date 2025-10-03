@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 31:23
-
 O love the LORD, all ye his saints: for the LORD preserveth the faithful, and plentifully rewardeth the proud doer.

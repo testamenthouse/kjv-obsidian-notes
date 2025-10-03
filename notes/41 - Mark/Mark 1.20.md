@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:20
-
 And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 21:16
-
 And Ain with her suburbs, and Juttah with her suburbs, and Bethshemesh with her suburbs; nine cities out of those two tribes.

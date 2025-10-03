@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:21
-
 Let me not, I pray you, accept any man's person, neither let me give flattering titles unto man.

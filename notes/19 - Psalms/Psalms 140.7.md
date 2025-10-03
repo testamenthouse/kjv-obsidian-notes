@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 140:7
-
 O GOD the Lord, the strength of my salvation, thou hast covered my head in the day of battle.

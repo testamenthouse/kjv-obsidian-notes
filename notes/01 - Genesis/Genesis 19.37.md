@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 19:37
-
 And the first born bare a son, and called his name Moab: the same is the father of the Moabites unto this day.

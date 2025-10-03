@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:41
-
 Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 3:18
-
 (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:

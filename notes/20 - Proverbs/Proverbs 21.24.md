@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 21:24
-
 Proud and haughty scorner is his name, who dealeth in proud wrath.

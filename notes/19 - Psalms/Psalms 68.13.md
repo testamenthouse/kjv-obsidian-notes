@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:13
-
 Though ye have lien among the pots, yet shall ye be as the wings of a dove covered with silver, and her feathers with yellow gold.

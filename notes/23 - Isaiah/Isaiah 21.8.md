@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 21:8
-
 And he cried, A lion: My lord, I stand continually upon the watchtower in the daytime, and I am set in my ward whole nights:

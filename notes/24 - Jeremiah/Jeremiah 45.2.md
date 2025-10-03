@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 45:2
-
 Thus saith the LORD, the God of Israel, unto thee, O Baruch:

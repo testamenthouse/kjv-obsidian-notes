@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 12:13
-
 And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:32
-
 But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.

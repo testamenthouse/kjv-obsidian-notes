@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 4:10
-
 Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.

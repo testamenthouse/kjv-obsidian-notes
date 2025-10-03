@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 25:7
-
 And these are the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years.

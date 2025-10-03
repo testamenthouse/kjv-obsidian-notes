@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jonah"]
 ---
-
-# Jonah 3:10
-
 And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [son-of-man, jesus, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:26
-
 And as it was in the days of Noe, so shall it be also in the days of the Son of man.

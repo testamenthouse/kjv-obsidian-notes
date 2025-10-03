@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 45:11
-
 So shall the king greatly desire thy beauty: for he is thy Lord; and worship thou him.

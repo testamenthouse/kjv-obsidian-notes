@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 56:5
-
 Every day they wrest my words: all their thoughts are against me for evil.

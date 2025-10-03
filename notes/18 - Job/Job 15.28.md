@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:28
-
 And he dwelleth in desolate cities, and in houses which no man inhabiteth, which are ready to become heaps.

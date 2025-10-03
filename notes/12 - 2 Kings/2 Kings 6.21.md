@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 6:21
-
 And the king of Israel said unto Elisha, when he saw them, My father, shall I smite them? shall I smite them?

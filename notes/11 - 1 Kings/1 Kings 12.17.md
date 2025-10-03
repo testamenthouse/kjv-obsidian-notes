@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:17
-
 But as for the children of Israel which dwelt in the cities of Judah, Rehoboam reigned over them.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Malachi"]
 ---
-
-# Malachi 1:1
-
 The burden of the word of the LORD to Israel by Malachi.

@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:2
-
 Oh that my grief were throughly weighed, and my calamity laid in the balances together!

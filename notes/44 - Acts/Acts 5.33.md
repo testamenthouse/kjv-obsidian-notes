@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:33
-
 When they heard that, they were cut to the heart, and took counsel to slay them.

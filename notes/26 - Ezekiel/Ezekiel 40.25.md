@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 40:25
-
 And there were windows in it and in the arches thereof round about, like those windows: the length was fifty cubits, and the breadth five and twenty cubits.

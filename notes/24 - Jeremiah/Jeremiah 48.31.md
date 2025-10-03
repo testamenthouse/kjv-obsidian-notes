@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:31
-
 Therefore will I howl for Moab, and I will cry out for all Moab; mine heart shall mourn for the men of Kirheres.

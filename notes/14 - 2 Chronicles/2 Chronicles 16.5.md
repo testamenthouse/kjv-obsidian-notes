@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 16:5
-
 And it came to pass, when Baasha heard it, that he left off building of Ramah, and let his work cease.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 26:7
-
 That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.

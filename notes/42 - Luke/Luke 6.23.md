@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:23
-
 Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets.

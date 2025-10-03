@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 22:1
-
 The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops?

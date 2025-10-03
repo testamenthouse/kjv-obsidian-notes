@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 16:29
-
 Abraham saith unto him, They have Moses and the prophets; let them hear them.

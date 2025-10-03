@@ -13,7 +13,4 @@ grammar_tags: [question, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 9:17
-
 As yet exaltest thou thyself against my people, that thou wilt not let them go?

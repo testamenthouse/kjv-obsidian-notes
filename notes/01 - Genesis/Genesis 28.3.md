@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 28:3
-
 And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people;

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 10:18
-
 But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.

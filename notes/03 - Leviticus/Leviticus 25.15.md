@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:15
-
 According to the number of years after the jubilee thou shalt buy of thy neighbor, and according unto the number of years of the fruits he shall sell unto thee:

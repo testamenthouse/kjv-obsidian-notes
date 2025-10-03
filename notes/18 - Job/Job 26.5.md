@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 26:5
-
 Dead things are formed from under the waters, and the inhabitants thereof.

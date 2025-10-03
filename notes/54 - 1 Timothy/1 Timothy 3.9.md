@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 3:9
-
 Holding the mystery of the faith in a pure conscience.

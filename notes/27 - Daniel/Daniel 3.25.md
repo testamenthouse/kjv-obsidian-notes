@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god, son-of-god, jesus]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 3:25
-
 He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.

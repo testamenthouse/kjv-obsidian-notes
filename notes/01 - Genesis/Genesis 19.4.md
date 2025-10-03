@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 19:4
-
 But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter:

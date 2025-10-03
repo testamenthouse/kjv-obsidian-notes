@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 1:4
-
 Now therefore thus saith the LORD, Thou shalt not come down from that bed on which thou art gone up, but shalt surely die. And Elijah departed.

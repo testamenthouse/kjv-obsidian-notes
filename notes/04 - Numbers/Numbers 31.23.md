@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 31:23
-
 Every thing that may abide the fire, ye shall make it go through the fire, and it shall be clean: nevertheless it shall be purified with the water of separation: and all that abideth not the fire ye shall make go through the water.

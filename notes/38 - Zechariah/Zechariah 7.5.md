@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [lament, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 7:5
-
 Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh month, even those seventy years, did ye at all fast unto me, even to me?

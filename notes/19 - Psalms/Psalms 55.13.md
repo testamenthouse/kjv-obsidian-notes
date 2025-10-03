@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 55:13
-
 But it was thou, a man mine equal, my guide, and mine acquaintance.

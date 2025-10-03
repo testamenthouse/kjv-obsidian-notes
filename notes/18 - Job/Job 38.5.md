@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:5
-
 Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?

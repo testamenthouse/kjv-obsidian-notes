@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Philemon"]
 ---
-
-# Philemon 1:3
-
 Grace to you, and peace, from God our Father and the Lord Jesus Christ.

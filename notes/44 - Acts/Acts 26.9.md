@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:9
-
 I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.

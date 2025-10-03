@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:44
-
 The king said moreover to Shimei, Thou knowest all the wickedness which thine heart is privy to, that thou didst to David my father: therefore the LORD shall return thy wickedness upon thine own head;

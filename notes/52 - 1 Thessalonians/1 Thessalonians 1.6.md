@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 1:6
-
 And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost.

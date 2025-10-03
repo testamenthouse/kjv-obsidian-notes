@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 43:9
-
 Now let them put away their whoredom, and the carcases of their kings, far from me, and I will dwell in the midst of them for ever.

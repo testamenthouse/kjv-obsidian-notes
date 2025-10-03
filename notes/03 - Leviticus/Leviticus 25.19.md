@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:19
-
 And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety.

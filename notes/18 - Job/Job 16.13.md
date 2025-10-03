@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:13
-
 His archers compass me round about, he cleaveth my reins asunder, and doth not spare; he poureth out my gall upon the ground.

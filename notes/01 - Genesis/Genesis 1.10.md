@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 1:10
-
 And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.

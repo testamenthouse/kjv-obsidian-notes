@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 10:6
-
 In burnt offerings and sacrifices for sin thou hast had no pleasure.

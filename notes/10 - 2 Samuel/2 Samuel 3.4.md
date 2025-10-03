@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, conditional, genealogy-struc
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:4
-
 And the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of Abital;

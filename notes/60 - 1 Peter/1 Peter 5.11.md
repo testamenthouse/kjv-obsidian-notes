@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [time-eschatology, time]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 5:11
-
 To him be glory and dominion for ever and ever. Amen.

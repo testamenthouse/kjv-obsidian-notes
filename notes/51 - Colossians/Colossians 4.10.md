@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 4:10
-
 Aristarchus my fellowprisoner saluteth you, and Marcus, sister's son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;)

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant, time-units, time-period, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 10:8
-
 At that time the LORD separated the tribe of Levi, to bear the ark of the covenant of the LORD, to stand before the LORD to minister unto him, and to bless in his name, unto this day.

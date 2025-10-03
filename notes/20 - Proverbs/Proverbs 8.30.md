@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 8:30
-
 Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 3:11
-
 And the land had rest forty years. And Othniel the son of Kenaz died.

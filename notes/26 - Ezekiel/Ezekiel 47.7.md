@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 47:7
-
 Now when I had returned, behold, at the bank of the river were very many trees on the one side and on the other.

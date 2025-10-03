@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 34:2
-
 My soul shall make her boast in the LORD: the humble shall hear thereof, and be glad.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 31:15
-
 And the LORD appeared in the tabernacle in a pillar of a cloud: and the pillar of the cloud stood over the door of the tabernacle.

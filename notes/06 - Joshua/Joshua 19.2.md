@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 19:2
-
 And they had in their inheritance Beersheba, and Sheba, and Moladah,

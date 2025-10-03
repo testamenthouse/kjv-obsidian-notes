@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 5:12
-
 Then asked they him, What man is that which said unto thee, Take up thy bed, and walk?

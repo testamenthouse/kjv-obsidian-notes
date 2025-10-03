@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 2:15
-
 And his host, and those that were numbered of them, were forty and five thousand and six hundred and fifty.

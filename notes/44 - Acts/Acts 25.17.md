@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:17
-
 Therefore, when they were come hither, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth.

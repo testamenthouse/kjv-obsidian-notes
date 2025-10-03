@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 2:12
-
 And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;

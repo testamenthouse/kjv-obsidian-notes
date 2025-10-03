@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:17
-
 Because God hath deprived her of wisdom, neither hath he imparted to her understanding.

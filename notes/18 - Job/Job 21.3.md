@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:3
-
 Suffer me that I may speak; and after that I have spoken, mock on.

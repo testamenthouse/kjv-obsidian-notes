@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:20
-
 Whence then cometh wisdom? and where is the place of understanding?

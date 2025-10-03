@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:68
-
 Blessed be the Lord God of Israel; for he hath visited and redeemed his people,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:30
-
 He then having received the sop went immediately out: and it was night.

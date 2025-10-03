@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 23:28
-
 Wherefore Saul returned from pursuing after David, and went against the Philistines: therefore they called that place Selahammahlekoth.

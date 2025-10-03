@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 35:23
-
 And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats' hair, and red skins of rams, and badgers' skins, brought them.

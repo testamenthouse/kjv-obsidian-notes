@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 9:18
-
 And there were six steps to the throne, with a footstool of gold, which were fastened to the throne, and stays on each side of the sitting place, and two lions standing by the stays:

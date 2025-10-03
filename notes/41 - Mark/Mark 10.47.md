@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [jesus, jesus-title, lament]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:47
-
 And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, thou son of David, have mercy on me.

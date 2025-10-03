@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 2:7
-
 And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.

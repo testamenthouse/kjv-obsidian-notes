@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 50:20
-
 But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.

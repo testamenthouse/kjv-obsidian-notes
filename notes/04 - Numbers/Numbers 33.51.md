@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 33:51
-
 Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;

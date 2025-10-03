@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:15
-
 Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight.

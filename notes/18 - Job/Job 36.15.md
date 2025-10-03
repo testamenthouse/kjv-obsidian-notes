@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:15
-
 He delivereth the poor in his affliction, and openeth their ears in oppression.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:2
-
 And, behold, there came up out of the river seven well favored kine and fatfleshed; and they fed in a meadow.

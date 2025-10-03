@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:16
-
 Jesus answered them, and said, My doctrine is not mine, but his that sent me.

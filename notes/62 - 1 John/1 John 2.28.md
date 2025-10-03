@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:28
-
 And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 4:18
-
 And his wife Jehudijah bare Jered the father of Gedor, and Heber the father of Socho, and Jekuthiel the father of Zanoah. And these are the sons of Bithiah the daughter of Pharaoh, which Mered took.

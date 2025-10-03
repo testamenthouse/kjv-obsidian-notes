@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 6:42
-
 O LORD God, turn not away the face of thine anointed: remember the mercies of David thy servant.

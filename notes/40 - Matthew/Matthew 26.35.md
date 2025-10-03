@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:35
-
 Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples.

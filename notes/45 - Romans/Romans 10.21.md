@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 10:21
-
 But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.

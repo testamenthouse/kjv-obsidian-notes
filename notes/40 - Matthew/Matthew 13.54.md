@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 13:54
-
 And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?

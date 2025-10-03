@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 131:3
-
 Let Israel hope in the LORD from henceforth and for ever.

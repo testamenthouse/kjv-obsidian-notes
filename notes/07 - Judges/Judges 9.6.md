@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:6
-
 And all the men of Shechem gathered together, and all the house of Millo, and went, and made Abimelech king, by the plain of the pillar that was in Shechem.

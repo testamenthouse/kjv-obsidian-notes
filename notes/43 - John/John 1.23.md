@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 1:23
-
 He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.

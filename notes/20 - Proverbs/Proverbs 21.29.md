@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 21:29
-
 A wicked man hardeneth his face: but as for the upright, he directeth his way.

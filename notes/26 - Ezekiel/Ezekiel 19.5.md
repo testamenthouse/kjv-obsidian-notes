@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 19:5
-
 Now when she saw that she had waited, and her hope was lost, then she took another of her whelps, and made him a young lion.

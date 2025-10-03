@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 8:10
-
 And straightway he entered into a ship with his disciples, and came into the parts of Dalmanutha.

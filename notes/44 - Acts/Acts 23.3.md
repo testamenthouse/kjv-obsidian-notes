@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 23:3
-
 Then said Paul unto him, God shall smite thee, thou whited wall: for sittest thou to judge me after the law, and commandest me to be smitten contrary to the law?

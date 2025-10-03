@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:26
-
 Ye shall not eat any thing with the blood: neither shall ye use enchantment, nor observe times.

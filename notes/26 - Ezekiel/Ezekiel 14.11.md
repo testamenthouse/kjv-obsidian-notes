@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 14:11
-
 That the house of Israel may go no more astray from me, neither be polluted any more with all their transgressions; but that they may be my people, and I may be their God, saith the Lord GOD.

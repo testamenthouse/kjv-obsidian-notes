@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 14:27
-
 And the Levite that is within thy gates; thou shalt not forsake him; for he hath no part nor inheritance with thee.

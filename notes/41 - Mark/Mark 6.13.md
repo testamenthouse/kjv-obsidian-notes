@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:13
-
 And they cast out many devils, and anointed with oil many that were sick, and healed them.

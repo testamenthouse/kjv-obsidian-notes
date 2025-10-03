@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 10:3
-
 For the wicked boasteth of his heart's desire, and blesseth the covetous, whom the LORD abhorreth.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 6:32
-
 But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-title, adversary]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:13
-
 I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.

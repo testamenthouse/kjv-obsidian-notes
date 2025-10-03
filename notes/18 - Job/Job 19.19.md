@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:19
-
 All my inward friends abhorred me: and they whom I loved are turned against me.

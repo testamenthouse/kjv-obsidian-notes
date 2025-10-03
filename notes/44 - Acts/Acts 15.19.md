@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:19
-
 Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:

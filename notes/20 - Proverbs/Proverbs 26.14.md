@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 26:14
-
 As the door turneth upon his hinges, so doth the slothful upon his bed.

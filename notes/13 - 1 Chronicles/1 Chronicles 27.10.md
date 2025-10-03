@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:10
-
 The seventh captain for the seventh month was Helez the Pelonite, of the children of Ephraim: and in his course were twenty and four thousand.

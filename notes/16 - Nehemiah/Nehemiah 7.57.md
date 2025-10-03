@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 7:57
-
 The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Perida,

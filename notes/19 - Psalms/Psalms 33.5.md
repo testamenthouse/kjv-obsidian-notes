@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 33:5
-
 He loveth righteousness and judgment: the earth is full of the goodness of the LORD.

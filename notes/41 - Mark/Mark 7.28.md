@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 7:28
-
 And she answered and said unto him, Yes, Lord: yet the dogs under the table eat of the children's crumbs.

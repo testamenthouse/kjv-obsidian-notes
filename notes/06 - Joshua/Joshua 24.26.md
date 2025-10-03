@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 24:26
-
 And Joshua wrote these words in the book of the law of God, and took a great stone, and set it up there under an oak, that was by the sanctuary of the LORD.

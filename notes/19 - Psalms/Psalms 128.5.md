@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 128:5
-
 The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.

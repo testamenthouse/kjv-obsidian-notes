@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 9:22
-
 And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding.

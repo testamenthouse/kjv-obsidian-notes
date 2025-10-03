@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 23:33
-
 Who, when they came to Caesarea and delivered the epistle to the governor, presented Paul also before him.

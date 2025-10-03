@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:53
-
 And he took it down, and wrapped it in linen, and laid it in a sepulchre that was hewn in stone, wherein never man before was laid.

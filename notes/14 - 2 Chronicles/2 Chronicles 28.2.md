@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 28:2
-
 For he walked in the ways of the kings of Israel, and made also molten images for Baalim.

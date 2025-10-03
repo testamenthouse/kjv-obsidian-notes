@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 3:15
-
 But even unto this day, when Moses is read, the vail is upon their heart.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 2:13
-
 Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;

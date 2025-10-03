@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 22:10
-
 And I said, What shall I do, LORD? And the Lord said unto me, Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do.

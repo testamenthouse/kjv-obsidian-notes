@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:26
-
 He shall cry unto me, Thou art my father, my God, and the rock of my salvation.

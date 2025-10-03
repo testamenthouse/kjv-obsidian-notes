@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 7:42
-
 And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?

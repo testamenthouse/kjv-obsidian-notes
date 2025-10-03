@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:23
-
 For I know that thou wilt bring me to death, and to the house appointed for all living.

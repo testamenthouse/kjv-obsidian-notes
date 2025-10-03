@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 16:17
-
 Every man shall give as he is able, according to the blessing of the LORD thy God which he hath given thee.

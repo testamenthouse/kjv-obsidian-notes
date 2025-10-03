@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:29
-
 And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 7:14
-
 And when he had called all the people unto him, he said unto them, Hearken unto me every one of you, and understand:

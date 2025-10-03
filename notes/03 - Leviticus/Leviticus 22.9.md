@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 22:9
-
 They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the LORD do sanctify them.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 23:24
-
 Thou shalt not bow down to their gods, nor serve them, nor do after their works: but thou shalt utterly overthrow them, and quite break down their images.

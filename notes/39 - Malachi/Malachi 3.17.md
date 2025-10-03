@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Malachi"]
 ---
-
-# Malachi 3:17
-
 And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.

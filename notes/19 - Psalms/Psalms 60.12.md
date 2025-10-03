@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 60:12
-
 Through God we shall do valiantly: for he it is that shall tread down our enemies.

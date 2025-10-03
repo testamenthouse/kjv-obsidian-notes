@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 13:21
-
 Then I testified against them, and said unto them, Why lodge ye about the wall? if ye do so again, I will lay hands on you. From that time forth came they no more on the sabbath.

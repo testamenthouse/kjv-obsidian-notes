@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 3:10
-
 Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.

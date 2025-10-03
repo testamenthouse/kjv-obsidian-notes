@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 23:14
-
 And that she increased her whoredoms: for when she saw men pourtrayed upon the wall, the images of the Chaldeans pourtrayed with vermilion,

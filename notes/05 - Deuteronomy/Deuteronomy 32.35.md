@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 32:35
-
 To me belongeth vengeance and recompence; their foot shall slide in due time: for the day of their calamity is at hand, and the things that shall come upon them make haste.

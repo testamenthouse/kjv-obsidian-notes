@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:32
-
 It shall be accomplished before his time, and his branch shall not be green.

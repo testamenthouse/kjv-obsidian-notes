@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 29:2
-
 And the lords of the Philistines passed on by hundreds, and by thousands: but David and his men passed on in the rearward with Achish.

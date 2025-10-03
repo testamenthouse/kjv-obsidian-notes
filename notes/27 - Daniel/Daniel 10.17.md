@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 10:17
-
 For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me.

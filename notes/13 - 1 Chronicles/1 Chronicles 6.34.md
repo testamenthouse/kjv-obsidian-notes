@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 6:34
-
 The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,

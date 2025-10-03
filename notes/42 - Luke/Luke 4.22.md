@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:22
-
 And all bare him witness, and wondered at the gracious words which proceeded out of his mouth. And they said, Is not this Joseph's son?

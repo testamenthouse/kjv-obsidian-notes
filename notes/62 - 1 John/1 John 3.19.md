@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 3:19
-
 And hereby we know that we are of the truth, and shall assure our hearts before him.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 33:2
-
 Thus saith the LORD the maker thereof, the LORD that formed it, to establish it; the LORD is his name;

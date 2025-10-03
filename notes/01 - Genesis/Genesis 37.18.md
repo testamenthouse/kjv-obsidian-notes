@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 37:18
-
 And when they saw him afar off, even before he came near unto them, they conspired against him to slay him.

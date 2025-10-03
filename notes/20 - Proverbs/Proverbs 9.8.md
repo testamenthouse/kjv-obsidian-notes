@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 9:8
-
 Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee.

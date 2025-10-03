@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:57
-
 Thou drewest near in the day that I called upon thee: thou saidst, Fear not.

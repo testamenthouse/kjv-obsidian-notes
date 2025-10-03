@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:13
-
 The blessing of him that was ready to perish came upon me: and I caused the widow's heart to sing for joy.

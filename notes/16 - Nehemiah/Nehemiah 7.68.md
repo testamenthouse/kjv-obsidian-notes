@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 7:68
-
 Their horses, seven hundred thirty and six: their mules, two hundred forty and five:

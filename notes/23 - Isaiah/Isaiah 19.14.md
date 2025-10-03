@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 19:14
-
 The LORD hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken man staggereth in his vomit.

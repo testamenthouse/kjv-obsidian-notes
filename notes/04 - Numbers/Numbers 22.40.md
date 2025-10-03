@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 22:40
-
 And Balak offered oxen and sheep, and sent to Balaam, and to the princes that were with him.

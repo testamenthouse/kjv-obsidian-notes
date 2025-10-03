@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:21
-
 If I have lifted up my hand against the fatherless, when I saw my help in the gate:

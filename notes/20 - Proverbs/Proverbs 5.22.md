@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 5:22
-
 His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.

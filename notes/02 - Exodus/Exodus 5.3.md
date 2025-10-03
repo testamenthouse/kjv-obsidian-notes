@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 5:3
-
 And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days' journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword.

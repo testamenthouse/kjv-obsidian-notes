@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 5:11
-
 But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;

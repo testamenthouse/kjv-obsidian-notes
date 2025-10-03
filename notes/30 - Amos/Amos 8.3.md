@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 8:3
-
 And the songs of the temple shall be howlings in that day, saith the Lord GOD: there shall be many dead bodies in every place; they shall cast them forth with silence.

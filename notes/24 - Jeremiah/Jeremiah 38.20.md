@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 38:20
-
 But Jeremiah said, They shall not deliver thee. Obey, I beseech thee, the voice of the LORD, which I speak unto thee: so it shall be well unto thee, and thy soul shall live.

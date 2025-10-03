@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 29:24
-
 Whoso is partner with a thief hateth his own soul: he heareth cursing, and bewrayeth it not.

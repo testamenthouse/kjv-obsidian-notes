@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 10:14
-
 Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,

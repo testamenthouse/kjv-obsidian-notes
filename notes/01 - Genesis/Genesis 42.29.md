@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 42:29
-
 And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,

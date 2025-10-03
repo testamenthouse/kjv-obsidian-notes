@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 36:37
-
 And he made an hanging for the tabernacle door of blue, and purple, and scarlet, and fine twined linen, of needlework;

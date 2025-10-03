@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 40:9
-
 I have preached righteousness in the great congregation: lo, I have not refrained my lips, O LORD, thou knowest.

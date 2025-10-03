@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 77:1
-
 I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.

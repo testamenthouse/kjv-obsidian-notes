@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 31:3
-
 Behold, the Assyrian was a cedar in Lebanon with fair branches, and with a shadowing shroud, and of an high stature; and his top was among the thick boughs.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 24:11
-
 And you went over Jordan, and came unto Jericho: and the men of Jericho fought against you, the Amorites, and the Perizzites, and the Canaanites, and the Hittites, and the Girgashites, the Hivites, and the Jebusites; and I delivered them into your hand.

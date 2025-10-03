@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:19
-
 Nevertheless thou shalt not build the house; but thy son that shall come forth out of thy loins, he shall build the house unto my name.

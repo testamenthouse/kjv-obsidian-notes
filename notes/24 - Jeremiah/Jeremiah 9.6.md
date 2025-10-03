@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 9:6
-
 Thine habitation is in the midst of deceit; through deceit they refuse to know me, saith the LORD.

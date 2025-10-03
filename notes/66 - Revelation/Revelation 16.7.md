@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 16:7
-
 And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous are thy judgments.

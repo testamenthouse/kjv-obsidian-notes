@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 5:1
-
 This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;

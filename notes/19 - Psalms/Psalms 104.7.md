@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:7
-
 At thy rebuke they fled; at the voice of thy thunder they hasted away.

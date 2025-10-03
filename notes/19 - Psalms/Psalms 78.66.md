@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:66
-
 And he smote his enemies in the hinder parts: he put them to a perpetual reproach.

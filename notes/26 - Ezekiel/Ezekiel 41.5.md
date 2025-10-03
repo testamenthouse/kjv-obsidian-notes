@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 41:5
-
 After he measured the wall of the house, six cubits; and the breadth of every side chamber, four cubits, round about the house on every side.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 3:6
-
 For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,

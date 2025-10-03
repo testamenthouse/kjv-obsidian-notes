@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 71:16
-
 I will go in the strength of the Lord GOD: I will make mention of thy righteousness, even of thine only.

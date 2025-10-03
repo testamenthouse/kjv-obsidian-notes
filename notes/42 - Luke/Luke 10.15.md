@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:15
-
 And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.

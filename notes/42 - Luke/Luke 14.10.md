@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:10
-
 But when thou art bidden, go and sit down in the lowest room; that when he that bade thee cometh, he may say unto thee, Friend, go up higher: then shalt thou have worship in the presence of them that sit at meat with thee.

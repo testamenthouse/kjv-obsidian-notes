@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 10:9
-
 He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.

@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus, time-period, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:69
-
 Hereafter shall the Son of man sit on the right hand of the power of God.

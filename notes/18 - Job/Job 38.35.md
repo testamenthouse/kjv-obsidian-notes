@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:35
-
 Canst thou send lightnings, that they may go and say unto thee, Here we are?

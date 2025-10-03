@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:17
-
 Where the birds make their nests: as for the stork, the fir trees are her house.

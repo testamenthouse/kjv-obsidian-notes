@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 10:5
-
 When ye blow an alarm, then the camps that lie on the east parts shall go forward.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 17:8
-
 And I have been with thee whithersoever thou hast walked, and have cut off all thine enemies from before thee, and have made thee a name like the name of the great men that are in the earth.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 2:10
-
 Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite.

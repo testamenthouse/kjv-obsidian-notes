@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 1:19
-
 Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily.

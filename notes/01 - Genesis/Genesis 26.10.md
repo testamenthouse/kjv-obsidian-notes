@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 26:10
-
 And Abimelech said, What is this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.

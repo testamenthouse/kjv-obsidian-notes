@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 6:10
-
 Take of them of the captivity, even of Heldai, of Tobijah, and of Jedaiah, which are come from Babylon, and come thou the same day, and go into the house of Josiah the son of Zephaniah;

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 85:4
-
 Turn us, O God of our salvation, and cause thine anger toward us to cease.

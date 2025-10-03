@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:15
-
 When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone.

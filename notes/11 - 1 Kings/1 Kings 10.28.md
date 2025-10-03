@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 10:28
-
 And Solomon had horses brought out of Egypt, and linen yarn: the king's merchants received the linen yarn at a price.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:40
-
 Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 10:24
-
 And all the earth sought to Solomon, to hear his wisdom, which God had put in his heart.

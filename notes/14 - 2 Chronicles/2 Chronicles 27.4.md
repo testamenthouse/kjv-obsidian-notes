@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 27:4
-
 Moreover he built cities in the mountains of Judah, and in the forests he built castles and towers.

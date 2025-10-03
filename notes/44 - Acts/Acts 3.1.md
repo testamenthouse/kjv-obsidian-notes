@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 3:1
-
 Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour.

@@ -13,7 +13,4 @@ grammar_tags: [question, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 29:17
-
 Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?

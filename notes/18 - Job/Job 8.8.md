@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:8
-
 For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:

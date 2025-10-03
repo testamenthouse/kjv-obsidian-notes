@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 37:27
-
 My tabernacle also shall be with them: yea, I will be their God, and they shall be my people.

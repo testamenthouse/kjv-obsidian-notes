@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 12:12
-
 And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept sheep.

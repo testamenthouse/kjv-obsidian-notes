@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 3:17
-
 And the way of peace have they not known:

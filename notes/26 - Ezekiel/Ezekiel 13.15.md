@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 13:15
-
 Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered morter, and will say unto you, The wall is no more, neither they that daubed it;

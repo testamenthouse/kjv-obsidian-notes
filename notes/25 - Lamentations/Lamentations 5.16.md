@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 5:16
-
 The crown is fallen from our head: woe unto us, that we have sinned!

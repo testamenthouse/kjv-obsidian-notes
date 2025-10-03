@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 34:26
-
 And I will make them and the places round about my hill a blessing; and I will cause the shower to come down in his season; there shall be showers of blessing.

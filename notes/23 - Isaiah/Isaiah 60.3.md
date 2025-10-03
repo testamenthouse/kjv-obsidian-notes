@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 60:3
-
 And the Gentiles shall come to thy light, and kings to the brightness of thy rising.

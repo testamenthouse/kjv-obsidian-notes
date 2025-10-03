@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 9:3
-
 And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,

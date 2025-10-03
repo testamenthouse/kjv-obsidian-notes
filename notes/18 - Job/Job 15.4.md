@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:4
-
 Yea, thou castest off fear, and restrainest prayer before God.

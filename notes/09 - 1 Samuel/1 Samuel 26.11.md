@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 26:11
-
 The LORD forbid that I should stretch forth mine hand against the LORD's anointed: but, I pray thee, take thou now the spear that is at his bolster, and the cruse of water, and let us go.

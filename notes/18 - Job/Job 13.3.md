@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:3
-
 Surely I would speak to the Almighty, and I desire to reason with God.

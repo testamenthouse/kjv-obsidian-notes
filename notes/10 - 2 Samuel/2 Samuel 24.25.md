@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 24:25
-
 And David built there an altar unto the LORD, and offered burnt offerings and peace offerings. So the LORD was intreated for the land, and the plague was stayed from Israel.

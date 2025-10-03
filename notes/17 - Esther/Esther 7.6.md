@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [adversary-title, adversary]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 7:6
-
 And Esther said, The adversary and enemy is this wicked Haman. Then Haman was afraid before the king and the queen.

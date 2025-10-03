@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 43:4
-
 Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.

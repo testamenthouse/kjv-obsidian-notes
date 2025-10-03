@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 21:41
-
 All the cities of the Levites within the possession of the children of Israel were forty and eight cities with their suburbs.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:1
-
 Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;

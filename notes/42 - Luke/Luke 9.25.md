@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:25
-
 For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?

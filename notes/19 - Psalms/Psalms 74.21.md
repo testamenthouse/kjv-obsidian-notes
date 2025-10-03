@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 74:21
-
 O let not the oppressed return ashamed: let the poor and needy praise thy name.

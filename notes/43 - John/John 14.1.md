@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 14:1
-
 Let not your heart be troubled: ye believe in God, believe also in me.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:14
-
 But when the husbandmen saw him, they reasoned among themselves, saying, This is the heir: come, let us kill him, that the inheritance may be ours.

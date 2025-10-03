@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 30:25
-
 But I will strengthen the arms of the king of Babylon, and the arms of Pharaoh shall fall down; and they shall know that I am the LORD, when I shall put my sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt.

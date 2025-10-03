@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 82:2
-
 How long will ye judge unjustly, and accept the persons of the wicked? Selah.

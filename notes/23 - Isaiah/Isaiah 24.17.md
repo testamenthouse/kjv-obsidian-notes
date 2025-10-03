@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 24:17
-
 Fear, and the pit, and the snare, are upon thee, O inhabitant of the earth.

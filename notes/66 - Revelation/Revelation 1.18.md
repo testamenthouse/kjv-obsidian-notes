@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, greeting/closing]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 1:18
-
 I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.

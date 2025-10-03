@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:17
-
 His remembrance shall perish from the earth, and he shall have no name in the street.

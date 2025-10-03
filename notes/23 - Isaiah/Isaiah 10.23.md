@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 10:23
-
 For the Lord GOD of hosts shall make a consumption, even determined, in the midst of all the land.

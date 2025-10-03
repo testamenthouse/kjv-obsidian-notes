@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 13:18
-
 Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet ye bring more wrath upon Israel by profaning the sabbath.

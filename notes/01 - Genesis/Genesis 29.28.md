@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 29:28
-
 And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also.

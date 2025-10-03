@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 5:7
-
 And these things give in charge, that they may be blameless.

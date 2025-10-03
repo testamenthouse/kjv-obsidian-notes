@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 27:23
-
 Be thou diligent to know the state of thy flocks, and look well to thy herds.

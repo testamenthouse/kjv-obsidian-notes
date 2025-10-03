@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:16
-
 Then Paul stood up, and beckoning with his hand said, Men of Israel, and ye that fear God, give audience.

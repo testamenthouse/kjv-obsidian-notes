@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 97:2
-
 Clouds and darkness are round about him: righteousness and judgment are the habitation of his throne.

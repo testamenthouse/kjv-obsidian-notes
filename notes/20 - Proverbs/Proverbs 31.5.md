@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 31:5
-
 Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:2
-
 Some remove the landmarks; they violently take away flocks, and feed thereof.

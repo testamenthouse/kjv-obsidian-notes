@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:31
-
 And the second is like, namely this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.

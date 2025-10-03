@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 8:7
-
 For my mouth shall speak truth; and wickedness is an abomination to my lips.

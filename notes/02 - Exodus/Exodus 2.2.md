@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 2:2
-
 And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months.

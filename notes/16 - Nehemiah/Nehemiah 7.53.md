@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 7:53
-
 The children of Bakbuk, the children of Hakupha, the children of Harhur,

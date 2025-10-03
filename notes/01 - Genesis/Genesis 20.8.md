@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 20:8
-
 Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid.

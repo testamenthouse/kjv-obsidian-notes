@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 43:12
-
 And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry it again in your hand; peradventure it was an oversight:

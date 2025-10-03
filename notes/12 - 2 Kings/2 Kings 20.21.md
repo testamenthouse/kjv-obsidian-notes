@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 20:21
-
 And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead.

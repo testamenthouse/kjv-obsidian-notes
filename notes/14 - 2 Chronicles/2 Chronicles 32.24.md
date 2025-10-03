@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 32:24
-
 In those days Hezekiah was sick to the death, and prayed unto the LORD: and he spake unto him, and he gave him a sign.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 114:5
-
 What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?

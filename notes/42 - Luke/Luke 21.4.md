@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:4
-
 For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.

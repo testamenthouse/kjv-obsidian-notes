@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 6:11
-
 Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and against God.

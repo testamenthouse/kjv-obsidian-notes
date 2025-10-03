@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 10:13
-
 Yet ye have forsaken me, and served other gods: wherefore I will deliver you no more.

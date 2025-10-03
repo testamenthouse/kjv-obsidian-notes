@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 3:12
-
 Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?

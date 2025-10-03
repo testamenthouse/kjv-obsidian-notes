@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 4:3
-
 Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall.

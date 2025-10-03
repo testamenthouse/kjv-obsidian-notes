@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 19:14
-
 And Moses went down from the mount unto the people, and sanctified the people; and they washed their clothes.

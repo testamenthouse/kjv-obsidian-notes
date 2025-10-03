@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:9
-
 And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,

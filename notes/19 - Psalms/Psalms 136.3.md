@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 136:3
-
 O give thanks to the Lord of lords: for his mercy endureth for ever.

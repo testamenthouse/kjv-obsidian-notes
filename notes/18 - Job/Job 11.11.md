@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:11
-
 For he knoweth vain men: he seeth wickedness also; will he not then consider it?

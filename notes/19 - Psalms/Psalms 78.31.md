@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:31
-
 The wrath of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 19:5
-
 And they called unto Lot, and said unto him, Where are the men which came in to thee this night? bring them out unto us, that we may know them.

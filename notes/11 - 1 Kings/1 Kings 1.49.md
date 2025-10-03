@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 1:49
-
 And all the guests that were with Adonijah were afraid, and rose up, and went every man his way.

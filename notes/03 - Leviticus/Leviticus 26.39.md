@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 26:39
-
 And they that are left of you shall pine away in their iniquity in your enemies' lands; and also in the iniquities of their fathers shall they pine away with them.

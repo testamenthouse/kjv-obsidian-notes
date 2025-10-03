@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:8
-
 He hath remembered his covenant for ever, the word which he commanded to a thousand generations.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 8:21
-
 And another of his disciples said unto him, Lord, suffer me first to go and bury my father.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:11
-
 For the LORD hath redeemed Jacob, and ransomed him from the hand of him that was stronger than he.

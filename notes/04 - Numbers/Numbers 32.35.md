@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:35
-
 And Atroth, Shophan, and Jaazer, and Jogbehah,

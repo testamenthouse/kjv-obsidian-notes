@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 13:19
-
 So Manoah took a kid with a meat offering, and offered it upon a rock unto the LORD: and the angel did wonderously; and Manoah and his wife looked on.

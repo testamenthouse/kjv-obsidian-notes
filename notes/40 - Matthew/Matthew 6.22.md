@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 6:22
-
 The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.

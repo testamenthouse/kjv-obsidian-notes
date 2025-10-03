@@ -13,7 +13,4 @@ grammar_tags: [question, negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:26
-
 If ye then be not able to do that thing which is least, why take ye thought for the rest?

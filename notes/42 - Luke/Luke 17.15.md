@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:15
-
 And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 35:9
-
 No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk there:

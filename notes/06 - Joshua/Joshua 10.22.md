@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 10:22
-
 Then said Joshua, Open the mouth of the cave, and bring out those five kings unto me out of the cave.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 20:13
-
 And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:

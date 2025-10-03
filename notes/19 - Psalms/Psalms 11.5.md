@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 11:5
-
 The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.

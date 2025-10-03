@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:29
-
 When men are cast down, then thou shalt say, There is lifting up; and he shall save the humble person.

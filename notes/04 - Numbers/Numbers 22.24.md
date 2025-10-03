@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 22:24
-
 But the angel of the LORD stood in a path of the vineyards, a wall being on this side, and a wall on that side.

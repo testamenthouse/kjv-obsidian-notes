@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:37
-
 Who can number the clouds in wisdom? or who can stay the bottles of heaven,

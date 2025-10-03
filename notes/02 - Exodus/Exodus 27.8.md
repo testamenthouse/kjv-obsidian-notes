@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 27:8
-
 Hollow with boards shalt thou make it: as it was showed thee in the mount, so shall they make it.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:34
-
 And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares.

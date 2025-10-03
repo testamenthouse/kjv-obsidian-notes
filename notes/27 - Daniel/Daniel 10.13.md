@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 10:13
-
 But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 47:1
-
 O clap your hands, all ye people; shout unto God with the voice of triumph.

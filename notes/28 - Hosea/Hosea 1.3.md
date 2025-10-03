@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 1:3
-
 So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.

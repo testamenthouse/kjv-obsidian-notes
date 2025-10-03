@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 5:14
-
 Moreover I will make thee waste, and a reproach among the nations that are round about thee, in the sight of all that pass by.

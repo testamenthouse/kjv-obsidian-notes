@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 18:24
-
 A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 4:6
-
 And in the reign of Ahasuerus, in the beginning of his reign, wrote they unto him an accusation against the inhabitants of Judah and Jerusalem.

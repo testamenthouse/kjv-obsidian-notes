@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:14
-
 Thick clouds are a covering to him, that he seeth not; and he walketh in the circuit of heaven.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:4
-
 I must work the works of him that sent me, while it is day: the night cometh, when no man can work.

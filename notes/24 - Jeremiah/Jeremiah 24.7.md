@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 24:7
-
 And I will give them an heart to know me, that I am the LORD: and they shall be my people, and I will be their God: for they shall return unto me with their whole heart.

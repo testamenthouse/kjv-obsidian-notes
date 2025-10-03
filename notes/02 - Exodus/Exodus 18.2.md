@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 18:2
-
 Then Jethro, Moses' father in law, took Zipporah, Moses' wife, after he had sent her back,

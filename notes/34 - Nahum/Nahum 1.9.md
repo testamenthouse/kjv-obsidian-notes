@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 1:9
-
 What do ye imagine against the LORD? he will make an utter end: affliction shall not rise up the second time.

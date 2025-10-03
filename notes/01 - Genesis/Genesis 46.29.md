@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 46:29
-
 And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while.

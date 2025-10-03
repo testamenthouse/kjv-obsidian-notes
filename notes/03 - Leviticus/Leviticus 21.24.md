@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 21:24
-
 And Moses told it unto Aaron, and to his sons, and unto all the children of Israel.

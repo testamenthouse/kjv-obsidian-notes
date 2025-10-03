@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:3
-
 That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 25:5
-
 And Moses said unto the judges of Israel, Slay ye every one his men that were joined unto Baalpeor.

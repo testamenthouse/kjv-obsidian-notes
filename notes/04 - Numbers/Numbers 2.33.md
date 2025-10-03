@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 2:33
-
 But the Levites were not numbered among the children of Israel; as the LORD commanded Moses.

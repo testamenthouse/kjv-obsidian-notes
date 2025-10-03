@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:23
-
 And they brought forth the he goats for the sin offering before the king and the congregation; and they laid their hands upon them:

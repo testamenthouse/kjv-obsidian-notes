@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:28
-
 Was returning, and sitting in his chariot read Esaias the prophet.

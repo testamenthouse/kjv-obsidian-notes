@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 11:31
-
 Even so have these also now not believed, that through your mercy they also may obtain mercy.

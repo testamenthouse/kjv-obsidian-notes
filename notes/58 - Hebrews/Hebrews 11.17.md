@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [son-of-god, jesus]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 11:17
-
 By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 112:1
-
 Praise ye the LORD. Blessed is the man that feareth the LORD, that delighteth greatly in his commandments.

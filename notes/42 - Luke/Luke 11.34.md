@@ -13,7 +13,4 @@ grammar_tags: [contrast, cause-effect]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:34
-
 The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness.

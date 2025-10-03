@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 6:28
-
 But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brazen pot, it shall be both scoured, and rinsed in water.

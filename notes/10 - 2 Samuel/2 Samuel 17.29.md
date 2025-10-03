@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 17:29
-
 And honey, and butter, and sheep, and cheese of kine, for David, and for the people that were with him, to eat: for they said, The people is hungry, and weary, and thirsty, in the wilderness.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:24
-
 And upon Kerioth, and upon Bozrah, and upon all the cities of the land of Moab, far or near.

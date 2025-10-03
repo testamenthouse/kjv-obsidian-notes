@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:21
-
 Till he fill thy mouth with laughing, and thy lips with rejoicing.

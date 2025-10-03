@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 60:10
-
 Wilt not thou, O God, which hadst cast us off? and thou, O God, which didst not go out with our armies?

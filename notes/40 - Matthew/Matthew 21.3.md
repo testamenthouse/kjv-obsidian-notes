@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 21:3
-
 And if any man say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them.

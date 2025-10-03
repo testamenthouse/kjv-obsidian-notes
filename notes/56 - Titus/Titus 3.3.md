@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 3:3
-
 For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another.

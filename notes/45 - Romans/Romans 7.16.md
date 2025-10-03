@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 7:16
-
 If then I do that which I would not, I consent unto the law that it is good.

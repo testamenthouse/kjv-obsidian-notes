@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 9:23
-
 And Moses and Aaron went into the tabernacle of the congregation, and came out, and blessed the people: and the glory of the LORD appeared unto all the people.

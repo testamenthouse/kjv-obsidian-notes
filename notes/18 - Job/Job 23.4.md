@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:4
-
 I would order my cause before him, and fill my mouth with arguments.

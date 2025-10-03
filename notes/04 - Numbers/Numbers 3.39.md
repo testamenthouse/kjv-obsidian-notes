@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:39
-
 All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the LORD, throughout their families, all the males from a month old and upward, were twenty and two thousand.

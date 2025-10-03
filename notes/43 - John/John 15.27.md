@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 15:27
-
 And ye also shall bear witness, because ye have been with me from the beginning.

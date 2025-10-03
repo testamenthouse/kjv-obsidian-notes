@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, greeting/closing]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 1:4
-
 John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;

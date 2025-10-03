@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 9:1
-
 Hear, O Israel: Thou art to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,

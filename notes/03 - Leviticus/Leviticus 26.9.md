@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 26:9
-
 For I will have respect unto you, and make you fruitful, and multiply you, and establish my covenant with you.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:7
-
 Canst thou fill his skin with barbed irons? or his head with fish spears?

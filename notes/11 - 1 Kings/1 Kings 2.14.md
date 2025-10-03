@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:14
-
 He said moreover, I have somewhat to say unto thee. And she said, Say on.

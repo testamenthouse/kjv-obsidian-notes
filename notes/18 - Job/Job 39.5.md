@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:5
-
 Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?

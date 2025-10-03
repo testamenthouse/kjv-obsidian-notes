@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 45:19
-
 Now thou art commanded, this do ye; take you wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come.

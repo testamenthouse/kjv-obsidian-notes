@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 15:8
-
 The sacrifice of the wicked is an abomination to the LORD: but the prayer of the upright is his delight.

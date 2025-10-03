@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 23:11
-
 He stretched out his hand over the sea, he shook the kingdoms: the LORD hath given a commandment against the merchant city, to destroy the strong holds thereof.

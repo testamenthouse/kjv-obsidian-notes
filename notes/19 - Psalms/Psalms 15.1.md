@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 15:1
-
 Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?

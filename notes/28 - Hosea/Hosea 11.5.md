@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 11:5
-
 He shall not return into the land of Egypt, and the Assyrian shall be his king, because they refused to return.

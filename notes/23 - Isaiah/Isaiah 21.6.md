@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 21:6
-
 For thus hath the LORD said unto me, Go, set a watchman, let him declare what he seeth.

@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:15
-
 Did not he that made me in the womb make him? and did not one fashion us in the womb?

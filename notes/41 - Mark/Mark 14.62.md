@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, jesus, jesus-title, son-of-man]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:62
-
 And Jesus said, I am: and ye shall see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.

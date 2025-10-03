@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 11:3
-
 And his miracles, and his acts, which he did in the midst of Egypt unto Pharaoh the king of Egypt, and unto all his land;

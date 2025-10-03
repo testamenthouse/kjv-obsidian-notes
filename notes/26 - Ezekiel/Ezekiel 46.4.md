@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-units, time-feasts, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 46:4
-
 And the burnt offering that the prince shall offer unto the LORD in the sabbath day shall be six lambs without blemish, and a ram without blemish.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 2:12
-
 And the LORD shall inherit Judah his portion in the holy land, and shall choose Jerusalem again.

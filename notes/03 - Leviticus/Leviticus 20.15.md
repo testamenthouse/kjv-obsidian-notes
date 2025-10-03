@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 20:15
-
 And if a man lie with a beast, he shall surely be put to death: and ye shall slay the beast.

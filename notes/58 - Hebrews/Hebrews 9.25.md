@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 9:25
-
 Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others;

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 35:4
-
 I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I am the LORD.

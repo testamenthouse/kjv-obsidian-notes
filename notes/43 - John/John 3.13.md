@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 3:13
-
 And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 3:12
-
 When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 44:13
-
 For I will punish them that dwell in the land of Egypt, as I have punished Jerusalem, by the sword, by the famine, and by the pestilence:

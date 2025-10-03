@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 43:24
-
 And thou shalt offer them before the LORD, and the priests shall cast salt upon them, and they shall offer them up for a burnt offering unto the LORD.

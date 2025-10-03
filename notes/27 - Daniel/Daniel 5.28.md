@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 5:28
-
 PERES; Thy kingdom is divided, and given to the Medes and Persians.

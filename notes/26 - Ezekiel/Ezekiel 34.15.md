@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 34:15
-
 I will feed my flock, and I will cause them to lie down, saith the Lord GOD.

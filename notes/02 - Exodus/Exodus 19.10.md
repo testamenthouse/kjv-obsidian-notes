@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 19:10
-
 And the LORD said unto Moses, Go unto the people, and sanctify them to day and to morrow, and let them wash their clothes,

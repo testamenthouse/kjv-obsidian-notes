@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 2:7
-
 And the men pursued after them the way to Jordan unto the fords: and as soon as they which pursued after them were gone out, they shut the gate.

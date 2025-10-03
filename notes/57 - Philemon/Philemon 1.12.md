@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philemon"]
 ---
-
-# Philemon 1:12
-
 Whom I have sent again: thou therefore receive him, that is, mine own bowels:

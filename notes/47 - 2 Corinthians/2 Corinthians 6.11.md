@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 6:11
-
 O ye Corinthians, our mouth is open unto you, our heart is enlarged.

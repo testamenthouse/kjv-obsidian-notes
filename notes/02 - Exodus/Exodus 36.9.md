@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 36:9
-
 The length of one curtain was twenty and eight cubits, and the breadth of one curtain four cubits: the curtains were all of one size.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 3:3
-
 God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.

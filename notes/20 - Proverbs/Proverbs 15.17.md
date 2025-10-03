@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 15:17
-
 Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.

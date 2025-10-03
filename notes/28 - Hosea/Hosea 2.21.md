@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 2:21
-
 And it shall come to pass in that day, I will hear, saith the LORD, I will hear the heavens, and they shall hear the earth;

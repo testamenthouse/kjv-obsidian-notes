@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 7:40
-
 But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God.

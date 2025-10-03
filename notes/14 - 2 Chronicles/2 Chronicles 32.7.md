@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 32:7
-
 Be strong and courageous, be not afraid nor dismayed for the king of Assyria, nor for all the multitude that is with him: for there be more with us than with him:

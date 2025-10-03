@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 51:17
-
 The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.

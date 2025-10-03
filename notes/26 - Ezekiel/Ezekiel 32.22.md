@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 32:22
-
 Asshur is there and all her company: his graves are about him: all of them slain, fallen by the sword:

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:128
-
 Therefore I esteem all thy precepts concerning all things to be right; and I hate every false way.

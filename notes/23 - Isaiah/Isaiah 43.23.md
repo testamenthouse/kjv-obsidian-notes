@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 43:23
-
 Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honoured me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense.

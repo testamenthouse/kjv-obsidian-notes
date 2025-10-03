@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:16
-
 And the owl, and the night hawk, and the cuckoo, and the hawk after his kind,

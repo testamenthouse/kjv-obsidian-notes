@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 18:4
-
 The words of a man's mouth are as deep waters, and the wellspring of wisdom as a flowing brook.

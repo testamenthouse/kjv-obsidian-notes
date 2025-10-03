@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 29:33
-
 And she conceived again, and bare a son; and said, Because the LORD hath heard I was hated, he hath therefore given me this son also: and she called his name Simeon.

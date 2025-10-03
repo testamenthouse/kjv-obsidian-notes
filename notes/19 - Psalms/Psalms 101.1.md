@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 101:1
-
 I will sing of mercy and judgment: unto thee, O LORD, will I sing.

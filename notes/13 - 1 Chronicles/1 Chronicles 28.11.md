@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 28:11
-
 Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner parlors thereof, and of the place of the mercy seat,

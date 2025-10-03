@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 8:27
-
 And he put all upon Aaron's hands, and upon his sons' hands, and waved them for a wave offering before the LORD.

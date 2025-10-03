@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:41
-
 Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls.

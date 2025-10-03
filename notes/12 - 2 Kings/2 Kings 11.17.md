@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 11:17
-
 And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD's people; between the king also and the people.

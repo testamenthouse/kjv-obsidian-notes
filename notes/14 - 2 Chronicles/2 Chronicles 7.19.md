@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 7:19
-
 But if ye turn away, and forsake my statutes and my commandments, which I have set before you, and shall go and serve other gods, and worship them;

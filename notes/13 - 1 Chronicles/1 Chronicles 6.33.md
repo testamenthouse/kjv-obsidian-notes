@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 6:33
-
 And these are they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,

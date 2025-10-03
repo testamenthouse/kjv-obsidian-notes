@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 8:27
-
 And he walked in the way of the house of Ahab, and did evil in the sight of the LORD, as did the house of Ahab: for he was the son in law of the house of Ahab.

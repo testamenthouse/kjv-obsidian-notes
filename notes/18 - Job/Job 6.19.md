@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:19
-
 The troops of Tema looked, the companies of Sheba waited for them.

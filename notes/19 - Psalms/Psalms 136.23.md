@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 136:23
-
 Who remembered us in our low estate: for his mercy endureth for ever:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 26:2
-
 Ye shall keep my sabbaths, and reverence my sanctuary: I am the LORD.

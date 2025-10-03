@@ -13,7 +13,4 @@ grammar_tags: [question, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:44
-
 David therefore calleth him Lord, how is he then his son?

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:27
-
 Add iniquity unto their iniquity: and let them not come into thy righteousness.

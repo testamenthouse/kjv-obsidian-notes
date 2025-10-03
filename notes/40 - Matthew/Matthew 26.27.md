@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:27
-
 And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;

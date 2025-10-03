@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:9
-
 (For the fruit of the Spirit is in all goodness and righteousness and truth;)

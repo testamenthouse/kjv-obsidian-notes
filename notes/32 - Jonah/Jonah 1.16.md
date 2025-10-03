@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jonah"]
 ---
-
-# Jonah 1:16
-
 Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows.

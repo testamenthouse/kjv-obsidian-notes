@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 45:23
-
 And seven days of the feast he shall prepare a burnt offering to the LORD, seven bullocks and seven rams without blemish daily the seven days; and a kid of the goats daily for a sin offering.

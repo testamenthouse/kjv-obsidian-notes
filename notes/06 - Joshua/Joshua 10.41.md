@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 10:41
-
 And Joshua smote them from Kadeshbarnea even unto Gaza, and all the country of Goshen, even unto Gibeon.

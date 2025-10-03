@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 2:8
-
 He keepeth the paths of judgment, and preserveth the way of his saints.

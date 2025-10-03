@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 26:55
-
 Notwithstanding the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit.

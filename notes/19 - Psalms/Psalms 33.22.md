@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 33:22
-
 Let thy mercy, O LORD, be upon us, according as we hope in thee.

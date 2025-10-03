@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 3:7
-
 And he took him by the right hand, and lifted him up: and immediately his feet and ankle bones received strength.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 40:14
-
 But think on me when it shall be well with thee, and show kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [warfare, lament]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 5:12
-
 And the men that died not were smitten with the emerods: and the cry of the city went up to heaven.

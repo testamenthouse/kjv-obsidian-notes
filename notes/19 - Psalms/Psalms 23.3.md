@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 23:3
-
 He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.

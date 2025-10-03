@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 3:19
-
 And ye shall smite every fenced city, and every choice city, and shall fell every good tree, and stop all wells of water, and mar every good piece of land with stones.

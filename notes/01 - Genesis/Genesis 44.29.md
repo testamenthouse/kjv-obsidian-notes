@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 44:29
-
 And if ye take this also from me, and mischief befall him, ye shall bring down my gray hairs with sorrow to the grave.

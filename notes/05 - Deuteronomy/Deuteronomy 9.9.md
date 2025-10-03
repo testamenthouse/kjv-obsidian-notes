@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, covenant, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 9:9
-
 When I was gone up into the mount to receive the tables of stone, even the tables of the covenant which the LORD made with you, then I abode in the mount forty days and forty nights, I neither did eat bread nor drink water:

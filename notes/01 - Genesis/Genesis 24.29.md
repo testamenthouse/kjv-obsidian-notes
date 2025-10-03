@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:29
-
 And Rebekah had a brother, and his name was Laban: and Laban ran out unto the man, unto the well.

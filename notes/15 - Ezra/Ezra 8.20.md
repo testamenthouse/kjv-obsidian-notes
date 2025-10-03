@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:20
-
 Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name.

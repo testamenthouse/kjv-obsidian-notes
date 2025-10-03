@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:13
-
 And they send unto him certain of the Pharisees and of the Herodians, to catch him in his words.

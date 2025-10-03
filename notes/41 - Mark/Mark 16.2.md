@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 16:2
-
 And very early in the morning the first day of the week, they came unto the sepulchre at the rising of the sun.

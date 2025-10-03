@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 21:35
-
 And if one man's ox hurt another's, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide.

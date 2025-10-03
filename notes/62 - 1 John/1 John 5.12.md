@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional, genealogy-structure]
 thematic_tags: [names-of-god, son-of-god, jesus]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 5:12
-
 He that hath the Son hath life; and he that hath not the Son of God hath not life.

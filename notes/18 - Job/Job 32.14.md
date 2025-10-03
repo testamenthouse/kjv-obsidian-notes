@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:14
-
 Now he hath not directed his words against me: neither will I answer him with your speeches.

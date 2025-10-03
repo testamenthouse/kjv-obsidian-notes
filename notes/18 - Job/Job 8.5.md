@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:5
-
 If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;

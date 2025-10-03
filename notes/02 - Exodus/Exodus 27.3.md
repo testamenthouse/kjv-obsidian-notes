@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 27:3
-
 And thou shalt make his pans to receive his ashes, and his shovels, and his basins, and his fleshhooks, and his firepans: all the vessels thereof thou shalt make of brass.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [thanksgiving, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 79:13
-
 So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.

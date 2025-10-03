@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 114:6
-
 Ye mountains, that ye skipped like rams; and ye little hills, like lambs?

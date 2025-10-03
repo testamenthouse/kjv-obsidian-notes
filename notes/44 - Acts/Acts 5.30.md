@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:30
-
 The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.

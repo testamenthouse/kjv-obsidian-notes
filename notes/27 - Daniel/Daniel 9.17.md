@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 9:17
-
 Now therefore, O our God, hear the prayer of thy servant, and his supplications, and cause thy face to shine upon thy sanctuary that is desolate, for the Lord's sake.

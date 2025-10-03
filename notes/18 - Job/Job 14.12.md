@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:12
-
 So man lieth down, and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep.

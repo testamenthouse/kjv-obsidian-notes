@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 23:12
-
 Thou shalt have a place also without the camp, whither thou shalt go forth abroad:

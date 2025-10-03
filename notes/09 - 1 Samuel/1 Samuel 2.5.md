@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 2:5
-
 They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.

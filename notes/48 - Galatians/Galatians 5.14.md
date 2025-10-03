@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:14
-
 For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.

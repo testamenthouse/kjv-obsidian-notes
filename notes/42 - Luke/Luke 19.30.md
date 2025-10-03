@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:30
-
 Saying, Go ye into the village over against you; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring him hither.

@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 7:2
-
 Also, thou son of man, thus saith the Lord GOD unto the land of Israel; An end, the end is come upon the four corners of the land.

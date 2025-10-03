@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 45:6
-
 Thy throne, O God, is for ever and ever: the sceptre of thy kingdom is a right sceptre.

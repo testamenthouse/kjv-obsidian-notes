@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 25:12
-
 What man is he that feareth the LORD? him shall he teach in the way that he shall choose.

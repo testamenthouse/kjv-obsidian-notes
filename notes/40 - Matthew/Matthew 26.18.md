@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-feasts, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:18
-
 And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.

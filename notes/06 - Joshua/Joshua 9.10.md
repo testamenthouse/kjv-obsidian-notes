@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 9:10
-
 And all that he did to the two kings of the Amorites, that were beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which was at Ashtaroth.

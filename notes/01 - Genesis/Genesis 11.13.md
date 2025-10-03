@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 11:13
-
 And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters.

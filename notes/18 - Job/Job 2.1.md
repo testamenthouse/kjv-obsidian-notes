@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, adversary-title, adversary, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 2:1
-
 Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.

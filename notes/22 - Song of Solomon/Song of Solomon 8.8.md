@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 8:8
-
 We have a little sister, and she hath no breasts: what shall we do for our sister in the day when she shall be spoken for?

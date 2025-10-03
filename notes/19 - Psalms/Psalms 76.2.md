@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 76:2
-
 In Salem also is his tabernacle, and his dwelling place in Zion.

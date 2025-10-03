@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, jesus, jesus-title, time-period, time]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 6:17
-
 From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.

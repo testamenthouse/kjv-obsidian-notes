@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:160
-
 Thy word is true from the beginning: and every one of thy righteous judgments endureth for ever.

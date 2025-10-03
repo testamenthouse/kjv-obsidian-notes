@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 7:18
-
 Is any man called being circumcised? let him not become uncircumcised. Is any called in uncircumcision? let him not be circumcised.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 31:40
-
 And the persons were sixteen thousand; of which the LORD's tribute was thirty and two persons.

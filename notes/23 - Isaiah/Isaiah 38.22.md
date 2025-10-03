@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 38:22
-
 Hezekiah also had said, What is the sign that I shall go up to the house of the LORD?

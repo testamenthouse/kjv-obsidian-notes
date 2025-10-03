@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 136:6
-
 To him that stretched out the earth above the waters: for his mercy endureth for ever.

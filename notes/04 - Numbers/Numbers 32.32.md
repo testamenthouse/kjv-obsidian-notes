@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:32
-
 We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan may be ours.

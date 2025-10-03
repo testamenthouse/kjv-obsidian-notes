@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 143:1
-
 Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.

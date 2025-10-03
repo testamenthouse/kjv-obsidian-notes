@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 21:1
-
 And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:

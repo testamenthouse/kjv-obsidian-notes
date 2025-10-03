@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [positive-command, time-units, time-feasts, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 35:3
-
 Ye shall kindle no fire throughout your habitations upon the sabbath day.

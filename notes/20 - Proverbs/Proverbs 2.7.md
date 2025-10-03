@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 2:7
-
 He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly.

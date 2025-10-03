@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 1:6
-
 To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.

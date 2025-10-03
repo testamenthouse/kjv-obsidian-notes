@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 141:4
-
 Incline not my heart to any evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties.

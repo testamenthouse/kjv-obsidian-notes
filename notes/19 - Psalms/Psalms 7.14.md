@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 7:14
-
 Behold, he travaileth with iniquity, and hath conceived mischief, and brought forth falsehood.

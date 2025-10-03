@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 2:14
-
 Who rejoice to do evil, and delight in the frowardness of the wicked;

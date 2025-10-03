@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 21:13
-
 And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee.

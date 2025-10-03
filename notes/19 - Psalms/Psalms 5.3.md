@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 5:3
-
 My voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up.

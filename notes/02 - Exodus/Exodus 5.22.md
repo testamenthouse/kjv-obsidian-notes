@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 5:22
-
 And Moses returned unto the LORD, and said, LORD, wherefore hast thou so evil entreated this people? why is it that thou hast sent me?

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 18:6
-
 And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean; from henceforth I will go unto the Gentiles.

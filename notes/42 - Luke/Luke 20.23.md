@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:23
-
 But he perceived their craftiness, and said unto them, Why tempt ye me?

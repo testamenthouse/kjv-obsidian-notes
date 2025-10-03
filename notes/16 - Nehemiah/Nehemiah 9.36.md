@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 9:36
-
 Behold, we are servants this day, and for the land that thou gavest unto our fathers to eat the fruit thereof and the good thereof, behold, we are servants in it:

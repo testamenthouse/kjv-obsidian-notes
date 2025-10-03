@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 46:4
-
 Harness the horses; and get up, ye horsemen, and stand forth with your helmets; furbish the spears, and put on the brigandines.

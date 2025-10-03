@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 20:11
-
 And Jonathan said unto David, Come, and let us go out into the field. And they went out both of them into the field.

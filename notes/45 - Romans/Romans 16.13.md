@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 16:13
-
 Salute Rufus chosen in the Lord, and his mother and mine.

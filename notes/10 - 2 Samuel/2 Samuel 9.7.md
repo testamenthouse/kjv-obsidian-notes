@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 9:7
-
 And David said unto him, Fear not: for I will surely show thee kindness for Jonathan thy father's sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually.

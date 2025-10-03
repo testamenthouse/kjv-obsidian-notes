@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:5
-
 And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the LORD God of your fathers, and carry forth the filthiness out of the holy place.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 43:4
-
 And the glory of the LORD came into the house by the way of the gate whose prospect is toward the east.

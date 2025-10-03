@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 45:2
-
 Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the suburbs thereof.

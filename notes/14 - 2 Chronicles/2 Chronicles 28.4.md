@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 28:4
-
 He sacrificed also and burnt incense in the high places, and on the hills, and under every green tree.

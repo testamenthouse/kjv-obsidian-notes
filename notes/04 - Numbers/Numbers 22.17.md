@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 22:17
-
 For I will promote thee unto very great honor, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people.

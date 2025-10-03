@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 3:6
-
 And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.

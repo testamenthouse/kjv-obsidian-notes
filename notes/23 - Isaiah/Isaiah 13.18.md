@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 13:18
-
 Their bows also shall dash the young men to pieces; and they shall have no pity on the fruit of the womb; their eyes shall not spare children.

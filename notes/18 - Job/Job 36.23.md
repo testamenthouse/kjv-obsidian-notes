@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:23
-
 Who hath enjoined him his way? or who can say, Thou hast wrought iniquity?

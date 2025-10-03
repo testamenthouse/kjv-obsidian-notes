@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 19:18
-
 And have cast their gods into the fire: for they were no gods, but the work of men's hands, wood and stone: therefore they have destroyed them.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 14:31
-
 He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.

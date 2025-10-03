@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 1:48
-
 And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead.

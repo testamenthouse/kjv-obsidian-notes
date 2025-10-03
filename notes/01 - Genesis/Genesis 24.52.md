@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:52
-
 And it came to pass, that, when Abraham's servant heard their words, he worshipped the LORD, bowing himself to the earth.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 18:11
-
 And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice.

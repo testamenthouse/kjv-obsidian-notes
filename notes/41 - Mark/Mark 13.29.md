@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:29
-
 So ye in like manner, when ye shall see these things come to pass, know that it is nigh, even at the doors.

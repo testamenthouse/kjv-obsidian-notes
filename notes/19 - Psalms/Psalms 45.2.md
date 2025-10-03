@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 45:2
-
 Thou art fairer than the children of men: grace is poured into thy lips: therefore God hath blessed thee for ever.

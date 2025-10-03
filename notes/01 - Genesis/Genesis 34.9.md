@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 34:9
-
 And make ye marriages with us, and give your daughters unto us, and take our daughters unto you.

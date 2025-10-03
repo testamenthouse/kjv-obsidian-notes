@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 18:4
-
 And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.

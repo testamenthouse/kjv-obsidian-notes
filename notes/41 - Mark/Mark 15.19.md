@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, praise-worship]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:19
-
 And they smote him on the head with a reed, and did spit upon him, and bowing their knees worshipped him.

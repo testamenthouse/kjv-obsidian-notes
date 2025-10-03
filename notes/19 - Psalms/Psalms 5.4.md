@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 5:4
-
 For thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee.

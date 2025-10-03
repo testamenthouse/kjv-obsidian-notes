@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philemon"]
 ---
-
-# Philemon 1:24
-
 Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.

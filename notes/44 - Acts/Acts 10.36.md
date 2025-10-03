@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:36
-
 The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)

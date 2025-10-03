@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:118
-
 Thou hast trodden down all them that err from thy statutes: for their deceit is falsehood.

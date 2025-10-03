@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 34:15
-
 But in this will we consent unto you: If ye will be as we be, that every male of you be circumcised;

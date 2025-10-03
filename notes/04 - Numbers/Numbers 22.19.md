@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 22:19
-
 Now therefore, I pray you, tarry ye also here this night, that I may know what the LORD will say unto me more.

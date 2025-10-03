@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:29
-
 Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea:

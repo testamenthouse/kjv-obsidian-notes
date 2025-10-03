@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 20:34
-
 And there came against Gibeah ten thousand chosen men out of all Israel, and the battle was sore: but they knew not that evil was near them.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [one-another, lament]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 24:23
-
 And your tires shall be upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another.

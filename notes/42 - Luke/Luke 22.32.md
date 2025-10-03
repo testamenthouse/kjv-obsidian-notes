@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:32
-
 But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.

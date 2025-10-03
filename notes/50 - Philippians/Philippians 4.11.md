@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 4:11
-
 Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.

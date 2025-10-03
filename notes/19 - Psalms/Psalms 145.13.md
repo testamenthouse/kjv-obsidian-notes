@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 145:13
-
 Thy kingdom is an everlasting kingdom, and thy dominion endureth throughout all generations.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 16:5
-
 And the border of the children of Ephraim according to their families was thus: even the border of their inheritance on the east side was Atarothaddar, unto Bethhoron the upper;

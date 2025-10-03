@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary, lament]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:22
-
 And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou son of David; my daughter is grievously vexed with a devil.

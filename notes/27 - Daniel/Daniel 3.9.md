@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 3:9
-
 They spake and said to the king Nebuchadnezzar, O king, live for ever.

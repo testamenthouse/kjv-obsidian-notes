@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:36
-
 Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.

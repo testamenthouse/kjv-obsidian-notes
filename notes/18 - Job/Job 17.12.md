@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:12
-
 They change the night into day: the light is short because of darkness.

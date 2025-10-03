@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-period, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 14:28
-
 At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay it up within thy gates:

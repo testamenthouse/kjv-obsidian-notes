@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 25:14
-
 The secret of the LORD is with them that fear him; and he will shew them his covenant.

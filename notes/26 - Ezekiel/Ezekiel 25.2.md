@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 25:2
-
 Son of man, set thy face against the Ammonites, and prophesy against them;

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 11:20
-
 But, O LORD of hosts, that judgest righteously, that triest the reins and the heart, let me see thy vengeance on them: for unto thee have I revealed my cause.

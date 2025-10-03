@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 4:7
-
 But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 36:5
-
 Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds.

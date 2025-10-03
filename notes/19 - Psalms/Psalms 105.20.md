@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:20
-
 The king sent and loosed him; even the ruler of the people, and let him go free.

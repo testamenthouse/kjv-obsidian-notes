@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 28:22
-
 And thou shalt make upon the breastplate chains at the ends of wreathed work of pure gold.

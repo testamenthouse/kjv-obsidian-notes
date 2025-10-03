@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 16:27
-
 And it came to pass, that there went out some of the people on the seventh day for to gather, and they found none.

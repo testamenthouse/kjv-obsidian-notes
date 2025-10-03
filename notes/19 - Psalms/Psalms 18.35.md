@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 18:35
-
 Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great.

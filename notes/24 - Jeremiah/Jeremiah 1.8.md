@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 1:8
-
 Be not afraid of their faces: for I am with thee to deliver thee, saith the LORD.

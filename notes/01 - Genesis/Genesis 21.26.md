@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 21:26
-
 And Abimelech said, I wot not who hath done this thing; neither didst thou tell me, neither yet heard I of it, but to day.

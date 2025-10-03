@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:43
-
 And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.

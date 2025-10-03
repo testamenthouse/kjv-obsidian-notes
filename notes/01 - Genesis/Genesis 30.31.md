@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 30:31
-
 And he said, What shall I give thee? And Jacob said, Thou shalt not give me any thing: if thou wilt do this thing for me, I will again feed and keep thy flock.

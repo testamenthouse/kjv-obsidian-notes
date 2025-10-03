@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 28:27
-
 For the fitches are not threshed with a threshing instrument, neither is a cart wheel turned about upon the cummin; but the fitches are beaten out with a staff, and the cummin with a rod.

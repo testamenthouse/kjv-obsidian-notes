@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 7:12
-
 And the great court round about was with three rows of hewed stones, and a row of cedar beams, both for the inner court of the house of the LORD, and for the porch of the house.

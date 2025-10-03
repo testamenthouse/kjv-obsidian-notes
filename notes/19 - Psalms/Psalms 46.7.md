@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 46:7
-
 The LORD of hosts is with us; the God of Jacob is our refuge. Selah.

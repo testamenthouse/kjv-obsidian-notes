@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 12:11
-
 And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.

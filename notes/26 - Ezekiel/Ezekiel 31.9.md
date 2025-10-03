@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 31:9
-
 I have made him fair by the multitude of his branches: so that all the trees of Eden, that were in the garden of God, envied him.

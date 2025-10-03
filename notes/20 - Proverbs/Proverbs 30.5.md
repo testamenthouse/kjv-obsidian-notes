@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 30:5
-
 Every word of God is pure: he is a shield unto them that put their trust in him.

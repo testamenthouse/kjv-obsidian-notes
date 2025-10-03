@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 5:12
-
 Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan.

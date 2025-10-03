@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 22:7
-
 If a man shall deliver unto his neighbor money or stuff to keep, and it be stolen out of the man's house; if the thief be found, let him pay double.

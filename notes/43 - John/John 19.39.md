@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title, time-parts-of-day, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:39
-
 And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound weight.

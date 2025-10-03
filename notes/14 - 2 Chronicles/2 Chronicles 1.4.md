@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 1:4
-
 But the ark of God had David brought up from Kirjathjearim to the place which David had prepared for it: for he had pitched a tent for it at Jerusalem.

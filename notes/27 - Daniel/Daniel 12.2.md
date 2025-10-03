@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 12:2
-
 And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 7:13
-
 And when the Lord saw her, he had compassion on her, and said unto her, Weep not.

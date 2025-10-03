@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 29:1
-
 Give unto the LORD, O ye mighty, give unto the LORD glory and strength.

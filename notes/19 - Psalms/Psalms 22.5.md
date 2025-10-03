@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 22:5
-
 They cried unto thee, and were delivered: they trusted in thee, and were not confounded.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 12:2
-
 And Jephthah said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye delivered me not out of their hands.

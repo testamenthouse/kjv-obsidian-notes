@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 32:10
-
 Now therefore let me alone, that my wrath may wax hot against them, and that I may consume them: and I will make of thee a great nation.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 11:22
-
 And with the arms of a flood shall they be overflown from before him, and shall be broken; yea, also the prince of the covenant.

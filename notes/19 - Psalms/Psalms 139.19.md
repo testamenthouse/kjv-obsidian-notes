@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 139:19
-
 Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.

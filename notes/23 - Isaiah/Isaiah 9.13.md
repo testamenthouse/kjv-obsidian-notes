@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 9:13
-
 For the people turneth not unto him that smiteth them, neither do they seek the LORD of hosts.

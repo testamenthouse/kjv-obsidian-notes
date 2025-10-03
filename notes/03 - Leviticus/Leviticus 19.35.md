@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:35
-
 Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure.

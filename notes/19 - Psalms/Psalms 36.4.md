@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 36:4
-
 He deviseth mischief upon his bed; he setteth himself in a way that is not good; he abhorreth not evil.

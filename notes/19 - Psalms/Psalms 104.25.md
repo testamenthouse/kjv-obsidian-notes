@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:25
-
 So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts.

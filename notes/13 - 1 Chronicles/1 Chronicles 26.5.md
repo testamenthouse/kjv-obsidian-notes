@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 26:5
-
 Ammiel the sixth, Issachar the seventh, Peulthai the eighth: for God blessed him.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 4:10
-
 And they shall put it and all the vessels thereof within a covering of badgers' skins, and shall put it upon a bar.

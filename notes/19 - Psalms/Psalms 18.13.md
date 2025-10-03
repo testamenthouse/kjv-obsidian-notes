@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 18:13
-
 The LORD also thundered in the heavens, and the Highest gave his voice; hail stones and coals of fire.

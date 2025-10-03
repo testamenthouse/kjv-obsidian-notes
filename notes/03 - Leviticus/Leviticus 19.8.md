@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:8
-
 Therefore every one that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people.

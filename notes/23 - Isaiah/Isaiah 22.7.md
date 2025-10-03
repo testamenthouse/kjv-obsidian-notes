@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 22:7
-
 And it shall come to pass, that thy choicest valleys shall be full of chariots, and the horsemen shall set themselves in array at the gate.

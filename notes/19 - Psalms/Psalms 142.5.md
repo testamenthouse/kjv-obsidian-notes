@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 142:5
-
 I cried unto thee, O LORD: I said, Thou art my refuge and my portion in the land of the living.

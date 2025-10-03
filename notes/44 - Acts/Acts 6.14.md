@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 6:14
-
 For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the customs which Moses delivered us.

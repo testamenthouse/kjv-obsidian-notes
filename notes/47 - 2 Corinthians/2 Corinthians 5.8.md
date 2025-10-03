@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 5:8
-
 We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.

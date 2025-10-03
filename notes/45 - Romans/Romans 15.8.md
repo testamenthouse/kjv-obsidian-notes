@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:8
-
 Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:

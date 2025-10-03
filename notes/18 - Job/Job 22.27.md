@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:27
-
 Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows.

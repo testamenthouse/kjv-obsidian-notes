@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:12
-
 Notwithstanding in thy days I will not do it for David thy father's sake: but I will rend it out of the hand of thy son.

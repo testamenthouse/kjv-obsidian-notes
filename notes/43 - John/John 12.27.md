@@ -13,7 +13,4 @@ grammar_tags: [contrast, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:27
-
 Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour.

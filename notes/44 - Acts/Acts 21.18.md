@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:18
-
 And the day following Paul went in with us unto James; and all the elders were present.

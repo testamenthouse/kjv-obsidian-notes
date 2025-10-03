@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 4:18
-
 They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.

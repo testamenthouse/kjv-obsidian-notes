@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 20:7
-
 But when he defied Israel, Jonathan the son of Shimea David's brother slew him.

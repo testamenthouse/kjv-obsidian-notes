@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 15:23
-
 And bring hither the fatted calf, and kill it; and let us eat, and be merry:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [benediction]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 25:6
-
 And thus shall ye say to him that liveth in prosperity, Peace be both to thee, and peace be to thine house, and peace be unto all that thou hast.

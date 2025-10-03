@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:4
-
 My lips shall not speak wickedness, nor my tongue utter deceit.

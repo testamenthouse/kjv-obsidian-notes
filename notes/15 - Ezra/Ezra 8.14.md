@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:14
-
 Of the sons also of Bigvai; Uthai, and Zabbud, and with them seventy males.

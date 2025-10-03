@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 2:8
-
 If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:

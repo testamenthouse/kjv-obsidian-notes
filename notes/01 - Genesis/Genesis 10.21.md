@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 10:21
-
 Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.

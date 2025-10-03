@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:8
-
 And he answering said unto him, Lord, let it alone this year also, till I shall dig about it, and dung it:

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 10:6
-
 But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 14:19
-
 And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.

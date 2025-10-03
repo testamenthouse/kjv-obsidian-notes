@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 12:29
-
 Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.

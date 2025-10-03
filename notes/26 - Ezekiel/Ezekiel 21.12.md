@@ -13,7 +13,4 @@ grammar_tags: [cause-effect, genealogy-structure]
 thematic_tags: [names-of-god, warfare, son-of-man, jesus, lament]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 21:12
-
 Cry and howl, son of man: for it shall be upon my people, it shall be upon all the princes of Israel: terrors by reason of the sword shall be upon my people: smite therefore upon thy thigh.

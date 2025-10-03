@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:37
-
 And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.

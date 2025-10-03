@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:12
-
 And because the haven was not commodious to winter in, the more part advised to depart thence also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lieth toward the south west and north west.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:12
-
 Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.

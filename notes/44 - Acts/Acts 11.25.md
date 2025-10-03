@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:25
-
 Then departed Barnabas to Tarsus, for to seek Saul:

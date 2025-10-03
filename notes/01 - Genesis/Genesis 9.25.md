@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 9:25
-
 And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren.

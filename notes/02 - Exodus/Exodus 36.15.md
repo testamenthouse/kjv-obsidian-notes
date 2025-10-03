@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 36:15
-
 The length of one curtain was thirty cubits, and four cubits was the breadth of one curtain: the eleven curtains were of one size.

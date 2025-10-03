@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:25
-
 Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands.

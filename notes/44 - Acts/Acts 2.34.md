@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:34
-
 For David is not ascended into the heavens: but he saith himself, The Lord said unto my Lord, Sit thou on my right hand,

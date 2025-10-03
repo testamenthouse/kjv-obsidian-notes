@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:28
-
 And though they found no cause of death in him, yet desired they Pilate that he should be slain.

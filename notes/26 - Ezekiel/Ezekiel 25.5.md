@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 25:5
-
 And I will make Rabbah a stable for camels, and the Ammonites a couching place for flocks: and ye shall know that I am the LORD.

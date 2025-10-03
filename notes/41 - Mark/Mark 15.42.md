@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:42
-
 And now when the even was come, because it was the preparation, that is, the day before the sabbath,

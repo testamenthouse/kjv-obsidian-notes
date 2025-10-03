@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 25:43
-
 David also took Ahinoam of Jezreel; and they were also both of them his wives.

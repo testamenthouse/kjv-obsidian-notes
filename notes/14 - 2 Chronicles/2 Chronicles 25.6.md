@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 25:6
-
 He hired also an hundred thousand mighty men of valor out of Israel for an hundred talents of silver.

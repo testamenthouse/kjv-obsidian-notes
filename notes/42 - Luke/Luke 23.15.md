@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:15
-
 No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him.

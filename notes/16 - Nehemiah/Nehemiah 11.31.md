@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 11:31
-
 The children also of Benjamin from Geba dwelt at Michmash, and Aija, and Bethel, and in their villages.

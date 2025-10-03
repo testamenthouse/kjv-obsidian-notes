@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:20
-
 They were confounded because they had hoped; they came thither, and were ashamed.

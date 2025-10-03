@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 19:4
-
 Wherefore Hanun took David's servants, and shaved them, and cut off their garments in the midst hard by their buttocks, and sent them away.

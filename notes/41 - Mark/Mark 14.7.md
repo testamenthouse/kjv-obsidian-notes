@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:7
-
 For ye have the poor with you always, and whensoever ye will ye may do them good: but me ye have not always.

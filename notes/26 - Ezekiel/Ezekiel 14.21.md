@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 14:21
-
 For thus saith the Lord GOD; How much more when I send my four sore judgments upon Jerusalem, the sword, and the famine, and the noisome beast, and the pestilence, to cut off from it man and beast?

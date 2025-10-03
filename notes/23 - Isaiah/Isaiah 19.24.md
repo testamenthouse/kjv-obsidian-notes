@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 19:24
-
 In that day shall Israel be the third with Egypt and with Assyria, even a blessing in the midst of the land:

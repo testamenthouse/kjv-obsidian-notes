@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 23:39
-
 For when they had slain their children to their idols, then they came the same day into my sanctuary to profane it; and, lo, thus have they done in the midst of mine house.

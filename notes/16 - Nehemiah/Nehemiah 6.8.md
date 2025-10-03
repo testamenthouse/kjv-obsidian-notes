@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 6:8
-
 Then I sent unto him, saying, There are no such things done as thou sayest, but thou feignest them out of thine own heart.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 16:10
-
 And Zimri went in and smote him, and killed him, in the twenty and seventh year of Asa king of Judah, and reigned in his stead.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 135:2
-
 Ye that stand in the house of the LORD, in the courts of the house of our God.

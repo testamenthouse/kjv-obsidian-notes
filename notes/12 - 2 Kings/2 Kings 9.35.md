@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 9:35
-
 And they went to bury her: but they found no more of her than the skull, and the feet, and the palms of her hands.

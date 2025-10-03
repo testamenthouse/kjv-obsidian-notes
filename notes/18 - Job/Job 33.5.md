@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:5
-
 If thou canst answer me, set thy words in order before me, stand up.

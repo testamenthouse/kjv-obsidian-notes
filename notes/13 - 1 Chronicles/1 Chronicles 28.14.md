@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 28:14
-
 He gave of gold by weight for things of gold, for all instruments of all manner of service; silver also for all instruments of silver by weight, for all instruments of every kind of service:

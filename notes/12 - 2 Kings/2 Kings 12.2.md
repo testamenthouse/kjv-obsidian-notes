@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 12:2
-
 And Jehoash did that which was right in the sight of the LORD all his days wherein Jehoiada the priest instructed him.

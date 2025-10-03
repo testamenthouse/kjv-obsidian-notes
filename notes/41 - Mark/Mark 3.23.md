@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 3:23
-
 And he called them unto him, and said unto them in parables, How can Satan cast out Satan?

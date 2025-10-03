@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 4:5
-
 And offer a sacrifice of thanksgiving with leaven, and proclaim and publish the free offerings: for this liketh you, O ye children of Israel, saith the Lord GOD.

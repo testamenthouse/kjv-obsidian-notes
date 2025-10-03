@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:14
-
 My kinsfolk have failed, and my familiar friends have forgotten me.

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 16:10
-
 And he hath brought thee near to him, and all thy brethren the sons of Levi with thee: and seek ye the priesthood also?

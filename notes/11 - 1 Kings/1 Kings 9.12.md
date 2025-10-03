@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 9:12
-
 And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not.

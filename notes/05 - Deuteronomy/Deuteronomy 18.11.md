@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [demonic-entities, adversary]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 18:11
-
 Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer.

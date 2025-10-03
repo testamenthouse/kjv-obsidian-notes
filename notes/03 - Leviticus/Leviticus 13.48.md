@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 13:48
-
 Whether it be in the warp, or woof; of linen, or of woolen; whether in a skin, or in any thing made of skin;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 10:35
-
 And Jehu slept with his fathers: and they buried him in Samaria. And Jehoahaz his son reigned in his stead.

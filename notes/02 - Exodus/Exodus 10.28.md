@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 10:28
-
 And Pharaoh said unto him, Get thee from me, take heed to thyself, see my face no more; for in that day thou seest my face thou shalt die.

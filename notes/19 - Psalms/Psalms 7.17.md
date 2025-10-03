@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 7:17
-
 I will praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high.

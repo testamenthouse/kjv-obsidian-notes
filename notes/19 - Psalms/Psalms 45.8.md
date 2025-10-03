@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 45:8
-
 All thy garments smell of myrrh, and aloes, and cassia, out of the ivory palaces, whereby they have made thee glad.

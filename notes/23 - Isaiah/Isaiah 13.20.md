@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 13:20
-
 It shall never be inhabited, neither shall it be dwelt in from generation to generation: neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there.

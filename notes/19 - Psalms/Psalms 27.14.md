@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 27:14
-
 Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD.

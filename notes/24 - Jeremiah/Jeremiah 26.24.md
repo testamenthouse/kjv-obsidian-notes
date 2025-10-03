@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 26:24
-
 Nevertheless the hand of Ahikam the son of Shaphan was with Jeremiah, that they should not give him into the hand of the people to put him to death.

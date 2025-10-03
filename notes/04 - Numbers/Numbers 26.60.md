@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 26:60
-
 And unto Aaron was born Nadab, and Abihu, Eleazar, and Ithamar.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 16:4
-
 Then said the king to Ziba, Behold, thine are all that pertained unto Mephibosheth. And Ziba said, I humbly beseech thee that I may find grace in thy sight, my lord, O king.

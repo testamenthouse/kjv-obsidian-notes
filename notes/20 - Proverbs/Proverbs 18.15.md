@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 18:15
-
 The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:15
-
 But thou didst trust in thine own beauty, and playedst the harlot because of thy renown, and pouredst out thy fornications on every one that passed by; his it was.

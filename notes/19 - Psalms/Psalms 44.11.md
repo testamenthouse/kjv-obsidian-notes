@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 44:11
-
 Thou hast given us like sheep appointed for meat; and hast scattered us among the heathen.

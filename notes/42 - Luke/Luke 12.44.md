@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:44
-
 Of a truth I say unto you, that he will make him ruler over all that he hath.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 24:20
-
 And the rest of the sons of Levi were these: Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah.

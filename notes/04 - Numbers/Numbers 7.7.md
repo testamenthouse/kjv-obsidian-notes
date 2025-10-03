@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 7:7
-
 Two wagons and four oxen he gave unto the sons of Gershon, according to their service:

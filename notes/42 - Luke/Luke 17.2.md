@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:2
-
 It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones.

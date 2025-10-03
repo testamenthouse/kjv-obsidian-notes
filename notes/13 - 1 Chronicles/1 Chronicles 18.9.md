@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 18:9
-
 Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;

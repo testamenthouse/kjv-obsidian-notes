@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 29:6
-
 And he said unto them, Is he well? And they said, He is well: and, behold, Rachel his daughter cometh with the sheep.

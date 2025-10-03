@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 32:2
-
 For then the king of Babylon's army besieged Jerusalem: and Jeremiah the prophet was shut up in the court of the prison, which was in the king of Judah's house.

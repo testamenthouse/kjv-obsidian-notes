@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 90:5
-
 Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up.

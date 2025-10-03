@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 32:29
-
 There is Edom, her kings, and all her princes, which with their might are laid by them that were slain by the sword: they shall lie with the uncircumcised, and with them that go down to the pit.

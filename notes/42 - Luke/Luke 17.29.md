@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:29
-
 But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all.

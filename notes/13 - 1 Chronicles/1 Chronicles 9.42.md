@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 9:42
-
 And Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza;

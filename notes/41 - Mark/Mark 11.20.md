@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:20
-
 And in the morning, as they passed by, they saw the fig tree dried up from the roots.

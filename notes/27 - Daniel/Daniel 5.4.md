@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 5:4
-
 They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.

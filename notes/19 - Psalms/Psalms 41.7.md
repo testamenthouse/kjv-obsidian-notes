@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 41:7
-
 All that hate me whisper together against me: against me do they devise my hurt.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:11
-
 I will teach you by the hand of God: that which is with the Almighty will I not conceal.

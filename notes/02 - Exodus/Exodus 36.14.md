@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 36:14
-
 And he made curtains of goats' hair for the tent over the tabernacle: eleven curtains he made them.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 10:14
-
 Now I am come to make thee understand what shall befall thy people in the latter days: for yet the vision is for many days.

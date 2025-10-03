@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 49:2
-
 Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father.

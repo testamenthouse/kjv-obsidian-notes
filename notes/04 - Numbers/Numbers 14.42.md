@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:42
-
 Go not up, for the LORD is not among you; that ye be not smitten before your enemies.

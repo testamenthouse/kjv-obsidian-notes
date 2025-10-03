@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 30:4
-
 For his princes were at Zoan, and his ambassadors came to Hanes.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 94:13
-
 That thou mayest give him rest from the days of adversity, until the pit be digged for the wicked.

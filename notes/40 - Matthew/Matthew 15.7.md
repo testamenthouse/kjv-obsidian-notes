@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:7
-
 Ye hypocrites, well did Esaias prophesy of you, saying,

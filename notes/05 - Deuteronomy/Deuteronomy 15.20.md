@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 15:20
-
 Thou shalt eat it before the LORD thy God year by year in the place which the LORD shall choose, thou and thy household.

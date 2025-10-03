@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:5
-
 And the sixth, Ithream, by Eglah David's wife. These were born to David in Hebron.

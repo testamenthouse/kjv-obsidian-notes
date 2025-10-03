@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 6:2
-
 In the first chariot were red horses; and in the second chariot black horses;

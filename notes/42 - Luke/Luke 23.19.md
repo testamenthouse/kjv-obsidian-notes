@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:19
-
 (Who for a certain sedition made in the city, and for murder, was cast into prison.)

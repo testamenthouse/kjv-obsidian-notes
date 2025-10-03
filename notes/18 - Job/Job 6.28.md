@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:28
-
 Now therefore be content, look upon me; for it is evident unto you if I lie.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 8:8
-
 And he went up thence to Penuel, and spake unto them likewise: and the men of Penuel answered him as the men of Succoth had answered him.

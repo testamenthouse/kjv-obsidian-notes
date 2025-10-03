@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:44
-
 And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour.

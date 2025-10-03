@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [positive-command, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 11:19
-
 Ye shall not eat one day, nor two days, nor five days, neither ten days, nor twenty days;

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 6:7
-
 And the anger of the LORD was kindled against Uzzah; and God smote him there for his error; and there he died by the ark of God.

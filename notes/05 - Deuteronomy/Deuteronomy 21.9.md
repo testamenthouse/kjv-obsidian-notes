@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 21:9
-
 So shalt thou put away the guilt of innocent blood from among you, when thou shalt do that which is right in the sight of the LORD.

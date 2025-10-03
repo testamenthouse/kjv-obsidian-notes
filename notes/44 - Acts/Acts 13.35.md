@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:35
-
 Wherefore he saith also in another psalm, Thou shalt not suffer thine Holy One to see corruption.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 85:2
-
 Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.

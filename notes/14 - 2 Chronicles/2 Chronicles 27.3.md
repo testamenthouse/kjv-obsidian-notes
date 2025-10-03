@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 27:3
-
 He built the high gate of the house of the LORD, and on the wall of Ophel he built much.

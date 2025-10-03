@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 31:6
-
 So Saul died, and his three sons, and his armourbearer, and all his men, that same day together.

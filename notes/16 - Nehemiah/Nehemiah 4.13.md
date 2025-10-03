@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 4:13
-
 Therefore set I in the lower places behind the wall, and on the higher places, I even set the people after their families with their swords, their spears, and their bows.

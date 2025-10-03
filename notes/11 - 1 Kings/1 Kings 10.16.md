@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 10:16
-
 And king Solomon made two hundred targets of beaten gold: six hundred shekels of gold went to one target.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:2
-
 And all the men of Israel assembled themselves unto king Solomon at the feast in the month Ethanim, which is the seventh month.

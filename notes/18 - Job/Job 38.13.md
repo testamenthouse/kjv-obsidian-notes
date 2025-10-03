@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:13
-
 That it might take hold of the ends of the earth, that the wicked might be shaken out of it?

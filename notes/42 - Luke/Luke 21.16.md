@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:16
-
 And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death.

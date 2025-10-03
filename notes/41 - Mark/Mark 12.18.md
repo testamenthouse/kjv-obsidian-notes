@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:18
-
 Then come unto him the Sadducees, which say there is no resurrection; and they asked him, saying,

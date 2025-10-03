@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 6:12
-
 And they stirred up the people, and the elders, and the scribes, and came upon him, and caught him, and brought him to the council,

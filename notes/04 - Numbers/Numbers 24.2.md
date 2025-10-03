@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 24:2
-
 And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him.

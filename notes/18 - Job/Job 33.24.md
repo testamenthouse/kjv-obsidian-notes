@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:24
-
 Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom.

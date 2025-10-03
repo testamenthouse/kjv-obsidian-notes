@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 4:8
-
 Blessed is the man to whom the Lord will not impute sin.

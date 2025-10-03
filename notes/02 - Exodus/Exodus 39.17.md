@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 39:17
-
 And they put the two wreathed chains of gold in the two rings on the ends of the breastplate.

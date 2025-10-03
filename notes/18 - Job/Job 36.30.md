@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:30
-
 Behold, he spreadeth his light upon it, and covereth the bottom of the sea.

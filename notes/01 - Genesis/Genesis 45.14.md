@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 45:14
-
 And he fell upon his brother Benjamin's neck, and wept; and Benjamin wept upon his neck.

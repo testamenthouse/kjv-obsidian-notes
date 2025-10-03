@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 9:7
-
 And the men of Israel said unto the Hivites, Peradventure ye dwell among us; and how shall we make a league with you?

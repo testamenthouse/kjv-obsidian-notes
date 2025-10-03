@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 41:17
-
 And they departed, and dwelt in the habitation of Chimham, which is by Bethlehem, to go to enter into Egypt,

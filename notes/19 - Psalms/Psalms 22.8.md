@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 22:8
-
 He trusted on the LORD that he would deliver him: let him deliver him, seeing he delighted in him.

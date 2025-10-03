@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 94:14
-
 For the LORD will not cast off his people, neither will he forsake his inheritance.

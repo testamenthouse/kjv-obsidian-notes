@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 10:17
-
 But as for the children of Israel that dwelt in the cities of Judah, Rehoboam reigned over them.

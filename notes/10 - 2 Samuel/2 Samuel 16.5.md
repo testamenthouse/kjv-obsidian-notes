@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 16:5
-
 And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera: he came forth, and cursed still as he came.

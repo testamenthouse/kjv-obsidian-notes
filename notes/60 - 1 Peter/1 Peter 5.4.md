@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 5:4
-
 And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away.

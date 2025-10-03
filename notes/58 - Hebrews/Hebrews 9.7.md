@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 9:7
-
 But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:

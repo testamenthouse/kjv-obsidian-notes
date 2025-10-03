@@ -13,7 +13,4 @@ grammar_tags: [exclamation, genealogy-structure]
 thematic_tags: [warfare, lament, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 9:1
-
 Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!

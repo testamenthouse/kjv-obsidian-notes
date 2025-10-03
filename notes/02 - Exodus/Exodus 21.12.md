@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 21:12
-
 He that smiteth a man, so that he die, shall be surely put to death.

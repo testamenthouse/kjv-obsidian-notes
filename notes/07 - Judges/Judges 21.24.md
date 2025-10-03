@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 21:24
-
 And the children of Israel departed thence at that time, every man to his tribe and to his family, and they went out from thence every man to his inheritance.

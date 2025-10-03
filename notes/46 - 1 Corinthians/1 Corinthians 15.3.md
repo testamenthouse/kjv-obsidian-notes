@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:3
-
 For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;

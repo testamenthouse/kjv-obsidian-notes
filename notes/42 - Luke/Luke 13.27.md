@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:27
-
 But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity.

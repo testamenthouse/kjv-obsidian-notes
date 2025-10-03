@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 9:14
-
 Saying to the sixth angel which had the trumpet, Loose the four angels which are bound in the great river Euphrates.

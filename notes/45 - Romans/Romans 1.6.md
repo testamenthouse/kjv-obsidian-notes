@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 1:6
-
 Among whom are ye also the called of Jesus Christ:

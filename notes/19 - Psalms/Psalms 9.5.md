@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-eschatology, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 9:5
-
 Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.

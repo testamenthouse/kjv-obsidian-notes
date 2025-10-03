@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 3:10
-
 That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;

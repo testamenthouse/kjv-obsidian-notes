@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 9:9
-
 And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead.

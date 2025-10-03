@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 135:20
-
 Bless the LORD, O house of Levi: ye that fear the LORD, bless the LORD.

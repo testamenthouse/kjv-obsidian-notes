@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 8:3
-
 Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.

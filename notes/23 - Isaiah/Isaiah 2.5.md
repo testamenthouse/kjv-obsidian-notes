@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 2:5
-
 O house of Jacob, come ye, and let us walk in the light of the LORD.

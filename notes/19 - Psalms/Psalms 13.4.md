@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 13:4
-
 Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved.

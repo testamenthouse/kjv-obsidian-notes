@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 7:78
-
 On the twelfth day Ahira the son of Enan, prince of the children of Naphtali, offered:

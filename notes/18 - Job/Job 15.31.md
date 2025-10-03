@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:31
-
 Let not him that is deceived trust in vanity: for vanity shall be his recompence.

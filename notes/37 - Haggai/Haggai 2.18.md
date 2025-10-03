@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 2:18
-
 Consider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of the LORD's temple was laid, consider it.

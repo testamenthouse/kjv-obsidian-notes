@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 5:4
-
 But her end is bitter as wormwood, sharp as a two-edged sword.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:32
-
 Who immediately took soldiers and centurions, and ran down unto them: and when they saw the chief captain and the soldiers, they left beating of Paul.

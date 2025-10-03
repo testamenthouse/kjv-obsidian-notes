@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 15:22
-
 Thou shalt eat it within thy gates: the unclean and the clean person shall eat it alike, as the roebuck, and as the hart.

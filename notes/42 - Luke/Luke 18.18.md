@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:18
-
 And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?

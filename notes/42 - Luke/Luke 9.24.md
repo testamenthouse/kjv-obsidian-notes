@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:24
-
 For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it.

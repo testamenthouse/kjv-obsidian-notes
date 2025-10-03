@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 9:15
-
 The LORD of hosts shall defend them; and they shall devour, and subdue with sling stones; and they shall drink, and make a noise as through wine; and they shall be filled like bowls, and as the corners of the altar.

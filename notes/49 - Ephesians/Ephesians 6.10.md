@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 6:10
-
 Finally, my brethren, be strong in the Lord, and in the power of his might.

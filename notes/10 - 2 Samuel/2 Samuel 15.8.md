@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 15:8
-
 For thy servant vowed a vow while I abode at Geshur in Syria, saying, If the LORD shall bring me again indeed to Jerusalem, then I will serve the LORD.

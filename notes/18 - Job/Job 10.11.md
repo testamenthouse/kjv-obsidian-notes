@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:11
-
 Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.

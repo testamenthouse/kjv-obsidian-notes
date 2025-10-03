@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 11:31
-
 Ithai the son of Ribai of Gibeah, that pertained to the children of Benjamin, Benaiah the Pirathonite,

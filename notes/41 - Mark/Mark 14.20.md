@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:20
-
 And he answered and said unto them, It is one of the twelve, that dippeth with me in the dish.

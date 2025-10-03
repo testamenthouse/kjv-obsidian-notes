@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:26
-
 Therefore did my heart rejoice, and my tongue was glad; moreover also my flesh shall rest in hope:

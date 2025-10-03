@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 11:16
-
 And they laid hands on her; and she went by the way by the which the horses came into the king's house: and there was she slain.

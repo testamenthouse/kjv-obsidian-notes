@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 9:8
-
 But when the multitudes saw it, they marvelled, and glorified God, which had given such power unto men.

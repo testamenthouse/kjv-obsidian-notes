@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:9
-
 Yet through the scent of water it will bud, and bring forth boughs like a plant.

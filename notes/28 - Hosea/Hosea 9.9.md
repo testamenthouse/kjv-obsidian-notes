@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 9:9
-
 They have deeply corrupted themselves, as in the days of Gibeah: therefore he will remember their iniquity, he will visit their sins.

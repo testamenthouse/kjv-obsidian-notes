@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 7:17
-
 And his return was to Ramah; for there was his house; and there he judged Israel; and there he built an altar unto the LORD.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 31:12
-
 And brought in the offerings and the tithes and the dedicated things faithfully: over which Cononiah the Levite was ruler, and Shimei his brother was the next.

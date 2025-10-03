@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 30:14
-
 Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the LORD.

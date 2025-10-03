@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 35:22
-
 But if he thrust him suddenly without enmity, or have cast upon him any thing without laying of wait,

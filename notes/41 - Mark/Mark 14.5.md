@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:5
-
 For it might have been sold for more than three hundred pence, and have been given to the poor. And they murmured against her.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:10
-
 Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.

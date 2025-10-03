@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:3
-
 Oh that I knew where I might find him! that I might come even to his seat!

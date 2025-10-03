@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 3:9
-
 The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves.

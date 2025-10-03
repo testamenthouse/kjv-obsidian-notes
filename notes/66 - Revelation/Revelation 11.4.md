@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 11:4
-
 These are the two olive trees, and the two candlesticks standing before the God of the earth.

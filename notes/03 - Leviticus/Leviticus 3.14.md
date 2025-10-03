@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 3:14
-
 And he shall offer thereof his offering, even an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that is upon the inwards,

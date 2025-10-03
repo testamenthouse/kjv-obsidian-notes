@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 18:3
-
 And said, My LORD, if now I have found favor in thy sight, pass not away, I pray thee, from thy servant:

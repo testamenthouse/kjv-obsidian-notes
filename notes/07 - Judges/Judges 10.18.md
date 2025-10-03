@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, one-another]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 10:18
-
 And the people and princes of Gilead said one to another, What man is he that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead.

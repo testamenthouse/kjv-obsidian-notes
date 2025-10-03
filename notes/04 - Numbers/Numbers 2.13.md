@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 2:13
-
 And his host, and those that were numbered of them, were fifty and nine thousand and three hundred.

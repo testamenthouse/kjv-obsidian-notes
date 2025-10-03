@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:49
-
 Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute:

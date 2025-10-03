@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 10:4
-
 Simon the Canaanite, and Judas Iscariot, who also betrayed him.

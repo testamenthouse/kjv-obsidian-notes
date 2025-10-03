@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:2
-
 Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God.

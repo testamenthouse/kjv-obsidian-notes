@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 8:2
-
 Speak unto Aaron and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick.

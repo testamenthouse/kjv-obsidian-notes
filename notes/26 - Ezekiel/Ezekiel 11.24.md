@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 11:24
-
 Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me.

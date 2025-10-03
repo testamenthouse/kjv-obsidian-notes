@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 9:29
-
 And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha.

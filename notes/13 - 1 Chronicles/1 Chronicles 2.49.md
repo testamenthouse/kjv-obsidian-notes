@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 2:49
-
 She bare also Shaaph the father of Madmannah, Sheva the father of Machbenah, and the father of Gibea: and the daughter of Caleb was Achsa.

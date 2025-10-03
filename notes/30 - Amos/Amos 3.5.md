@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 3:5
-
 Can a bird fall in a snare upon the earth, where no gin is for him? shall one take up a snare from the earth, and have taken nothing at all?

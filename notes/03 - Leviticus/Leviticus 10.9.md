@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 10:9
-
 Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go into the tabernacle of the congregation, lest ye die: it shall be a statute for ever throughout your generations:

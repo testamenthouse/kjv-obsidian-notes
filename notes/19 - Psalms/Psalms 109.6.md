@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:6
-
 Set thou a wicked man over him: and let Satan stand at his right hand.

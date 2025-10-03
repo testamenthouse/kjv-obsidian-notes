@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:7
-
 I said, Days should speak, and multitude of years should teach wisdom.

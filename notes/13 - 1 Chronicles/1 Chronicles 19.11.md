@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 19:11
-
 And the rest of the people he delivered unto the hand of Abishai his brother, and they set themselves in array against the children of Ammon.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 11:1
-
 Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 24:5
-
 A wise man is strong; yea, a man of knowledge increaseth strength.

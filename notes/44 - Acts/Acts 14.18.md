@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 14:18
-
 And with these sayings scarce restrained they the people, that they had not done sacrifice unto them.

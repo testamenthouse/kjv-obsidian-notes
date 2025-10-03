@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:19
-
 And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:38
-
 But if any water be put upon the seed, and any part of their carcass fall thereon, it shall be unclean unto you.

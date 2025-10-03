@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, cause-effect]
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, demonic-phrases, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 12:27
-
 And if I by Beelzebub cast out devils, by whom do your children cast them out? therefore they shall be your judges.

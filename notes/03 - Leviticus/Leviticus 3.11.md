@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 3:11
-
 And the priest shall burn it upon the altar: it is the food of the offering made by fire unto the LORD.

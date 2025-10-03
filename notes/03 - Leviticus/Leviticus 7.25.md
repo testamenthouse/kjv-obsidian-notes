@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 7:25
-
 For whosoever eateth the fat of the beast, of which men offer an offering made by fire unto the LORD, even the soul that eateth it shall be cut off from his people.

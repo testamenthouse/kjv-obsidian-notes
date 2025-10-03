@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:13
-
 And when the south wind blew softly, supposing that they had obtained their purpose, loosing thence, they sailed close by Crete.

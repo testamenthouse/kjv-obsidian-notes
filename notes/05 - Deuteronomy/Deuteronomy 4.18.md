@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 4:18
-
 The likeness of any thing that creepeth on the ground, the likeness of any fish that is in the waters beneath the earth:

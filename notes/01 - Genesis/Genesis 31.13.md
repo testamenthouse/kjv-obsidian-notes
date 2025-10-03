@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:13
-
 I am the God of Bethel, where thou anointedst the pillar, and where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.

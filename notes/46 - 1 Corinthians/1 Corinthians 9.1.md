@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 9:1
-
 Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?

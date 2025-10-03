@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:3
-
 Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me some venison;

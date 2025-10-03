@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 3:20
-
 For if our heart condemn us, God is greater than our heart, and knoweth all things.

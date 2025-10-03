@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 43:7
-
 So they came into the land of Egypt: for they obeyed not the voice of the LORD: thus came they even to Tahpanhes.

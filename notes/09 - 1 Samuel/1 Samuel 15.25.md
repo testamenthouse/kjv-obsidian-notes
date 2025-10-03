@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 15:25
-
 Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the LORD.

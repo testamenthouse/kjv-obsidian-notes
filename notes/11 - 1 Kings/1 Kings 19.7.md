@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 19:7
-
 And the angel of the LORD came again the second time, and touched him, and said, Arise and eat; because the journey is too great for thee.

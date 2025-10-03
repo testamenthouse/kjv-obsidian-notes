@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 135:6
-
 Whatsoever the LORD pleased, that did he in heaven, and in earth, in the seas, and all deep places.

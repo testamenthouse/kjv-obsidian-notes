@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 9:27
-
 Remember thy servants, Abraham, Isaac, and Jacob; look not unto the stubbornness of this people, nor to their wickedness, nor to their sin:

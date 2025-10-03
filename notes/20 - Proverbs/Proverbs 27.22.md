@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 27:22
-
 Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.

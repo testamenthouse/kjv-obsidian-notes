@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 14:14
-
 Moreover the LORD shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now.

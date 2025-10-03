@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:30
-
 To bring back his soul from the pit, to be enlightened with the light of the living.

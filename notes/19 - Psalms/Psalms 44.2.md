@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 44:2
-
 How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out.

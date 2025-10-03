@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:45
-
 And he remembered for them his covenant, and repented according to the multitude of his mercies.

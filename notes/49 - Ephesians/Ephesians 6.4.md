@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 6:4
-
 And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.

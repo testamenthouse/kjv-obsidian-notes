@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 1:21
-
 How is the faithful city become an harlot! it was full of judgment; righteousness lodged in it; but now murderers.

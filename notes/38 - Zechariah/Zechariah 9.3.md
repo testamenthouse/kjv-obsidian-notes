@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 9:3
-
 And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets.

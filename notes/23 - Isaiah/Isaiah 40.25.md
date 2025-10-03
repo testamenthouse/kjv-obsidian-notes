@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 40:25
-
 To whom then will ye liken me, or shall I be equal? saith the Holy One.

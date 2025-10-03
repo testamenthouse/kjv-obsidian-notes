@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 33:10
-
 Now will I rise, saith the LORD; now will I be exalted; now will I lift up myself.

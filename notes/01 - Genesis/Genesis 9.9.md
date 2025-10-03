@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 9:9
-
 And I, behold, I establish my covenant with you, and with your seed after you;

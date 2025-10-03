@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:40
-
 And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,

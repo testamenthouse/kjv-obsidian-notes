@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:26
-
 And I polluted them in their own gifts, in that they caused to pass through the fire all that openeth the womb, that I might make them desolate, to the end that they might know that I am the LORD.

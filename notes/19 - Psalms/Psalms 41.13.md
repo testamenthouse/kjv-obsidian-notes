@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 41:13
-
 Blessed be the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen.

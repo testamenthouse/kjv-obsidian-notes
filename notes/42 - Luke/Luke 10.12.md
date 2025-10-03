@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:12
-
 But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city.

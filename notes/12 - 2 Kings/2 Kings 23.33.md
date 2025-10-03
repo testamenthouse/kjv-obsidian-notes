@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 23:33
-
 And Pharaohnechoh put him in bands at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of an hundred talents of silver, and a talent of gold.

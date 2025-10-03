@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 7:11
-
 For thus Amos saith, Jeroboam shall die by the sword, and Israel shall surely be led away captive out of their own land.

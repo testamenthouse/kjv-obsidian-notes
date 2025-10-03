@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 7:85
-
 Each charger of silver weighing an hundred and thirty shekels, each bowl seventy: all the silver vessels weighed two thousand and four hundred shekels, after the shekel of the sanctuary:

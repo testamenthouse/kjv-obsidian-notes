@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 22:7
-
 And David said to Solomon, My son, as for me, it was in my mind to build an house unto the name of the LORD my God:

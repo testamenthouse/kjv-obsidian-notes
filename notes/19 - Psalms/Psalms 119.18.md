@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:18
-
 Open thou mine eyes, that I may behold wondrous things out of thy law.

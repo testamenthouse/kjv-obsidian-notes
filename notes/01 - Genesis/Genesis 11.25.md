@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 11:25
-
 And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters.

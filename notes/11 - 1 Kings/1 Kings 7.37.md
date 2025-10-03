@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 7:37
-
 After this manner he made the ten bases: all of them had one casting, one measure, and one size.

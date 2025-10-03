@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 8:35
-
 And the sons of Micah were, Pithon, and Melech, and Tarea, and Ahaz.

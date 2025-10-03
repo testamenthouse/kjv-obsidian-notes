@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:17
-
 And the young men of the princes of the provinces went out first; and Benhadad sent out, and they told him, saying, There are men come out of Samaria.

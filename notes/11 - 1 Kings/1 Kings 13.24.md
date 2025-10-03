@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 13:24
-
 And when he was gone, a lion met him by the way, and slew him: and his carcass was cast in the way, and the ass stood by it, the lion also stood by the carcass.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 3:2
-
 Who hate the good, and love the evil; who pluck off their skin from off them, and their flesh from off their bones;

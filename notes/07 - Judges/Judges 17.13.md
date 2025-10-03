@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 17:13
-
 Then said Micah, Now know I that the LORD will do me good, seeing I have a Levite to my priest.

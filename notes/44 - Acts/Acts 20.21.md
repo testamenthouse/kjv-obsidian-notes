@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 20:21
-
 Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.

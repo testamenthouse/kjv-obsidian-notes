@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 16:29
-
 Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas,

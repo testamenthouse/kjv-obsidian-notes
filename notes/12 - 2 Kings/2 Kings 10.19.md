@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast, conditional, cause-effect]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 10:19
-
 Now therefore call unto me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice to do to Baal; whosoever shall be wanting, he shall not live. But Jehu did it in subtilty, to the intent that he might destroy the worshippers of Baal.

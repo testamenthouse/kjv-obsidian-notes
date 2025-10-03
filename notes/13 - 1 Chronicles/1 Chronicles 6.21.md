@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 6:21
-
 Joah his son, Iddo his son, Zerah his son, Jeaterai his son.

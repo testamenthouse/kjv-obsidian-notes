@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 122:2
-
 Our feet shall stand within thy gates, O Jerusalem.

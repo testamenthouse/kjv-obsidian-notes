@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:13
-
 And of the sons of Elizaphan; Shimri, and Jeiel: and of the sons of Asaph; Zechariah, and Mattaniah:

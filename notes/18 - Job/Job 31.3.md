@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:3
-
 Is not destruction to the wicked? and a strange punishment to the workers of iniquity?

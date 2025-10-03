@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:21
-
 Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:5
-
 And the heavens shall praise thy wonders, O LORD: thy faithfulness also in the congregation of the saints.

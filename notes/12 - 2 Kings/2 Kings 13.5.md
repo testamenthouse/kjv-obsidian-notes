@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 13:5
-
 (And the LORD gave Israel a saviour, so that they went out from under the hand of the Syrians: and the children of Israel dwelt in their tents, as beforetime.

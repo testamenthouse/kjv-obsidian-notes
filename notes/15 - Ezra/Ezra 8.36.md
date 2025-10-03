@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:36
-
 And they delivered the king's commissions unto the king's lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God.

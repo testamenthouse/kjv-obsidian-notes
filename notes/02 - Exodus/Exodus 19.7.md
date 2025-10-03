@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 19:7
-
 And Moses came and called for the elders of the people, and laid before their faces all these words which the LORD commanded him.

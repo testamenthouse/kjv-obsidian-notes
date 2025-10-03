@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 24:19
-
 Who ought to have been here before thee, and object, if they had ought against me.

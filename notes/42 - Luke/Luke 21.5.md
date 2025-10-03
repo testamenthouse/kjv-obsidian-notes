@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:5
-
 And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,

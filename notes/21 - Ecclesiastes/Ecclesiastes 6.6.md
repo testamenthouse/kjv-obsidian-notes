@@ -13,7 +13,4 @@ grammar_tags: [question, negation, contrast, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 6:6
-
 Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place?

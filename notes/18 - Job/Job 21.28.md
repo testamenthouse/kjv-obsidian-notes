@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:28
-
 For ye say, Where is the house of the prince? and where are the dwelling places of the wicked?

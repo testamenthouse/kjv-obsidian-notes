@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 17:27
-
 Now therefore let it please thee to bless the house of thy servant, that it may be before thee for ever: for thou blessest, O LORD, and it shall be blessed for ever.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 42:34
-
 And bring your youngest brother unto me: then shall I know that ye are no spies, but that ye are true men: so will I deliver you your brother, and ye shall traffic in the land.

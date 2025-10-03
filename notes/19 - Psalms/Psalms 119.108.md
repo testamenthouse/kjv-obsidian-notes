@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:108
-
 Accept, I beseech thee, the freewill offerings of my mouth, O LORD, and teach me thy judgments.

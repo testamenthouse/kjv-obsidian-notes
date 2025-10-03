@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 19:1
-
 And it was told Joab, Behold, the king weepeth and mourneth for Absalom.

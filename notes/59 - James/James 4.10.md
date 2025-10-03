@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 4:10
-
 Humble yourselves in the sight of the Lord, and he shall lift you up.

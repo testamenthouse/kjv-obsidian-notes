@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 30:19
-
 And out of them shall proceed thanksgiving and the voice of them that make merry: and I will multiply them, and they shall not be few; I will also glorify them, and they shall not be small.

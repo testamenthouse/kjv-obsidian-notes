@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 30:26
-
 So there was great joy in Jerusalem: for since the time of Solomon the son of David king of Israel there was not the like in Jerusalem.

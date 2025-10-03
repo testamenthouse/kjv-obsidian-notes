@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, time-parts-of-day, time]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 3:8
-
 They all hold swords, being expert in war: every man hath his sword upon his thigh because of fear in the night.

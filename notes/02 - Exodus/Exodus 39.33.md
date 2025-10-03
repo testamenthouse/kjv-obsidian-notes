@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 39:33
-
 And they brought the tabernacle unto Moses, the tent, and all his furniture, his taches, his boards, his bars, and his pillars, and his sockets,

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 28:4
-
 They that forsake the law praise the wicked: but such as keep the law contend with them.

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 5:14
-
 And he said, Nay; but as captain of the host of the LORD am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my Lord unto his servant?

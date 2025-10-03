@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 40:23
-
 And the gate of the inner court was over against the gate toward the north, and toward the east; and he measured from gate to gate an hundred cubits.

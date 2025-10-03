@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 17:30
-
 And the men of Babylon made Succothbenoth, and the men of Cuth made Nergal, and the men of Hamath made Ashima,

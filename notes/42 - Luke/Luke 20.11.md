@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:11
-
 And again he sent another servant: and they beat him also, and entreated him shamefully, and sent him away empty.

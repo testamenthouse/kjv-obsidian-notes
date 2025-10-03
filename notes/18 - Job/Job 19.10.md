@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:10
-
 He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree.

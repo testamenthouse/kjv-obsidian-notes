@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 2:12
-
 And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.

@@ -13,7 +13,4 @@ grammar_tags: [question, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 31:2
-
 What, my son? and what, the son of my womb? and what, the son of my vows?

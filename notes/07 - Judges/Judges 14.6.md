@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 14:6
-
 And the Spirit of the LORD came mightily upon him, and he rent him as he would have rent a kid, and he had nothing in his hand: but he told not his father or his mother what he had done.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 45:25
-
 And they went up out of Egypt, and came into the land of Canaan unto Jacob their father,

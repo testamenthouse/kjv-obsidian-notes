@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 4:6
-
 But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.

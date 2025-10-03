@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 23:11
-
 Then they brought out the king's son, and put upon him the crown, and gave him the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king.

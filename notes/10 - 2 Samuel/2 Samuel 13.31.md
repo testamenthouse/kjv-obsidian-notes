@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 13:31
-
 Then the king arose, and tare his garments, and lay on the earth; and all his servants stood by with their clothes rent.

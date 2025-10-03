@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 19:9
-
 And they put him in ward in chains, and brought him to the king of Babylon: they brought him into holds, that his voice should no more be heard upon the mountains of Israel.

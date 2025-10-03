@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:20
-
 My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.

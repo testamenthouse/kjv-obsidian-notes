@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:43
-
 And he said unto them, I must preach the kingdom of God to other cities also: for therefore am I sent.

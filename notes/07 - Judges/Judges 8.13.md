@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 8:13
-
 And Gideon the son of Joash returned from battle before the sun was up,

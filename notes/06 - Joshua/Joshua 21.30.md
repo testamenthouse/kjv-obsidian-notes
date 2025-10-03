@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 21:30
-
 And out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs,

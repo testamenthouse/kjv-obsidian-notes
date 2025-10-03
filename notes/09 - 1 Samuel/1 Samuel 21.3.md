@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 21:3
-
 Now therefore what is under thine hand? give me five loaves of bread in mine hand, or what there is present.

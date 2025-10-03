@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 14:25
-
 And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.

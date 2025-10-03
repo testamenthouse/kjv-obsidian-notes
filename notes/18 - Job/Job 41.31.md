@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:31
-
 He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.

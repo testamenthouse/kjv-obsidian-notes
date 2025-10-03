@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 12:10
-
 A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.

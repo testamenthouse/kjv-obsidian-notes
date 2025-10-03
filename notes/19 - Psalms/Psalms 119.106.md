@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:106
-
 I have sworn, and I will perform it, that I will keep thy righteous judgments.

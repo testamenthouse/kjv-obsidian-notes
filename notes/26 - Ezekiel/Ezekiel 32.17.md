@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 32:17
-
 It came to pass also in the twelfth year, in the fifteenth day of the month, that the word of the LORD came unto me, saying,

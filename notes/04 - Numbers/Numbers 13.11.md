@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 13:11
-
 Of the tribe of Joseph, namely, of the tribe of Manasseh, Gaddi the son of Susi.

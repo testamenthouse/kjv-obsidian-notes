@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 1:25
-
 And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which the LORD our God doth give us.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 8:2
-
 I would lead thee, and bring thee into my mother's house, who would instruct me: I would cause thee to drink of spiced wine of the juice of my pomegranate.

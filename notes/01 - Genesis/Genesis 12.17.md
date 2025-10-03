@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 12:17
-
 And the LORD plagued Pharaoh and his house with great plagues because of Sarai Abram's wife.

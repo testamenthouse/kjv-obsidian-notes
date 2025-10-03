@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 33:16
-
 None of his sins that he hath committed shall be mentioned unto him: he hath done that which is lawful and right; he shall surely live.

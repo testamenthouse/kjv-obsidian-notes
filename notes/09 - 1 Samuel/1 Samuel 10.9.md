@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 10:9
-
 And it was so, that when he had turned his back to go from Samuel, God gave him another heart: and all those signs came to pass that day.

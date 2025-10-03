@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 25:12
-
 Thus saith the Lord GOD; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them;

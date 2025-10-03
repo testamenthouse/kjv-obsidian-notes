@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 12:19
-
 The lip of truth shall be established for ever: but a lying tongue is but for a moment.

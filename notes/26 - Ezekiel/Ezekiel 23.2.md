@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 23:2
-
 Son of man, there were two women, the daughters of one mother:

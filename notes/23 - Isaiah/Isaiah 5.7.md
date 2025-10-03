@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 5:7
-
 For the vineyard of the LORD of hosts is the house of Israel, and the men of Judah his pleasant plant: and he looked for judgment, but behold oppression; for righteousness, but behold a cry.

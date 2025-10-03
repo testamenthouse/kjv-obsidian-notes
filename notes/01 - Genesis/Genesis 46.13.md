@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 46:13
-
 And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.

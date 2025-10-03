@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:20
-
 Out of his nostrils goeth smoke, as out of a seething pot or caldron.

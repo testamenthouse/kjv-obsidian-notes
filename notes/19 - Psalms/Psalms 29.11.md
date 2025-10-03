@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 29:11
-
 The LORD will give strength unto his people; the LORD will bless his people with peace.

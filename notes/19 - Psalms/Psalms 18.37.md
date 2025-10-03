@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 18:37
-
 I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 7:28
-
 And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:

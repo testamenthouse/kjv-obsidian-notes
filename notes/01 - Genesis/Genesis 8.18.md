@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 8:18
-
 And Noah went forth, and his sons, and his wife, and his sons' wives with him:

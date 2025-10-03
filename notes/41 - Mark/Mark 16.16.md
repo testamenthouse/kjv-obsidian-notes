@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 16:16
-
 He that believeth and is baptized shall be saved; but he that believeth not shall be damned.

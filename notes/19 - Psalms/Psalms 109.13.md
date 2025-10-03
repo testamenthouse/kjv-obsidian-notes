@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:13
-
 Let his posterity be cut off; and in the generation following let their name be blotted out.

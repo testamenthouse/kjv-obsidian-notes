@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 14:2
-
 For one believeth that he may eat all things: another, who is weak, eateth herbs.

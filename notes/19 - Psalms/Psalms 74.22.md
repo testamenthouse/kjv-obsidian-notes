@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 74:22
-
 Arise, O God, plead thine own cause: remember how the foolish man reproacheth thee daily.

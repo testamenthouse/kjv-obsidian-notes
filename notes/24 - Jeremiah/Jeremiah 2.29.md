@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 2:29
-
 Wherefore will ye plead with me? ye all have transgressed against me, saith the LORD.

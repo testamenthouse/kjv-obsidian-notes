@@ -13,7 +13,4 @@ grammar_tags: [exclamation, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 18:16
-
 And saying, Alas, alas that great city, that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls!

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 23:25
-
 And Balak said unto Balaam, Neither curse them at all, nor bless them at all.

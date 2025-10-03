@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:13
-
 And Adonijah the son of Haggith came to Bathsheba the mother of Solomon. And she said, Comest thou peaceably? And he said, Peaceably.

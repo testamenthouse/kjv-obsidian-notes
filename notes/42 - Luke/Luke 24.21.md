@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:21
-
 But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done.

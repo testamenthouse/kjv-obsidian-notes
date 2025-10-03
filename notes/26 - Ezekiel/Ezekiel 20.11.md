@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:11
-
 And I gave them my statutes, and shewed them my judgments, which if a man do, he shall even live in them.

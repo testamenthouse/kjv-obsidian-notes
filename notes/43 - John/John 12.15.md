@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:15
-
 Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass's colt.

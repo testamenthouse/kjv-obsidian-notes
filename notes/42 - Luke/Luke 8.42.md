@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:42
-
 For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.

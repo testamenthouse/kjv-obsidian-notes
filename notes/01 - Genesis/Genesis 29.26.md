@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 29:26
-
 And Laban said, It must not be so done in our country, to give the younger before the firstborn.

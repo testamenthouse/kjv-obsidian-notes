@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 15:37
-
 In those days the LORD began to send against Judah Rezin the king of Syria, and Pekah the son of Remaliah.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 1:13
-
 And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;

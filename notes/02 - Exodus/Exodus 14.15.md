@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 14:15
-
 And the LORD said unto Moses, Wherefore criest thou unto me? speak unto the children of Israel, that they go forward:

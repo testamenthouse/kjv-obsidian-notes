@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:19
-
 Thou hast known my reproach, and my shame, and my dishonour: mine adversaries are all before thee.

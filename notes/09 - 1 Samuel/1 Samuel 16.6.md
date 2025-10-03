@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 16:6
-
 And it came to pass, when they were come, that he looked on Eliab, and said, Surely the LORD's anointed is before him.

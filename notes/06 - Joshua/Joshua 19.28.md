@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 19:28
-
 And Hebron, and Rehob, and Hammon, and Kanah, even unto great Zidon;

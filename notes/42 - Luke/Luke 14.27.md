@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:27
-
 And whosoever doth not bear his cross, and come after me, cannot be my disciple.

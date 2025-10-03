@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:28
-
 The children of thy servants shall continue, and their seed shall be established before thee.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:7
-
 Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee.

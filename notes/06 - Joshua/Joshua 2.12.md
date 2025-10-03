@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 2:12
-
 Now therefore, I pray you, swear unto me by the LORD, since I have showed you kindness, that ye will also show kindness unto my father's house, and give me a true token:

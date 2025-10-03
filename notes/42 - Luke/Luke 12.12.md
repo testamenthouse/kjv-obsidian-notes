@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:12
-
 For the Holy Ghost shall teach you in the same hour what ye ought to say.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 1:14
-
 I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.

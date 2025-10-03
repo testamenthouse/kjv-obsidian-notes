@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:7
-
 When I went out to the gate through the city, when I prepared my seat in the street!

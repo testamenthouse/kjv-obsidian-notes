@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 48:6
-
 Thou hast heard, see all this; and will not ye declare it? I have shewed thee new things from this time, even hidden things, and thou didst not know them.

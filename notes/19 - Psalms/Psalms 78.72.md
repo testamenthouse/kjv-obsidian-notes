@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:72
-
 So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 1:22
-
 And the house of Joseph, they also went up against Bethel: and the LORD was with them.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:5
-
 For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.

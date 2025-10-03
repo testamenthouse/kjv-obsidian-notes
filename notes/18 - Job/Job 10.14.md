@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:14
-
 If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.

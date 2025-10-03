@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 27:8
-
 He was five and twenty years old when he began to reign, and reigned sixteen years in Jerusalem.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 16:9
-
 Then said Abishai the son of Zeruiah unto the king, Why should this dead dog curse my lord the king? let me go over, I pray thee, and take off his head.

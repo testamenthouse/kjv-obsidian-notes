@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:28
-
 Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, and Athlai.

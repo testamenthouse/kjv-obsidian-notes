@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:11
-
 And, behold, immediately there were three men already come unto the house where I was, sent from Caesarea unto me.

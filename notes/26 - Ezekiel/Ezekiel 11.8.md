@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 11:8
-
 Ye have feared the sword; and I will bring a sword upon you, saith the Lord GOD.

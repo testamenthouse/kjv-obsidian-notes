@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:35
-
 If he called them gods, unto whom the word of God came, and the scripture cannot be broken;

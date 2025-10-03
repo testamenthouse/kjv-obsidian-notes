@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 3:5
-
 For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:

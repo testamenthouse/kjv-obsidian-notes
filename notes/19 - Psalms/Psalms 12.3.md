@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 12:3
-
 The LORD shall cut off all flattering lips, and the tongue that speaketh proud things:

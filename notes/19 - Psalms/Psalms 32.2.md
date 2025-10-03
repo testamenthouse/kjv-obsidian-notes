@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 32:2
-
 Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.

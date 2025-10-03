@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 14:21
-
 And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 7:49
-
 And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?

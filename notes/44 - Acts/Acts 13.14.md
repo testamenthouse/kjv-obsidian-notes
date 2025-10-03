@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:14
-
 But when they departed from Perga, they came to Antioch in Pisidia, and went into the synagogue on the sabbath day, and sat down.

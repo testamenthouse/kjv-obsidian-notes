@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 30:42
-
 But when the cattle were feeble, he put them not in: so the feebler were Laban's, and the stronger Jacob's.

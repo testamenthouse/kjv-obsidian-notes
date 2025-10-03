@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 14:20
-
 In that day shall there be upon the bells of the horses, HOLINESS UNTO THE LORD; and the pots in the LORD's house shall be like the bowls before the altar.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:15
-
 Terrors are turned upon me: they pursue my soul as the wind: and my welfare passeth away as a cloud.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast, conditional]
 thematic_tags: [jesus, jesus-title, time-period, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:35
-
 Then Jesus said unto them, Yet a little while is the light with you. Walk while ye have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth.

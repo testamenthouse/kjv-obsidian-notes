@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 21:21
-
 And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt.

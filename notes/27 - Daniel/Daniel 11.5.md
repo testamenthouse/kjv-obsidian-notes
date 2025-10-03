@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 11:5
-
 And the king of the south shall be strong, and one of his princes; and he shall be strong above him, and have dominion; his dominion shall be a great dominion.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 4:16
-
 For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.

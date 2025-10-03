@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 9:25
-
 And now, behold, we are in thine hand: as it seemeth good and right unto thee to do unto us, do.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 15:18
-
 Why is my pain perpetual, and my wound incurable, which refuseth to be healed? wilt thou be altogether unto me as a liar, and as waters that fail?

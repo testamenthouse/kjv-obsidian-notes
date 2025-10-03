@@ -13,7 +13,4 @@ grammar_tags: [question, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 3:5
-
 He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?

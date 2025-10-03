@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:32
-
 And I, if I be lifted up from the earth, will draw all men unto me.

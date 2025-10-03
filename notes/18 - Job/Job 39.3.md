@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:3
-
 They bow themselves, they bring forth their young ones, they cast out their sorrows.

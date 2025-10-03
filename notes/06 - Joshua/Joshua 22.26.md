@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 22:26
-
 Therefore we said, Let us now prepare to build us an altar, not for burnt offering, nor for sacrifice:

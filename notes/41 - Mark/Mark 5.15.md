@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, jesus, jesus-title, adversary-title, adversary-named, adversary]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:15
-
 And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid.

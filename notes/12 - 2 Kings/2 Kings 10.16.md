@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 10:16
-
 And he said, Come with me, and see my zeal for the LORD. So they made him ride in his chariot.

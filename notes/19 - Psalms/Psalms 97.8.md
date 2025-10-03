@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 97:8
-
 Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD.

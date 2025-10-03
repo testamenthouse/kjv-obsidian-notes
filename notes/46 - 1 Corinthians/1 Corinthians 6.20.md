@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 6:20
-
 For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's.

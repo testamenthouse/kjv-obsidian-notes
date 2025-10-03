@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:17
-
 And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?

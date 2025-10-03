@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:17
-
 And she gave the savory meat and the bread, which she had prepared, into the hand of her son Jacob.

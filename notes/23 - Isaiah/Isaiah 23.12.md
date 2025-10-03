@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 23:12
-
 And he said, Thou shalt no more rejoice, O thou oppressed virgin, daughter of Zidon: arise, pass over to Chittim; there also shalt thou have no rest.

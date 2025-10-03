@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:23
-
 And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you.

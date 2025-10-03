@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 139:2
-
 Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 7:30
-
 For the children of Judah have done evil in my sight, saith the LORD: they have set their abominations in the house which is called by my name, to pollute it.

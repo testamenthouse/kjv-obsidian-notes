@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 44:28
-
 And it shall be unto them for an inheritance: I am their inheritance: and ye shall give them no possession in Israel: I am their possession.

@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 2:35
-
 (Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.

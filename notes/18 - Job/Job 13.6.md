@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:6
-
 Hear now my reasoning, and hearken to the pleadings of my lips.

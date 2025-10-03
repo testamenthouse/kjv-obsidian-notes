@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:19
-
 And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.

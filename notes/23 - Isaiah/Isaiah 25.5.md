@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 25:5
-
 Thou shalt bring down the noise of strangers, as the heat in a dry place; even the heat with the shadow of a cloud: the branch of the terrible ones shall be brought low.

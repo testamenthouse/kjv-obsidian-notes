@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:10
-
 In whose hand is the soul of every living thing, and the breath of all mankind.

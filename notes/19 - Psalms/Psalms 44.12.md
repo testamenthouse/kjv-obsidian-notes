@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 44:12
-
 Thou sellest thy people for nought, and dost not increase thy wealth by their price.

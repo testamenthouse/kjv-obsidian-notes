@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:28
-
 Then they cry unto the LORD in their trouble, and he bringeth them out of their distresses.

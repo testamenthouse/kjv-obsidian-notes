@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 38:15
-
 And for the other side of the court gate, on this hand and that hand, were hangings of fifteen cubits; their pillars three, and their sockets three.

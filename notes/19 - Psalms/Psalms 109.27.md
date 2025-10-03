@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:27
-
 That they may know that this is thy hand; that thou, LORD, hast done it.

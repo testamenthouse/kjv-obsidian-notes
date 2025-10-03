@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 25:6
-
 And go not after other gods to serve them, and to worship them, and provoke me not to anger with the works of your hands; and I will do you no hurt.

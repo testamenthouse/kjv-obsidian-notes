@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:2
-
 Should not the multitude of words be answered? and should a man full of talk be justified?

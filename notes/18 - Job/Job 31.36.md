@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:36
-
 Surely I would take it upon my shoulder, and bind it as a crown to me.

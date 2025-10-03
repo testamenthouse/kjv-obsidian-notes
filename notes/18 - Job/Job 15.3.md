@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:3
-
 Should he reason with unprofitable talk? or with speeches wherewith he can do no good?

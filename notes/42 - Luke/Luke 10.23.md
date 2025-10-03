@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:23
-
 And he turned him unto his disciples, and said privately, Blessed are the eyes which see the things that ye see:

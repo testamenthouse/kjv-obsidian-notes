@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 22:2
-
 Thou that art full of stirs, a tumultuous city, joyous city: thy slain men are not slain with the sword, nor dead in battle.

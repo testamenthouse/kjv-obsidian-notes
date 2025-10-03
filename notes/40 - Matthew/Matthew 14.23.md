@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 14:23
-
 And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 21:5
-
 And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath.

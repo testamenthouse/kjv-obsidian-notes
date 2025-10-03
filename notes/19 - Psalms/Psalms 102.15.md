@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:15
-
 So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory.

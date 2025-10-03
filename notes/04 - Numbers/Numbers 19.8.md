@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 19:8
-
 And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even.

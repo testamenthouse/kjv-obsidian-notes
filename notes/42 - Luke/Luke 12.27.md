@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:27
-
 Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these.

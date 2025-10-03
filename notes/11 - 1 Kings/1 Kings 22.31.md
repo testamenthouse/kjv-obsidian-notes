@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:31
-
 But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel.

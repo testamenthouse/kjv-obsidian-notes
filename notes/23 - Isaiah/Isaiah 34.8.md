@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 34:8
-
 For it is the day of the LORD's vengeance, and the year of recompences for the controversy of Zion.

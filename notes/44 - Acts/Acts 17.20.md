@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 17:20
-
 For thou bringest certain strange things to our ears: we would know therefore what these things mean.

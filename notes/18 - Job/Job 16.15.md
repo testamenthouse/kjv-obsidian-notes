@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:15
-
 I have sewed sackcloth upon my skin, and defiled my horn in the dust.

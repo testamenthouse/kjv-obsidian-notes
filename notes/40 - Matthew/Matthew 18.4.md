@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 18:4
-
 Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.

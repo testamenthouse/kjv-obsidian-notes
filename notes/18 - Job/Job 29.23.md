@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:23
-
 And they waited for me as for the rain; and they opened their mouth wide as for the latter rain.

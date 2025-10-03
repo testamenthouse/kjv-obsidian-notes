@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 2:11
-
 Let the woman learn in silence with all subjection.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 77:2
-
 In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted.

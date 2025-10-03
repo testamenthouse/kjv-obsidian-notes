@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 147:10
-
 He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.

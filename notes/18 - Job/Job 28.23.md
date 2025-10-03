@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:23
-
 God understandeth the way thereof, and he knoweth the place thereof.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 21:10
-
 Jesus saith unto them, Bring of the fish which ye have now caught.

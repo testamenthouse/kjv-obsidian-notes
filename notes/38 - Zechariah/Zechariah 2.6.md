@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 2:6
-
 Ho, ho, come forth, and flee from the land of the north, saith the LORD: for I have spread you abroad as the four winds of the heaven, saith the LORD.

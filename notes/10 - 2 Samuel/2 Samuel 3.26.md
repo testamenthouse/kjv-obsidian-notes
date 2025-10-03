@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:26
-
 And when Joab was come out from David, he sent messengers after Abner, which brought him again from the well of Sirah: but David knew it not.

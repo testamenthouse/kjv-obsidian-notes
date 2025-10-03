@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [demonic-entities, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:18
-
 And they that were vexed with unclean spirits: and they were healed.

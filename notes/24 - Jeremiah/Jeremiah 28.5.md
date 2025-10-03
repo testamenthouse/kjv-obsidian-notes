@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 28:5
-
 Then the prophet Jeremiah said unto the prophet Hananiah in the presence of the priests, and in the presence of all the people that stood in the house of the LORD,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 4:5
-
 And when the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it:

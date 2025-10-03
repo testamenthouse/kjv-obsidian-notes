@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 33:6
-
 And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the LORD is his treasure.

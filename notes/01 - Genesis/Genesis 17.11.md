@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 17:11
-
 And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you.

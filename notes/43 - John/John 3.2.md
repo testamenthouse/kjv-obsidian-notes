@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title, time-parts-of-day, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 3:2
-
 The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.

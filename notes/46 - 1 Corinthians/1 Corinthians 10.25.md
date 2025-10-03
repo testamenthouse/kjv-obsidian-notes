@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 10:25
-
 Whatsoever is sold in the shambles, that eat, asking no question for conscience sake:

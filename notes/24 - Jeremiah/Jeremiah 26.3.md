@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 26:3
-
 If so be they will hearken, and turn every man from his evil way, that I may repent me of the evil, which I purpose to do unto them because of the evil of their doings.

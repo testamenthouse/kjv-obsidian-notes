@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 8:6
-
 And the princes of Succoth said, Are the hands of Zebah and Zalmunna now in thine hand, that we should give bread unto thine army?

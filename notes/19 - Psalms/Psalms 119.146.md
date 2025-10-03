@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:146
-
 I cried unto thee; save me, and I shall keep thy testimonies.

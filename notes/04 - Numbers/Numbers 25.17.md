@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 25:17
-
 Vex the Midianites, and smite them:

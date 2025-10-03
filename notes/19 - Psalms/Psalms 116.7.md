@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 116:7
-
 Return unto thy rest, O my soul; for the LORD hath dealt bountifully with thee.

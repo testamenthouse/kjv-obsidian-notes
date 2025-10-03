@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:51
-
 And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him.

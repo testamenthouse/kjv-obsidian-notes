@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ruth"]
 ---
-
-# Ruth 3:5
-
 And she said unto her, All that thou sayest unto me I will do.

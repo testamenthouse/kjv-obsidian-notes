@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 3:15
-
 And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 48:15
-
 I, even I, have spoken; yea, I have called him: I have brought him, and he shall make his way prosperous.

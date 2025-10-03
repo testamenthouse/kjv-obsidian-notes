@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:13
-
 Behold, I stand here by the well of water; and the daughters of the men of the city come out to draw water:

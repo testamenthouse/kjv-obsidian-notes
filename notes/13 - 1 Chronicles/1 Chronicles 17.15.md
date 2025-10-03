@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 17:15
-
 According to all these words, and according to all this vision, so did Nathan speak unto David.

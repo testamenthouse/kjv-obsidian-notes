@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, praise-worship, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 26:1
-
 In that day shall this song be sung in the land of Judah; We have a strong city; salvation will God appoint for walls and bulwarks.

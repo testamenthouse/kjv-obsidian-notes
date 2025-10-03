@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 115:7
-
 They have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat.

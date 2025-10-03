@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 10:13
-
 And ye shall eat it in the holy place, because it is thy due, and thy sons' due, of the sacrifices of the LORD made by fire: for so I am commanded.

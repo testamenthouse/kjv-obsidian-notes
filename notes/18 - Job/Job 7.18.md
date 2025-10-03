@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 7:18
-
 And that thou shouldest visit him every morning, and try him every moment?

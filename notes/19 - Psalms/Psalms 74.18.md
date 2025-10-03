@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 74:18
-
 Remember this, that the enemy hath reproached, O LORD, and that the foolish people have blasphemed thy name.

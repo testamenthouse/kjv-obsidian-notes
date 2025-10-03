@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 90:16
-
 Let thy work appear unto thy servants, and thy glory unto their children.

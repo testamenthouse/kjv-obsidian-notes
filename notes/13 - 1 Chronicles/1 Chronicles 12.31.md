@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 12:31
-
 And of the half tribe of Manasseh eighteen thousand, which were expressed by name, to come and make David king.

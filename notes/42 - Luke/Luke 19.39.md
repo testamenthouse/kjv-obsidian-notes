@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:39
-
 And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.

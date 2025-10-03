@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 14:52
-
 And there was sore war against the Philistines all the days of Saul: and when Saul saw any strong man, or any valiant man, he took him unto him.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:4
-
 I also could speak as ye do: if your soul were in my soul's stead, I could heap up words against you, and shake mine head at you.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 112:6
-
 Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance.

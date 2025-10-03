@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 125:1
-
 They that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever.

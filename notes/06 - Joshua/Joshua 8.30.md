@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 8:30
-
 Then Joshua built an altar unto the LORD God of Israel in mount Ebal,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, adversary-epithet, adversary]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 24:7
-
 For the sons of Athaliah, that wicked woman, had broken up the house of God; and also all the dedicated things of the house of the LORD did they bestow upon Baalim.

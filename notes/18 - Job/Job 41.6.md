@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:6
-
 Shall the companions make a banquet of him? shall they part him among the merchants?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:55
-
 And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them.

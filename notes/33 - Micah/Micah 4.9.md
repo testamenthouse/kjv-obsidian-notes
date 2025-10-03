@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 4:9
-
 Now why dost thou cry out aloud? is there no king in thee? is thy counsellor perished? for pangs have taken thee as a woman in travail.

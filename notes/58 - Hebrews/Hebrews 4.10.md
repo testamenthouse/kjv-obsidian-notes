@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 4:10
-
 For he that is entered into his rest, he also hath ceased from his own works, as God did from his.

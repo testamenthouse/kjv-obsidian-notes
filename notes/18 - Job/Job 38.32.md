@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:32
-
 Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?

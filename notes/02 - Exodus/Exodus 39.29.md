@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 39:29
-
 And a girdle of fine twined linen, and blue, and purple, and scarlet, of needlework; as the LORD commanded Moses.

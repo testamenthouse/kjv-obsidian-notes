@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 9:8
-
 The Lord sent a word into Jacob, and it hath lighted upon Israel.

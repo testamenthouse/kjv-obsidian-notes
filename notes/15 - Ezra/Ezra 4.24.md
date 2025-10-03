@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 4:24
-
 Then ceased the work of the house of God which is at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia.

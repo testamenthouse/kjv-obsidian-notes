@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 32:16
-
 Then judgment shall dwell in the wilderness, and righteousness remain in the fruitful field.

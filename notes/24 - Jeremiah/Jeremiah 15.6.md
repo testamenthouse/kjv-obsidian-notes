@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 15:6
-
 Thou hast forsaken me, saith the LORD, thou art gone backward: therefore will I stretch out my hand against thee, and destroy thee; I am weary with repenting.

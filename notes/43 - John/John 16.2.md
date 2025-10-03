@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:2
-
 They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.

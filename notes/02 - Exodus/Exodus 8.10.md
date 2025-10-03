@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 8:10
-
 And he said, To morrow. And he said, Be it according to thy word: that thou mayest know that there is none like unto the LORD our God.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 12:20
-
 And the cities that are inhabited shall be laid waste, and the land shall be desolate; and ye shall know that I am the LORD.

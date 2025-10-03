@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 5:13
-
 And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in that place.

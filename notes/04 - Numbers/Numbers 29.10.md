@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 29:10
-
 A several tenth deal for one lamb, throughout the seven lambs:

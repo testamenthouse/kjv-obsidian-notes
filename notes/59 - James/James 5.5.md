@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 5:5
-
 Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter.

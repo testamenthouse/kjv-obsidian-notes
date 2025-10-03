@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:22
-
 Yea, his soul draweth near unto the grave, and his life to the destroyers.

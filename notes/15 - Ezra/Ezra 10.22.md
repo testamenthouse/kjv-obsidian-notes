@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:22
-
 And of the sons of Pashur; Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.

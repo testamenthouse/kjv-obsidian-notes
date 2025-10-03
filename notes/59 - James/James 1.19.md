@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 1:19
-
 Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:

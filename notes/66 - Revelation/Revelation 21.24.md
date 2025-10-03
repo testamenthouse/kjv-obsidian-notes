@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 21:24
-
 And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.

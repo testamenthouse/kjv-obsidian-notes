@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 2:5
-
 Thus saith the LORD, What iniquity have your fathers found in me, that they are gone far from me, and have walked after vanity, and are become vain?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 7:9
-
 There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah.

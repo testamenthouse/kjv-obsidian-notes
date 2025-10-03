@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, adversary-epithet, adversary]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 5:18
-
 We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.

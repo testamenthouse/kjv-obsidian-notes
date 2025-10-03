@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 2:2
-
 And Solomon told out threescore and ten thousand men to bear burdens, and fourscore thousand to hew in the mountain, and three thousand and six hundred to oversee them.

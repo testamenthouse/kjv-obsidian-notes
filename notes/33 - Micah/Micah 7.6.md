@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 7:6
-
 For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man's enemies are the men of his own house.

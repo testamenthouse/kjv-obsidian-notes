@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:41
-
 And Moses said, Wherefore now do ye transgress the commandment of the LORD? but it shall not prosper.

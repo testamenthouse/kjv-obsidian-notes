@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:6
-
 When I washed my steps with butter, and the rock poured me out rivers of oil;

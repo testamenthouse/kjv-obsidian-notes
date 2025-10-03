@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, negation, conditional]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 18:22
-
 But if ye say unto me, We trust in the LORD our God: is not that he, whose high places and whose altars Hezekiah hath taken away, and hath said to Judah and Jerusalem, Ye shall worship before this altar in Jerusalem?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 13:47
-
 Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:

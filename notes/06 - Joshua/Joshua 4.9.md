@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, covenant, time-units, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 4:9
-
 And Joshua set up twelve stones in the midst of Jordan, in the place where the feet of the priests which bare the ark of the covenant stood: and they are there unto this day.

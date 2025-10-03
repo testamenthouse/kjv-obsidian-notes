@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 11:11
-
 And they smote all the souls that were therein with the edge of the sword, utterly destroying them: there was not any left to breathe: and he burnt Hazor with fire.

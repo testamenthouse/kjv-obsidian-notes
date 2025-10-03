@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 3:15
-
 What mean ye that ye beat my people to pieces, and grind the faces of the poor? saith the Lord GOD of hosts.

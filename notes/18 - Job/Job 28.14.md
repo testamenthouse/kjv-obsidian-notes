@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:14
-
 The depth saith, It is not in me: and the sea saith, It is not with me.

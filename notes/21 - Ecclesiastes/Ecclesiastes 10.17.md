@@ -13,7 +13,4 @@ grammar_tags: [exclamation, negation, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 10:17
-
 Blessed art thou, O land, when thy king is the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!

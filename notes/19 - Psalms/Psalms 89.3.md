@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:3
-
 I have made a covenant with my chosen, I have sworn unto David my servant,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 73:12
-
 Behold, these are the ungodly, who prosper in the world; they increase in riches.

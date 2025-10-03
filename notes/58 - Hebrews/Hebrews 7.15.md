@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 7:15
-
 And it is yet far more evident: for that after the similitude of Melchisedec there ariseth another priest,

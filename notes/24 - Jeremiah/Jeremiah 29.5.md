@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 29:5
-
 Build ye houses, and dwell in them; and plant gardens, and eat the fruit of them;

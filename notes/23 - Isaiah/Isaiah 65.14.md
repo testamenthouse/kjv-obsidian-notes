@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [praise-worship, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 65:14
-
 Behold, my servants shall sing for joy of heart, but ye shall cry for sorrow of heart, and shall howl for vexation of spirit.

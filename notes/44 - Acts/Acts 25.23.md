@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:23
-
 And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus' commandment Paul was brought forth.

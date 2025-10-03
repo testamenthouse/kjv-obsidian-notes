@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 47:31
-
 And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head.

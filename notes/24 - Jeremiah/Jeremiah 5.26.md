@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 5:26
-
 For among my people are found wicked men: they lay wait, as he that setteth snares; they set a trap, they catch men.

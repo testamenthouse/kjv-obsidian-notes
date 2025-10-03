@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 23:12
-
 And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.

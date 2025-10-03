@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 22:21
-
 Yea, I will gather you, and blow upon you in the fire of my wrath, and ye shall be melted in the midst therof.

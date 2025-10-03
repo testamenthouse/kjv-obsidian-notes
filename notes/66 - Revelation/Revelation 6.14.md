@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 6:14
-
 And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.

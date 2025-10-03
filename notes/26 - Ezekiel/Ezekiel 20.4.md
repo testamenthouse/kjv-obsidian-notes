@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:4
-
 Wilt thou judge them, son of man, wilt thou judge them? cause them to know the abominations of their fathers:

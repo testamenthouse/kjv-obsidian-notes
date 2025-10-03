@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:7
-
 Lo, let that night be solitary, let no joyful voice come therein.

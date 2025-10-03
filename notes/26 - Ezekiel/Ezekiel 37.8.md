@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 37:8
-
 And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:22
-
 Then the disciples looked one on another, doubting of whom he spake.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jonah"]
 ---
-
-# Jonah 4:9
-
 And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.

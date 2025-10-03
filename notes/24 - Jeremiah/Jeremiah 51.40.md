@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:40
-
 I will bring them down like lambs to the slaughter, like rams with he goats.

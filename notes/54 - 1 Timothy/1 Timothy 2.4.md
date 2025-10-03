@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 2:4
-
 Who will have all men to be saved, and to come unto the knowledge of the truth.

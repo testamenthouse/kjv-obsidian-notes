@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 7:14
-
 And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even unto Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites.

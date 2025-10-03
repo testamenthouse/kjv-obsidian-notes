@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 4:2
-
 And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.

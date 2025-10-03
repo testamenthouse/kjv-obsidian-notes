@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 6:2
-
 Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the LORD:

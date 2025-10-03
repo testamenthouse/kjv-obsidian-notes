@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 22:11
-
 Thou shalt not wear a garment of divers sorts, as of woolen and linen together.

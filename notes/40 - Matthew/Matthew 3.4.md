@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 3:4
-
 And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.

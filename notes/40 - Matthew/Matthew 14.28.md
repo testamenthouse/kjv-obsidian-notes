@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 14:28
-
 And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water.

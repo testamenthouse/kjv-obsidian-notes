@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 10:10
-
 As my hand hath found the kingdoms of the idols, and whose graven images did excel them of Jerusalem and of Samaria;

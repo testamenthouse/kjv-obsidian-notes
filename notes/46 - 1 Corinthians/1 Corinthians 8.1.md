@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 8:1
-
 Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:27
-
 My sheep hear my voice, and I know them, and they follow me:

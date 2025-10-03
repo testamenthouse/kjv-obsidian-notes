@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:13
-
 And when it was day, he called unto him his disciples: and of them he chose twelve, whom also he named apostles;

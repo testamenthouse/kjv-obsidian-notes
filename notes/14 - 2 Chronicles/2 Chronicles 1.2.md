@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 1:2
-
 Then Solomon spake unto all Israel, to the captains of thousands and of hundreds, and to the judges, and to every governor in all Israel, the chief of the fathers.

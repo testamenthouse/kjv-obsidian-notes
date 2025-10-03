@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 2:8
-
 (For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)

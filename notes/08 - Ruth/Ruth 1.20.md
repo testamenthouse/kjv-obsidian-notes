@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ruth"]
 ---
-
-# Ruth 1:20
-
 And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me.

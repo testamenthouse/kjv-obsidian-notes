@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 5:13
-
 And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him.

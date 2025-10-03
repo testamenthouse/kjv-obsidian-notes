@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 21:20
-
 And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer.

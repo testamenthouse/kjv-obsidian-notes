@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-feasts, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 11:28
-
 Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.

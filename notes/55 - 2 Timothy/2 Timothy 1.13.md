@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 1:13
-
 Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.

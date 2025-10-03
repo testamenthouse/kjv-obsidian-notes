@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:43
-
 Now therefore, my son, obey my voice; arise, flee thou to Laban my brother to Haran;

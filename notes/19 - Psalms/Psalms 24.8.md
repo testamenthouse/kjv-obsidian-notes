@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 24:8
-
 Who is this King of glory? The LORD strong and mighty, the LORD mighty in battle.

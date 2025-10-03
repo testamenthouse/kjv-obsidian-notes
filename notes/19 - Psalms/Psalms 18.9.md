@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 18:9
-
 He bowed the heavens also, and came down: and darkness was under his feet.

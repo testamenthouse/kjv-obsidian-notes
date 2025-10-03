@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 7:4
-
 The son of Zerahiah, the son of Uzzi, the son of Bukki,

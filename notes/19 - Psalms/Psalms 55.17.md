@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 55:17
-
 Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.

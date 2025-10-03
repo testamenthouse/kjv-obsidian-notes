@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 4:9
-
 And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:

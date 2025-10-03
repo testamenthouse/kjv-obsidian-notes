@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 25:3
-
 And Israel joined himself unto Baalpeor: and the anger of the LORD was kindled against Israel.

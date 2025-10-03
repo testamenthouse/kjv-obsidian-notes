@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:26
-
 And then shall they see the Son of man coming in the clouds with great power and glory.

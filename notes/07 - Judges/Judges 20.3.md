@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 20:3
-
 (Now the children of Benjamin heard that the children of Israel were gone up to Mizpeh.) Then said the children of Israel, Tell us, how was this wickedness?

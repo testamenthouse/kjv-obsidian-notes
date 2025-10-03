@@ -13,7 +13,4 @@ grammar_tags: [question, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 4:16
-
 Am I therefore become your enemy, because I tell you the truth?

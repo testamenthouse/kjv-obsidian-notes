@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:28
-
 For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things;

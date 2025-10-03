@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:14
-
 I have rejoiced in the way of thy testimonies, as much as in all riches.

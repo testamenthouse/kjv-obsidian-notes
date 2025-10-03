@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:6
-
 This is that Benaiah, who was mighty among the thirty, and above the thirty: and in his course was Ammizabad his son.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 3:14
-
 Draw thee waters for the siege, fortify thy strong holds: go into clay, and tread the morter, make strong the brickkiln.

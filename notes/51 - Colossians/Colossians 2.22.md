@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 2:22
-
 Which all are to perish with the using;) after the commandments and doctrines of men?

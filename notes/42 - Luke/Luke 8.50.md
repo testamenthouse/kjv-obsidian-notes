@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:50
-
 But when Jesus heard it, he answered him, saying, Fear not: believe only, and she shall be made whole.

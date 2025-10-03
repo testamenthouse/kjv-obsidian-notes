@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 1:51
-
 Hadad died also. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth,

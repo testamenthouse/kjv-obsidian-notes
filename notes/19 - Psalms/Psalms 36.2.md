@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 36:2
-
 For he flattereth himself in his own eyes, until his iniquity be found to be hateful.

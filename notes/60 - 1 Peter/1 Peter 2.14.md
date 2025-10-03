@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 2:14
-
 Or unto governors, as unto them that are sent by him for the punishment of evildoers, and for the praise of them that do well.

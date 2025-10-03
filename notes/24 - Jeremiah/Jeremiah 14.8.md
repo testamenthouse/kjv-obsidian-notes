@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 14:8
-
 O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou be as a stranger in the land, and as a wayfaring man that turneth aside to tarry for a night?

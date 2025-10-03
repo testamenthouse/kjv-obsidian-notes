@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 48:25
-
 And by the border of Simeon, from the east side unto the west side, Issachar a portion.

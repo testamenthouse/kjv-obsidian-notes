@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:43
-
 For they loved the praise of men more than the praise of God.

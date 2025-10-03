@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 1:5
-
 Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 1:10
-
 Now these are thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.

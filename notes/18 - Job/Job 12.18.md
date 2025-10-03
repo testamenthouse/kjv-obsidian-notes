@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:18
-
 He looseth the bond of kings, and girdeth their loins with a girdle.

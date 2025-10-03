@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 37:20
-
 Therefore hear now, I pray thee, O my lord the king: let my supplication, I pray thee, be accepted before thee; that thou cause me not to return to the house of Jonathan the scribe, lest I die there.

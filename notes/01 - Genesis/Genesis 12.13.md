@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 12:13
-
 Say, I pray thee, thou art my sister: that it may be well with me for thy sake; and my soul shall live because of thee.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 7:67
-
 Beside their manservants and their maidservants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.

@@ -13,7 +13,4 @@ grammar_tags: [question, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 8:32
-
 He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?

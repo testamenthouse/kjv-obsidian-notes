@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 8:5
-
 And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,

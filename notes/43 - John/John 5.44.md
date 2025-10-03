@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 5:44
-
 How can ye believe, which receive honour one of another, and seek not the honour that cometh from God only?

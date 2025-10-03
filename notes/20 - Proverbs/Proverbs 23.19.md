@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 23:19
-
 Hear thou, my son, and be wise, and guide thine heart in the way.

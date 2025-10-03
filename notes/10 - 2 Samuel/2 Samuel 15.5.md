@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 15:5
-
 And it was so, that when any man came nigh to him to do him obeisance, he put forth his hand, and took him, and kissed him.

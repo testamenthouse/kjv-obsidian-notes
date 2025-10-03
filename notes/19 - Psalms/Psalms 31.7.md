@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 31:7
-
 I will be glad and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in adversities;

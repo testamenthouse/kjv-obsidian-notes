@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:11
-
 Because he hath loosed my cord, and afflicted me, they have also let loose the bridle before me.

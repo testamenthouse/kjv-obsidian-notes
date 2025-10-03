@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 46:2
-
 Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;

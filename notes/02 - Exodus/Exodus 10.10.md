@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 10:10
-
 And he said unto them, Let the LORD be so with you, as I will let you go, and your little ones: look to it; for evil is before you.

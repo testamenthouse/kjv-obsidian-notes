@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 20:15
-
 Thou shalt not steal.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 21:3
-
 And say to the land of Israel, Thus saith the LORD; Behold, I am against thee, and will draw forth my sword out of his sheath, and will cut off from thee the righteous and the wicked.

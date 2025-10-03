@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-feasts, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 2:23
-
 Now when he was in Jerusalem at the passover, in the feast day, many believed in his name, when they saw the miracles which he did.

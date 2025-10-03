@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 34:3
-
 And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel.

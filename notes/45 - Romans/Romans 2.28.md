@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 2:28
-
 For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:

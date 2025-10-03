@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:29
-
 If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.

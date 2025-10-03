@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:26
-
 And the man bowed down his head, and worshipped the LORD.

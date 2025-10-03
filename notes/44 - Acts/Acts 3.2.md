@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 3:2
-
 And a certain man lame from his mother's womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms of them that entered into the temple;

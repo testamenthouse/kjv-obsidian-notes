@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 10:4
-
 He becometh poor that dealeth with a slack hand: but the hand of the diligent maketh rich.

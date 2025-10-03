@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 11:15
-
 And said unto him, Thus saith Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon:

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 4:7
-
 But the end of all things is at hand: be ye therefore sober, and watch unto prayer.

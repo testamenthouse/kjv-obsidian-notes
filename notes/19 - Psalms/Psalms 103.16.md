@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:16
-
 For the wind passeth over it, and it is gone; and the place thereof shall know it no more.

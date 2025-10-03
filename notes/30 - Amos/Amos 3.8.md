@@ -13,7 +13,4 @@ grammar_tags: [question, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 3:8
-
 The lion hath roared, who will not fear? the Lord GOD hath spoken, who can but prophesy?

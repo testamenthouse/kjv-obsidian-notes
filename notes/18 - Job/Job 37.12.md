@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:12
-
 And it is turned round about by his counsels: that they may do whatsoever he commandeth them upon the face of the world in the earth.

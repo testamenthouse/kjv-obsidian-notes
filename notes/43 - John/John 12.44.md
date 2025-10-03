@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, jesus, jesus-title, lament]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:44
-
 Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me.

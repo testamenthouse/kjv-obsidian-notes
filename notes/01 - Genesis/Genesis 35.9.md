@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 35:9
-
 And God appeared unto Jacob again, when he came out of Padanaram, and blessed him.

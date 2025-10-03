@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:41
-
 Not to all the people, but unto witnesses chosen before God, even to us, who did eat and drink with him after he rose from the dead.

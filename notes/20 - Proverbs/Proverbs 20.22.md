@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 20:22
-
 Say not thou, I will recompense evil; but wait on the LORD, and he shall save thee.

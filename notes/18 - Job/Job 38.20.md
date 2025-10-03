@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:20
-
 That thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?

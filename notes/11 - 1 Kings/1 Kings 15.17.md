@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:17
-
 And Baasha king of Israel went up against Judah, and built Ramah, that he might not suffer any to go out or come in to Asa king of Judah.

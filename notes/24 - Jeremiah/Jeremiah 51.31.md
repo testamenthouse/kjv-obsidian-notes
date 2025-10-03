@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:31
-
 One post shall run to meet another, and one messenger to meet another, to shew the king of Babylon that his city is taken at one end,

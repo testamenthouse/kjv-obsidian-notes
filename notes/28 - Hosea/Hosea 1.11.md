@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 1:11
-
 Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 20:10
-
 And the man that committeth adultery with another man's wife, even he that committeth adultery with his neighbor's wife, the adulterer and the adulteress shall surely be put to death.

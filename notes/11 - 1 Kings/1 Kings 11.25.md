@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:25
-
 And he was an adversary to Israel all the days of Solomon, beside the mischief that Hadad did: and he abhorred Israel, and reigned over Syria.

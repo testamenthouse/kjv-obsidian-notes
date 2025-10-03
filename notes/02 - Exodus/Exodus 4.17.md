@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 4:17
-
 And thou shalt take this rod in thine hand, wherewith thou shalt do signs.

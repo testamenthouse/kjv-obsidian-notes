@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:15
-
 Let them be before the LORD continually, that he may cut off the memory of them from the earth.

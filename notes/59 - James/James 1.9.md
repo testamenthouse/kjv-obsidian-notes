@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 1:9
-
 Let the brother of low degree rejoice in that he is exalted:

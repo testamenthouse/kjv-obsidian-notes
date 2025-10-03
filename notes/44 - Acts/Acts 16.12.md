@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 16:12
-
 And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days.

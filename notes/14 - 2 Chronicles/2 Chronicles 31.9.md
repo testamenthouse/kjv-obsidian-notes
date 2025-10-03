@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 31:9
-
 Then Hezekiah questioned with the priests and the Levites concerning the heaps.

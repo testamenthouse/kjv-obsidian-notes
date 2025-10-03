@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:116
-
 Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope.

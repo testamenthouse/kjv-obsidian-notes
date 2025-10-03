@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 30:9
-
 Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon.

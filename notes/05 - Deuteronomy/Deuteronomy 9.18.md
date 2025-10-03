@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 9:18
-
 And I fell down before the LORD, as at the first, forty days and forty nights: I did neither eat bread, nor drink water, because of all your sins which ye sinned, in doing wickedly in the sight of the LORD, to provoke him to anger.

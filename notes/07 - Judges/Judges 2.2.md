@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 2:2
-
 And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this?

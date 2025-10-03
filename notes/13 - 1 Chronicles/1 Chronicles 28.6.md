@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 28:6
-
 And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him to be my son, and I will be his father.

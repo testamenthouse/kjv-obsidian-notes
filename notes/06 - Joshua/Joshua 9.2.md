@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 9:2
-
 That they gathered themselves together, to fight with Joshua and with Israel, with one accord.

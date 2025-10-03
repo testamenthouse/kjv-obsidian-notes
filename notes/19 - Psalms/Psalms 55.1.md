@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 55:1
-
 Give ear to my prayer, O God; and hide not thyself from my supplication.

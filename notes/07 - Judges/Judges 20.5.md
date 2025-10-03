@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: [warfare, time-parts-of-day, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 20:5
-
 And the men of Gibeah rose against me, and beset the house round about upon me by night, and thought to have slain me: and my concubine have they forced, that she is dead.

@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 23:4
-
 Because they met you not with bread and with water in the way, when ye came forth out of Egypt; and because they hired against thee Balaam the son of Beor of Pethor of Mesopotamia, to curse thee.

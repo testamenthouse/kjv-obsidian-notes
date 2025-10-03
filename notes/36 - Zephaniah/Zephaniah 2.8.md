@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 2:8
-
 I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border.

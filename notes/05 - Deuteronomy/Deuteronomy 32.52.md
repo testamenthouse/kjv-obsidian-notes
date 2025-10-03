@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 32:52
-
 Yet thou shalt see the land before thee; but thou shalt not go thither unto the land which I give the children of Israel.

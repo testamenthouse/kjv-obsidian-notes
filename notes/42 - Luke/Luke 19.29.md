@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:29
-
 And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called the mount of Olives, he sent two of his disciples,

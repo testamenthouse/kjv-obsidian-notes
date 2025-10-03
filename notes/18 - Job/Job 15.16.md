@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:16
-
 How much more abominable and filthy is man, which drinketh iniquity like water?

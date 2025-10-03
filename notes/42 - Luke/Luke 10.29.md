@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:29
-
 But he, willing to justify himself, said unto Jesus, And who is my neighbour?

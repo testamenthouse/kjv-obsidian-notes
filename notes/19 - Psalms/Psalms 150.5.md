@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 150:5
-
 Praise him upon the loud cymbals: praise him upon the high sounding cymbals.

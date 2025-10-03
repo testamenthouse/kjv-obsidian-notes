@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 6:27
-
 Then Gideon took ten men of his servants, and did as the LORD had said unto him: and so it was, because he feared his father's household, and the men of the city, that he could not do it by day, that he did it by night.

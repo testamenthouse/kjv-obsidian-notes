@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 30:39
-
 And the flocks conceived before the rods, and brought forth cattle ring-streaked, speckled, and spotted.

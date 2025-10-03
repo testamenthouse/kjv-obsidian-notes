@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title, time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 9:2
-
 And after six days Jesus taketh with him Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them.

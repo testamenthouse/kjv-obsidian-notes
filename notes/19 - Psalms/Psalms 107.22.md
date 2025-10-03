@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:22
-
 And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing.

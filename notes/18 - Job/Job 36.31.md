@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:31
-
 For by them judgeth he the people; he giveth meat in abundance.

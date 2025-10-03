@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:23
-
 Let their eyes be darkened, that they see not; and make their loins continually to shake.

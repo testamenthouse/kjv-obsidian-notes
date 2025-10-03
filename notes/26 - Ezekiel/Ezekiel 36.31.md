@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 36:31
-
 Then shall ye remember your own evil ways, and your doings that were not good, and shall lothe yourselves in your own sight for your iniquities and for your abominations.

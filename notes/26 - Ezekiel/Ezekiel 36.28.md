@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 36:28
-
 And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and I will be your God.

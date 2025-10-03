@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 5:30
-
 And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:

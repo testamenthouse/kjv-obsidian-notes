@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 10:32
-
 These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.

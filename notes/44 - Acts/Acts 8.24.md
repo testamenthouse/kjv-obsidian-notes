@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:24
-
 Then answered Simon, and said, Pray ye to the LORD for me, that none of these things which ye have spoken come upon me.

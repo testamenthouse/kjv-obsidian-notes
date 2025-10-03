@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 49:1
-
 Hear this, all ye people; give ear, all ye inhabitants of the world:

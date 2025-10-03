@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:10
-
 His children shall seek to please the poor, and his hands shall restore their goods.

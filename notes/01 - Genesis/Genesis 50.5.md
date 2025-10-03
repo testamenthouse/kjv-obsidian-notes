@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 50:5
-
 My father made me swear, saying, Lo, I die: in my grave which I have digged for me in the land of Canaan, there shalt thou bury me. Now therefore let me go up, I pray thee, and bury my father, and I will come again.

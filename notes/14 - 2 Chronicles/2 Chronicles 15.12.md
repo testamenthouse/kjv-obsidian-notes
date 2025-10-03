@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 15:12
-
 And they entered into a covenant to seek the LORD God of their fathers with all their heart and with all their soul;

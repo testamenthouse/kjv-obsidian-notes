@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 25:31
-
 When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:

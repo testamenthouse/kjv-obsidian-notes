@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:45
-
 And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people.

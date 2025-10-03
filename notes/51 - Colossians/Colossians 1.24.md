@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 1:24
-
 Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the church:

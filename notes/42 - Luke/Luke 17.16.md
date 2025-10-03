@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:16
-
 And fell down on his face at his feet, giving him thanks: and he was a Samaritan.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:18
-
 He will not suffer me to take my breath, but filleth me with bitterness.

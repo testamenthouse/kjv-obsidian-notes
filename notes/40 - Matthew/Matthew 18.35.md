@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 18:35
-
 So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:10
-
 Who giveth rain upon the earth, and sendeth waters upon the fields:

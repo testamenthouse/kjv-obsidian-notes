@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:35
-
 And also the burnt offerings were in abundance, with the fat of the peace offerings, and the drink offerings for every burnt offering. So the service of the house of the LORD was set in order.

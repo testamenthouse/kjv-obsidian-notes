@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 20:20
-
 And when he had so said, he shewed unto them his hands and his side. Then were the disciples glad, when they saw the LORD.

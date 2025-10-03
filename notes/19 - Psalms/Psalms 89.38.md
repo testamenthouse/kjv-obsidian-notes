@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:38
-
 But thou hast cast off and abhorred, thou hast been wroth with thine anointed.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional, cause-effect]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:41
-
 Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth.

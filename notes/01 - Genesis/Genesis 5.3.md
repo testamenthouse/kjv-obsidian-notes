@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 5:3
-
 And Adam lived an hundred and thirty years, and begat a son in his own likeness, and after his image; and called his name Seth:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 12:4
-
 And in that day shall ye say, Praise the LORD, call upon his name, declare his doings among the people, make mention that his name is exalted.

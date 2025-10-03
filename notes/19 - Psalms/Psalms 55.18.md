@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 55:18
-
 He hath delivered my soul in peace from the battle that was against me: for there were many with me.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:145
-
 I cried with my whole heart; hear me, O LORD: I will keep thy statutes.

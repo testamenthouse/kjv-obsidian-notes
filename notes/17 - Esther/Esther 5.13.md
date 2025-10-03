@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 5:13
-
 Yet all this availeth me nothing, so long as I see Mordecai the Jew sitting at the king's gate.

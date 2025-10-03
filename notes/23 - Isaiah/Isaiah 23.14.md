@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 23:14
-
 Howl, ye ships of Tarshish: for your strength is laid waste.

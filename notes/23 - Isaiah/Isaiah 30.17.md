@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 30:17
-
 One thousand shall flee at the rebuke of one; at the rebuke of five shall ye flee: till ye be left as a beacon upon the top of a mountain, and as an ensign on an hill.

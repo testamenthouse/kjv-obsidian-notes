@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 14:4
-
 Howbeit the high places were not taken away: as yet the people did sacrifice and burnt incense on the high places.

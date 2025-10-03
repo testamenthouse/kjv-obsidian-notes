@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 10:4
-
 And in the four and twentieth day of the first month, as I was by the side of the great river, which is Hiddekel;

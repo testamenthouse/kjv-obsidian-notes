@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 10:10
-
 If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.

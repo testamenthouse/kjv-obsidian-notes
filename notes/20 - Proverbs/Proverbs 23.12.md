@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 23:12
-
 Apply thine heart unto instruction, and thine ears to the words of knowledge.

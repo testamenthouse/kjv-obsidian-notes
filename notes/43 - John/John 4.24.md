@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:24
-
 God is a Spirit: and they that worship him must worship him in spirit and in truth.

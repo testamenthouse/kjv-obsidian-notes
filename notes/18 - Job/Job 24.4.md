@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:4
-
 They turn the needy out of the way: the poor of the earth hide themselves together.

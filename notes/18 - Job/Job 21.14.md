@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:14
-
 Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways.

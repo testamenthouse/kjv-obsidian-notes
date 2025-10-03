@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 6:6
-
 Go to the ant, thou sluggard; consider her ways, and be wise:

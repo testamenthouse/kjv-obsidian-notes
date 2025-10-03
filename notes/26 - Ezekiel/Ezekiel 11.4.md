@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 11:4
-
 Therefore prophesy against them, prophesy, O son of man.

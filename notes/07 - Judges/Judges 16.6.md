@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 16:6
-
 And Delilah said to Samson, Tell me, I pray thee, wherein thy great strength lieth, and wherewith thou mightest be bound to afflict thee.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:46
-
 But some of them went their ways to the Pharisees, and told them what things Jesus had done.

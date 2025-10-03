@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 88:9
-
 Mine eye mourneth by reason of affliction: LORD, I have called daily upon thee, I have stretched out my hands unto thee.

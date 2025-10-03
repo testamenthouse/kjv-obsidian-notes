@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 148:2
-
 Praise ye him, all his angels: praise ye him, all his hosts.

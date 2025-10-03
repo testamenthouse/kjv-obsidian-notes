@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 10:13
-
 Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men.

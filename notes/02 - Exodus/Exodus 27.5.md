@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 27:5
-
 And thou shalt put it under the compass of the altar beneath, that the net may be even to the midst of the altar.

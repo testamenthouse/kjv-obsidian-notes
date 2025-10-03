@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 5:16
-
 Honor thy father and thy mother, as the LORD thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the LORD thy God giveth thee.

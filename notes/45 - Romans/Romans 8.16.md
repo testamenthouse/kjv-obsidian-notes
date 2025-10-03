@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 8:16
-
 The Spirit itself beareth witness with our spirit, that we are the children of God:

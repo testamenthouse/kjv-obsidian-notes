@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 7:2
-
 Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea.

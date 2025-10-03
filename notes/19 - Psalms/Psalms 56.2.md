@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 56:2
-
 Mine enemies would daily swallow me up: for they be many that fight against me, O thou most High.

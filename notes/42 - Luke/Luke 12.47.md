@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:47
-
 And that servant, which knew his lord's will, and prepared not himself, neither did according to his will, shall be beaten with many stripes.

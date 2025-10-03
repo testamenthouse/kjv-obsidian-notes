@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 9:37
-
 And it came to pass in those days, that she was sick, and died: whom when they had washed, they laid her in an upper chamber.

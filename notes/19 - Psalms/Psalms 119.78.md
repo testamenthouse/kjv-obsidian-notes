@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:78
-
 Let the proud be ashamed; for they dealt perversely with me without a cause: but I will meditate in thy precepts.

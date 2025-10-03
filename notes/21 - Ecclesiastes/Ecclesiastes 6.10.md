@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 6:10
-
 That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he.

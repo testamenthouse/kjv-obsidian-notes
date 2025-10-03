@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 21:8
-
 And unto this people thou shalt say, Thus saith the LORD; Behold, I set before you the way of life, and the way of death.

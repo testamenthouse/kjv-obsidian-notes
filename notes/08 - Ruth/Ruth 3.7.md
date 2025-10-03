@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Ruth"]
 ---
-
-# Ruth 3:7
-
 And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of corn: and she came softly, and uncovered his feet, and laid her down.

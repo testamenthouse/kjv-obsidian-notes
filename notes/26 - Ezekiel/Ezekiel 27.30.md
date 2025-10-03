@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:30
-
 And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 13:2
-
 And there was a certain man of Zorah, of the family of the Danites, whose name was Manoah; and his wife was barren, and bare not.

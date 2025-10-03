@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 9:15
-
 But I have used none of these things: neither have I written these things, that it should be so done unto me: for it were better for me to die, than that any man should make my glorying void.

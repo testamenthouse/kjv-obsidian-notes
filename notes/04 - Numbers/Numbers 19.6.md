@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 19:6
-
 And the priest shall take cedar wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 1:26
-
 If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain.

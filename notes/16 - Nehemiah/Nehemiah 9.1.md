@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 9:1
-
 Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.

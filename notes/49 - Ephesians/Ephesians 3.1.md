@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 3:1
-
 For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,

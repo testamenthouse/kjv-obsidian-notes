@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 6:26
-
 These are that Aaron and Moses, to whom the LORD said, Bring out the children of Israel from the land of Egypt according to their armies.

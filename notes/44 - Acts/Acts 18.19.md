@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 18:19
-
 And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews.

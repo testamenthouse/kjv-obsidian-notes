@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 34:15
-
 The two tribes and the half tribe have received their inheritance on this side Jordan near Jericho eastward, toward the sunrising.

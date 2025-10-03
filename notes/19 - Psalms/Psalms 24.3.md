@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 24:3
-
 Who shall ascend into the hill of the LORD? or who shall stand in his holy place?

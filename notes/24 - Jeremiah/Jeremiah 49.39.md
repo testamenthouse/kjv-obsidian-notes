@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 49:39
-
 But it shall come to pass in the latter days, that I will bring again the captivity of Elam, saith the LORD.

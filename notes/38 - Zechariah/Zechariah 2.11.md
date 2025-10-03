@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 2:11
-
 And many nations shall be joined to the LORD in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the LORD of hosts hath sent me unto thee.

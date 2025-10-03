@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 41:17
-
 When the poor and needy seek water, and there is none, and their tongue faileth for thirst, I the LORD will hear them, I the God of Israel will not forsake them.

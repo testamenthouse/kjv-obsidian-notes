@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [time-units, time-period, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:39
-
 And it came to pass at the end of three years, that two of the servants of Shimei ran away unto Achish son of Maachah king of Gath. And they told Shimei, saying, Behold, thy servants be in Gath.

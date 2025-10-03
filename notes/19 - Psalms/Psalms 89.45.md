@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:45
-
 The days of his youth hast thou shortened: thou hast covered him with shame. Selah.

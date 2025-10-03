@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 3:8
-
 Behold, I have made thy face strong against their faces, and thy forehead strong against their foreheads.

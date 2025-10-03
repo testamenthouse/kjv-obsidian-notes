@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 11:2
-
 And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there.

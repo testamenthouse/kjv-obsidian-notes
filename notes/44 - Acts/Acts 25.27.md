@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:27
-
 For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes laid against him.

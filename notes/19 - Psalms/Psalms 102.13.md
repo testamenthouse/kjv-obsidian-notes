@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:13
-
 Thou shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come.

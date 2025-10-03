@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 2:6
-
 And now the LORD show kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing.

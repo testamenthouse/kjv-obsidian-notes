@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 2:20
-
 Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?

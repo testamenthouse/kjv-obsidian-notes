@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 3:17
-
 Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls:

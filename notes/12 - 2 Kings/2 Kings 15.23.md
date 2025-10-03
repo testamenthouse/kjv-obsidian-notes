@@ -13,7 +13,4 @@ grammar_tags: [conditional, genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 15:23
-
 In the fiftieth year of Azariah king of Judah Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned two years.

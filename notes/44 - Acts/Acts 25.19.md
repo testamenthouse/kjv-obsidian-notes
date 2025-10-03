@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:19
-
 But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive.

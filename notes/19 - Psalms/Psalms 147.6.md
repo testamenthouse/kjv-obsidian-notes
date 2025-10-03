@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 147:6
-
 The LORD lifteth up the meek: he casteth the wicked down to the ground.

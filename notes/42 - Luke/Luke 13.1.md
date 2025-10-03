@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:1
-
 There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.

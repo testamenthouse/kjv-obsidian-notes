@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:9
-
 Will God hear his cry when trouble cometh upon him?

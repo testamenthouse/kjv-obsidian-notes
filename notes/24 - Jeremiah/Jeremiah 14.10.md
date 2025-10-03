@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 14:10
-
 Thus saith the LORD unto this people, Thus have they loved to wander, they have not refrained their feet, therefore the LORD doth not accept them; he will now remember their iniquity, and visit their sins.

@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:5
-
 Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle's.

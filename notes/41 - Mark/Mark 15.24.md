@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:24
-
 And when they had crucified him, they parted his garments, casting lots upon them, what every man should take.

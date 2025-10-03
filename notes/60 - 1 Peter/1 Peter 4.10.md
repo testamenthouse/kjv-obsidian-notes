@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 4:10
-
 As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.

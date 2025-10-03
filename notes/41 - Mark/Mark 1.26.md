@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [demonic-entities, adversary, lament]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:26
-
 And when the unclean spirit had torn him, and cried with a loud voice, he came out of him.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 72:11
-
 Yea, all kings shall fall down before him: all nations shall serve him.

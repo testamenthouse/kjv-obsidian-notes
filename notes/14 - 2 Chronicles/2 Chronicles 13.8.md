@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 13:8
-
 And now ye think to withstand the kingdom of the LORD in the hand of the sons of David; and ye be a great multitude, and there are with your golden calves, which Jeroboam made you for gods.

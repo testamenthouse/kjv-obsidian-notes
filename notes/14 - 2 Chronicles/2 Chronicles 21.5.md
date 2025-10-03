@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 21:5
-
 Jehoram was thirty and two years old when he began to reign, and he reigned eight years in Jerusalem.

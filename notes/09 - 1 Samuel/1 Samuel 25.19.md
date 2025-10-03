@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 25:19
-
 And she said unto her servants, Go on before me; behold, I come after you. But she told not her husband Nabal.

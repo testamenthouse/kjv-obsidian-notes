@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:6
-
 I am like a pelican of the wilderness: I am like an owl of the desert.

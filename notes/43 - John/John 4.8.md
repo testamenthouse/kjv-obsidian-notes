@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:8
-
 (For his disciples were gone away unto the city to buy meat.)

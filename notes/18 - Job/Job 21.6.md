@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:6
-
 Even when I remember I am afraid, and trembling taketh hold on my flesh.

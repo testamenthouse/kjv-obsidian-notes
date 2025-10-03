@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 5:3
-
 And now, O inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt me and my vineyard.

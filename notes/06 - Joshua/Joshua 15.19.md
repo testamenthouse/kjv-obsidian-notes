@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 15:19
-
 Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.

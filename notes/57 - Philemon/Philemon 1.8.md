@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Philemon"]
 ---
-
-# Philemon 1:8
-
 Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,

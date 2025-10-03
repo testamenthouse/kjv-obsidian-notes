@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:15
-
 And Ishbosheth sent, and took her from her husband, even from Phaltiel the son of Laish.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 15:13
-
 And Samuel came to Saul: and Saul said unto him, Blessed be thou of the LORD: I have performed the commandment of the LORD.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 56:1
-
 Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.

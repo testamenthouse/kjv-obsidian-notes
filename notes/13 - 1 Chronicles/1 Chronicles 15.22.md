@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 15:22
-
 And Chenaniah, chief of the Levites, was for song: he instructed about the song, because he was skillful.

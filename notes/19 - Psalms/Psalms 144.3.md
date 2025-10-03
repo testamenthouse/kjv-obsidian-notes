@@ -13,7 +13,4 @@ grammar_tags: [exclamation, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 144:3
-
 LORD, what is man, that thou takest knowledge of him! or the son of man, that thou makest account of him!

@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 11:15
-
 Son of man, thy brethren, even thy brethren, the men of thy kindred, and all the house of Israel wholly, are they unto whom the inhabitants of Jerusalem have said, Get you far from the LORD: unto us is this land given in possession.

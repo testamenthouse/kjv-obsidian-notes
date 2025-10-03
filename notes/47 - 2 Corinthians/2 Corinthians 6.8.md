@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 6:8
-
 By honour and dishonour, by evil report and good report: as deceivers, and yet true;

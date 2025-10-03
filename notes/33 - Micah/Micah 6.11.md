@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 6:11
-
 Shall I count them pure with the wicked balances, and with the bag of deceitful weights?

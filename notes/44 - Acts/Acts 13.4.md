@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:4
-
 So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus.

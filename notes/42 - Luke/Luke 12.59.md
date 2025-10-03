@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:59
-
 I tell thee, thou shalt not depart thence, till thou hast paid the very last mite.

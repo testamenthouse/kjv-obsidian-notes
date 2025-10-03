@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [jesus-title, jesus, adversary-epithet, adversary]
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 2:3
-
 The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [benediction]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 11:6
-
 And blessed is he, whosoever shall not be offended in me.

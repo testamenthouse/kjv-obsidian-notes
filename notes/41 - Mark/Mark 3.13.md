@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 3:13
-
 And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him.

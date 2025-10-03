@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 9:12
-
 And hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight.

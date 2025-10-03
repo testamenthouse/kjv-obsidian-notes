@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:24
-
 And she went forth, and said unto her mother, What shall I ask? And she said, The head of John the Baptist.

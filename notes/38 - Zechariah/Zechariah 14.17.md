@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare, praise-worship]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 14:17
-
 And it shall be, that whoso will not come up of all the families of the earth unto Jerusalem to worship the King, the LORD of hosts, even upon them shall be no rain.

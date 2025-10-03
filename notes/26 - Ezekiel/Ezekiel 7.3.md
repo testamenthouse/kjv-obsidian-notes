@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 7:3
-
 Now is the end come upon thee, and I will send mine anger upon thee, and will judge thee according to thy ways, and will recompense upon thee all thine abominations.

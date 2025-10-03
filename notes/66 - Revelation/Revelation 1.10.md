@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 1:10
-
 I was in the Spirit on the Lord's day, and heard behind me a great voice, as of a trumpet,

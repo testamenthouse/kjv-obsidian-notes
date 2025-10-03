@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:55
-
 And the chief priests and all the council sought for witness against Jesus to put him to death; and found none.

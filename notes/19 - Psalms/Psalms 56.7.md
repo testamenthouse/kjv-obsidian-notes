@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 56:7
-
 Shall they escape by iniquity? in thine anger cast down the people, O God.

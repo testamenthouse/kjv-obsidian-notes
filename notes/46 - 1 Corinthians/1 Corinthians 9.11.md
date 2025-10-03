@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 9:11
-
 If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things?

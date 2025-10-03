@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 11:15
-
 And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favor in thy sight; and let me not see my wretchedness.

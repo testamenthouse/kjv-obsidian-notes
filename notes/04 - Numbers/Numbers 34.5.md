@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 34:5
-
 And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea.

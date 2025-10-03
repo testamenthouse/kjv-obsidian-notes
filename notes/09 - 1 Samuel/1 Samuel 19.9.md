@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, demonic-entities, adversary]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 19:9
-
 And the evil spirit from the LORD was upon Saul, as he sat in his house with his javelin in his hand: and David played with his hand.

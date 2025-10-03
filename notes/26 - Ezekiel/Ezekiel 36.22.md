@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 36:22
-
 Therefore say unto the house of Israel, thus saith the Lord GOD; I do not this for your sakes, O house of Israel, but for mine holy name's sake, which ye have profaned among the heathen, whither ye went.

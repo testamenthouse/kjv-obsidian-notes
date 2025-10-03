@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:15
-
 Dost thou know when God disposed them, and caused the light of his cloud to shine?

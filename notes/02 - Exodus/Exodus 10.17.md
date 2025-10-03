@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 10:17
-
 Now therefore forgive, I pray thee, my sin only this once, and entreat the LORD your God, that he may take away from me this death only.

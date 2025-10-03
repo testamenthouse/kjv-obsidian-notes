@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 18:20
-
 Rejoice over her, thou heaven, and ye holy apostles and prophets; for God hath avenged you on her.

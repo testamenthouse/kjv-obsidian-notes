@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:40
-
 Which devour widows' houses, and for a pretence make long prayers: these shall receive greater damnation.

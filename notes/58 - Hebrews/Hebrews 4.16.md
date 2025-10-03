@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 4:16
-
 Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.

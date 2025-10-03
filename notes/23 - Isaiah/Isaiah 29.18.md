@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 29:18
-
 And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.

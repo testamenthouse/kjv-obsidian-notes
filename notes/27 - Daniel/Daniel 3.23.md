@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 3:23
-
 And these three men, Shadrach, Meshach, and Abednego, fell down bound into the midst of the burning fiery furnace.

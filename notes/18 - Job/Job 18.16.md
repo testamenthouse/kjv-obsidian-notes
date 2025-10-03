@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:16
-
 His roots shall be dried up beneath, and above shall his branch be cut off.

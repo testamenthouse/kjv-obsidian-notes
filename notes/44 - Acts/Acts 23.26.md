@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 23:26
-
 Claudius Lysias unto the most excellent governor Felix sendeth greeting.

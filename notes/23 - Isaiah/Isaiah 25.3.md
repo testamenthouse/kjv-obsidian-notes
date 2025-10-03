@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 25:3
-
 Therefore shall the strong people glorify thee, the city of the terrible nations shall fear thee.

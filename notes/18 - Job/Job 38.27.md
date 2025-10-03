@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:27
-
 To satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth?

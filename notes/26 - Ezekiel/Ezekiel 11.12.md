@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 11:12
-
 And ye shall know that I am the LORD: for ye have not walked in my statutes, neither executed my judgments, but have done after the manners of the heathen that are round about you.

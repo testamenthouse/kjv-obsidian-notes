@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:7
-
 But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be our's.

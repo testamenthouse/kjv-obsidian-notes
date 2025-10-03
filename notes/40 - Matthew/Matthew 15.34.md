@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:34
-
 And Jesus saith unto them, How many loaves have ye? And they said, Seven, and a few little fishes.

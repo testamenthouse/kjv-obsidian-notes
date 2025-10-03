@@ -13,7 +13,4 @@ grammar_tags: [question, contrast, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 18:20
-
 Thou sayest, (but they are but vain words,) I have counsel and strength for the war. Now on whom dost thou trust, that thou rebellest against me?

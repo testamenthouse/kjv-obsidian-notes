@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:5
-
 And king Solomon, and all the congregation of Israel, that were assembled unto him, were with him before the ark, sacrificing sheep and oxen, that could not be told nor numbered for multitude.

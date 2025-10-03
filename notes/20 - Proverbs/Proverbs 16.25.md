@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 16:25
-
 There is a way that seemeth right unto a man, but the end thereof are the ways of death.

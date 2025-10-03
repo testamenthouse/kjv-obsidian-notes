@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:9
-
 But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me?

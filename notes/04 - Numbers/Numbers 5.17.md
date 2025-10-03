@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 5:17
-
 And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put it into the water:

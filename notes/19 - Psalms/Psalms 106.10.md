@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:10
-
 And he saved them from the hand of him that hated them, and redeemed them from the hand of the enemy.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 8:8
-
 A land of wheat, and barley, and vines, and fig trees, and pomegranates; a land of oil olive, and honey;

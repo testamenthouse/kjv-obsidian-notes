@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 2:11
-
 I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts.

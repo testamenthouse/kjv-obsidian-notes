@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 108:5
-
 Be thou exalted, O God, above the heavens: and thy glory above all the earth;

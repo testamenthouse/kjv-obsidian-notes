@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 54:15
-
 Behold, they shall surely gather together, but not by me: whosoever shall gather together against thee shall fall for thy sake.

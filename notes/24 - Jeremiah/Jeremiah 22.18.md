@@ -13,7 +13,4 @@ grammar_tags: [exclamation, inference-opener, negation, cause-effect, genealogy-
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 22:18
-
 Therefore thus saith the LORD concerning Jehoiakim the son of Josiah king of Judah; They shall not lament for him, saying, Ah my brother! or, Ah sister! they shall not lament for him, saying, Ah lord! or, Ah his glory!

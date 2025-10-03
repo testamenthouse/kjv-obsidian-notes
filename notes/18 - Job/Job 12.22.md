@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:22
-
 He discovereth deep things out of darkness, and bringeth out to light the shadow of death.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:28
-
 The increase of his house shall depart, and his goods shall flow away in the day of his wrath.

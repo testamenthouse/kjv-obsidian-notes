@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:8
-
 Of their flesh shall ye not eat, and their carcass shall ye not touch; they are unclean to you.

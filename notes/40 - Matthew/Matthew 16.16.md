@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 16:16
-
 And Simon Peter answered and said, Thou art the Christ, the Son of the living God.

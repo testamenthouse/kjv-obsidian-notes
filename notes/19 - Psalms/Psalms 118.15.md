@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 118:15
-
 The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of the LORD doeth valiantly.

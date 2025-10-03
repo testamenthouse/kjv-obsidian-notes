@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 6:2
-
 Have mercy upon me, O LORD; for I am weak: O LORD, heal me; for my bones are vexed.

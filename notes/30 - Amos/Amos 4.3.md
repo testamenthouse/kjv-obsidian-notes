@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 4:3
-
 And ye shall go out at the breaches, every cow at that which is before her; and ye shall cast them into the palace, saith the LORD.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 1:12
-
 And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks;

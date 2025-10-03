@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 1:37
-
 Those that were numbered of them, even of the tribe of Benjamin, were thirty and five thousand and four hundred.

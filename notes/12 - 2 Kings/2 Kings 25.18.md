@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 25:18
-
 And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:

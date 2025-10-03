@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 15:7
-
 And for a drink offering thou shalt offer the third part of an hin of wine, for a sweet savor unto the LORD.

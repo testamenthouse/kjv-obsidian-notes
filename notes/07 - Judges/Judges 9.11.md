@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:11
-
 But the fig tree said unto them, Should I forsake my sweetness, and my good fruit, and go to be promoted over the trees?

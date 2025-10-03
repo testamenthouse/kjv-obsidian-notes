@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:13
-
 He hath put my brethren far from me, and mine acquaintance are verily estranged from me.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 35:34
-
 And he hath put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan.

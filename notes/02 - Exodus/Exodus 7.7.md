@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 7:7
-
 And Moses was fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh.

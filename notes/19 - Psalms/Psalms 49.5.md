@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 49:5
-
 Wherefore should I fear in the days of evil, when the iniquity of my heels shall compass me about?

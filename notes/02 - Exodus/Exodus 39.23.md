@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 39:23
-
 And there was an hole in the midst of the robe, as the hole of an habergeon, with a band round about the hole, that it should not rend.

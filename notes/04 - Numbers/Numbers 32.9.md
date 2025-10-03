@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:9
-
 For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them.

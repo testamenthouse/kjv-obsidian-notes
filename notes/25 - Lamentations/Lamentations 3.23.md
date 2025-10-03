@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:23
-
 They are new every morning: great is thy faithfulness.

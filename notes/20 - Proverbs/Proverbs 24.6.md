@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 24:6
-
 For by wise counsel thou shalt make thy war: and in multitude of counsellors there is safety.

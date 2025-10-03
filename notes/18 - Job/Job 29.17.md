@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:17
-
 And I brake the jaws of the wicked, and plucked the spoil out of his teeth.

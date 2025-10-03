@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 27:1
-
 Boast not thyself of to morrow; for thou knowest not what a day may bring forth.

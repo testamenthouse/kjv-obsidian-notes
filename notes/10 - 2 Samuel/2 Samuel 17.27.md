@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 17:27
-
 And it came to pass, when David was come to Mahanaim, that Shobi the son of Nahash of Rabbah of the children of Ammon, and Machir the son of Ammiel of Lodebar, and Barzillai the Gileadite of Rogelim,

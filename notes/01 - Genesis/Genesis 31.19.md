@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:19
-
 And Laban went to shear his sheep: and Rachel had stolen the images that were her father's.

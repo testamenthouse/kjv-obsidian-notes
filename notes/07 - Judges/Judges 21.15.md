@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 21:15
-
 And the people repented them for Benjamin, because that the LORD had made a breach in the tribes of Israel.

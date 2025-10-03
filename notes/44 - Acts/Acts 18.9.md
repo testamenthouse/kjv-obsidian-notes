@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 18:9
-
 Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:

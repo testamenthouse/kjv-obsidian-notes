@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 26:12
-
 LORD, thou wilt ordain peace for us: for thou also hast wrought all our works in us.

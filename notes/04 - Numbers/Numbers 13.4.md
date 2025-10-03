@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 13:4
-
 And these were their names: of the tribe of Reuben, Shammua the son of Zaccur.

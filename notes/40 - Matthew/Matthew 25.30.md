@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 25:30
-
 And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth.

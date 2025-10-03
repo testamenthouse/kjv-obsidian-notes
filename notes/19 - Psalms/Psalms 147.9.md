@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 147:9
-
 He giveth to the beast his food, and to the young ravens which cry.

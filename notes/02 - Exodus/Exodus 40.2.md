@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 40:2
-
 On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation.

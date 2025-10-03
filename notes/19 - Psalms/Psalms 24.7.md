@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 24:7
-
 Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.

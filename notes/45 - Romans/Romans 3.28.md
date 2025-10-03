@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 3:28
-
 Therefore we conclude that a man is justified by faith without the deeds of the law.

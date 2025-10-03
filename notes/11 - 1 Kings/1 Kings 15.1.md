@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:1
-
 Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.

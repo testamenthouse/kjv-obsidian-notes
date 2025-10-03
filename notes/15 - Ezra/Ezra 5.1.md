@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 5:1
-
 Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem in the name of the God of Israel, even unto them.

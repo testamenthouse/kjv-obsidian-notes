@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 28:47
-
 Because thou servedst not the LORD thy God with joyfulness, and with gladness of heart, for the abundance of all things;

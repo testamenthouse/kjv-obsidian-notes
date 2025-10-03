@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:2
-
 And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,

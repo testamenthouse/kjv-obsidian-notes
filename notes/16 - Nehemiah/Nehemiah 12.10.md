@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 12:10
-
 And Jeshua begat Joiakim, Joiakim also begat Eliashib, and Eliashib begat Joiada,

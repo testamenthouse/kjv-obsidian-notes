@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 20:30
-
 And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:

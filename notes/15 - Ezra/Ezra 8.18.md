@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:18
-
 And by the good hand of our God upon us they brought us a man of understanding, of the sons of Mahli, the son of Levi, the son of Israel; and Sherebiah, with his sons and his brethren, eighteen;

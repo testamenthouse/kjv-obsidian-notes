@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:18
-
 And they cried out all at once, saying, Away with this man, and release unto us Barabbas:

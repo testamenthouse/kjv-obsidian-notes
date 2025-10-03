@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 43:9
-
 I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 34:17
-
 The righteous cry, and the LORD heareth, and delivereth them out of all their troubles.

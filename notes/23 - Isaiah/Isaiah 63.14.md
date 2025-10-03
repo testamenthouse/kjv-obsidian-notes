@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 63:14
-
 As a beast goeth down into the valley, the Spirit of the LORD caused him to rest: so didst thou lead thy people, to make thyself a glorious name.

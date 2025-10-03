@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 59:11
-
 Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 7:6
-
 Of the tribe of Aser were sealed twelve thousand. Of the tribe of Nephthalim were sealed twelve thousand. Of the tribe of Manasses were sealed twelve thousand.

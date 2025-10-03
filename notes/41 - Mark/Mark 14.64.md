@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:64
-
 Ye have heard the blasphemy: what think ye? And they all condemned him to be guilty of death.

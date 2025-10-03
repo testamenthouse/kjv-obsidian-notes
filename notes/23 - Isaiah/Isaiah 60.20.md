@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 60:20
-
 Thy sun shall no more go down; neither shall thy moon withdraw itself: for the LORD shall be thine everlasting light, and the days of thy mourning shall be ended.

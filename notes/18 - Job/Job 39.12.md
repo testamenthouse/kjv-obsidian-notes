@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:12
-
 Wilt thou believe him, that he will bring home thy seed, and gather it into thy barn?

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 2:9
-
 Wherefore I will yet plead with you, saith the LORD, and with your children's children will I plead.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [jesus, jesus-title, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:9
-
 And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.

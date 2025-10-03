@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 5:9
-
 So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward.

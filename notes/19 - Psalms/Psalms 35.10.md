@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 35:10
-
 All my bones shall say, LORD, who is like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?

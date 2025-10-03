@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 19:13
-
 Be of good courage, and let us behave ourselves valiantly for our people, and for the cities of our God: and let the LORD do that which is good in his sight.

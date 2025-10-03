@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:19
-
 For in those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be.

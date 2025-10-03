@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 7:7
-
 For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that.

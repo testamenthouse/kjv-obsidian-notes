@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 42:16
-
 Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether there be any truth in you: or else by the life of Pharaoh surely ye are spies.

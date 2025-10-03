@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 5:23
-
 And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me, even all the heads of your tribes, and your elders;

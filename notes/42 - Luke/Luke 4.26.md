@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:26
-
 But unto none of them was Elias sent, save unto Sarepta, a city of Sidon, unto a woman that was a widow.

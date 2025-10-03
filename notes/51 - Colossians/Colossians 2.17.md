@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 2:17
-
 Which are a shadow of things to come; but the body is of Christ.

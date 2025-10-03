@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 24:20
-
 And Araunah looked, and saw the king and his servants coming on toward him: and Araunah went out, and bowed himself before the king on his face upon the ground.

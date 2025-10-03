@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 12:14
-
 Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his LORD return unto him.

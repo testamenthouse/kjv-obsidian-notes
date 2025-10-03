@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 90:13
-
 Return, O LORD, how long? and let it repent thee concerning thy servants.

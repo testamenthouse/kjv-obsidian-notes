@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 18:6
-
 Ye shall therefore describe the land into seven parts, and bring the description hither to me, that I may cast lots for you here before the LORD our God.

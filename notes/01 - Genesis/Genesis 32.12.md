@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 32:12
-
 And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude.

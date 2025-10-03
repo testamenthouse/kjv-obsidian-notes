@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:12
-
 And Pilate answered and said again unto them, What will ye then that I shall do unto him whom ye call the King of the Jews?

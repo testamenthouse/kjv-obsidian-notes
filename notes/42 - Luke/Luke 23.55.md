@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:55
-
 And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid.

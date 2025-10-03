@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 136:12
-
 With a strong hand, and with a stretched out arm: for his mercy endureth for ever.

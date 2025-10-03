@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 32:7
-
 Behold, Hanameel the son of Shallum thine uncle shall come unto thee saying, Buy thee my field that is in Anathoth: for the right of redemption is thine to buy it.

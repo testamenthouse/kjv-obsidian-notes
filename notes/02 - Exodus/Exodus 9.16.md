@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 9:16
-
 And in very deed for this cause have I raised thee up, for to show in thee my power; and that my name may be declared throughout all the earth.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:6
-
 For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing.

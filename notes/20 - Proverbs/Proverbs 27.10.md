@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 27:10
-
 Thine own friend, and thy father's friend, forsake not; neither go into thy brother's house in the day of thy calamity: for better is a neighbour that is near than a brother far off.

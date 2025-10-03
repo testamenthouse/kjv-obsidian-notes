@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 28:18
-
 And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.

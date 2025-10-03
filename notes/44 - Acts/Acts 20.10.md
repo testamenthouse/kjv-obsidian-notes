@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 20:10
-
 And Paul went down, and fell on him, and embracing him said, Trouble not yourselves; for his life is in him.

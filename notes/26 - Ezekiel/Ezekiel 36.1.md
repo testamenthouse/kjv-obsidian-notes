@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 36:1
-
 Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD:

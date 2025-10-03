@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 46:25
-
 The LORD of hosts, the God of Israel, saith; Behold, I will punish the multitude of No, and Pharaoh, and Egypt, with their gods, and their kings; even Pharaoh, and all them that trust in him:

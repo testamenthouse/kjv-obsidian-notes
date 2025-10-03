@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:29
-
 Your carcasses shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward which have murmured against me.

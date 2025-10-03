@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 9:4
-
 Behold, the LORD will cast her out, and he will smite her power in the sea; and she shall be devoured with fire.

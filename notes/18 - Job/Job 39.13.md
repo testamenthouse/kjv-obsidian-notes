@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:13
-
 Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?

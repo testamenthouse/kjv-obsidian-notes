@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 56:9
-
 All ye beasts of the field, come to devour, yea, all ye beasts in the forest.

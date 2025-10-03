@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 4:11
-
 And now art thou cursed from the earth, which hath opened her mouth to receive thy brother's blood from thy hand;

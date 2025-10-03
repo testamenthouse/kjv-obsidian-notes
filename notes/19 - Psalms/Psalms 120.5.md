@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 120:5
-
 Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 23:13
-
 And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ease thyself abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee:

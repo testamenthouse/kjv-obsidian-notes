@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 23:31
-
 Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.

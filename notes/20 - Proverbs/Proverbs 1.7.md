@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 1:7
-
 The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.

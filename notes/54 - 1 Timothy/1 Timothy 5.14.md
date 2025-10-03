@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [adversary-title, adversary]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 5:14
-
 I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.

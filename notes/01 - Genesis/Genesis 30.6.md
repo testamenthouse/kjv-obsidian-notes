@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 30:6
-
 And Rachel said, God hath judged me, and hath also heard my voice, and hath given me a son: therefore called she his name Dan.

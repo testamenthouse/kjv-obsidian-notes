@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:4
-
 That thou mightest know the certainty of those things, wherein thou hast been instructed.

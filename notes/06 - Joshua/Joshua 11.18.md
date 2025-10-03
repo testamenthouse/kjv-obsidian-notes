@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 11:18
-
 Joshua made war a long time with all those kings.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:18
-
 He is swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 8:34
-
 And afterward he read all the words of the law, the blessings and cursings, according to all that is written in the book of the law.

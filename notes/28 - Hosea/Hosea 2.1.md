@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 2:1
-
 Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.

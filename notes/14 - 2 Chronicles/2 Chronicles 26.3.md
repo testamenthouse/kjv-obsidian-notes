@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 26:3
-
 Sixteen years old was Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother's name also was Jecoliah of Jerusalem.

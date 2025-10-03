@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 10:25
-
 And Joshua said unto them, Fear not, nor be dismayed, be strong and of good courage: for thus shall the LORD do to all your enemies against whom ye fight.

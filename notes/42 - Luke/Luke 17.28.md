@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:28
-
 Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;

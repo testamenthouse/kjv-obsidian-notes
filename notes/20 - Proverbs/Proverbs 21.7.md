@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 21:7
-
 The robbery of the wicked shall destroy them; because they refuse to do judgment.

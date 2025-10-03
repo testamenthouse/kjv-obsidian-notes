@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 5:5
-
 And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net.

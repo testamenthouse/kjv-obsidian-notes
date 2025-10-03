@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 7:26
-
 And let thy name be magnified for ever, saying, The LORD of hosts is the God over Israel: and let the house of thy servant David be established before thee.

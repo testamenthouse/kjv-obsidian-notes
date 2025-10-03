@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 139:8
-
 If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there.

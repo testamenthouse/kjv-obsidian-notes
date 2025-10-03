@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:14
-
 I have said to corruption, Thou art my father: to the worm, Thou art my mother, and my sister.

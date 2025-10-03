@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 80:4
-
 O LORD God of hosts, how long wilt thou be angry against the prayer of thy people?

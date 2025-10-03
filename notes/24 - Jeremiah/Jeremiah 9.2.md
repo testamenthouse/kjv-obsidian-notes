@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 9:2
-
 Oh that I had in the wilderness a lodging place of wayfaring men; that I might leave my people, and go from them! for they be all adulterers, an assembly of treacherous men.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:7
-
 And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 1:32
-
 And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.

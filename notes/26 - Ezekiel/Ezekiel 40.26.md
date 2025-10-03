@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 40:26
-
 And there were seven steps to go up to it, and the arches thereof were before them: and it had palm trees, one on this side, and another on that side, upon the posts thereof.

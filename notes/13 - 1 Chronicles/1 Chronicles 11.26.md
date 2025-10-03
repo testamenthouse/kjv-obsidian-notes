@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 11:26
-
 Also the valiant men of the armies were, Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem,

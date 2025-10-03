@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 11:15
-
 And he ordained him priests for the high places, and for the devils, and for the calves which he had made.

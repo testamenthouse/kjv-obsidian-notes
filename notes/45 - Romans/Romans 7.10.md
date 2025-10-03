@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 7:10
-
 And the commandment, which was ordained to life, I found to be unto death.

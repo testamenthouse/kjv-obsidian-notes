@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 12:28
-
 And the children of Israel went away, and did as the LORD had commanded Moses and Aaron, so did they.

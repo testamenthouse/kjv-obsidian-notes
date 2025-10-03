@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 29:14
-
 Neither with you only do I make this covenant and this oath;

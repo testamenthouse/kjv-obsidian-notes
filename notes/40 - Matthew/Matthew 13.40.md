@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 13:40
-
 As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world.

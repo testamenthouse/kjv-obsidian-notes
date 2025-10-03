@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:13
-
 He causeth it to come, whether for correction, or for his land, or for mercy.

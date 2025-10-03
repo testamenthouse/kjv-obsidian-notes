@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 9:5
-
 And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 28:19
-
 But ye shall offer a sacrifice made by fire for a burnt offering unto the LORD; two young bullocks, and one ram, and seven lambs of the first year: they shall be unto you without blemish:

@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 35:8
-
 Thy wickedness may hurt a man as thou art; and thy righteousness may profit the son of man.

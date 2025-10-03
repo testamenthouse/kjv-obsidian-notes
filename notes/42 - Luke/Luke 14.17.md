@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:17
-
 And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready.

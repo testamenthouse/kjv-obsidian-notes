@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 7:8
-
 The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity that is in me.

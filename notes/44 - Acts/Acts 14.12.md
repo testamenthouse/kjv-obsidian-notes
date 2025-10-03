@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 14:12
-
 And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker.

@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 23:31
-
 Jehoahaz was twenty and three years old when he began to reign; and he reigned three months in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.

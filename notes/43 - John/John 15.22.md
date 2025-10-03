@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 15:22
-
 If I had not come and spoken unto them, they had not had sin: but now they have no cloak for their sin.

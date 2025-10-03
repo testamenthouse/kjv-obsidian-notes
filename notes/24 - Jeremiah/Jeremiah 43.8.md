@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 43:8
-
 Then came the word of the LORD unto Jeremiah in Tahpanhes, saying,

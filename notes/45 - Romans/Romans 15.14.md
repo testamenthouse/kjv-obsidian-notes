@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:14
-
 And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another.

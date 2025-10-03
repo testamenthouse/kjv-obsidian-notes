@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 16:6
-
 And Aaron shall offer his bullock of the sin offering, which is for himself, and make an atonement for himself, and for his house.

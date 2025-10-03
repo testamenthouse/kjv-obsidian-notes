@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:11
-
 And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.

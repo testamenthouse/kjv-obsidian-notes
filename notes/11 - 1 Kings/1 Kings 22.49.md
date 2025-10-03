@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:49
-
 Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not.

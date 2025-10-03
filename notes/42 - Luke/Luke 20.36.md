@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:36
-
 Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.

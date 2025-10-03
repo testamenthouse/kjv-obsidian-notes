@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 14:4
-
 Where no oxen are, the crib is clean: but much increase is by the strength of the ox.

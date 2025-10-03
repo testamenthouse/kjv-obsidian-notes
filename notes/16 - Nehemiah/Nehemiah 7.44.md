@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 7:44
-
 The singers: the children of Asaph, an hundred forty and eight.

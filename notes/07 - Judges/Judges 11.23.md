@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 11:23
-
 So now the LORD God of Israel hath dispossessed the Amorites from before his people Israel, and shouldest thou possess it?

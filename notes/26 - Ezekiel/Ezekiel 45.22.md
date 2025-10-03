@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 45:22
-
 And upon that day shall the prince prepare for himself and for all the people of the land a bullock for a sin offering.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 15:7
-
 And it came to pass after forty years, that Absalom said unto the king, I pray thee, let me go and pay my vow, which I have vowed unto the LORD, in Hebron.

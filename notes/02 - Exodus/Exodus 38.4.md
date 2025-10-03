@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 38:4
-
 And he made for the altar a brazen grate of network under the compass thereof beneath unto the midst of it.

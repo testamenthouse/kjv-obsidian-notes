@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 2:11
-
 And the LORD shall utter his voice before his army: for his camp is very great: for he is strong that executeth his word: for the day of the LORD is great and very terrible; and who can abide it?

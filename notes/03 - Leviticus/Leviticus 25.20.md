@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:20
-
 And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:

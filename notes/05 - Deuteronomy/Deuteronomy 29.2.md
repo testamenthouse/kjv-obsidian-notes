@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 29:2
-
 And Moses called unto all Israel, and said unto them, Ye have seen all that the LORD did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land;

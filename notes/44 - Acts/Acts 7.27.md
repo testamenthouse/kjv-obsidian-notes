@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:27
-
 But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?

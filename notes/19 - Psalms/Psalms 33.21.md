@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 33:21
-
 For our heart shall rejoice in him, because we have trusted in his holy name.

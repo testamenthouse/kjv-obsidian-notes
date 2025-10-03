@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 26:11
-
 And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death.

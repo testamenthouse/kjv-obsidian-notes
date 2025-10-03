@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 45:19
-
 I have not spoken in secret, in a dark place of the earth: I said not unto the seed of Jacob, Seek ye me in vain: I the LORD speak righteousness, I declare things that are right.

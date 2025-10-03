@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 16:14
-
 And the Pharisees also, who were covetous, heard all these things: and they derided him.

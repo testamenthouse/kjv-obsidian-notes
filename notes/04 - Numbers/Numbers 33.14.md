@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 33:14
-
 And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink.

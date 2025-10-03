@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 32:3
-
 And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken.

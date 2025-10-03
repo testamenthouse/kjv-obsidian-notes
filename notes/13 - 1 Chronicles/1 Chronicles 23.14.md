@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 23:14
-
 Now concerning Moses the man of God, his sons were named of the tribe of Levi.

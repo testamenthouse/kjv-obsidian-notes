@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:16
-
 I called my servant, and he gave me no answer; I intreated him with my mouth.

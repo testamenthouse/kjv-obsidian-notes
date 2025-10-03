@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 12:6
-
 And he shall restore the lamb fourfold, because he did this thing, and because he had no pity.

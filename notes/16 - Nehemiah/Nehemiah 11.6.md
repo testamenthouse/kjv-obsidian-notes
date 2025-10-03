@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 11:6
-
 All the sons of Perez that dwelt at Jerusalem were four hundred threescore and eight valiant men.

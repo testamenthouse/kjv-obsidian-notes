@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:23
-
 And upon Kiriathaim, and upon Bethgamul, and upon Bethmeon,

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:26
-
 Let us not be desirous of vain glory, provoking one another, envying one another.

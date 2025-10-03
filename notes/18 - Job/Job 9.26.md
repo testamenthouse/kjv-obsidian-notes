@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:26
-
 They are passed away as the swift ships: as the eagle that hasteth to the prey.

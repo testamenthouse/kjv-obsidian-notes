@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 6:4
-
 That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.

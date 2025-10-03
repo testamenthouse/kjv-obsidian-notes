@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 31:3
-
 And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 15:14
-
 And I will make thee to pass with thine enemies into a land which thou knowest not: for a fire is kindled in mine anger, which shall burn upon you.

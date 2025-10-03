@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 14:12
-
 Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.

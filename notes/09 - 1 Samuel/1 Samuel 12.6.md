@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 12:6
-
 And Samuel said unto the people, It is the LORD that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt.

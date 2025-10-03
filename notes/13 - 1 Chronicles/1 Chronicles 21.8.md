@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 21:8
-
 And David said unto God, I have sinned greatly, because I have done this thing: but now, I beseech thee, do away the iniquity of thy servant; for I have done very foolishly.

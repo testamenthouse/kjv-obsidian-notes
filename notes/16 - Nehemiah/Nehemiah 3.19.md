@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 3:19
-
 And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning of the wall.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 1:9
-
 Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:

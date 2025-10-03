@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 3:13
-
 Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.

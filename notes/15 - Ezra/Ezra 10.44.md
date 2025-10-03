@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:44
-
 All these had taken strange wives: and some of them had wives by whom they had children.

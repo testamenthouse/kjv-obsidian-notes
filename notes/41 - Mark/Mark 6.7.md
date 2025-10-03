@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god, demonic-entities, adversary]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:7
-
 And he called unto him the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;

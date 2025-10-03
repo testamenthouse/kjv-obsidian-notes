@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:8
-
 Behold, I go forward, but he is not there; and backward, but I cannot perceive him:

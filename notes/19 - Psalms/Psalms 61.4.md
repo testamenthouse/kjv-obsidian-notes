@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 61:4
-
 I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.

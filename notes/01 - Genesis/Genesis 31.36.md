@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:36
-
 And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that thou hast so hotly pursued after me?

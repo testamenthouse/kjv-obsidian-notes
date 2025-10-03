@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:52
-
 And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.

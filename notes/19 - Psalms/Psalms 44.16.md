@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 44:16
-
 For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.

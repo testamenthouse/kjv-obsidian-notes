@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:30
-
 For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation.

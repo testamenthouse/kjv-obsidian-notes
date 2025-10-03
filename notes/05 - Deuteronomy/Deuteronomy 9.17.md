@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 9:17
-
 And I took the two tables, and cast them out of my two hands, and brake them before your eyes.

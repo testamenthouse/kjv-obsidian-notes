@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 43:29
-
 And he lifted up his eyes, and saw his brother Benjamin, his mother's son, and said, Is this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son.

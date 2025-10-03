@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:14
-
 Wherefore do I take my flesh in my teeth, and put my life in mine hand?

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:24
-
 Howbeit he will not stretch out his hand to the grave, though they cry in his destruction.

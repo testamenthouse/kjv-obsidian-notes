@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 1:8
-
 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.

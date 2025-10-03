@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 29:3
-
 Whoso loveth wisdom rejoiceth his father: but he that keepeth company with harlots spendeth his substance.

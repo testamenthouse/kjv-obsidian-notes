@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 13:18
-
 And the angel of the LORD said unto him, Why askest thou thus after my name, seeing it is secret?

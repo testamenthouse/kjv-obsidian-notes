@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:23
-
 Which I have reserved against the time of trouble, against the day of battle and war?

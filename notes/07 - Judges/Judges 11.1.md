@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 11:1
-
 Now Jephthah the Gileadite was a mighty man of valor, and he was the son of an harlot: and Gilead begat Jephthah.

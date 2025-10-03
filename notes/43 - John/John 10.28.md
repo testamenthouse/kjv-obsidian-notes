@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:28
-
 And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.

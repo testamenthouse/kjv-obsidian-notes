@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:17
-
 Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.

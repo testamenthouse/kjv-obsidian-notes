@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 7:28
-
 But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.

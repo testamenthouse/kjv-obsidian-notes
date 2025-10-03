@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 7:72
-
 And that which the rest of the people gave was twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests' garments.

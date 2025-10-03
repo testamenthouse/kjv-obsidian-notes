@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:29
-
 And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague.

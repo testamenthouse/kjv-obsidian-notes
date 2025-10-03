@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 94:1
-
 O Lord God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself.

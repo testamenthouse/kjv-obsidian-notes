@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:16
-
 And they went out at noon. But Benhadad was drinking himself drunk in the pavilions, he and the kings, the thirty and two kings that helped him.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Philemon"]
 ---
-
-# Philemon 1:23
-
 There salute thee Epaphras, my fellowprisoner in Christ Jesus;

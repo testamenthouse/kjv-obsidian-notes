@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god, warfare, jesus, jesus-title]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 4:14
-
 And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.

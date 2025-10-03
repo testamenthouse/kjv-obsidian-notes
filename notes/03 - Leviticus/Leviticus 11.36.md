@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:36
-
 Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcass shall be unclean.

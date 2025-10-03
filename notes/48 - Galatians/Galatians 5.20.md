@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:20
-
 Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,

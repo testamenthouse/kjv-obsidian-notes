@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 148:1
-
 Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights.

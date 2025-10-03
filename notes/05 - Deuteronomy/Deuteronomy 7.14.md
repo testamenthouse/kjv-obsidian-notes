@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 7:14
-
 Thou shalt be blessed above all people: there shall not be male or female barren among you, or among your cattle.

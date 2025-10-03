@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 5:6
-
 Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump?

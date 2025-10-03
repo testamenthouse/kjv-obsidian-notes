@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 3:3
-
 And ere the lamp of God went out in the temple of the LORD, where the ark of God was, and Samuel was laid down to sleep;

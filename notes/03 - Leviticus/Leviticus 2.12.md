@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 2:12
-
 As for the oblation of the firstfruits, ye shall offer them unto the LORD: but they shall not be burnt on the altar for a sweet savor.

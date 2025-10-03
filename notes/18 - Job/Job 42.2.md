@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 42:2
-
 I know that thou canst do every thing, and that no thought can be withholden from thee.

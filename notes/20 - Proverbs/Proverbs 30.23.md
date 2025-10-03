@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 30:23
-
 For an odious woman when she is married; and an handmaid that is heir to her mistress.

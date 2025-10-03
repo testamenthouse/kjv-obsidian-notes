@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:19
-
 Now I tell you before it come, that, when it is come to pass, ye may believe that I am he.

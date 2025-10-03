@@ -13,7 +13,4 @@ grammar_tags: [exclamation, inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:36
-
 Then said the Jews, Behold how he loved him!

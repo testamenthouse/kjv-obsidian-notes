@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:9
-
 Let the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:

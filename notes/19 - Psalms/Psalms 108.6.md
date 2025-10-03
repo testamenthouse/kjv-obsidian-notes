@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 108:6
-
 That thy beloved may be delivered: save with thy right hand, and answer me.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:29
-
 Darts are counted as stubble: he laugheth at the shaking of a spear.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 64:1
-
 Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.

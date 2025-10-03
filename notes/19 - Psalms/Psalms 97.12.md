@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 97:12
-
 Rejoice in the LORD, ye righteous; and give thanks at the remembrance of his holiness.

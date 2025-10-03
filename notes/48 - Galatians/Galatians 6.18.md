@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 6:18
-
 Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.

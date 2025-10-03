@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 10:1
-
 Now those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,

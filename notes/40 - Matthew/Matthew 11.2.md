@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 11:2
-
 Now when John had heard in the prison the works of Christ, he sent two of his disciples,

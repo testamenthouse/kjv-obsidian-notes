@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 7:3
-
 That they may do evil with both hands earnestly, the prince asketh, and the judge asketh for a reward; and the great man, he uttereth his mischievous desire: so they wrap it up.

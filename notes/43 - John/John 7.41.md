@@ -13,7 +13,4 @@ grammar_tags: [question, contrast]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:41
-
 Others said, This is the Christ. But some said, Shall Christ come out of Galilee?

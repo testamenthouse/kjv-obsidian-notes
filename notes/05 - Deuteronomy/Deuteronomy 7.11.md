@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [positive-command, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 7:11
-
 Thou shalt therefore keep the commandments, and the statutes, and the judgments, which I command thee this day, to do them.

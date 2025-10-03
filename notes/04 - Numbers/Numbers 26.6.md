@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 26:6
-
 Of Hezron, the family of the Hezronites: of Carmi, the family of the Carmites.

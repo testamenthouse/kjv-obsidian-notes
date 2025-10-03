@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 7:1
-
 And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.

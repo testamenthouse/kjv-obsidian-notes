@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [time-eschatology, time-period, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 11:35
-
 And some of them of understanding shall fall, to try them, and to purge, and to make them white, even to the time of the end: because it is yet for a time appointed.

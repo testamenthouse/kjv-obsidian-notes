@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 22:22
-
 The wind shall eat up all thy pastors, and thy lovers shall go into captivity: surely then shalt thou be ashamed and confounded for all thy wickedness.

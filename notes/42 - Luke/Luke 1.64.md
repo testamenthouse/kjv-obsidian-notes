@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:64
-
 And his mouth was opened immediately, and his tongue loosed, and he spake, and praised God.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 1:12
-
 For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.

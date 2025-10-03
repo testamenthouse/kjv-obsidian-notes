@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:10
-
 He hath not dealt with us after our sins; nor rewarded us according to our iniquities.

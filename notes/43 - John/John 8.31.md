@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:31
-
 Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed;

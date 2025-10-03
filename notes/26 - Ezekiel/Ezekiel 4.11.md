@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 4:11
-
 Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink.

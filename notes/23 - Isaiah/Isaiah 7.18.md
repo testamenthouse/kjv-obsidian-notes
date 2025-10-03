@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 7:18
-
 And it shall come to pass in that day, that the LORD shall hiss for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria.

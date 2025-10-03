@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:147
-
 I prevented the dawning of the morning, and cried: I hoped in thy word.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 32:20
-
 And he took the calf which they had made, and burnt it in the fire, and ground it to powder, and strewed it upon the water, and made the children of Israel drink of it.

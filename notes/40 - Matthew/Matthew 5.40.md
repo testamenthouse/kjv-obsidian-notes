@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 5:40
-
 And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also.

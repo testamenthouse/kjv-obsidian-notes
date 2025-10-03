@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 28:32
-
 Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long; and there shall be no might in thine hand.

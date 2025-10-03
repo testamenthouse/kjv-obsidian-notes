@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 36:20
-
 And they went in to the king into the court, but they laid up the roll in the chamber of Elishama the scribe, and told all the words in the ears of the king.

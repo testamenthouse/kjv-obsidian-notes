@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 3:6
-
 Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the LORD hath not done it?

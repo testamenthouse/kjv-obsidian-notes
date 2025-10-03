@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:14
-
 They came upon me as a wide breaking in of waters: in the desolation they rolled themselves upon me.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:14
-
 Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world.

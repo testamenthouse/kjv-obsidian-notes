@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 28:8
-
 They shall bring thee down to the pit, and thou shalt die the deaths of them that are slain in the midst of the seas.

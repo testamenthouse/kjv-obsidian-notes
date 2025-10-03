@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 28:6
-
 It is a continual burnt offering, which was ordained in mount Sinai for a sweet savor, a sacrifice made by fire unto the LORD.

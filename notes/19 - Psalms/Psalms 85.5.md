@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 85:5
-
 Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?

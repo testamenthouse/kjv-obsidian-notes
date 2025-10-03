@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, adversary-title, demonic-entities, demonic-phrases, adversary]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 4:1
-
 Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;

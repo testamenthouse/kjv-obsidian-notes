@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:2
-
 Sing unto him, sing psalms unto him: talk ye of all his wondrous works.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 9:12
-
 And they answered them, and said, He is; behold, he is before you: make haste now, for he came to day to the city; for there is a sacrifice of the people to day in the high place:

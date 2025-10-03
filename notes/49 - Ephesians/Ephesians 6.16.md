@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 6:16
-
 Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.

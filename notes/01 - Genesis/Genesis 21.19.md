@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 21:19
-
 And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.

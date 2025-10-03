@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 10:26
-
 And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,

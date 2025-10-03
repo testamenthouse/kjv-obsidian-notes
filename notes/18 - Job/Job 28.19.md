@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:19
-
 The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold.

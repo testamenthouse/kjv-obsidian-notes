@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 12:6
-
 The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times.

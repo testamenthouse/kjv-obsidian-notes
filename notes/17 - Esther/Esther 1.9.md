@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 1:9
-
 Also Vashti the queen made a feast for the women in the royal house which belonged to king Ahasuerus.

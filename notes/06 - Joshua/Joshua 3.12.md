@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 3:12
-
 Now therefore take you twelve men out of the tribes of Israel, out of every tribe a man.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [warfare, adversary-title, demonic-phrases, adversary, praise-worship]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 3:9
-
 Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.

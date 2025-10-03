@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 18:23
-
 Have I any pleasure at all that the wicked should die? saith the Lord GOD: and not that he should return from his ways, and live?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 3:14
-
 Multitudes, multitudes in the valley of decision: for the day of the LORD is near in the valley of decision.

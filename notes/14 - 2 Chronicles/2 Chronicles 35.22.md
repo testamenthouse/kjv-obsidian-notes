@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 35:22
-
 Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and hearkened not unto the words of Necho from the mouth of God, and came to fight in the valley of Megiddo.

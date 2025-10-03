@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 47:5
-
 God is gone up with a shout, the LORD with the sound of a trumpet.

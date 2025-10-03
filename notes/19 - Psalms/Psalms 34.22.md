@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 34:22
-
 The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate.

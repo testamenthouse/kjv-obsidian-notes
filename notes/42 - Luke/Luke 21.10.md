@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:10
-
 Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:

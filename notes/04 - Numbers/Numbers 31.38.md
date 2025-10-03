@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 31:38
-
 And the beeves were thirty and six thousand; of which the LORD's tribute was threescore and twelve.

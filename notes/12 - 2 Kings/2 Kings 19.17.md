@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 19:17
-
 Of a truth, LORD, the kings of Assyria have destroyed the nations and their lands,

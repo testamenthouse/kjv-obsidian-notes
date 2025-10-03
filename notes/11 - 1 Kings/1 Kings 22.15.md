@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:15
-
 So he came to the king. And the king said unto him, Micaiah, shall we go against Ramothgilead to battle, or shall we forbear? And he answered him, Go, and prosper: for the LORD shall deliver it into the hand of the king.

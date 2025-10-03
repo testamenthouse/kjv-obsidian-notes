@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 6:15
-
 But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 2:7
-
 To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:

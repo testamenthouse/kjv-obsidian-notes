@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:8
-
 And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle.

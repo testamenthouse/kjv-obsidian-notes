@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:2
-
 Being grieved that they taught the people, and preached through Jesus the resurrection from the dead.

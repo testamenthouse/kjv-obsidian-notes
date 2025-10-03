@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 13:8
-
 I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [jesus, jesus-title, adversary-title, adversary]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:22
-
 Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 1:15
-
 Some indeed preach Christ even of envy and strife; and some also of good will:

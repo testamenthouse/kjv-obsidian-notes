@@ -13,7 +13,4 @@ grammar_tags: [question, negation, cause-effect, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 38:14
-
 Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord GOD; In that day when my people of Israel dwelleth safely, shalt thou not know it?

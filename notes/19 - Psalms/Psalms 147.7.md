@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, thanksgiving, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 147:7
-
 Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 34:11
-
 In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,

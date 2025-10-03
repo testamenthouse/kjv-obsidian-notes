@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 16:2
-
 Thou shalt not take thee a wife, neither shalt thou have sons or daughters in this place.

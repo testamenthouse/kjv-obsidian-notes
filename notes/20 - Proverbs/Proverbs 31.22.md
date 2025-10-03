@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 31:22
-
 She maketh herself coverings of tapestry; her clothing is silk and purple.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:29
-
 If I rejoice at the destruction of him that hated me, or lifted up myself when evil found him:

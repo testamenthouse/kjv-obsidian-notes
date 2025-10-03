@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 5:9
-
 Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.

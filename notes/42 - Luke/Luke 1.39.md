@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:39
-
 And Mary arose in those days, and went into the hill country with haste, into a city of Juda;

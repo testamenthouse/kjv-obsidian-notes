@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 12:2
-
 But when the Pharisees saw it, they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day.

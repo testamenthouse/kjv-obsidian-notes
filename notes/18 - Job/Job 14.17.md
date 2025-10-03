@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:17
-
 My transgression is sealed up in a bag, and thou sewest up mine iniquity.

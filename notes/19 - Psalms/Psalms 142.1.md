@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 142:1
-
 I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication.

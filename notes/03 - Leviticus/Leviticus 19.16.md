@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:16
-
 Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbor; I am the LORD.

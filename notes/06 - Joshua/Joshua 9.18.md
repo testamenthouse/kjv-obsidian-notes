@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 9:18
-
 And the children of Israel smote them not, because the princes of the congregation had sworn unto them by the LORD God of Israel. And all the congregation murmured against the princes.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 25:2
-
 O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 21:22
-
 And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.

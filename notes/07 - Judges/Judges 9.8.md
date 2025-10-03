@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:8
-
 The trees went forth on a time to anoint a king over them; and they said unto the olive tree, Reign thou over us.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:11
-
 Now there was there nigh unto the mountains a great herd of swine feeding.

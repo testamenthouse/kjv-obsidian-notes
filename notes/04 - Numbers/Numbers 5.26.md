@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 5:26
-
 And the priest shall take an handful of the offering, even the memorial thereof, and burn it upon the altar, and afterward shall cause the woman to drink the water.

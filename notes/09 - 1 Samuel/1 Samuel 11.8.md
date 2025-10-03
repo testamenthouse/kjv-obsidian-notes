@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 11:8
-
 And when he numbered them in Bezek, the children of Israel were three hundred thousand, and the men of Judah thirty thousand.

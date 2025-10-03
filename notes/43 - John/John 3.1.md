@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 3:1
-
 There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:

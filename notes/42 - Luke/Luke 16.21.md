@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 16:21
-
 And desiring to be fed with the crumbs which fell from the rich man's table: moreover the dogs came and licked his sores.

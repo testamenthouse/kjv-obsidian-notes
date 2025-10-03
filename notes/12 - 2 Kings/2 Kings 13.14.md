@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 13:14
-
 Now Elisha was fallen sick of his sickness whereof he died. And Joash the king of Israel came down unto him, and wept over his face, and said, O my father, my father, the chariot of Israel, and the horsemen thereof.

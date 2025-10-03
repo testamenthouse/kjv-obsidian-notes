@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god, time-units, time-seasons, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:35
-
 Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.

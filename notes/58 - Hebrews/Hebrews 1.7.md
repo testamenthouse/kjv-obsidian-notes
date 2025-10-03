@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 1:7
-
 And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 8:27
-
 And I Daniel fainted, and was sick certain days; afterward I rose up, and did the king's business; and I was astonished at the vision, but none understood it.

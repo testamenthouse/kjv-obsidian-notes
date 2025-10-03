@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 23:1
-
 Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the LORD.

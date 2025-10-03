@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 1:24
-
 And they prayed, and said, Thou, Lord, which knowest the hearts of all men, shew whether of these two thou hast chosen,

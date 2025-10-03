@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:42
-
 But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.

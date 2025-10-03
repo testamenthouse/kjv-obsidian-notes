@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:6
-
 And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here?

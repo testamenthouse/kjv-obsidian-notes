@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:38
-
 A drought is upon her waters; and they shall be dried up: for it is the land of graven images, and they are mad upon their idols.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 2:12
-
 For the day of the LORD of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:

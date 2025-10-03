@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 11:37
-
 They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;

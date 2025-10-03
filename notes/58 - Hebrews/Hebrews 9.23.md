@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 9:23
-
 It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 14:23
-
 And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.

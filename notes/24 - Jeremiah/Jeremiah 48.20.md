@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:20
-
 Moab is confounded; for it is broken down: howl and cry; tell ye it in Arnon, that Moab is spoiled,

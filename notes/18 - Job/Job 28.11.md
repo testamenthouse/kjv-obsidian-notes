@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:11
-
 He bindeth the floods from overflowing; and the thing that is hid bringeth he forth to light.

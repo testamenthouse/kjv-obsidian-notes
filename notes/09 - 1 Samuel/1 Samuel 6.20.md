@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 6:20
-
 And the men of Bethshemesh said, Who is able to stand before this holy LORD God? and to whom shall he go up from us?

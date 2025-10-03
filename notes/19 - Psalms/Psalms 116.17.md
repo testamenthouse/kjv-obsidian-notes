@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 116:17
-
 I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the LORD.

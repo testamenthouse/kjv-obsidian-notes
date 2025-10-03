@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 77:9
-
 Hath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah.

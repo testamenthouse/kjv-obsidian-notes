@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:75
-
 I know, O LORD, that thy judgments are right, and that thou in faithfulness hast afflicted me.

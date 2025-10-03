@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 2:17
-
 I smote you with blasting and with mildew and with hail in all the labours of your hands; yet ye turned not to me, saith the LORD.

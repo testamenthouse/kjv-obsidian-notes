@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 14:25
-
 These things have I spoken unto you, being yet present with you.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 8:19
-
 My fruit is better than gold, yea, than fine gold; and my revenue than choice silver.

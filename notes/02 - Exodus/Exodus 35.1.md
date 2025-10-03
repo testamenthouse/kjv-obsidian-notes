@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 35:1
-
 And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them.

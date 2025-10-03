@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 1:19
-
 And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the LORD, to deliver thee.

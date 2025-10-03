@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 17:7
-
 Blessed is the man that trusteth in the LORD, and whose hope the LORD is.

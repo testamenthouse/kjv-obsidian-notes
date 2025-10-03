@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 53:6
-
 All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all.

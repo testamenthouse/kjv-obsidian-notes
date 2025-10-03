@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, contrast]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:17
-
 And Jesus answering said, Were there not ten cleansed? but where are the nine?

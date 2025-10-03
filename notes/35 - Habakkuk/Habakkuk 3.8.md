@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 3:8
-
 Was the LORD displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?

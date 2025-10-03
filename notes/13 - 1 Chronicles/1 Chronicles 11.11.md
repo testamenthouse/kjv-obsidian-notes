@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 11:11
-
 And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time.

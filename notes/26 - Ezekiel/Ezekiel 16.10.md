@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:10
-
 I clothed thee also with broidered work, and shod thee with badgers' skin, and I girded thee about with fine linen, and I covered thee with silk.

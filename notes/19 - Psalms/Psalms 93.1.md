@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 93:1
-
 The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.

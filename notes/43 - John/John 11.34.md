@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:34
-
 And said, Where have ye laid him? They said unto him, Lord, come and see.

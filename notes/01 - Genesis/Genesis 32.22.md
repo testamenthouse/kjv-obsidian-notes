@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 32:22
-
 And he rose up that night, and took his two wives, and his two womenservants, and his eleven sons, and passed over the ford Jabbok.

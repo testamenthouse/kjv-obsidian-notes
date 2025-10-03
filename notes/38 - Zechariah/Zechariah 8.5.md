@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 8:5
-
 And the streets of the city shall be full of boys and girls playing in the streets thereof.

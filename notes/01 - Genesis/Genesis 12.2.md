@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 12:2
-
 And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:

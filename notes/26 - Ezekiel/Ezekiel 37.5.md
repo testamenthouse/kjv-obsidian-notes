@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 37:5
-
 Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live:

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 38:23
-
 Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I am the LORD.

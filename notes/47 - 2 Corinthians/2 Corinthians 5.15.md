@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 5:15
-
 And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again.

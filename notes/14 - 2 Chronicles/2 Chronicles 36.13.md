@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 36:13
-
 And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel.

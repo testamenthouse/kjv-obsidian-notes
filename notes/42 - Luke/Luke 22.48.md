@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, genealogy-structure]
 thematic_tags: [jesus, jesus-title, son-of-man]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:48
-
 But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss?

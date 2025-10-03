@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 9:14
-
 And the king commanded it so to be done: and the decree was given at Shushan; and they hanged Haman's ten sons.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, negation, contrast, cause-ef
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 32:23
-
 And they came in, and possessed it; but they obeyed not thy voice, neither walked in thy law; they have done nothing of all that thou commandedst them to do: therefore thou hast caused all this evil to come upon them:

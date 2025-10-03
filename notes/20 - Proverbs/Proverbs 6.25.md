@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 6:25
-
 Lust not after her beauty in thine heart; neither let her take thee with her eyelids.

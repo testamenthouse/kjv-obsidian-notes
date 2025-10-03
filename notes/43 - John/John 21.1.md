@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title, time-period, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 21:1
-
 After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself.

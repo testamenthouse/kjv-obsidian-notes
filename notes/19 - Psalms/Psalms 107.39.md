@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:39
-
 Again, they are minished and brought low through oppression, affliction, and sorrow.

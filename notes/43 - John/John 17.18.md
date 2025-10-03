@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 17:18
-
 As thou hast sent me into the world, even so have I also sent them into the world.

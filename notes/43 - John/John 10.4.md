@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:4
-
 And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.

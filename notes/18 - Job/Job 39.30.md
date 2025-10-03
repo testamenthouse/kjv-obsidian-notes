@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:30
-
 Her young ones also suck up blood: and where the slain are, there is she.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 2:5
-
 Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant.

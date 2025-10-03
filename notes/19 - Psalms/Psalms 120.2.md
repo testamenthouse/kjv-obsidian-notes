@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 120:2
-
 Deliver my soul, O LORD, from lying lips, and from a deceitful tongue.

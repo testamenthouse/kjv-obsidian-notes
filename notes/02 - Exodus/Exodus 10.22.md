@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 10:22
-
 And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days:

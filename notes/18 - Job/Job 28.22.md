@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:22
-
 Destruction and death say, We have heard the fame thereof with our ears.

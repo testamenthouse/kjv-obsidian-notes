@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 135:9
-
 Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.

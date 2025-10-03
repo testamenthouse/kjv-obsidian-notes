@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:41
-
 These things said Esaias, when he saw his glory, and spake of him.

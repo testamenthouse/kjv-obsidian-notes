@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:23
-
 When he is about to fill his belly, God shall cast the fury of his wrath upon him, and shall rain it upon him while he is eating.

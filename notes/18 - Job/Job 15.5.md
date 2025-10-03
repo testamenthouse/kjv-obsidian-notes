@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:5
-
 For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.

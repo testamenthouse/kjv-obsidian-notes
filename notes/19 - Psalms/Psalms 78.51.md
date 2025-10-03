@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:51
-
 And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:

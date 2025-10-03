@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 8:18
-
 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.

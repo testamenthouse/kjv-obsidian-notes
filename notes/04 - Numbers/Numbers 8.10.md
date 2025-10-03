@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 8:10
-
 And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites:

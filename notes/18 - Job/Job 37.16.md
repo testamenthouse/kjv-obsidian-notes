@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:16
-
 Dost thou know the balancings of the clouds, the wondrous works of him which is perfect in knowledge?

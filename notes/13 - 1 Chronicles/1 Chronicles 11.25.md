@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 11:25
-
 Behold, he was honorable among the thirty, but attained not to the first three: and David set him over his guard.

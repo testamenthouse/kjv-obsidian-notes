@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:39
-
 And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.

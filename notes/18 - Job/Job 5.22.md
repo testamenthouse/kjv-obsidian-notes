@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:22
-
 At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.

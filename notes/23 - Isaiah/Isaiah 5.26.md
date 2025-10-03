@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 5:26
-
 And he will lift up an ensign to the nations from far, and will hiss unto them from the end of the earth: and, behold, they shall come with speed swiftly:

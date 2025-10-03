@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title, covenant]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 13:20
-
 Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,

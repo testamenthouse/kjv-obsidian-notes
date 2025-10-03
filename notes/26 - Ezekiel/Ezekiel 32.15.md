@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 32:15
-
 When I shall make the land of Egypt desolate, and the country shall be destitute of that whereof it was full, when I shall smite all them that dwell therein, then shall they know that I am the LORD.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 7:3
-
 Then said the LORD unto Isaiah, Go forth now to meet Ahaz, thou, and Shearjashub thy son, at the end of the conduit of the upper pool in the highway of the fuller's field;

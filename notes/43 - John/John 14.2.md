@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 14:2
-
 In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 66:11
-
 Thou broughtest us into the net; thou laidst affliction upon our loins.

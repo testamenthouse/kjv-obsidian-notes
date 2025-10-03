@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [jesus, jesus-title, time-period, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:7
-
 Jesus answered and said unto him, What I do thou knowest not now; but thou shalt know hereafter.

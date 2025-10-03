@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 2:23
-
 Therefore the LORD left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua.

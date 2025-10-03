@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 28:15
-
 And one kid of the goats for a sin offering unto the LORD shall be offered, beside the continual burnt offering, and his drink offering.

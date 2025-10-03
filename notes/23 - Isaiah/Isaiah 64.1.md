@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 64:1
-
 Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,

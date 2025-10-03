@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 35:13
-
 Thus with your mouth ye have boasted against me, and have multiplied your words against me: I have heard them.

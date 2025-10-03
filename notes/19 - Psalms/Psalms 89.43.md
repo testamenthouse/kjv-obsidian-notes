@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:43
-
 Thou hast also turned the edge of his sword, and hast not made him to stand in the battle.

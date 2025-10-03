@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:19
-
 For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies:

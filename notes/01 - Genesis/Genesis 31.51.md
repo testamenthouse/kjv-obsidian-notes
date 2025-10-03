@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:51
-
 And Laban said to Jacob, Behold this heap, and behold this pillar, which I have cast betwixt me and thee:

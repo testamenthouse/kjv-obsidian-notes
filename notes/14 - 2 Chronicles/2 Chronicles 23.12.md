@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 23:12
-
 Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the LORD:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:5
-
 And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept.

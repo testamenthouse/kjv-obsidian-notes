@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 3:5
-
 And next unto them the Tekoites repaired; but their nobles put not their necks to the work of their LORD.

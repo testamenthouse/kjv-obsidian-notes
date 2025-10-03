@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 46:8
-
 Come, behold the works of the LORD, what desolations he hath made in the earth.

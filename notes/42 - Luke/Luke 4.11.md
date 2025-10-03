@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:11
-
 And in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.

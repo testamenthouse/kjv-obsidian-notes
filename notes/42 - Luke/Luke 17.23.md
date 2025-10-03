@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:23
-
 And they shall say to you, See here; or, see there: go not after them, nor follow them.

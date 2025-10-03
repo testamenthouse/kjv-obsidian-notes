@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 14:3
-
 But he that prophesieth speaketh unto men to edification, and exhortation, and comfort.

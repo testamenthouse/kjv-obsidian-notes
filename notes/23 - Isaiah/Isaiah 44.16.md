@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 44:16
-
 He burneth part thereof in the fire; with part thereof he eateth flesh; he roasteth roast, and is satisfied: yea, he warmeth himself, and saith, Aha, I am warm, I have seen the fire:

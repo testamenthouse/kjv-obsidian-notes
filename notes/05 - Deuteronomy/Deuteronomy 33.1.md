@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 33:1
-
 And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death.

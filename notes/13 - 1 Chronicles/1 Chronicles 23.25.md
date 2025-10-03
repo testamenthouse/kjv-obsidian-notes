@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 23:25
-
 For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:

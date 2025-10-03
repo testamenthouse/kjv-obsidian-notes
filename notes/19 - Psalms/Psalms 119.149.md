@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:149
-
 Hear my voice according unto thy lovingkindness: O LORD, quicken me according to thy judgment.

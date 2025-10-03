@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 14:5
-
 And the priest shall command that one of the birds be killed in an earthen vessel over running water:

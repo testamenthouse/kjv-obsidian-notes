@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 39:6
-
 Then the king of Babylon slew the sons of Zedekiah in Riblah before his eyes: also the king of Babylon slew all the nobles of Judah.

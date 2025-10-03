@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 18:4
-
 The firstfruit also of thy corn, of thy wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him.

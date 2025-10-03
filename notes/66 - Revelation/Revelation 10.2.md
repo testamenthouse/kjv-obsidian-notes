@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 10:2
-
 And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth,

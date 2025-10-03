@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 24:30
-
 And they buried him in the border of his inheritance in Timnathserah, which is in mount Ephraim, on the north side of the hill of Gaash.

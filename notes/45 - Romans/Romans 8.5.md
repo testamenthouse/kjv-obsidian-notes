@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 8:5
-
 For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.

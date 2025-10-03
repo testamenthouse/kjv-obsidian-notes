@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 2:6
-
 As ye have therefore received Christ Jesus the Lord, so walk ye in him:

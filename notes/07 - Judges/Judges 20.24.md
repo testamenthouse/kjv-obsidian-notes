@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 20:24
-
 And the children of Israel came near against the children of Benjamin the second day.

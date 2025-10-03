@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 26:6
-
 And her daughters which are in the field shall be slain by the sword; and they shall know that I am the LORD.

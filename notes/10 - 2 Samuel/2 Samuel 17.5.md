@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 17:5
-
 Then said Absalom, Call now Hushai the Archite also, and let us hear likewise what he saith.

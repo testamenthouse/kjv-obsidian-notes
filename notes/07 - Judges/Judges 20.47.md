@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 20:47
-
 But six hundred men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon four months.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:25
-
 And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.

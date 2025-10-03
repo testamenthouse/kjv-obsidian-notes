@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 16:45
-
 Get you up from among this congregation, that I may consume them as in a moment. And they fell upon their faces.

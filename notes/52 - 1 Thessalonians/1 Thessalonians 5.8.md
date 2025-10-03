@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 5:8
-
 But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.

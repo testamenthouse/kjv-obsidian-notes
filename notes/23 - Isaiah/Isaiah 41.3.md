@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 41:3
-
 He pursued them, and passed safely; even by the way that he had not gone with his feet.

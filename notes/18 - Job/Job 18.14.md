@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:14
-
 His confidence shall be rooted out of his tabernacle, and it shall bring him to the king of terrors.

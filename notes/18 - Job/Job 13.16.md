@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:16
-
 He also shall be my salvation: for an hypocrite shall not come before him.

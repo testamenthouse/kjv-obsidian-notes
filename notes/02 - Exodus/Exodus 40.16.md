@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 40:16
-
 Thus did Moses: according to all that the LORD commanded him, so did he.

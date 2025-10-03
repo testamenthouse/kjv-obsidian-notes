@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:7
-
 The things that my soul refused to touch are as my sorrowful meat.

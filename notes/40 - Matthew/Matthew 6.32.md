@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 6:32
-
 (For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.

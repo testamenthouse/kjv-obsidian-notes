@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 45:21
-
 In the first month, in the fourteenth day of the month, ye shall have the passover, a feast of seven days; unleavened bread shall be eaten.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 22:27
-
 Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea.

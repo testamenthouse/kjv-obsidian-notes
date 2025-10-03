@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:15
-
 Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands.

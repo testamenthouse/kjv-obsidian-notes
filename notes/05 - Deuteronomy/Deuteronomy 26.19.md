@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 26:19
-
 And to make thee high above all nations which he hath made, in praise, and in name, and in honor; and that thou mayest be an holy people unto the LORD thy God, as he hath spoken.

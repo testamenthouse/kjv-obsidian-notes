@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 6:20
-
 To what purpose cometh there to me incense from Sheba, and the sweet cane from a far country? your burnt offerings are not acceptable, nor your sacrifices sweet unto me.

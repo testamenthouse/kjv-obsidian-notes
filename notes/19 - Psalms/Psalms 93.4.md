@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 93:4
-
 The LORD on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.

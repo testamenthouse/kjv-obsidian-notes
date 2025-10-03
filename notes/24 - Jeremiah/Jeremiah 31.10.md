@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:10
-
 Hear the word of the LORD, O ye nations, and declare it in the isles afar off, and say, He that scattered Israel will gather him, and keep him, as a shepherd doth his flock.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 16:5
-
 The LORD is the portion of mine inheritance and of my cup: thou maintainest my lot.

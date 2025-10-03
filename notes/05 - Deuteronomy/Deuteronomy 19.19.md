@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 19:19
-
 Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.

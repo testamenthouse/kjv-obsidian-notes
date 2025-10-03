@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 17:50
-
 So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but there was no sword in the hand of David.

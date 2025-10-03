@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 3:18
-
 And to whom sware he that they should not enter into his rest, but to them that believed not?

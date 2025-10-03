@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 16:30
-
 For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the LORD.

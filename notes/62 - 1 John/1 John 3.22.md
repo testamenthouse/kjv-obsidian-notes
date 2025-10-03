@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 3:22
-
 And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.

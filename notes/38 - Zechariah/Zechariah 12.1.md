@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 12:1
-
 The burden of the word of the LORD for Israel, saith the LORD, which stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him.

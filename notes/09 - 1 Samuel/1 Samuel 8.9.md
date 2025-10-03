@@ -13,7 +13,4 @@ grammar_tags: [contrast, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 8:9
-
 Now therefore hearken unto their voice: howbeit yet protest solemnly unto them, and show them the manner of the king that shall reign over them.

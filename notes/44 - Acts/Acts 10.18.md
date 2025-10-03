@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:18
-
 And called, and asked whether Simon, which was surnamed Peter, were lodged there.

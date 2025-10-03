@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 9:1
-
 Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 13:1
-
 And the children of Israel did evil again in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years.

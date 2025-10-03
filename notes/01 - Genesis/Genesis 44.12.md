@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 44:12
-
 And he searched, and began at the eldest, and left at the youngest: and the cup was found in Benjamin's sack.

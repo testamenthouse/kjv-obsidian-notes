@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:1
-
 My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.

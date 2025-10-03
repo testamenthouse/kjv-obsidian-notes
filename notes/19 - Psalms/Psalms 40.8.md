@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 40:8
-
 I delight to do thy will, O my God: yea, thy law is within my heart.

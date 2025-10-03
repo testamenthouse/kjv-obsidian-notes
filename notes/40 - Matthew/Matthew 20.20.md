@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 20:20
-
 Then came to him the mother of Zebedees children with her sons, worshipping him, and desiring a certain thing of him.

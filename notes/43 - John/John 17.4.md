@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 17:4
-
 I have glorified thee on the earth: I have finished the work which thou gavest me to do.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:17
-
 He moveth his tail like a cedar: the sinews of his stones are wrapped together.

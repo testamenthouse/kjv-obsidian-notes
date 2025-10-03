@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 25:21
-
 And Isaac entreated the LORD for his wife, because she was barren: and the LORD was entreated of him, and Rebekah his wife conceived.

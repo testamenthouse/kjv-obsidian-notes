@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 23:8
-
 But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren.

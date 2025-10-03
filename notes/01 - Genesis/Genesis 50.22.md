@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 50:22
-
 And Joseph dwelt in Egypt, he, and his father's house: and Joseph lived an hundred and ten years.

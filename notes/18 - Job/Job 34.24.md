@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:24
-
 He shall break in pieces mighty men without number, and set others in their stead.

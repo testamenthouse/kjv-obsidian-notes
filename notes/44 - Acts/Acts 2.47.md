@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:47
-
 Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.

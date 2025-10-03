@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:34
-
 I tell you, in that night there shall be two men in one bed; the one shall be taken, and the other shall be left.

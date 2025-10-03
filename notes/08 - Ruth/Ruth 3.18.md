@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Ruth"]
 ---
-
-# Ruth 3:18
-
 Then said she, Sit still, my daughter, until thou know how the matter will fall: for the man will not be in rest, until he have finished the thing this day.

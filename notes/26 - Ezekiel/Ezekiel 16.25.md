@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:25
-
 Thou hast built thy high place at every head of the way, and hast made thy beauty to be abhorred, and hast opened thy feet to every one that passed by, and multiplied thy whoredoms.

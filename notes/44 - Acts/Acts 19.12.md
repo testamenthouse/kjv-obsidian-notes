@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [demonic-entities, adversary]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:12
-
 So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.

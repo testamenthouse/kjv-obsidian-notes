@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, adversary-title, adversary]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 74:10
-
 O God, how long shall the adversary reproach? shall the enemy blaspheme thy name for ever?

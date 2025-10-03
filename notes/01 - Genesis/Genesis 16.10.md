@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 16:10
-
 And the angel of the LORD said unto her, I will multiply thy seed exceedingly, that it shall not be numbered for multitude.

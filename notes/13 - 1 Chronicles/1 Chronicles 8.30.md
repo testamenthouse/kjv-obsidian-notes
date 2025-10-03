@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 8:30
-
 And his firstborn son Abdon, and Zur, and Kish, and Baal, and Nadab,

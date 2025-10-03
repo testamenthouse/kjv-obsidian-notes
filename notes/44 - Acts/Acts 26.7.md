@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:7
-
 Unto which promise our twelve tribes, instantly serving God day and night, hope to come. For which hope's sake, king Agrippa, I am accused of the Jews.

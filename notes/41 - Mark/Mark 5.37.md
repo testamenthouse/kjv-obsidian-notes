@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:37
-
 And he suffered no man to follow him, save Peter, and James, and John the brother of James.

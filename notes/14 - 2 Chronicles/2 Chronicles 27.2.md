@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 27:2
-
 And he did that which was right in the sight of the LORD, according to all that his father Uzziah did: howbeit he entered not into the temple of the LORD. And the people did yet corruptly.

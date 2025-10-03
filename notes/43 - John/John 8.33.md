@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:33
-
 They answered him, We be Abraham's seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?

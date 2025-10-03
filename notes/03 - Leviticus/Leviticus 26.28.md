@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 26:28
-
 Then I will walk contrary unto you also in fury; and I, even I, will chastise you seven times for your sins.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 1:7
-
 In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;

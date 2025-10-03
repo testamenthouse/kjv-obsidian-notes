@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 4:7
-
 Then came in the magicians, the astrologers, the Chaldeans, and the soothsayers: and I told the dream before them; but they did not make known unto me the interpretation thereof.

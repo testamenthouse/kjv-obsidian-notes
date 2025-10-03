@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 34:4
-
 Yet hear the word of the LORD, O Zedekiah king of Judah; Thus saith the LORD of thee, Thou shalt not die by the sword:

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 7:15
-
 The sword is without, and the pestilence and the famine within: he that is in the field shall die with the sword; and he that is in the city, famine and pestilence shall devour him.

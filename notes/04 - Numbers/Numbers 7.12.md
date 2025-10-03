@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 7:12
-
 And he that offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah:

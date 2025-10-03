@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 9:9
-
 And didst see the affliction of our fathers in Egypt, and heardest their cry by the Red sea;

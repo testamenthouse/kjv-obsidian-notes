@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 11:22
-
 As a jewel of gold in a swine's snout, so is a fair woman which is without discretion.

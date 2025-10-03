@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 13:18
-
 Pray for us: for we trust we have a good conscience, in all things willing to live honestly.

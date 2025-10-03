@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 22:24
-
 Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.

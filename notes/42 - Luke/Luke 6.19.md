@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:19
-
 And the whole multitude sought to touch him: for there went virtue out of him, and healed them all.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:13
-
 Ye call me Master and Lord: and ye say well; for so I am.

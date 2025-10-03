@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 25:6
-
 For thus saith the Lord GOD; Because thou hast clapped thine hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;

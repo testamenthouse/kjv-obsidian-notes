@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 9:9
-
 Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning.

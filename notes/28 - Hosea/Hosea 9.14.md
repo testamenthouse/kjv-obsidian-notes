@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 9:14
-
 Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts.

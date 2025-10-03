@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:36
-
 For the multitude of the people followed after, crying, Away with him.

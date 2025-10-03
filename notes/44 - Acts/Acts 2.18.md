@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:18
-
 And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy:

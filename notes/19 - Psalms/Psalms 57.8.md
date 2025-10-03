@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 57:8
-
 Awake up, my glory; awake, psaltery and harp: I myself will awake early.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 25:15
-
 By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.

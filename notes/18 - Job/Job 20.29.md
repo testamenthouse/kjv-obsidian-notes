@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:29
-
 This is the portion of a wicked man from God, and the heritage appointed unto him by God.

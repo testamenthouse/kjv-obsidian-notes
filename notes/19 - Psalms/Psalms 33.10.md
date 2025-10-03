@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 33:10
-
 The LORD bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect.

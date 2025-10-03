@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 7:33
-
 He among the sons of Aaron, that offereth the blood of the peace offerings, and the fat, shall have the right shoulder for his part.

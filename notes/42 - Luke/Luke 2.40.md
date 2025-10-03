@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 2:40
-
 And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.

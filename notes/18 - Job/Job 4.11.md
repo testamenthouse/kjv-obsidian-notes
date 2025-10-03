@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 4:11
-
 The old lion perisheth for lack of prey, and the stout lion's whelps are scattered abroad.

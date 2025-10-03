@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 36:1
-
 And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, that this word came unto Jeremiah from the LORD, saying,

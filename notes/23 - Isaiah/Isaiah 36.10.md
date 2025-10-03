@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 36:10
-
 And am I now come up without the LORD against this land to destroy it? the LORD said unto me, Go up against this land, and destroy it.

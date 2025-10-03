@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 10:2
-
 In those days I Daniel was mourning three full weeks.

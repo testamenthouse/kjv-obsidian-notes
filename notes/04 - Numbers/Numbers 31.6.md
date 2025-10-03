@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 31:6
-
 And Moses sent them to the war, a thousand of every tribe, them and Phinehas the son of Eleazar the priest, to the war, with the holy instruments, and the trumpets to blow in his hand.

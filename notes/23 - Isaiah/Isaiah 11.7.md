@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 11:7
-
 And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.

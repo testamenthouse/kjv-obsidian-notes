@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-god, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 3:38
-
 Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God.

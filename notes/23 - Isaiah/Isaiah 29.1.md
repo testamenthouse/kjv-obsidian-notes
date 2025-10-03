@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare, lament, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 29:1
-
 Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices.

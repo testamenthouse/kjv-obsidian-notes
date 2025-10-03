@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 6:13
-
 And it was so, that when they that bare the ark of the LORD had gone six paces, he sacrificed oxen and fatlings.

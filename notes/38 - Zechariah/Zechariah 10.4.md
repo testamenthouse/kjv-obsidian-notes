@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 10:4
-
 Out of him came forth the corner, out of him the nail, out of him the battle bow, out of him every oppressor together.

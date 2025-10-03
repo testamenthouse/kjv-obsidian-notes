@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 9:8
-
 And at this house, which is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the LORD done thus unto this land, and to this house?

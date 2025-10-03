@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:9
-
 So do God to Abner, and more also, except, as the LORD hath sworn to David, even so I do to him;

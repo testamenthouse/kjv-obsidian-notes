@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:39
-
 And she had a sister called Mary, which also sat at Jesus' feet, and heard his word.

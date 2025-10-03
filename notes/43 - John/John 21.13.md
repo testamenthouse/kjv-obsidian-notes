@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 21:13
-
 Jesus then cometh, and taketh bread, and giveth them, and fish likewise.

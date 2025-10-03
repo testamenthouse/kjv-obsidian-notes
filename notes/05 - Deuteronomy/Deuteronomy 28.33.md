@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 28:33
-
 The fruit of thy land, and all thy labors, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 6:11
-
 And he shall put off his garments, and put on other garments, and carry forth the ashes without the camp unto a clean place.

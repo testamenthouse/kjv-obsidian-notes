@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:27
-
 Lo this, we have searched it, so it is; hear it, and know thou it for thy good.

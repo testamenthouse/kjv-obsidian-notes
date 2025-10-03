@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 13:6
-
 Howl ye; for the day of the LORD is at hand; it shall come as a destruction from the Almighty.

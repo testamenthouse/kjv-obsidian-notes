@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god, time-units, time-feasts, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 12:5
-
 Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?

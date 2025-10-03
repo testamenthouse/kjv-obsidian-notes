@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:33
-
 And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcasses be wasted in the wilderness.

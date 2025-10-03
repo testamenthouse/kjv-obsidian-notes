@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:4
-
 As I was in the days of my youth, when the secret of God was upon my tabernacle;

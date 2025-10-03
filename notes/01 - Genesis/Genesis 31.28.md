@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:28
-
 And hast not suffered me to kiss my sons and my daughters? thou hast now done foolishly in so doing.

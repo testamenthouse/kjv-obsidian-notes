@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:22
-
 The merchants of Sheba and Raamah, they were thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold.

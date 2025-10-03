@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:31
-
 And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him.

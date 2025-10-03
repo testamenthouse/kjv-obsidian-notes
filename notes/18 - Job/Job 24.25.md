@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:25
-
 And if it be not so now, who will make me a liar, and make my speech nothing worth?

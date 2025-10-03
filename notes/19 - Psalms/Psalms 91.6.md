@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 91:6
-
 Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.

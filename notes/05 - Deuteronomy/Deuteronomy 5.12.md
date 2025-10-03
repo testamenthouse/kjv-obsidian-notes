@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time-feasts, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 5:12
-
 Keep the sabbath day to sanctify it, as the LORD thy God hath commanded thee.

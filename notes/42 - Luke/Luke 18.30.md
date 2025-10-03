@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:30
-
 Who shall not receive manifold more in this present time, and in the world to come life everlasting.

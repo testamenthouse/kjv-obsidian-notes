@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:17
-
 But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,

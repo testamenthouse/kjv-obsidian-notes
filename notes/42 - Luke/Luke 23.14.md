@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:14
-
 Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined him before you, have found no fault in this man touching those things whereof ye accuse him:

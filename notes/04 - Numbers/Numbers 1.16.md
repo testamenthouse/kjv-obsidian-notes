@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 1:16
-
 These were the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.

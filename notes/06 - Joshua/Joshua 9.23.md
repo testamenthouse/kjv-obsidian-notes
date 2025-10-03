@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 9:23
-
 Now therefore ye are cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God.

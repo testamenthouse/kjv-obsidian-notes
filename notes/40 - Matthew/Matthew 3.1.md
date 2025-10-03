@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 3:1
-
 In those days came John the Baptist, preaching in the wilderness of Judaea,

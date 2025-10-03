@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 20:12
-
 The hearing ear, and the seeing eye, the LORD hath made even both of them.

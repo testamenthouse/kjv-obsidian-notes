@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 43:28
-
 Therefore I have profaned the princes of the sanctuary, and have given Jacob to the curse, and Israel to reproaches.

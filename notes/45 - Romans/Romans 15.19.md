@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:19
-
 Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ.

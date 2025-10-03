@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 88:15
-
 I am afflicted and ready to die from my youth up: while I suffer thy terrors I am distracted.

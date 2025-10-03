@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:30
-
 And this thing became a sin: for the people went to worship before the one, even unto Dan.

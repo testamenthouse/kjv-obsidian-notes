@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 3:3
-
 Then the king's servants, which were in the king's gate, said unto Mordecai, Why transgressest thou the king's commandment?

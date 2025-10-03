@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 12:7
-
 And Jephthah judged Israel six years. Then died Jephthah the Gileadite, and was buried in one of the cities of Gilead.

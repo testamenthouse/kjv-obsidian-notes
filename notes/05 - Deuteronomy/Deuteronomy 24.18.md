@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 24:18
-
 But thou shalt remember that thou wast a bondman in Egypt, and the LORD thy God redeemed thee thence: therefore I command thee to do this thing.

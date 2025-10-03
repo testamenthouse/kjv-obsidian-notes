@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 14:16
-
 And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin.

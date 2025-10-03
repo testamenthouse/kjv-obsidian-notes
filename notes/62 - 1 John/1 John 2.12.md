@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:12
-
 I write unto you, little children, because your sins are forgiven you for his name's sake.

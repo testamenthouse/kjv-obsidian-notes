@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:25
-
 Moreover of Israel: of the sons of Parosh; Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah.

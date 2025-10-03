@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 11:20
-
 And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew them, and had a name among the three.

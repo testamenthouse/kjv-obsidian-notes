@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, time-period, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 24:10
-
 At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged.

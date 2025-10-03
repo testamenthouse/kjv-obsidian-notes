@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 16:20
-
 And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,

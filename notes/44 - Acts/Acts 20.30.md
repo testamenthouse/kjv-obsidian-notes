@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 20:30
-
 Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.

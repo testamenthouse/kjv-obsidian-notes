@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:27
-
 To overthrow their seed also among the nations, and to scatter them in the lands.

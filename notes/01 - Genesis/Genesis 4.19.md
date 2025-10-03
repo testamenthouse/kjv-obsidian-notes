@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 4:19
-
 And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah.

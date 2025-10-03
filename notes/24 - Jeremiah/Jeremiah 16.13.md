@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 16:13
-
 Therefore will I cast you out of this land into a land that ye know not, neither ye nor your fathers; and there shall ye serve other gods day and night; where I will not shew you favour.

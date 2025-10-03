@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 11:17
-
 So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years: for three years they walked in the way of David and Solomon.

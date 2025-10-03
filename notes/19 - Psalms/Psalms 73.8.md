@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 73:8
-
 They are corrupt, and speak wickedly concerning oppression: they speak loftily.

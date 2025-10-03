@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 11:8
-
 And ye shall compass the king round about, every man with his weapons in his hand: and he that cometh within the ranges, let him be slain: and be ye with the king as he goeth out and as he cometh in.

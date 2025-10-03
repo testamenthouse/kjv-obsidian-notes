@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:15
-
 Behold now behemoth, which I made with thee; he eateth grass as an ox.

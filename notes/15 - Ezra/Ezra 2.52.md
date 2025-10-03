@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:52
-
 The children of Bazluth, the children of Mehida, the children of Harsha,

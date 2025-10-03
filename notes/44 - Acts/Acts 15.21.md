@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:21
-
 For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day.

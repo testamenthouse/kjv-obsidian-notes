@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 21:13
-
 And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.

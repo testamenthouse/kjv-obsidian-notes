@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 17:15
-
 And they rejected his statutes, and his covenant that he made with their fathers, and his testimonies which he testified against them; and they followed vanity, and became vain, and went after the heathen that were round about them, concerning whom the LORD had charged them, that they should not do like them.

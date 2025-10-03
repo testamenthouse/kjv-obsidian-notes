@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 9:11
-
 And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 13:22
-
 And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it is a plague.

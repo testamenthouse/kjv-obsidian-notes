@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:22
-
 When the people are gathered together, and the kingdoms, to serve the LORD.

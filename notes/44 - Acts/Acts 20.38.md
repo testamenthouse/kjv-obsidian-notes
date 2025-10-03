@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 20:38
-
 Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.

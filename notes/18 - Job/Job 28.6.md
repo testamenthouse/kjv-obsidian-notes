@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:6
-
 The stones of it are the place of sapphires: and it hath dust of gold.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:23
-
 The land shall not be sold for ever: for the land is mine, for ye are strangers and sojourners with me.

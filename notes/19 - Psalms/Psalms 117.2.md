@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 117:2
-
 For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD.

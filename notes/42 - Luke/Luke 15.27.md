@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 15:27
-
 And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 96:6
-
 Honour and majesty are before him: strength and beauty are in his sanctuary.

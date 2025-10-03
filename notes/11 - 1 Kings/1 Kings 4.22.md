@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 4:22
-
 And Solomon's provision for one day was thirty measures of fine flour, and threescore measures of meal,

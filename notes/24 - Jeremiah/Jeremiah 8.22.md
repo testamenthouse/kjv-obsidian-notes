@@ -13,7 +13,4 @@ grammar_tags: [question, negation, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 8:22
-
 Is there no balm in Gilead; is there no physician there? why then is not the health of the daughter of my people recovered?

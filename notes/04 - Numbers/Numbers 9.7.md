@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 9:7
-
 And those men said unto him, We are defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the LORD in his appointed season among the children of Israel?

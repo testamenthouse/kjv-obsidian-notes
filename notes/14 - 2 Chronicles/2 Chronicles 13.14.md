@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 13:14
-
 And when Judah looked back, behold, the battle was before and behind: and they cried unto the LORD, and the priests sounded with the trumpets.

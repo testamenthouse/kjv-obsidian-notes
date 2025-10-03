@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 11:5
-
 And if any man will hurt them, fire proceedeth out of their mouth, and devoureth their enemies: and if any man will hurt them, he must in this manner be killed.

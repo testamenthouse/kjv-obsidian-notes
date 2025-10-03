@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:34
-
 Thy hands were not bound, nor thy feet put into fetters: as a man falleth before wicked men, so fellest thou. And all the people wept again over him.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 15:2
-
 Sixteen years old was he when he began to reign, and he reigned two and fifty years in Jerusalem. And his mother's name was Jecholiah of Jerusalem.

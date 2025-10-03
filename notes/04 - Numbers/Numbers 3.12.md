@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:12
-
 And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;

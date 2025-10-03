@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 7:22
-
 So Joshua sent messengers, and they ran unto the tent; and, behold, it was hid in his tent, and the silver under it.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 22:32
-
 I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.

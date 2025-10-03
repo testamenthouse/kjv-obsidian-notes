@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 81:9
-
 There shall no strange god be in thee; neither shalt thou worship any strange god.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:5
-
 I would know the words which he would answer me, and understand what he would say unto me.

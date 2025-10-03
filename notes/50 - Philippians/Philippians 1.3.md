@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 1:3
-
 I thank my God upon every remembrance of you,

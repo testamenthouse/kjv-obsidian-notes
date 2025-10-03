@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 5:1
-
 Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.

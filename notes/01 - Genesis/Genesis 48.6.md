@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 48:6
-
 And thy issue, which thou begettest after them, shall be thine, and shall be called after the name of their brethren in their inheritance.

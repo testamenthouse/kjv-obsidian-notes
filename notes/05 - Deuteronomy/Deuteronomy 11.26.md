@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 11:26
-
 Behold, I set before you this day a blessing and a curse;

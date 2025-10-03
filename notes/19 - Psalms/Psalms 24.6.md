@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 24:6
-
 This is the generation of them that seek him, that seek thy face, O Jacob. Selah.

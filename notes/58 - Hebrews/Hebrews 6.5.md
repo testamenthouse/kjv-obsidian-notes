@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 6:5
-
 And have tasted the good word of God, and the powers of the world to come,

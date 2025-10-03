@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 29:12
-
 And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.

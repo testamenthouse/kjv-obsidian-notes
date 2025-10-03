@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 40:17
-
 Then brought he me into the outward court, and, lo, there were chambers, and a pavement made for the court round about: thirty chambers were upon the pavement.

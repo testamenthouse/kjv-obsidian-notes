@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 4:6
-
 And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?

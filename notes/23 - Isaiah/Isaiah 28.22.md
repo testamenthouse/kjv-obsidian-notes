@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 28:22
-
 Now therefore be ye not mockers, lest your bands be made strong: for I have heard from the Lord GOD of hosts a consumption, even determined upon the whole earth.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 1:9
-
 And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;

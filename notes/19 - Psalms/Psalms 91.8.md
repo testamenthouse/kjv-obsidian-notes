@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 91:8
-
 Only with thine eyes shalt thou behold and see the reward of the wicked.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 3:3
-
 That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto.

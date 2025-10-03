@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 17:20
-
 And he cried unto the LORD, and said, O LORD my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son?

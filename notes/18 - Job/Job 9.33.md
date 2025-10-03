@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:33
-
 Neither is there any daysman betwixt us, that might lay his hand upon us both.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, genealogy-structure]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 43:4
-
 So Johanan the son of Kareah, and all the captains of the forces, and all the people, obeyed not the voice of the LORD, to dwell in the land of Judah.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:11
-
 But we believe that through the grace of the LORD Jesus Christ we shall be saved, even as they.

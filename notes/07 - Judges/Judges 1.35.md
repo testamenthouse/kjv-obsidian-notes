@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 1:35
-
 But the Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet the hand of the house of Joseph prevailed, so that they became tributaries.

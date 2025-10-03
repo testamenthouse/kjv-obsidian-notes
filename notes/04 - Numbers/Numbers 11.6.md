@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 11:6
-
 But now our soul is dried away: there is nothing at all, beside this manna, before our eyes.

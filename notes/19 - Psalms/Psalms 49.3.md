@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 49:3
-
 My mouth shall speak of wisdom; and the meditation of my heart shall be of understanding.

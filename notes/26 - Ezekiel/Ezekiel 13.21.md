@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 13:21
-
 Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I am the LORD.

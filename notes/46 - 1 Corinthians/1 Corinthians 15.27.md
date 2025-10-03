@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:27
-
 For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excepted, which did put all things under him.

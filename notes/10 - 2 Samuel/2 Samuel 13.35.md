@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 13:35
-
 And Jonadab said unto the king, Behold, the king's sons come: as thy servant said, so it is.

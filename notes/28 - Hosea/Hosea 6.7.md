@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 6:7
-
 But they like men have transgressed the covenant: there have they dealt treacherously against me.

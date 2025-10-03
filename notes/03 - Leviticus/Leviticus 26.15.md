@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional, cause-effect
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 26:15
-
 And if ye shall despise my statutes, or if your soul abhor my judgments, so that ye will not do all my commandments, but that ye break my covenant:

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 44:3
-
 It is for the prince; the prince, he shall sit in it to eat bread before the LORD; he shall enter by the way of the porch of that gate, and shall go out by the way of the same.

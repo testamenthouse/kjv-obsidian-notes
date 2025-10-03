@@ -13,7 +13,4 @@ grammar_tags: [negation, greeting/closing]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 3:21
-
 Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.

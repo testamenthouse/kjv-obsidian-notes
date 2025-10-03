@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, covenant, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 5:3
-
 The LORD made not this covenant with our fathers, but with us, even us, who are all of us here alive this day.

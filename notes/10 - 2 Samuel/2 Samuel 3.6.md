@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:6
-
 And it came to pass, while there was war between the house of Saul and the house of David, that Abner made himself strong for the house of Saul.

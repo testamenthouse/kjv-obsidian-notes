@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 2:18
-
 And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not?

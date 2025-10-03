@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:21
-
 I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.

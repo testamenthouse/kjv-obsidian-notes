@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:20
-
 And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him.

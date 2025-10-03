@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 86:8
-
 Among the gods there is none like unto thee, O Lord; neither are there any works like unto thy works.

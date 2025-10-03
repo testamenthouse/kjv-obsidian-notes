@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 21:15
-
 If a man have two wives, one beloved, and another hated, and they have born him children, both the beloved and the hated; and if the firstborn son be hers that was hated:

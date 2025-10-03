@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 8:11
-
 And Gideon went up by the way of them that dwelt in tents on the east of Nobah and Jogbehah, and smote the host; for the host was secure.

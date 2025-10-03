@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:58
-
 When thou goest with thine adversary to the magistrate, as thou art in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison.

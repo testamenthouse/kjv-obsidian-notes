@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 22:12
-
 And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.

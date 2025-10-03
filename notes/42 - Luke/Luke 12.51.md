@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:51
-
 Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:

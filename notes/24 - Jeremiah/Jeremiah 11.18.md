@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 11:18
-
 And the LORD hath given me knowledge of it, and I know it: then thou shewedst me their doings.

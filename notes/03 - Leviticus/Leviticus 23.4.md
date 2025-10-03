@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 23:4
-
 These are the feasts of the LORD, even holy convocations, which ye shall proclaim in their seasons.

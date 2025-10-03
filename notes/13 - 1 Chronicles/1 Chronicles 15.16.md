@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 15:16
-
 And David spake to the chief of the Levites to appoint their brethren to be the singers with instruments of music, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.

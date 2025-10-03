@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:25
-
 And the stars of heaven shall fall, and the powers that are in heaven shall be shaken.

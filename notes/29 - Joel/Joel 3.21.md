@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 3:21
-
 For I will cleanse their blood that I have not cleansed: for the LORD dwelleth in Zion.

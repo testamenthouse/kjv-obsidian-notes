@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 13:18
-
 And see the land, what it is, and the people that dwelleth therein, whether they be strong or weak, few or many;

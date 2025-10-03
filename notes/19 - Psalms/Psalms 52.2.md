@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 52:2
-
 The tongue deviseth mischiefs; like a sharp razor, working deceitfully.

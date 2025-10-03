@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 8:18
-
 Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side.

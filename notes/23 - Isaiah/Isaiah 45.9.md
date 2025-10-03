@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 45:9
-
 Woe unto him that striveth with his Maker! Let the potsherd strive with the potsherds of the earth. Shall the clay say to him that fashioneth it, What makest thou? or thy work, He hath no hands?

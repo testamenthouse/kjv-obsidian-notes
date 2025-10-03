@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 5:12
-
 For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as with a shield.

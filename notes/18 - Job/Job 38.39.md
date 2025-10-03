@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:39
-
 Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,

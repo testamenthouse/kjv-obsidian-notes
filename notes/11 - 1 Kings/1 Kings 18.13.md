@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:13
-
 Was it not told my lord what I did when Jezebel slew the prophets of the LORD, how I hid an hundred men of the LORD's prophets by fifty in a cave, and fed them with bread and water?

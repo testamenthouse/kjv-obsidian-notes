@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, benediction, time-period, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:35
-
 Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord.

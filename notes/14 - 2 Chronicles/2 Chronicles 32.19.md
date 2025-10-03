@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 32:19
-
 And they spake against the God of Jerusalem, as against the gods of the people of the earth, which were the work of the hands of man.

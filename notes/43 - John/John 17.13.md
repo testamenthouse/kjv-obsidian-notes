@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 17:13
-
 And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.

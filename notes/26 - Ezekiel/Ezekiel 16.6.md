@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:6
-
 And when I passed by thee, and saw thee polluted in thine own blood, I said unto thee when thou wast in thy blood, Live; yea, I said unto thee when thou wast in thy blood, Live.

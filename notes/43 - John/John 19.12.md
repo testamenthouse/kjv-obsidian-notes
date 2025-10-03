@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god, lament, time-period, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:12
-
 And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Caesar's friend: whosoever maketh himself a king speaketh against Caesar.

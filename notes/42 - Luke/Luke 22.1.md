@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:1
-
 Now the feast of unleavened bread drew nigh, which is called the Passover.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:15
-
 For I have given you an example, that ye should do as I have done to you.

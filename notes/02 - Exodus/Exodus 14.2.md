@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 14:2
-
 Speak unto the children of Israel, that they turn and encamp before Pihahiroth, between Migdol and the sea, over against Baalzephon: before it shall ye encamp by the sea.

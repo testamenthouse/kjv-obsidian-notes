@@ -13,7 +13,4 @@ grammar_tags: [question, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 10:29
-
 Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man's conscience?

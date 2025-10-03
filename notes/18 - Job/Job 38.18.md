@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:18
-
 Hast thou perceived the breadth of the earth? declare if thou knowest it all.

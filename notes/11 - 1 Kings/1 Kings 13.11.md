@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 13:11
-
 Now there dwelt an old prophet in Bethel; and his sons came and told him all the works that the man of God had done that day in Bethel: the words which he had spoken unto the king, them they told also to their father.

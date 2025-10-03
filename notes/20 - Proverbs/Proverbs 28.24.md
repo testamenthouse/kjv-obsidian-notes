@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 28:24
-
 Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer.

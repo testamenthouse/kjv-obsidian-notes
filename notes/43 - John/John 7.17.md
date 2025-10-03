@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:17
-
 If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.

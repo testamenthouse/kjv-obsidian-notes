@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title, time-period, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:1
-
 After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.

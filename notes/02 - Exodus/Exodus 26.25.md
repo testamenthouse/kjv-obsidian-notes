@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 26:25
-
 And they shall be eight boards, and their sockets of silver, sixteen sockets; two sockets under one board, and two sockets under another board.

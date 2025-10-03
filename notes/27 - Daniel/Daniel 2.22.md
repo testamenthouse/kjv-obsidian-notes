@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 2:22
-
 He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him.

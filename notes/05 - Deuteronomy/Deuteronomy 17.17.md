@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 17:17
-
 Neither shall he multiply wives to himself, that his heart turn not away: neither shall he greatly multiply to himself silver and gold.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 11:13
-
 And Saul said, There shall not a man be put to death this day: for to day the LORD hath wrought salvation in Israel.

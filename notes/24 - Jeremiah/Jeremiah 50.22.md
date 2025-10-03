@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:22
-
 A sound of battle is in the land, and of great destruction.

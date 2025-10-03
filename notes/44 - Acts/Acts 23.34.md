@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 23:34
-
 And when the governor had read the letter, he asked of what province he was. And when he understood that he was of Cilicia;

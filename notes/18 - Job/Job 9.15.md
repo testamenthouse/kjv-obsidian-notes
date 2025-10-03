@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:15
-
 Whom, though I were righteous, yet would I not answer, but I would make supplication to my judge.

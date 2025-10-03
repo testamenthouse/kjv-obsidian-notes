@@ -13,7 +13,4 @@ grammar_tags: [contrast, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:22
-
 This is one thing, therefore I said it, He destroyeth the perfect and the wicked.

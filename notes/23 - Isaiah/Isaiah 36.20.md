@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 36:20
-
 Who are they among all the gods of these lands, that have delivered their land out of my hand, that the LORD should deliver Jerusalem out of my hand?

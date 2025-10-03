@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 21:18
-
 Howbeit we may not give them wives of our daughters: for the children of Israel have sworn, saying, Cursed be he that giveth a wife to Benjamin.

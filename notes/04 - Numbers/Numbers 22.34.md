@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 22:34
-
 And Balaam said unto the angel of the LORD, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.

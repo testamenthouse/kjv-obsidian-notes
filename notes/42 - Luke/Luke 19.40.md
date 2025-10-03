@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:40
-
 And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out.

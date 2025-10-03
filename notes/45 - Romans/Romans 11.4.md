@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 11:4
-
 But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.

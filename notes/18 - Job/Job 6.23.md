@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:23
-
 Or, Deliver me from the enemy's hand? or, Redeem me from the hand of the mighty?

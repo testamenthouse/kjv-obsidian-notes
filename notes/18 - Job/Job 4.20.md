@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 4:20
-
 They are destroyed from morning to evening: they perish for ever without any regarding it.

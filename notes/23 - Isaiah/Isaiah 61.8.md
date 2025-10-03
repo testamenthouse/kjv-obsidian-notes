@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 61:8
-
 For I the LORD love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.

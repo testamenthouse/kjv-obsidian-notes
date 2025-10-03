@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 9:24
-
 And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief.

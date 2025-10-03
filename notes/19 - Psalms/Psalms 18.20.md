@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 18:20
-
 The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me.

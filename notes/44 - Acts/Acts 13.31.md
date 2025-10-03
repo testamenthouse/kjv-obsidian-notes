@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:31
-
 And he was seen many days of them which came up with him from Galilee to Jerusalem, who are his witnesses unto the people.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 10:10
-
 And the LORD discomfited them before Israel, and slew them with a great slaughter at Gibeon, and chased them along the way that goeth up to Bethhoron, and smote them to Azekah, and unto Makkedah.

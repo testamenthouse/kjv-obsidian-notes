@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:2
-
 And Elijah went to show himself unto Ahab. And there was a sore famine in Samaria.

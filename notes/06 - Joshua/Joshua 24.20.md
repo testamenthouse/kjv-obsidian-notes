@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 24:20
-
 If ye forsake the LORD, and serve strange gods, then he will turn and do you hurt, and consume you, after that he hath done you good.

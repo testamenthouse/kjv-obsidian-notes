@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:9
-
 Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.

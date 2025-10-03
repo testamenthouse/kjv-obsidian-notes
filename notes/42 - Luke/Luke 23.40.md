@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:40
-
 But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?

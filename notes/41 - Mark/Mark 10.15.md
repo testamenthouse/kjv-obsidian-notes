@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:15
-
 Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.

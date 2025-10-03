@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 7:7
-
 Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me.

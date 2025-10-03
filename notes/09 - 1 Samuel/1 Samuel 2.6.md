@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 2:6
-
 The LORD killeth, and maketh alive: he bringeth down to the grave, and bringeth up.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 2:2
-
 But even after that we had suffered before, and were shamefully entreated, as ye know, at Philippi, we were bold in our God to speak unto you the gospel of God with much contention.

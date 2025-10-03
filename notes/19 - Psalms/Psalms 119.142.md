@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:142
-
 Thy righteousness is an everlasting righteousness, and thy law is the truth.

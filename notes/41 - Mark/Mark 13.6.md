@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:6
-
 For many shall come in my name, saying, I am Christ; and shall deceive many.

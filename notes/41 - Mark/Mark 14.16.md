@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-feasts, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:16
-
 And his disciples went forth, and came into the city, and found as he had said unto them: and they made ready the passover.

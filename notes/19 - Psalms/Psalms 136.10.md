@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 136:10
-
 To him that smote Egypt in their firstborn: for his mercy endureth for ever:

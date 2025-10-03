@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:40
-
 And when he was at the place, he said unto them, Pray that ye enter not into temptation.

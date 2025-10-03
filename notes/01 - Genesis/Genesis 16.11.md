@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 16:11
-
 And the angel of the LORD said unto her, Behold, thou art with child and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction.

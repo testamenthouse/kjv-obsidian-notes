@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 84:2
-
 My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God.

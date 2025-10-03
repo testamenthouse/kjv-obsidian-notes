@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:4
-
 And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramothgilead? And Jehoshaphat said to the king of Israel, I am as thou art, my people as thy people, my horses as thy horses.

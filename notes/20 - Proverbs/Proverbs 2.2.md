@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 2:2
-
 So that thou incline thine ear unto wisdom, and apply thine heart to understanding;

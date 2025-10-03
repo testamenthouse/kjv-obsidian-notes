@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 9:19
-
 But all the princes said unto all the congregation, We have sworn unto them by the LORD God of Israel: now therefore we may not touch them.

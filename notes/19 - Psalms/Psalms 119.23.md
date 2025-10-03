@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:23
-
 Princes also did sit and speak against me: but thy servant did meditate in thy statutes.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 17:1
-
 Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:

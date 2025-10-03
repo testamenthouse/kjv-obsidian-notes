@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 35:3
-
 For thou saidst, What advantage will it be unto thee? and, What profit shall I have, if I be cleansed from my sin?

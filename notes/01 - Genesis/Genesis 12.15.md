@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 12:15
-
 The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh's house.

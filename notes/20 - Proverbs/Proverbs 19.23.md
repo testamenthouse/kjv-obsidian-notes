@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 19:23
-
 The fear of the LORD tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil.

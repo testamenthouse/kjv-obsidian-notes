@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 16:29
-
 Give unto the LORD the glory due unto his name: bring an offering, and come before him: worship the LORD in the beauty of holiness.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 57:10
-
 For thy mercy is great unto the heavens, and thy truth unto the clouds.

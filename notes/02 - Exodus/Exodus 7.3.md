@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 7:3
-
 And I will harden Pharaoh's heart, and multiply my signs and my wonders in the land of Egypt.

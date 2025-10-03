@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:24
-
 He swalloweth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 29:2
-
 And ye shall offer a burnt offering for a sweet savor unto the LORD; one young bullock, one ram, and seven lambs of the first year without blemish:

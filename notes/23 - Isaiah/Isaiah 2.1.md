@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 2:1
-
 The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.

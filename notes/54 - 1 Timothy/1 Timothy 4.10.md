@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 4:10
-
 For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.

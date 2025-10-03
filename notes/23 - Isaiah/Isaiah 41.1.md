@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 41:1
-
 Keep silence before me, O islands; and let the people renew their strength: let them come near; then let them speak: let us come near together to judgment.

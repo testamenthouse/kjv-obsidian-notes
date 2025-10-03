@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 3:20
-
 Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.

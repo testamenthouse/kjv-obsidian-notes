@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:33
-
 And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 115:17
-
 The dead praise not the LORD, neither any that go down into silence.

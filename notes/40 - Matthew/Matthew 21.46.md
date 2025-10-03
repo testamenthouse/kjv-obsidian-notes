@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 21:46
-
 But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.

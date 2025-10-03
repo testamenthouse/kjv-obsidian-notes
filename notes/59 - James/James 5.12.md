@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast-opener, negation, contrast, conditional
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 5:12
-
 But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.

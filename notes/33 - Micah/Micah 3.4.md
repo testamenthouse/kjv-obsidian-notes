@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [names-of-god, lament, time-period, time]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 3:4
-
 Then shall they cry unto the LORD, but he will not hear them: he will even hide his face from them at that time, as they have behaved themselves ill in their doings.

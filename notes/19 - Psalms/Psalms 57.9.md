@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 57:9
-
 I will praise thee, O Lord, among the people: I will sing unto thee among the nations.

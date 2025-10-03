@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:119
-
 Thou puttest away all the wicked of the earth like dross: therefore I love thy testimonies.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:5
-
 Yea, the light of the wicked shall be put out, and the spark of his fire shall not shine.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 39:42
-
 According to all that the LORD commanded Moses, so the children of Israel made all the work.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 2:2
-
 And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.

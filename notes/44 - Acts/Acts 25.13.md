@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:13
-
 And after certain days king Agrippa and Bernice came unto Caesarea to salute Festus.

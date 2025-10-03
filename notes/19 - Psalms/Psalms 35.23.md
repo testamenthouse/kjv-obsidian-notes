@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 35:23
-
 Stir up thyself, and awake to my judgment, even unto my cause, my God and my Lord.

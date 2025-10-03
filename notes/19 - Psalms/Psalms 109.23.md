@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:23
-
 I am gone like the shadow when it declineth: I am tossed up and down as the locust.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 60:19
-
 The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the LORD shall be unto thee an everlasting light, and thy God thy glory.

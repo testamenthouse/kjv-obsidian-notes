@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 29:5
-
 The voice of the LORD breaketh the cedars; yea, the LORD breaketh the cedars of Lebanon.

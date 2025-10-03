@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 33:18
-
 When the righteous turneth from his righteousness, and committeth iniquity, he shall even die thereby.

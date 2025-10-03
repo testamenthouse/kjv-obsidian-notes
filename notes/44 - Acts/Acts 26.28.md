@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:28
-
 Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian.

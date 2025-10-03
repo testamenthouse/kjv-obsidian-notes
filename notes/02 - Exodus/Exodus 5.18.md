@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 5:18
-
 Go therefore now, and work; for there shall no straw be given you, yet shall ye deliver the tale of bricks.

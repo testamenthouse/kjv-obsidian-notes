@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:14
-
 If I then, your Lord and Master, have washed your feet; ye also ought to wash one another's feet.

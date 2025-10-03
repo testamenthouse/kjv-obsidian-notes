@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 21:20
-
 And Ahab said to Elijah, Hast thou found me, O mine enemy? And he answered, I have found thee: because thou hast sold thyself to work evil in the sight of the LORD.

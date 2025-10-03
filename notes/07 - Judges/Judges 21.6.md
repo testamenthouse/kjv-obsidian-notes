@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 21:6
-
 And the children of Israel repented them for Benjamin their brother, and said, There is one tribe cut off from Israel this day.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 4:16
-
 Let his heart be changed from man's, and let a beast's heart be given unto him; and let seven times pass over him.

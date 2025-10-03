@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:28
-
 And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.

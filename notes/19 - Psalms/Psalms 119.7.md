@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:7
-
 I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments.

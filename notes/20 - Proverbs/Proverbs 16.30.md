@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 16:30
-
 He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass.

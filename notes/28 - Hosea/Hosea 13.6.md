@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 13:6
-
 According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me.

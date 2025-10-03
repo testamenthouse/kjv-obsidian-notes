@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:13
-
 And also Maachah his mother, even her he removed from being queen, because she had made an idol in a grove; and Asa destroyed her idol, and burnt it by the brook Kidron.

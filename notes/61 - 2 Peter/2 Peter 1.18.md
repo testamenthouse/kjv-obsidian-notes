@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 1:18
-
 And this voice which came from heaven we heard, when we were with him in the holy mount.

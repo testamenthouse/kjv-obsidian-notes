@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 18:33
-
 Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?

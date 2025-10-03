@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 2:1
-
 And it came to pass in those days, that there went out a decree from Caesar Augustus that all the world should be taxed.

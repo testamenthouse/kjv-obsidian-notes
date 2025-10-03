@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 2:5
-
 To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.

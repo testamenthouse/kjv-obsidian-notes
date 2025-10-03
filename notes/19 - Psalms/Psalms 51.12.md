@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 51:12
-
 Restore unto me the joy of thy salvation; and uphold me with thy free spirit.

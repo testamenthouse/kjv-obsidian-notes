@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 38:12
-
 Mine age is departed, and is removed from me as a shepherd's tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day even to night wilt thou make an end of me.

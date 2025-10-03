@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 24:21
-
 And he that killeth a beast, he shall restore it: and he that killeth a man, he shall be put to death.

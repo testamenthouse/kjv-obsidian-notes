@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 23:27
-
 Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.

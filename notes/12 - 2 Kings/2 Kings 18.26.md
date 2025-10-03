@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 18:26
-
 Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rabshakeh, Speak, I pray thee, to thy servants in the Syrian language; for we understand it: and talk not with us in the Jews' language in the ears of the people that are on the wall.

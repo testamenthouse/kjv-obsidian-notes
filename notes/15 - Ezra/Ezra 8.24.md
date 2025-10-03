@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:24
-
 Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brethren with them,

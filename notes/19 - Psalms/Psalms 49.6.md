@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 49:6
-
 They that trust in their wealth, and boast themselves in the multitude of their riches;

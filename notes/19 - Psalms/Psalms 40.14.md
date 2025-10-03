@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 40:14
-
 Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil.

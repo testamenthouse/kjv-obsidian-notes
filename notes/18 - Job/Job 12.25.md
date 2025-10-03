@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:25
-
 They grope in the dark without light, and he maketh them to stagger like a drunken man.

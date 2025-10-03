@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 11:28
-
 Beside those things that are without, that which cometh upon me daily, the care of all the churches.

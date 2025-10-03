@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:2
-
 And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting.

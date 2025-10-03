@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 23:26
-
 But Balaam answered and said unto Balak, Told not I thee, saying, All that the LORD speaketh, that I must do?

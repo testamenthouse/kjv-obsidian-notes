@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 13:15
-
 Though he be fruitful among his brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 9:13
-
 Now the weight of gold that came to Solomon in one year was six hundred and threescore and six talents of gold;

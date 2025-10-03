@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 2:19
-
 Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.

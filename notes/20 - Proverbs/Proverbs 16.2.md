@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 16:2
-
 All the ways of a man are clean in his own eyes; but the LORD weigheth the spirits.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 70:3
-
 Let them be turned back for a reward of their shame that say, Aha, aha.

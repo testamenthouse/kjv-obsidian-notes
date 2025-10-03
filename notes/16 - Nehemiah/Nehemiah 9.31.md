@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 9:31
-
 Nevertheless for thy great mercies' sake thou didst not utterly consume them, nor forsake them; for thou art a gracious and merciful God.

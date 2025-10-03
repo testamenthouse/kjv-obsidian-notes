@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 20:20
-
 And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house,

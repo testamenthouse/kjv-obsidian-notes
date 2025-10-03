@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 12:11
-
 They have made it desolate, and being desolate it mourneth unto me; the whole land is made desolate, because no man layeth it to heart.

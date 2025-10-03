@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:29
-
 (For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.)

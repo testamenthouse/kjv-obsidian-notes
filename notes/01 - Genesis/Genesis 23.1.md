@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 23:1
-
 And Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah.

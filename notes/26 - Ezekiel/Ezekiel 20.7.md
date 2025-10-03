@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:7
-
 Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I am the LORD your God.

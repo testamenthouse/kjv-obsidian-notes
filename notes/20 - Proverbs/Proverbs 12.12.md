@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 12:12
-
 The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit.

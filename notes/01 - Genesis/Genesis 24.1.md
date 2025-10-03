@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:1
-
 And Abraham was old, and well stricken in age: and the LORD had blessed Abraham in all things.

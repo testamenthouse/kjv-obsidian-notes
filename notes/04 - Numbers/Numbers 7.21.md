@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 7:21
-
 One young bullock, one ram, one lamb of the first year, for a burnt offering:

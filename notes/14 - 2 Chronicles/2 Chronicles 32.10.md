@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 32:10
-
 Thus saith Sennacherib king of Assyria, Whereon do ye trust, that ye abide in the siege in Jerusalem?

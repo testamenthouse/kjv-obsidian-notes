@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 30:17
-
 And God hearkened unto Leah, and she conceived, and bare Jacob the fifth son.

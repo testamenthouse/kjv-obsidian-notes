@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:5
-
 And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?

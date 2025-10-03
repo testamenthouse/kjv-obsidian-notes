@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 8:26
-
 Two and twenty years old was Ahaziah when he began to reign; and he reigned one year in Jerusalem. And his mother's name was Athaliah, the daughter of Omri king of Israel.

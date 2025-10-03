@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 40:13
-
 Be pleased, O LORD, to deliver me: O LORD, make haste to help me.

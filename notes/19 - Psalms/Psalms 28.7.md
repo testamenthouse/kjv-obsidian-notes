@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, cause-effect]
 thematic_tags: [names-of-god, warfare, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 28:7
-
 The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.

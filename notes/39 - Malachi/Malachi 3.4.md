@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Malachi"]
 ---
-
-# Malachi 3:4
-
 Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years.

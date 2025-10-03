@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 3:9
-
 Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:34
-
 Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work.

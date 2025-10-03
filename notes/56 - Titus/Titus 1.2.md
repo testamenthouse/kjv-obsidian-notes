@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 1:2
-
 In hope of eternal life, which God, that cannot lie, promised before the world began;

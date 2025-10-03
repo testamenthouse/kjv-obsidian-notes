@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:42
-
 The righteous shall see it, and rejoice: and all iniquity shall stop her mouth.

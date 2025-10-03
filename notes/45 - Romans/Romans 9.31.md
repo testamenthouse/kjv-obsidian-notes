@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 9:31
-
 But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness.

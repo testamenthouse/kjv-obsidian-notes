@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 17:38
-
 And Saul armed David with his armor, and he put an helmet of brass upon his head; also he armed him with a coat of mail.

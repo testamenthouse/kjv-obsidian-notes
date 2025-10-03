@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 52:23
-
 And there were ninety and six pomegranates on a side; and all the pomegranates upon the network were an hundred round about.

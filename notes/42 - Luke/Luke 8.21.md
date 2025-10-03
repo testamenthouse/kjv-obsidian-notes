@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:21
-
 And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.

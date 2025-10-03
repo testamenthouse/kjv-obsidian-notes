@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 7:4
-
 Then the children of Israel did put away Baalim and Ashtaroth, and served the LORD only.

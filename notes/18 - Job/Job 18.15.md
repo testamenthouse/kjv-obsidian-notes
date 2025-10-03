@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:15
-
 It shall dwell in his tabernacle, because it is none of his: brimstone shall be scattered upon his habitation.

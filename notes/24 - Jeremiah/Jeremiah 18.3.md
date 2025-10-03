@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 18:3
-
 Then I went down to the potter's house, and, behold, he wrought a work on the wheels.

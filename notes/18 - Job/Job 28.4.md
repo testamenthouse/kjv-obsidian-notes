@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:4
-
 The flood breaketh out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men.

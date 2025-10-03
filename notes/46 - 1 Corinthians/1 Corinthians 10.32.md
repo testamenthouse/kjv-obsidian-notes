@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 10:32
-
 Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:

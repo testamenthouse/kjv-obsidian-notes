@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 14:41
-
 And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:

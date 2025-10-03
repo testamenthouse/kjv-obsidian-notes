@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 20:25
-
 Take Aaron and Eleazar his son, and bring them up unto mount Hor:

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 23:21
-
 I have not sent these prophets, yet they ran: I have not spoken to them, yet they prophesied.

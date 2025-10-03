@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:12
-
 And the Spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man's house:

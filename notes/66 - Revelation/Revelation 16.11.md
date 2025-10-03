@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 16:11
-
 And blasphemed the God of heaven because of their pains and their sores, and repented not of their deeds.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 18:10
-
 If it do evil in my sight, that it obey not my voice, then I will repent of the good, wherewith I said I would benefit them.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 20:16
-
 To morrow go ye down against them: behold, they come up by the cliff of Ziz; and ye shall find them at the end of the brook, before the wilderness of Jeruel.

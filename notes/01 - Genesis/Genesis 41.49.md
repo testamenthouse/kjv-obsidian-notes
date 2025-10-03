@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:49
-
 And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number.

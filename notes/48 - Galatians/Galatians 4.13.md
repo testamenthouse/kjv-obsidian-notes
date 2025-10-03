@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 4:13
-
 Ye know how through infirmity of the flesh I preached the gospel unto you at the first.

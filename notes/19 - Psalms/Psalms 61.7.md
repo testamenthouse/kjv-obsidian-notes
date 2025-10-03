@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 61:7
-
 He shall abide before God for ever: O prepare mercy and truth, which may preserve him.

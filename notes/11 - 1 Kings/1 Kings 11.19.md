@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:19
-
 And Hadad found great favor in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jude"]
 ---
-
-# Jude 1:23
-
 And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh.

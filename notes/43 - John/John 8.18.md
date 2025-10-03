@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:18
-
 I am one that bear witness of myself, and the Father that sent me beareth witness of me.

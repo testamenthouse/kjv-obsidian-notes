@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:50
-
 But the Jews stirred up the devout and honourable women, and the chief men of the city, and raised persecution against Paul and Barnabas, and expelled them out of their coasts.

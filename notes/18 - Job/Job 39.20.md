@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:20
-
 Canst thou make him afraid as a grasshopper? the glory of his nostrils is terrible.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 14:42
-
 And Saul said, Cast lots between me and Jonathan my son. And Jonathan was taken.

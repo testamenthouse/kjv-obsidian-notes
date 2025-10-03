@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 33:16
-
 And they removed from the desert of Sinai, and pitched at Kibrothhattaavah.

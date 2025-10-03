@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 60:5
-
 That thy beloved may be delivered; save with thy right hand, and hear me.

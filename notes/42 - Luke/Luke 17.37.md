@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:37
-
 And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body is, thither will the eagles be gathered together.

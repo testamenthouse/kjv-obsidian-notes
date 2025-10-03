@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 19:7
-
 Ain, Remmon, and Ether, and Ashan; four cities and their villages:

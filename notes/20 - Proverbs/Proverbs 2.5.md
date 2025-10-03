@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 2:5
-
 Then shalt thou understand the fear of the LORD, and find the knowledge of God.

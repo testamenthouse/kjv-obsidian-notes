@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 12:9
-
 And he had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.

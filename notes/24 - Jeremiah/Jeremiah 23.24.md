@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 23:24
-
 Can any hide himself in secret places that I shall not see him? saith the LORD. Do not I fill heaven and earth? saith the LORD.

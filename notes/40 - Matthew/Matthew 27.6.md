@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:6
-
 And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood.

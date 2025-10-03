@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 130:5
-
 I wait for the LORD, my soul doth wait, and in his word do I hope.

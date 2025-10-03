@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 10:7
-
 And the anger of the LORD was hot against Israel, and he sold them into the hands of the Philistines, and into the hands of the children of Ammon.

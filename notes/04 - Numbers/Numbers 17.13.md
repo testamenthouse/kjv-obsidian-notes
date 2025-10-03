@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 17:13
-
 Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?

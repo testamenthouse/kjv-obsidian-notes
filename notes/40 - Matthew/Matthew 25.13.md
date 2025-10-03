@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect, genealogy-structure]
 thematic_tags: [son-of-man, jesus, time-units, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 25:13
-
 Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.

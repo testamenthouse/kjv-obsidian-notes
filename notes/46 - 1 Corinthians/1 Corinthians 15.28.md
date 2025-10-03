@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:28
-
 And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.

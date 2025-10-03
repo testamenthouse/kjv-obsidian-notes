@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 21:16
-
 Then it shall be, when he maketh his sons to inherit that which he hath, that he may not make the son of the beloved firstborn before the son of the hated, which is indeed the firstborn:

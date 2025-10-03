@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 4:28
-
 Barley also and straw for the horses and dromedaries brought they unto the place where the officers were, every man according to his charge.

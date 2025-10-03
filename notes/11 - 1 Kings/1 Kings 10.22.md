@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 10:22
-
 For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks.

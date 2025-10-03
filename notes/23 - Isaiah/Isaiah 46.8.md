@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 46:8
-
 Remember this, and shew yourselves men: bring it again to mind, O ye transgressors.

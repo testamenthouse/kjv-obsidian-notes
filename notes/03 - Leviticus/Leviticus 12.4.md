@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [time-units, time-period, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 12:4
-
 And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 1:6
-
 Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:

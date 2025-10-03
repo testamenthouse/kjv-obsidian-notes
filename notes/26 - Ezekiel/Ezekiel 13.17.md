@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 13:17
-
 Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,

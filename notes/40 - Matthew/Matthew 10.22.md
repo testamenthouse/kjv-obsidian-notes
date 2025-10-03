@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 10:22
-
 And ye shall be hated of all men for my name's sake: but he that endureth to the end shall be saved.

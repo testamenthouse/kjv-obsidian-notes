@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:39
-
 And I am this day weak, though anointed king; and these men the sons of Zeruiah be too hard for me: the LORD shall reward the doer of evil according to his wickedness.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 5:17
-
 Pray without ceasing.

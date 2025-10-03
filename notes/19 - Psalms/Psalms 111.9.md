@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 111:9
-
 He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name.

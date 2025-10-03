@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 5:29
-
 This is the law of jealousies, when a wife goeth aside to another instead of her husband, and is defiled;

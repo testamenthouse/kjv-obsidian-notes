@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 25:20
-
 But Amaziah would not hear; for it came of God, that he might deliver them into the hand of their enemies, because they sought after the gods of Edom.

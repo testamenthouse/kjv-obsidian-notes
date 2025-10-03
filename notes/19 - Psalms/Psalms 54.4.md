@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 54:4
-
 Behold, God is mine helper: the Lord is with them that uphold my soul.

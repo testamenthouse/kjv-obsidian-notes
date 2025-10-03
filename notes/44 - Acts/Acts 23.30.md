@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, adversary-epithet, adversary]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 23:30
-
 And when it was told me how that the Jews laid wait for the man, I sent straightway to thee, and gave commandment to his accusers also to say before thee what they had against him. Farewell.

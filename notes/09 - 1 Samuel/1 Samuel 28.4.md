@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 28:4
-
 And the Philistines gathered themselves together, and came and pitched in Shunem: and Saul gathered all Israel together, and they pitched in Gilboa.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:42
-
 And when the Jews were gone out of the synagogue, the Gentiles besought that these words might be preached to them the next sabbath.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 1:18
-
 Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 5:13
-
 But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 116:8
-
 For thou hast delivered my soul from death, mine eyes from tears, and my feet from falling.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 14:15
-
 And the name of Hebron before was Kirjatharba; which Arba was a great man among the Anakims. And the land had rest from war.

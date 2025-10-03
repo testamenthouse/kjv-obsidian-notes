@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:50
-
 Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five shekels, after the shekel of the sanctuary:

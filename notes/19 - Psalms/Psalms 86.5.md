@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 86:5
-
 For thou, Lord, art good, and ready to forgive; and plenteous in mercy unto all them that call upon thee.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 15:10
-
 If ye keep my commandments, ye shall abide in my love; even as I have kept my Father's commandments, and abide in his love.

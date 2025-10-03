@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 43:15
-
 And the men took that present, and they took double money in their hand and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.

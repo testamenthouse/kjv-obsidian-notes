@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 4:12
-
 Baana the son of Ahilud; to him pertained Taanach and Megiddo, and all Bethshean, which is by Zartanah beneath Jezreel, from Bethshean to Abelmeholah, even unto the place that is beyond Jokneam:

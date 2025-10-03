@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:24
-
 He taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness where there is no way.

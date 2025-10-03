@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 25:4
-
 Take away the dross from the silver, and there shall come forth a vessel for the finer.

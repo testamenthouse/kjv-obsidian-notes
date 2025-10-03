@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 2:5
-
 And David sent messengers unto the men of Jabeshgilead, and said unto them, Blessed be ye of the LORD, that ye have showed this kindness unto your lord, even unto Saul, and have buried him.

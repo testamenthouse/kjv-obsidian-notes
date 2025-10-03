@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 7:66
-
 On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, offered:

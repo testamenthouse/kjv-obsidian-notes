@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:35
-
 And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.

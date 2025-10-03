@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 2:9
-
 Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!

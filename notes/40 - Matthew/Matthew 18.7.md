@@ -13,7 +13,4 @@ grammar_tags: [exclamation, contrast]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 18:7
-
 Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:5
-
 And he said unto them, That the Son of man is Lord also of the sabbath.

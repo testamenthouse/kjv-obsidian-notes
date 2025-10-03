@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 6:35
-
 And he carved thereon cherubim and palm trees and open flowers: and covered them with gold fitted upon the carved work.

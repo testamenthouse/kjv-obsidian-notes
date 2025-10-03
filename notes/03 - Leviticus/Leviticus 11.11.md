@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:11
-
 They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcasses in abomination.

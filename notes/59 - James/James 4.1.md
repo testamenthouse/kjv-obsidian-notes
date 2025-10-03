@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 4:1
-
 From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?

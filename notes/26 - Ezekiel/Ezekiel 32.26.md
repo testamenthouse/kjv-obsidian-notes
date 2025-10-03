@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 32:26
-
 There is Meshech, Tubal, and all her multitude: her graves are round about him: all of them uncircumcised, slain by the sword, though they caused their terror in the land of the living.

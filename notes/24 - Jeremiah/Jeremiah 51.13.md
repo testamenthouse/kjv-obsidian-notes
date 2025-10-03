@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:13
-
 O thou that dwellest upon many waters, abundant in treasures, thine end is come, and the measure of thy covetousness.

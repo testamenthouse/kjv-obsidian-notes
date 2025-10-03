@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 21:36
-
 And out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs,

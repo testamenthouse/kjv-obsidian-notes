@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 18:1
-
 Woe to the land shadowing with wings, which is beyond the rivers of Ethiopia:

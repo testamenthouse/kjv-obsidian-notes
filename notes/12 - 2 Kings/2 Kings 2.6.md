@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 2:6
-
 And Elijah said unto him, Tarry, I pray thee, here; for the LORD hath sent me to Jordan. And he said, As the LORD liveth, and as thy soul liveth, I will not leave thee. And they two went on.

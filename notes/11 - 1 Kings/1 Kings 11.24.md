@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:24
-
 And he gathered men unto him, and became captain over a band, when David slew them of Zobah: and they went to Damascus, and dwelt therein, and reigned in Damascus.

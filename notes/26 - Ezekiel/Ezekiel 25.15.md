@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 25:15
-
 Thus saith the Lord GOD; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy it for the old hatred;

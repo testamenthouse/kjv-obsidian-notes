@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:1
-
 Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 15:8
-
 And when thou preparest a bullock for a burnt offering, or for a sacrifice in performing a vow, or peace offerings unto the LORD:

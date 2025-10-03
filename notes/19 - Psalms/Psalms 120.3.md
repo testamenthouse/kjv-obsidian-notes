@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 120:3
-
 What shall be given unto thee? or what shall be done unto thee, thou false tongue?

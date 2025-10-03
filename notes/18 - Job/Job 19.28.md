@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:28
-
 But ye should say, Why persecute we him, seeing the root of the matter is found in me?

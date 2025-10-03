@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:23
-
 For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.

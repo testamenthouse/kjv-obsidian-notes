@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 5:6
-
 Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that person be guilty;

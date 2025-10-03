@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 11:28
-
 Then shall he return into his land with great riches; and his heart shall be against the holy covenant; and he shall do exploits, and return to his own land.

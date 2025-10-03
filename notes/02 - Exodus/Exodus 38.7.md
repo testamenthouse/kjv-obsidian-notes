@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 38:7
-
 And he put the staves into the rings on the sides of the altar, to bear it withal; he made the altar hollow with boards.

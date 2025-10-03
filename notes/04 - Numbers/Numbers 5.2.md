@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 5:2
-
 Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead:

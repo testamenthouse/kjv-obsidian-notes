@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:8
-
 And will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?

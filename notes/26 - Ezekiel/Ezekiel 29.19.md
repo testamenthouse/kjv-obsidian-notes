@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 29:19
-
 Therefore thus saith the Lord GOD; Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall take her multitude, and take her spoil, and take her prey; and it shall be the wages for his army.

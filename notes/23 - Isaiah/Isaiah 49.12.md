@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 49:12
-
 Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.

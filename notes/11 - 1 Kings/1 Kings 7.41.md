@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 7:41
-
 The two pillars, and the two bowls of the chapiters that were on the top of the two pillars; and the two networks, to cover the two bowls of the chapiters which were upon the top of the pillars;

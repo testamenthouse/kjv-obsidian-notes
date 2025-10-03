@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 2:11
-
 For, lo, the winter is past, the rain is over and gone;

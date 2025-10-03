@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 24:2
-
 One basket had very good figs, even like the figs that are first ripe: and the other basket had very naughty figs, which could not be eaten, they were so bad.

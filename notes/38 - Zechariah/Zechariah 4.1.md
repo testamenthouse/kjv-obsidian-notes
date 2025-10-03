@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 4:1
-
 And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep.

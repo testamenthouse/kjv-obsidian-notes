@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 2:1
-
 But speak thou the things which become sound doctrine:

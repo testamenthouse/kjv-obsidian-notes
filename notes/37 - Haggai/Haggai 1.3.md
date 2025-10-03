@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 1:3
-
 Then came the word of the LORD by Haggai the prophet, saying,

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 4:20
-
 Erastus abode at Corinth: but Trophimus have I left at Miletum sick.

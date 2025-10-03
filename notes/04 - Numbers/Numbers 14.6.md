@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:6
-
 And Joshua the son of Nun, and Caleb the son of Jephunneh, which were of them that searched the land, rent their clothes:

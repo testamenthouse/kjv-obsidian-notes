@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 41:1
-
 Afterward he brought me to the temple, and measured the posts, six cubits broad on the one side, and six cubits broad on the other side, which was the breadth of the tabernacle.

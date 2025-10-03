@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:21
-
 Withdraw thine hand far from me: and let not thy dread make me afraid.

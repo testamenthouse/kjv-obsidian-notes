@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 43:25
-
 Seven days shalt thou prepare every day a goat for a sin offering: they shall also prepare a young bullock, and a ram out of the flock, without blemish.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 2:4
-
 To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,

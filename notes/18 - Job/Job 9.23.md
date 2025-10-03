@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:23
-
 If the scourge slay suddenly, he will laugh at the trial of the innocent.

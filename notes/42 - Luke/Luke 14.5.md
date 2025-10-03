@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:5
-
 And answered them, saying, Which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?

@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 4:15
-
 Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that the LORD spake unto you in Horeb out of the midst of the fire:

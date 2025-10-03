@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 23:18
-
 So he took him, and brought him to the chief captain, and said, Paul the prisoner called me unto him, and prayed me to bring this young man unto thee, who hath something to say unto thee.

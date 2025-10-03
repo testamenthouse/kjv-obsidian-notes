@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 15:11
-
 Who is like unto thee, O LORD, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 11:2
-
 Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered them to you.

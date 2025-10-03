@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 19:11
-
 But if any man hate his neighbor, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:

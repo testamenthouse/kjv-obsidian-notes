@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 10:16
-
 Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned against the LORD your God, and against you.

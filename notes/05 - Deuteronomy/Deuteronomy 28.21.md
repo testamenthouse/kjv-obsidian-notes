@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 28:21
-
 The LORD shall make the pestilence cleave unto thee, until he have consumed thee from off the land, whither thou goest to possess it.

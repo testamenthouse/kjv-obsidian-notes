@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 30:14
-
 And they arose and took away the altars that were in Jerusalem, and all the altars for incense took they away, and cast them into the brook Kidron.

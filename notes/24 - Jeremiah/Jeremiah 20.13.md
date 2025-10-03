@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 20:13
-
 Sing unto the LORD, praise ye the LORD: for he hath delivered the soul of the poor from the hand of evildoers.

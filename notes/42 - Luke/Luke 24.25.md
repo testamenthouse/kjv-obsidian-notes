@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:25
-
 Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:

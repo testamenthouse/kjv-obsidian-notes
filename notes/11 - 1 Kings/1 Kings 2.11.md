@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:11
-
 And the days that David reigned over Israel were forty years: seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.

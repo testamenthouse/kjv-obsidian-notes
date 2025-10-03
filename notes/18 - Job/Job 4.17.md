@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 4:17
-
 Shall mortal man be more just than God? shall a man be more pure than his maker?

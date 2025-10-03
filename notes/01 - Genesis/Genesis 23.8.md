@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 23:8
-
 And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and entreat for me to Ephron the son of Zohar,

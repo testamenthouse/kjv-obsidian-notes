@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 60:16
-
 Thou shalt also suck the milk of the Gentiles, and shalt suck the breast of kings: and thou shalt know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 9:15
-
 Thanks be unto God for his unspeakable gift.

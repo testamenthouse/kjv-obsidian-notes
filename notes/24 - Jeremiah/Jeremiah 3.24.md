@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 3:24
-
 For shame hath devoured the labour of our fathers from our youth; their flocks and their herds, their sons and their daughters.

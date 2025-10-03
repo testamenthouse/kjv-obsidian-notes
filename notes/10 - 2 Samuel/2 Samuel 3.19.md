@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:19
-
 And Abner also spake in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin.

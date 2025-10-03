@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:6
-
 And honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition.

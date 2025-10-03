@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:55
-
 And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:

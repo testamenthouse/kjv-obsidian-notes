@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 8:12
-
 Then Solomon offered burnt offerings unto the LORD on the altar of the LORD, which he had built before the porch,

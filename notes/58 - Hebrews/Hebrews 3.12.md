@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 3:12
-
 Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.

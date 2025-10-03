@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 39:13
-
 Yea, all the people of the land shall bury them; and it shall be to them a renown the day that I shall be glorified, saith the Lord GOD.

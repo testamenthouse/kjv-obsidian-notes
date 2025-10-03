@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 3:18
-
 Thy shepherds slumber, O king of Assyria: thy nobles shall dwell in the dust: thy people is scattered upon the mountains, and no man gathereth them.

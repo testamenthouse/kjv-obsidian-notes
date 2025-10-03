@@ -13,7 +13,4 @@ grammar_tags: [exclamation, conjunctive-opener]
 thematic_tags: [time-parts-of-day, time-feasts, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:14
-
 And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!

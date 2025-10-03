@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:13
-
 If thou prepare thine heart, and stretch out thine hands toward him;

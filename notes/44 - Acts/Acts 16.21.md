@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 16:21
-
 And teach customs, which are not lawful for us to receive, neither to observe, being Romans.

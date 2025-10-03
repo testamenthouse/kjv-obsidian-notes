@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 17:11
-
 And as she was going to fetch it, he called to her, and said, Bring me, I pray thee, a morsel of bread in thine hand.

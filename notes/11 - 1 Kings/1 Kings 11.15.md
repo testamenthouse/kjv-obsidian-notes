@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:15
-
 For it came to pass, when David was in Edom, and Joab the captain of the host was gone up to bury the slain, after he had smitten every male in Edom;

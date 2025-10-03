@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 3:24
-
 After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning of the wall, even unto the corner.

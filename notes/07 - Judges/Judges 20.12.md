@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 20:12
-
 And the tribes of Israel sent men through all the tribe of Benjamin, saying, What wickedness is this that is done among you?

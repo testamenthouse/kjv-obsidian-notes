@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 23:36
-
 And the burden of the LORD shall ye mention no more: for every man's word shall be his burden; for ye have perverted the words of the living God, of the LORD of hosts our God.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 11:15
-
 And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned.

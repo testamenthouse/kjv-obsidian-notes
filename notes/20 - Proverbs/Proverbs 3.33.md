@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 3:33
-
 The curse of the LORD is in the house of the wicked: but he blesseth the habitation of the just.

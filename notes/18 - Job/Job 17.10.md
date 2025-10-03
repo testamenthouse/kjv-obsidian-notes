@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:10
-
 But as for you all, do ye return, and come now: for I cannot find one wise man among you.

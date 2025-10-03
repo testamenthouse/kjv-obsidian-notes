@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 40:22
-
 And he put the table in the tent of the congregation, upon the side of the tabernacle northward, without the vail.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 42:10
-
 And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before.

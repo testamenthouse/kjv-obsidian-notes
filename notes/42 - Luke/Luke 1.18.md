@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:18
-
 And Zacharias said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years.

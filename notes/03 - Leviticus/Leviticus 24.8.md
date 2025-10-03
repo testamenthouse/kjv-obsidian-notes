@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 24:8
-
 Every sabbath he shall set it in order before the LORD continually, being taken from the children of Israel by an everlasting covenant.

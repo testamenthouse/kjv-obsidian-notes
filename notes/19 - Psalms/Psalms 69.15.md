@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:15
-
 Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me.

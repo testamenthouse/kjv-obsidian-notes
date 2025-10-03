@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 2:19
-
 Yea, the LORD will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:

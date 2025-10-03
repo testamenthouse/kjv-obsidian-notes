@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-feasts, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:2
-
 Now the Jew's feast of tabernacles was at hand.

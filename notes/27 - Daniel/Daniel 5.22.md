@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 5:22
-
 And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;

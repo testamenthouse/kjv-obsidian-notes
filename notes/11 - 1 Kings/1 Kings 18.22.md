@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:22
-
 Then said Elijah unto the people, I, even I only, remain a prophet of the LORD; but Baal's prophets are four hundred and fifty men.

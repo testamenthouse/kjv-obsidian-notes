@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 8:17
-
 But the bullock, and his hide, his flesh, and his dung, he burnt with fire without the camp; as the LORD commanded Moses.

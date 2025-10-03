@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:18
-
 What time she lifteth up herself on high, she scorneth the horse and his rider.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 61:5
-
 For thou, O God, hast heard my vows: thou hast given me the heritage of those that fear thy name.

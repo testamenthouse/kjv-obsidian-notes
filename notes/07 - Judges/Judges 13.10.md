@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 13:10
-
 And the woman made haste, and ran, and showed her husband, and said unto him, Behold, the man hath appeared unto me, that came unto me the other day.

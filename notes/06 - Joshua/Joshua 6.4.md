@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 6:4
-
 And seven priests shall bear before the ark seven trumpets of rams' horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets.

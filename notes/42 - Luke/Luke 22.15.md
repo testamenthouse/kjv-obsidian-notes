@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:15
-
 And he said unto them, With desire I have desired to eat this passover with you before I suffer:

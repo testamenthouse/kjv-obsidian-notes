@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 46:19
-
 The sons of Rachel Jacob's wife; Joseph, and Benjamin.

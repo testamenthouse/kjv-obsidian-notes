@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 4:19
-
 And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sarah's womb:

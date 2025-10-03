@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 4:13
-
 Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.

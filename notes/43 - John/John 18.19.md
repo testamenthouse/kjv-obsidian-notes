@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:19
-
 The high priest then asked Jesus of his disciples, and of his doctrine.

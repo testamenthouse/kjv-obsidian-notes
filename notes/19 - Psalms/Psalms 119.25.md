@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:25
-
 My soul cleaveth unto the dust: quicken thou me according to thy word.

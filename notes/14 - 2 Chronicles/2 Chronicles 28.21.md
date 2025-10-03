@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 28:21
-
 For Ahaz took away a portion out of the house of the LORD, and out of the house of the king, and of the princes, and gave it unto the king of Assyria: but he helped him not.

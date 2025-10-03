@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:29
-
 Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?

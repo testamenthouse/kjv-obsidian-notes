@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 58:6
-
 Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O LORD.

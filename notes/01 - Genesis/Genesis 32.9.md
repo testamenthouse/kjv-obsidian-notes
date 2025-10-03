@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 32:9
-
 And Jacob said, O God of my father Abraham, and God of my father Isaac, the LORD which saidst unto me, Return unto thy country, and to thy kindred, and I will deal well with thee:

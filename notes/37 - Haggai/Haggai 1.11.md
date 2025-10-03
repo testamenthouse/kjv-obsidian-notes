@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 1:11
-
 And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon that which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.

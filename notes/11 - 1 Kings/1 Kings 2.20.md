@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:20
-
 Then she said, I desire one small petition of thee; I pray thee, say me not nay. And the king said unto her, Ask on, my mother: for I will not say thee nay.

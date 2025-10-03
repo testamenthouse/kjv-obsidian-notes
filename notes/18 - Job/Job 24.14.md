@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, praise-worship, time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:14
-
 The murderer rising with the light killeth the poor and needy, and in the night is as a thief.

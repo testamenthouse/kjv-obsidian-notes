@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:8
-
 The range of the mountains is his pasture, and he searcheth after every green thing.

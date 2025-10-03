@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:34
-
 Wherefore I pray you to take some meat: for this is for your health: for there shall not an hair fall from the head of any of you.

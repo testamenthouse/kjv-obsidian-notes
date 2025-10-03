@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:7
-
 He withdraweth not his eyes from the righteous: but with kings are they on the throne; yea, he doth establish them for ever, and they are exalted.

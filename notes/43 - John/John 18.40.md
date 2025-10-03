@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [lament]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:40
-
 Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.

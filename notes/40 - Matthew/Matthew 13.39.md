@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary, time-seasons, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 13:39
-
 The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.

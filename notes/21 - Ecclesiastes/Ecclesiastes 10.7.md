@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 10:7
-
 I have seen servants upon horses, and princes walking as servants upon the earth.

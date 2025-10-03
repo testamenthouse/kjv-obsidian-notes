@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 132:5
-
 Until I find out a place for the LORD, an habitation for the mighty God of Jacob.

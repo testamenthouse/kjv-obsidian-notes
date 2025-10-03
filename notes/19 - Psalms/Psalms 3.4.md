@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 3:4
-
 I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.

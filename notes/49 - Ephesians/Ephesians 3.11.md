@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 3:11
-
 According to the eternal purpose which he purposed in Christ Jesus our Lord:

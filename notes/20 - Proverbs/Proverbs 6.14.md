@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 6:14
-
 Frowardness is in his heart, he deviseth mischief continually; he soweth discord.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:5
-
 Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 40:30
-
 Even the youths shall faint and be weary, and the young men shall utterly fall:

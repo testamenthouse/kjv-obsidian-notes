@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 51:8
-
 For the moth shall eat them up like a garment, and the worm shall eat them like wool: but my righteousness shall be for ever, and my salvation from generation to generation.

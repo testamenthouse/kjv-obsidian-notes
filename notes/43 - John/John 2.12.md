@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 2:12
-
 After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.

@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:27
-
 We have sent therefore Judas and Silas, who shall also tell you the same things by mouth.

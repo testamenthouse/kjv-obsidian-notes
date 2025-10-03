@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 26:3
-
 Therefore thus saith the Lord GOD; Behold, I am against thee, O Tyrus, and will cause many nations to come up against thee, as the sea causeth his waves to come up.

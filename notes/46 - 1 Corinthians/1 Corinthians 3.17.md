@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 3:17
-
 If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:28
-
 And over the olive trees and the sycamore trees that were in the low plains was Baalhanan the Gederite: and over the cellars of oil was Joash:

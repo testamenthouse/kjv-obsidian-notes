@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 34:8
-
 And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping and mourning for Moses were ended.

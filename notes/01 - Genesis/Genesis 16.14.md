@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 16:14
-
 Wherefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 2:19
-
 And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God.

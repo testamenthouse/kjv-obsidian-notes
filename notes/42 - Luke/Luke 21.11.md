@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:11
-
 And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.

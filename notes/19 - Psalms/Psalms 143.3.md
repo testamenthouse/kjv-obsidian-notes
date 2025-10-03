@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 143:3
-
 For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 29:1
-
 In the tenth year, in the tenth month, in the twelfth day of the month, the word of the LORD came unto me, saying,

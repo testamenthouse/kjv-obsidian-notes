@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 6:19
-
 Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.

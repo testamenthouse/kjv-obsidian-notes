@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:4
-
 Hast thou eyes of flesh? or seest thou as man seeth?

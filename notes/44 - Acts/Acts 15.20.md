@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:20
-
 But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood.

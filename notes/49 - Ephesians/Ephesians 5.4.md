@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:4
-
 Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.

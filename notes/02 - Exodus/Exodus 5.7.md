@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 5:7
-
 Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves.

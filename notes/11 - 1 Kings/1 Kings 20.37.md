@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:37
-
 Then he found another man, and said, Smite me, I pray thee. And the man smote him, so that in smiting he wounded him.

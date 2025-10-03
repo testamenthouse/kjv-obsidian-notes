@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:20
-
 But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.

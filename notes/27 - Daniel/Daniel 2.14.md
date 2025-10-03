@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 2:14
-
 Then Daniel answered with counsel and wisdom to Arioch the captain of the king's guard, which was gone forth to slay the wise men of Babylon:

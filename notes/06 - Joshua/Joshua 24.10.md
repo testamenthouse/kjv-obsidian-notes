@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 24:10
-
 But I would not hearken unto Balaam; therefore he blessed you still: so I delivered you out of his hand.

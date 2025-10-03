@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 57:7
-
 My heart is fixed, O God, my heart is fixed: I will sing and give praise.

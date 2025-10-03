@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 17:12
-
 Woe to the multitude of many people, which make a noise like the noise of the seas; and to the rushing of nations, that make a rushing like the rushing of mighty waters!

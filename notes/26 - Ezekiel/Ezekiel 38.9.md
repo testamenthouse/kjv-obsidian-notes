@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 38:9
-
 Thou shalt ascend and come like a storm, thou shalt be like a cloud to cover the land, thou, and all thy bands, and many people with thee.

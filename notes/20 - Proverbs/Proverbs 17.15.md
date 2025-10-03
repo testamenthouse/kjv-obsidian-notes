@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 17:15
-
 He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the LORD.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:34
-
 Awake to righteousness, and sin not; for some have not the knowledge of God: I speak this to your shame.

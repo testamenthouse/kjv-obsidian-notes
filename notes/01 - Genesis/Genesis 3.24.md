@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 3:24
-
 So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.

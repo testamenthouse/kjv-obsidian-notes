@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 4:6
-
 Is not this thy fear, thy confidence, thy hope, and the uprightness of thy ways?

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, praise-worship, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 24:11
-
 Because that thou mayest understand, that there are yet but twelve days since I went up to Jerusalem for to worship.

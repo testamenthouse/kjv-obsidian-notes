@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 1:14
-
 So he consented to them in this matter, and proved them ten days.

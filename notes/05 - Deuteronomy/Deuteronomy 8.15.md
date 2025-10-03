@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god, adversary-metaphor, adversary]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 8:15
-
 Who led thee through that great and terrible wilderness, wherein were fiery serpents, and scorpions, and drought, where there was no water; who brought thee forth water out of the rock of flint;

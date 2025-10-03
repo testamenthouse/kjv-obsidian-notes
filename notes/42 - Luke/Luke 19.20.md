@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:20
-
 And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin:

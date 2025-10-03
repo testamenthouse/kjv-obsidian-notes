@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 1:14
-
 And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:

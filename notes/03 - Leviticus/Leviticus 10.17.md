@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 10:17
-
 Wherefore have ye not eaten the sin offering in the holy place, seeing it is most holy, and God hath given it you to bear the iniquity of the congregation, to make atonement for them before the LORD?

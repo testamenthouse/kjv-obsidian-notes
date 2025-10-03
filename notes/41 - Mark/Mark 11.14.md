@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [jesus, jesus-title, time-period, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:14
-
 And Jesus answered and said unto it, No man eat fruit of thee hereafter for ever. And his disciples heard it.

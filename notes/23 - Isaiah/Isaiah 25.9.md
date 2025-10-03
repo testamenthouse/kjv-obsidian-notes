@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 25:9
-
 And it shall be said in that day, Lo, this is our God; we have waited for him, and he will save us: this is the LORD; we have waited for him, we will be glad and rejoice in his salvation.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 96:7
-
 Give unto the LORD, O ye kindreds of the people, give unto the LORD glory and strength.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 9:24
-
 And they brought every man his present, vessels of silver, and vessels of gold, and raiment, harness, and spices, horses, and mules, a rate year by year.

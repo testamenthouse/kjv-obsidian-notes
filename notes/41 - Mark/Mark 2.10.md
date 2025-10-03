@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 2:10
-
 But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)

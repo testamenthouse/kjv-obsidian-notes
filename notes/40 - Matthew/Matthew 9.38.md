@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, time-seasons, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 9:38
-
 Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.

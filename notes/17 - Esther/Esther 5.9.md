@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 5:9
-
 Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king's gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai.

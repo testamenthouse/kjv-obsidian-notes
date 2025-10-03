@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 3:21
-
 My son, let not them depart from thine eyes: keep sound wisdom and discretion:

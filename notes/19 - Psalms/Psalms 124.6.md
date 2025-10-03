@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 124:6
-
 Blessed be the LORD, who hath not given us as a prey to their teeth.

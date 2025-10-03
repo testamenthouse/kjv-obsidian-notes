@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 35:9
-
 Nor to build houses for us to dwell in: neither have we vineyard, nor field, nor seed:

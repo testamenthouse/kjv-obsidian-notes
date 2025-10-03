@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 3:20
-
 After him Baruch the son of Zabbai earnestly repaired the other piece, from the turning of the wall unto the door of the house of Eliashib the high priest.

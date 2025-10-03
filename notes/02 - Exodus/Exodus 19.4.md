@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 19:4
-
 Ye have seen what I did unto the Egyptians, and how I bare you on eagles' wings, and brought you unto myself.

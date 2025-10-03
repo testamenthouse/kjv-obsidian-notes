@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 26:17
-
 Two tenons shall there be in one board, set in order one against another: thus shalt thou make for all the boards of the tabernacle.

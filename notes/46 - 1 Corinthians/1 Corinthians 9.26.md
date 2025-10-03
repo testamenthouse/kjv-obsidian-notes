@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 9:26
-
 I therefore so run, not as uncertainly; so fight I, not as one that beateth the air:

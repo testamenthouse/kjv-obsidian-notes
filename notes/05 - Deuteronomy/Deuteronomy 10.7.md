@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 10:7
-
 From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.

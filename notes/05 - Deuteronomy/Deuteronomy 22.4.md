@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 22:4
-
 Thou shalt not see thy brother's ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift them up again.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-feasts, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:4
-
 And the passover, a feast of the Jews, was nigh.

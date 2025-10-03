@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 13:42
-
 And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.

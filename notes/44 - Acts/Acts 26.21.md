@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:21
-
 For these causes the Jews caught me in the temple, and went about to kill me.

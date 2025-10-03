@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare, praise-worship, time-parts-of-day, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 4:21
-
 So we laboured in the work: and half of them held the spears from the rising of the morning till the stars appeared.

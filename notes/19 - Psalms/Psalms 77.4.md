@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 77:4
-
 Thou holdest mine eyes waking: I am so troubled that I cannot speak.

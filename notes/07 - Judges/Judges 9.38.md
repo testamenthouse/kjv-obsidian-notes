@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:38
-
 Then said Zebul unto him, Where is now thy mouth, wherewith thou saidst, Who is Abimelech, that we should serve him? is not this the people that thou hast despised? go out, I pray now, and fight with them.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:22
-
 Thou liftest me up to the wind; thou causest me to ride upon it, and dissolvest my substance.

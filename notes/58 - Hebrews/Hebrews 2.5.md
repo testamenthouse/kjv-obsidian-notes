@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 2:5
-
 For unto the angels hath he not put in subjection the world to come, whereof we speak.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 16:11
-
 Let no man therefore despise him: but conduct him forth in peace, that he may come unto me: for I look for him with the brethren.

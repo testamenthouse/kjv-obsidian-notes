@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 5:43
-
 Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.

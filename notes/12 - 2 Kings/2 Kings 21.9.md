@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 21:9
-
 But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the LORD destroyed before the children of Israel.

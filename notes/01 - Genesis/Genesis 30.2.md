@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 30:2
-
 And Jacob's anger was kindled against Rachel: and he said, Am I in God's stead, who hath withheld from thee the fruit of the womb?

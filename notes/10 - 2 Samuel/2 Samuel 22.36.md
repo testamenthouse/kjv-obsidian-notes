@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:36
-
 Thou hast also given me the shield of thy salvation: and thy gentleness hath made me great.

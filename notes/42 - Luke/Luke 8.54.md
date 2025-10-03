@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:54
-
 And he put them all out, and took her by the hand, and called, saying, Maid, arise.

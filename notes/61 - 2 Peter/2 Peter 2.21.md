@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 2:21
-
 For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them.

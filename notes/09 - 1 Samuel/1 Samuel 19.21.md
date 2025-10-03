@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 19:21
-
 And when it was told Saul, he sent other messengers, and they prophesied likewise. And Saul sent messengers again the third time, and they prophesied also.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 40:30
-
 And he set the laver between the tent of the congregation and the altar, and put water there, to wash withal.

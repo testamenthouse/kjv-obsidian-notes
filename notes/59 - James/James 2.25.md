@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 2:25
-
 Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?

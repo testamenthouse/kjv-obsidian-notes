@@ -13,7 +13,4 @@ grammar_tags: [question, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:34
-
 Salt is good: but if the salt have lost his savour, wherewith shall it be seasoned?

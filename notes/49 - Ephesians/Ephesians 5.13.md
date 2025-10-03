@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:13
-
 But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light.

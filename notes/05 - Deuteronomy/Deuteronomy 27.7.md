@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 27:7
-
 And thou shalt offer peace offerings, and shalt eat there, and rejoice before the LORD thy God.

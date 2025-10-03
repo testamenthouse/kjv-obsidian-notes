@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 33:19
-
 But if the wicked turn from his wickedness, and do that which is lawful and right, he shall live thereby.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 31:30
-
 Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised.

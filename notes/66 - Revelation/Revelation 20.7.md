@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, adversary-title, adversary, time-units, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 20:7
-
 And when the thousand years are expired, Satan shall be loosed out of his prison,

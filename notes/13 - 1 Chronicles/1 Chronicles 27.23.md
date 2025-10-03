@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:23
-
 But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens.

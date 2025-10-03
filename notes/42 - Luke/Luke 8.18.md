@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:18
-
 Take heed therefore how ye hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken even that which he seemeth to have.

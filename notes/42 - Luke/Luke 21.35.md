@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:35
-
 For as a snare shall it come on all them that dwell on the face of the whole earth.

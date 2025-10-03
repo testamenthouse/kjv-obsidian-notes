@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 12:2
-
 Behold, I will make Jerusalem a cup of trembling unto all the people round about, when they shall be in the siege both against Judah and against Jerusalem.

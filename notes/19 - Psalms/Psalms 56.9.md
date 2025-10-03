@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 56:9
-
 When I cry unto thee, then shall mine enemies turn back: this I know; for God is for me.

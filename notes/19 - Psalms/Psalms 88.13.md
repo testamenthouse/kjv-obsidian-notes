@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 88:13
-
 But unto thee have I cried, O LORD; and in the morning shall my prayer prevent thee.

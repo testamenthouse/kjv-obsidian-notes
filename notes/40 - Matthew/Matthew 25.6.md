@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 25:6
-
 And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:14
-
 He brought them out of darkness and the shadow of death, and brake their bands in sunder.

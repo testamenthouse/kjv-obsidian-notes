@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 39:21
-
 But the LORD was with Joseph, and showed him mercy, and gave him favor in the sight of the keeper of the prison.

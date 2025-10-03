@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 1:3
-
 In the third year of his reign, he made a feast unto all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, being before him:

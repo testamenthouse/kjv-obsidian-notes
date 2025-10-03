@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:2
-
 Behold, now I have opened my mouth, my tongue hath spoken in my mouth.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 3:2
-
 This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?

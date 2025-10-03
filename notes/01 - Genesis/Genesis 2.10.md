@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 2:10
-
 And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.

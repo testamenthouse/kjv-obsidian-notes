@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:34
-
 How then comfort ye me in vain, seeing in your answers there remaineth falsehood?

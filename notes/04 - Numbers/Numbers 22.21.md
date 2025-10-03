@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 22:21
-
 And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 4:24
-
 But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;

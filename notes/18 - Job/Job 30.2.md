@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:2
-
 Yea, whereto might the strength of their hands profit me, in whom old age was perished?

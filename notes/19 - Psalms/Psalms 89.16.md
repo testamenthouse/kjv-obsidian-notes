@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:16
-
 In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 7:16
-
 For now have I chosen and sanctified this house, that my name may be there for ever: and mine eyes and mine heart shall be there perpetually.

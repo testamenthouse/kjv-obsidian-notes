@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 3:16
-
 And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.

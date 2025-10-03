@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:63
-
 And Isaac went out to meditate in the field at the eventide: and he lifted up his eyes, and saw, and, behold, the camels were coming.

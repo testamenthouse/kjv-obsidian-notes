@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 1:46
-
 Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 25:9
-
 Now the first lot came forth for Asaph to Joseph: the second to Gedaliah, who with his brethren and sons were twelve:

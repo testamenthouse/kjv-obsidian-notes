@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 12:14
-
 For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:111
-
 Thy testimonies have I taken as an heritage for ever: for they are the rejoicing of my heart.

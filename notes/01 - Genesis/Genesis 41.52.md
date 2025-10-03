@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:52
-
 And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction.

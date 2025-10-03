@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 1:23
-
 And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.

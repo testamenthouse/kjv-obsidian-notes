@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 43:23
-
 When thou hast made an end of cleansing it, thou shalt offer a young bullock without blemish, and a ram out of the flock without blemish.

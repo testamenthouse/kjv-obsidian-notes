@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 22:36
-
 And when Balak heard that Balaam was come, he went out to meet him unto a city of Moab, which is in the border of Arnon, which is in the utmost coast.

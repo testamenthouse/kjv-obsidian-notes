@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 19:12
-
 Who can understand his errors? cleanse thou me from secret faults.

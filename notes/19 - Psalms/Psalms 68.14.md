@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:14
-
 When the Almighty scattered kings in it, it was white as snow in Salmon.

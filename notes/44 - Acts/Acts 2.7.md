@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:7
-
 And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galilaeans?

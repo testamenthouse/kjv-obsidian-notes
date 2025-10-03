@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-period, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 4:29
-
 At the end of twelve months he walked in the palace of the kingdom of Babylon.

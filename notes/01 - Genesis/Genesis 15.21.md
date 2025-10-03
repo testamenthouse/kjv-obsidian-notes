@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 15:21
-
 And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites.

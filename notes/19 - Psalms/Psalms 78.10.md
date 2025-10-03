@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:10
-
 They kept not the covenant of God, and refused to walk in his law;

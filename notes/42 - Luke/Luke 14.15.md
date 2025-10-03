@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:15
-
 And when one of them that sat at meat with him heard these things, he said unto him, Blessed is he that shall eat bread in the kingdom of God.

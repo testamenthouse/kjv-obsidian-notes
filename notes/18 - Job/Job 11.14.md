@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:14
-
 If iniquity be in thine hand, put it far away, and let not wickedness dwell in thy tabernacles.

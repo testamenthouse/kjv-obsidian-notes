@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 29:4
-
 Even three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, to overlay the walls of the houses withal:

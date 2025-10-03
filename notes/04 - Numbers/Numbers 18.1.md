@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 18:1
-
 And the LORD said unto Aaron, Thou and thy sons and thy father's house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.

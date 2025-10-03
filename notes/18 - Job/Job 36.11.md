@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:11
-
 If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures.

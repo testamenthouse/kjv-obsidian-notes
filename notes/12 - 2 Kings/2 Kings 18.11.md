@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 18:11
-
 And the king of Assyria did carry away Israel unto Assyria, and put them in Halah and in Habor by the river of Gozan, and in the cities of the Medes:

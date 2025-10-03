@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 5:37
-
 And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.

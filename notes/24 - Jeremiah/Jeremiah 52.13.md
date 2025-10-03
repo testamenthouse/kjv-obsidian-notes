@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 52:13
-
 And burned the house of the LORD, and the king's house; and all the houses of Jerusalem, and all the houses of the great men, burned he with fire:

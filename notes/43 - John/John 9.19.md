@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:19
-
 And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see?

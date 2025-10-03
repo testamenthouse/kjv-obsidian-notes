@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ruth"]
 ---
-
-# Ruth 2:12
-
 The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust.

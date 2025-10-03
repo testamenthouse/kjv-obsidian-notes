@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 115:16
-
 The heaven, even the heavens, are the LORD's: but the earth hath he given to the children of men.

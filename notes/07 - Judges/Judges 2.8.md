@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 2:8
-
 And Joshua the son of Nun, the servant of the LORD, died, being an hundred and ten years old.

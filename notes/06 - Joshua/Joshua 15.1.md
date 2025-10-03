@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 15:1
-
 This then was the lot of the tribe of the children of Judah by their families; even to the border of Edom the wilderness of Zin southward was the uttermost part of the south coast.

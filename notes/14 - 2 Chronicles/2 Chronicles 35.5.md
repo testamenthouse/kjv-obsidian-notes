@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 35:5
-
 And stand in the holy place according to the divisions of the families of the fathers of your brethren the people, and after the division of the families of the Levites.

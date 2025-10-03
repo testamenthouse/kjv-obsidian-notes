@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:23
-
 Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?

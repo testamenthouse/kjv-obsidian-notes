@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 9:1
-
 I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.

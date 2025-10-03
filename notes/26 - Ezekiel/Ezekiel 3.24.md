@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 3:24
-
 Then the spirit entered into me, and set me upon my feet, and spake with me, and said unto me, Go, shut thyself within thine house.

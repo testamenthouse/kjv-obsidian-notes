@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:19
-
 The waters wear the stones: thou washest away the things which grow out of the dust of the earth; and thou destroyest the hope of man.

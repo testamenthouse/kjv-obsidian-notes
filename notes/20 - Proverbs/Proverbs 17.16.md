@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 17:16
-
 Wherefore is there a price in the hand of a fool to get wisdom, seeing he hath no heart to it?

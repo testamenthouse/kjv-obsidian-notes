@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 19:22
-
 Haste thee, escape thither; for I cannot do anything till thou be come thither. Therefore the name of the city was called Zoar.

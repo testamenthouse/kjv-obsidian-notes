@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 8:2
-
 And if thou refuse to let them go, behold, I will smite all thy borders with frogs:

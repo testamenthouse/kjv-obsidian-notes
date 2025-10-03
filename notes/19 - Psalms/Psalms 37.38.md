@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:38
-
 But the transgressors shall be destroyed together: the end of the wicked shall be cut off.

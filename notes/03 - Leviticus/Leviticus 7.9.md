@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 7:9
-
 And all the meat offering that is baked in the oven, and all that is dressed in the frying pan, and in the pan, shall be the priest's that offereth it.

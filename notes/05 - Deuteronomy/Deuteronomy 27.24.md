@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 27:24
-
 Cursed be he that smiteth his neighbor secretly. And all the people shall say, Amen.

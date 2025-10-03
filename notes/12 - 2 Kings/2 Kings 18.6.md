@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 18:6
-
 For he clave to the LORD, and departed not from following him, but kept his commandments, which the LORD commanded Moses.

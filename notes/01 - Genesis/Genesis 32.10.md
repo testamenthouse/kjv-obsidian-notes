@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 32:10
-
 I am not worthy of the least of all the mercies, and of all the truth, which thou hast showed unto thy servant; for with my staff I passed over this Jordan; and now I am become two bands.

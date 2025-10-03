@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 5:13
-
 Then he made him that remaineth have dominion over the nobles among the people: the LORD made me have dominion over the mighty.

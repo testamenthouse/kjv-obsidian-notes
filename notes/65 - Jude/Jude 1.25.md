@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jude"]
 ---
-
-# Jude 1:25
-
 To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 10:34
-
 And he shall cut down the thickets of the forest with iron, and Lebanon shall fall by a mighty one.

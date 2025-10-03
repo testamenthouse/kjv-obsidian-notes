@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 5:5
-
 Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.

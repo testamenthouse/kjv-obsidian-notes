@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 5:4
-
 For thus saith the LORD unto the house of Israel, Seek ye me, and ye shall live:

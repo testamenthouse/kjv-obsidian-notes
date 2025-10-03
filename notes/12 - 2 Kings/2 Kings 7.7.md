@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 7:7
-
 Wherefore they arose and fled in the twilight, and left their tents, and their horses, and their asses, even the camp as it was, and fled for their life.

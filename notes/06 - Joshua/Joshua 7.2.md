@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 7:2
-
 And Joshua sent men from Jericho to Ai, which is beside Bethaven, on the east of Bethel, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai.

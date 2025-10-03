@@ -13,7 +13,4 @@ grammar_tags: [conditional, genealogy-structure]
 thematic_tags: [son-of-man, jesus, time-units, time-feasts, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:2
-
 Ye know that after two days is the feast of the passover, and the Son of man is betrayed to be crucified.

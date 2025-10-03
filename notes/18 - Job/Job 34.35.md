@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:35
-
 Job hath spoken without knowledge, and his words were without wisdom.

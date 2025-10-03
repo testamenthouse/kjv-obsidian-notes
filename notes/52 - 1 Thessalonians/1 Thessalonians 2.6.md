@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 2:6
-
 Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ.

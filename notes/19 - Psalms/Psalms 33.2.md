@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 33:2
-
 Praise the LORD with harp: sing unto him with the psaltery and an instrument of ten strings.

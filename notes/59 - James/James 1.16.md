@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 1:16
-
 Do not err, my beloved brethren.

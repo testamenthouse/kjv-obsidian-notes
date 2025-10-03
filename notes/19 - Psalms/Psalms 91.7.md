@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 91:7
-
 A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.

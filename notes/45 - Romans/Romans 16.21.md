@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 16:21
-
 Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.

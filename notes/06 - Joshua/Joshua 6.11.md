@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 6:11
-
 So the ark of the LORD compassed the city, going about it once: and they came into the camp, and lodged in the camp.

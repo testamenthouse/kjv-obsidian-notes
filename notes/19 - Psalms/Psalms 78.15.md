@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:15
-
 He clave the rocks in the wilderness, and gave them drink as out of the great depths.

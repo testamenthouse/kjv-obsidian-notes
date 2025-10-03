@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 29:8
-
 Scornful men bring a city into a snare: but wise men turn away wrath.

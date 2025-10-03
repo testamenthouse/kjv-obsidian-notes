@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 33:22
-
 And it shall come to pass, while my glory passeth by, that I will put thee in a cleft of the rock, and will cover thee with my hand while I pass by:

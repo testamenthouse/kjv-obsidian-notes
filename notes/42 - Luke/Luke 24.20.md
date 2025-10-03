@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:20
-
 And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him.

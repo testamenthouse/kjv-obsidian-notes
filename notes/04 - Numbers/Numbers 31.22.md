@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 31:22
-
 Only the gold, and the silver, the brass, the iron, the tin, and the lead,

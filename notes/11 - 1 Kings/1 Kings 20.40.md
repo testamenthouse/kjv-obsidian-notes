@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:40
-
 And as thy servant was busy here and there, he was gone. And the king of Israel said unto him, So shall thy judgment be; thyself hast decided it.

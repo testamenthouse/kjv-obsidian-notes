@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 24:26
-
 Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not.

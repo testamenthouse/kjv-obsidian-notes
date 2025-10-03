@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 24:11
-
 If thou forbear to deliver them that are drawn unto death, and those that are ready to be slain;

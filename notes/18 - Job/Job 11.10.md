@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:10
-
 If he cut off, and shut up, or gather together, then who can hinder him?

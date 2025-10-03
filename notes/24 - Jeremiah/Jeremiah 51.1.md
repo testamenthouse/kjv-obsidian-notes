@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:1
-
 Thus saith the LORD; Behold, I will raise up against Babylon, and against them that dwell in the midst of them that rise up against me, a destroying wind;

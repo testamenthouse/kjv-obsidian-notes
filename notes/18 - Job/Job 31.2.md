@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:2
-
 For what portion of God is there from above? and what inheritance of the Almighty from on high?

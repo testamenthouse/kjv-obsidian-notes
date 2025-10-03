@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 42:18
-
 Hear, ye deaf; and look, ye blind, that ye may see.

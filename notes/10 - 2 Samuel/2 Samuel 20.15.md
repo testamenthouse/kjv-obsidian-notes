@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 20:15
-
 And they came and besieged him in Abel of Bethmaachah, and they cast up a bank against the city, and it stood in the trench: and all the people that were with Joab battered the wall, to throw it down.

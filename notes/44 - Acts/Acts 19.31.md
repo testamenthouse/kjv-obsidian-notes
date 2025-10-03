@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:31
-
 And certain of the chief of Asia, which were his friends, sent unto him, desiring him that he would not adventure himself into the theatre.

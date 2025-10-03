@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 7:23
-
 But this thing commanded I them, saying, Obey my voice, and I will be your God, and ye shall be my people: and walk ye in all the ways that I have commanded you, that it may be well unto you.

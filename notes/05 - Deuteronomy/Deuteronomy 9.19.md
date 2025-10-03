@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 9:19
-
 For I was afraid of the anger and hot displeasure, wherewith the LORD was wroth against you to destroy you. But the LORD hearkened unto me at that time also.

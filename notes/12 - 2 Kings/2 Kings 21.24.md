@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 21:24
-
 And the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 4:12
-
 No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.

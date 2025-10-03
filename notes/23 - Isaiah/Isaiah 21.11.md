@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 21:11
-
 The burden of Dumah. He calleth to me out of Seir, Watchman, what of the night? Watchman, what of the night?

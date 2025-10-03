@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 23:12
-
 And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:58
-
 We heard him say, I will destroy this temple that is made with hands, and within three days I will build another made without hands.

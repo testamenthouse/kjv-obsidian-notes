@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:27
-
 The heaven shall reveal his iniquity; and the earth shall rise up against him.

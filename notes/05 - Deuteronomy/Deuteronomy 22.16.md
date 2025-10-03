@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 22:16
-
 And the damsel's father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;

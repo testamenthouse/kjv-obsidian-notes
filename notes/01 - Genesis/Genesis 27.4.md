@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:4
-
 And make me savory meat, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die.

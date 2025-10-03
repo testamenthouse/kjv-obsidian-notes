@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 17:14
-
 I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 18:4
-
 And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot horses, but reserved of them an hundred chariots.

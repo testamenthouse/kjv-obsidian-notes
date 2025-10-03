@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-feasts, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 20:24
-
 So David hid himself in the field: and when the new moon was come, the king sat him down to eat meat.

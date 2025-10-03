@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 18:16
-
 Then he said, I did see all Israel scattered upon the mountains, as sheep that have no shepherd: and the LORD said, These have no master; let them return therefore every man to his house in peace.

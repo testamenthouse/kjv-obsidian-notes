@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 33:6
-
 Behold, I will bring it health and cure, and I will cure them, and will reveal unto them the abundance of peace and truth.

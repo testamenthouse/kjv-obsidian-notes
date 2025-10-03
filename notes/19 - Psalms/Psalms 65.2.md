@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 65:2
-
 O thou that hearest prayer, unto thee shall all flesh come.

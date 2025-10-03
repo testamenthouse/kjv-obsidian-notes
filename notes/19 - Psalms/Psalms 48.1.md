@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 48:1
-
 Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness.

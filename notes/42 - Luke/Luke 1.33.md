@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:33
-
 And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.

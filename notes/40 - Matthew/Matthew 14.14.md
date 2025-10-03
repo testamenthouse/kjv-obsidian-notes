@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 14:14
-
 And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick.

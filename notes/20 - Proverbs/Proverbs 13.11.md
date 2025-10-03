@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 13:11
-
 Wealth gotten by vanity shall be diminished: but he that gathereth by labour shall increase.

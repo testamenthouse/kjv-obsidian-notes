@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 16:28
-
 So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead.

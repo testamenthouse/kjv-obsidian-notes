@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 24:14
-
 After whom is the king of Israel come out? after whom dost thou pursue? after a dead dog, after a flea.

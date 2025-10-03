@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:14
-
 And of the sons of Heman; Jehiel, and Shimei: and of the sons of Jeduthun; Shemaiah, and Uzziel.

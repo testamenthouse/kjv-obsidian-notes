@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 5:35
-
 He was a burning and a shining light: and ye were willing for a season to rejoice in his light.

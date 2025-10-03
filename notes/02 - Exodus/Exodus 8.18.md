@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 8:18
-
 And the magicians did so with their enchantments to bring forth lice, but they could not: so there were lice upon man, and upon beast.

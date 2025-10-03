@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 35:26
-
 But if the slayer shall at any time come without the border of the city of his refuge, whither he was fled;

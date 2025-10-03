@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:27
-
 They reel to and fro, and stagger like a drunken man, and are at their wit's end.

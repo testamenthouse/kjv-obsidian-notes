@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 2:1
-
 Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 145:18
-
 The LORD is nigh unto all them that call upon him, to all that call upon him in truth.

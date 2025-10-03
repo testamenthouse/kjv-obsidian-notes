@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 5:9
-
 Lest thou give thine honour unto others, and thy years unto the cruel:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 12:8
-
 When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place.

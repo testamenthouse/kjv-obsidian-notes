@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 32:17
-
 And when Joshua heard the noise of the people as they shouted, he said unto Moses, There is a noise of war in the camp.

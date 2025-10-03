@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 26:5
-
 Answer a fool according to his folly, lest he be wise in his own conceit.

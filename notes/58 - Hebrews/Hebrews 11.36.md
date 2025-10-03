@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 11:36
-
 And others had trial of cruel mockings and scourgings, yea, moreover of bonds and imprisonment:

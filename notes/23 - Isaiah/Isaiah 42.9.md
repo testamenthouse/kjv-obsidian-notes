@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 42:9
-
 Behold, the former things are come to pass, and new things do I declare: before they spring forth I tell you of them.

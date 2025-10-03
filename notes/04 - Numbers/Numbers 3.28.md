@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:28
-
 In the number of all the males, from a month old and upward, were eight thousand and six hundred, keeping the charge of the sanctuary.

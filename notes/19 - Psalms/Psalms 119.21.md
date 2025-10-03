@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:21
-
 Thou hast rebuked the proud that are cursed, which do err from thy commandments.

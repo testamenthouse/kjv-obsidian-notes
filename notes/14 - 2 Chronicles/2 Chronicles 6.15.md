@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 6:15
-
 Thou which hast kept with thy servant David my father that which thou hast promised him; and spakest with thy mouth, and hast fulfilled it with thine hand, as it is this day.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:27
-
 Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.

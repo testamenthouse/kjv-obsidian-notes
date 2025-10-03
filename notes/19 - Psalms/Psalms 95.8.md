@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 95:8
-
 Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness:

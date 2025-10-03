@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 3:19
-
 Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)

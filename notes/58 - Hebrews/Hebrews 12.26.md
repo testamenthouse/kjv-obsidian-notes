@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 12:26
-
 Whose voice then shook the earth: but now he hath promised, saying, Yet once more I shake not the earth only, but also heaven.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 6:12
-
 He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that remaineth and is besieged shall die by the famine: thus will I accomplish my fury upon them.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 1:28
-
 And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.

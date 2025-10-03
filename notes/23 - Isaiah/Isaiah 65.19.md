@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 65:19
-
 And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying.

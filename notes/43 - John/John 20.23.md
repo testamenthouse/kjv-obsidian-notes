@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 20:23
-
 Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.

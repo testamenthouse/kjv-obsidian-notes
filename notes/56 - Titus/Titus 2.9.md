@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 2:9
-
 Exhort servants to be obedient unto their own masters, and to please them well in all things; not answering again;

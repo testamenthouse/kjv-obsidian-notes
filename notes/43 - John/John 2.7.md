@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 2:7
-
 Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.

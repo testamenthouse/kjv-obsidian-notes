@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 2:16
-
 So it came to pass, when all the men of war were consumed and dead from among the people,

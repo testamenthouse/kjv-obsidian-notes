@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:43
-
 And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.

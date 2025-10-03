@@ -13,7 +13,4 @@ grammar_tags: [conditional, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 3:8
-
 Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of one of the apothecaries, and they fortified Jerusalem unto the broad wall.

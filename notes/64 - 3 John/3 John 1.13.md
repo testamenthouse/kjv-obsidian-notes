@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","3-John"]
 ---
-
-# 3 John 1:13
-
 I had many things to write, but I will not with ink and pen write unto thee:

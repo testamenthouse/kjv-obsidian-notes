@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 32:20
-
 Which hast set signs and wonders in the land of Egypt, even unto this day, and in Israel, and among other men; and hast made thee a name, as at this day;

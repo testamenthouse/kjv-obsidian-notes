@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 4:5
-
 For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.

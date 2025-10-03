@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time-feasts, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 28:16
-
 And in the fourteenth day of the first month is the passover of the LORD.

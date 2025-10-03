@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 123:1
-
 Unto thee lift I up mine eyes, O thou that dwellest in the heavens.

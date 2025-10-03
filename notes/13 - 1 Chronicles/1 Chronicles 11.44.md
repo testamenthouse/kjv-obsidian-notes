@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 11:44
-
 Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,

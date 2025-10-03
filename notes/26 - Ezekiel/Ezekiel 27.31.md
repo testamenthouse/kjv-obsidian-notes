@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:31
-
 And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart and bitter wailing.

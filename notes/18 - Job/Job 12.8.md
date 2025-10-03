@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:8
-
 Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee.

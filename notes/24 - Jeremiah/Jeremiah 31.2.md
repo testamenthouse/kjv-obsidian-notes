@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:2
-
 Thus saith the LORD, The people which were left of the sword found grace in the wilderness; even Israel, when I went to cause him to rest.

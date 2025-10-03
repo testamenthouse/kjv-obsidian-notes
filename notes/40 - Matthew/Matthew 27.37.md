@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:37
-
 And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.

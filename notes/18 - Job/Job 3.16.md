@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:16
-
 Or as an hidden untimely birth I had not been; as infants which never saw light.

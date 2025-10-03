@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 14:3
-
 Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands.

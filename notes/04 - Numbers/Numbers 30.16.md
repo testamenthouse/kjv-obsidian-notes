@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 30:16
-
 These are the statutes, which the LORD commanded Moses, between a man and his wife, between the father and his daughter, being yet in her youth in her father's house.

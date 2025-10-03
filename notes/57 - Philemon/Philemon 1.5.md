@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Philemon"]
 ---
-
-# Philemon 1:5
-
 Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 5:19
-
 And the officers of the children of Israel did see that they were in evil case, after it was said, Ye shall not minish ought from your bricks of your daily task.

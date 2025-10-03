@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 30:9
-
 What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 1:5
-
 Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy.

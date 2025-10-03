@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 59:1
-
 Behold, the LORD's hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:

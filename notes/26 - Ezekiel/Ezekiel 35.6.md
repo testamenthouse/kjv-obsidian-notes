@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 35:6
-
 Therefore, as I live, saith the Lord GOD, I will prepare thee unto blood, and blood shall pursue thee: sith thou hast not hated blood, even blood shall pursue thee.

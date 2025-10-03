@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 21:4
-
 My heart panted, fearfulness affrighted me: the night of my pleasure hath he turned into fear unto me.

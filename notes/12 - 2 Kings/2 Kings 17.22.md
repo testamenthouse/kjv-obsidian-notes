@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 17:22
-
 For the children of Israel walked in all the sins of Jeroboam which he did; they departed not from them;

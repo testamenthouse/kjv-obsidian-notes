@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 19:27
-
 And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down at the door of the house, and her hands were upon the threshold.

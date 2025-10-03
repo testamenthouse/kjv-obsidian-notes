@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 1:13
-
 Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.

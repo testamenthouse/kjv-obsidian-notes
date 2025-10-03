@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 6:11
-
 I went down into the garden of nuts to see the fruits of the valley, and to see whether the vine flourished and the pomegranates budded.

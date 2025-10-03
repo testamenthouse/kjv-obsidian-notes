@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 2:10
-
 When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;

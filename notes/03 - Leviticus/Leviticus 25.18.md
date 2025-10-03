@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:18
-
 Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety.

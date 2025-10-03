@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional, genealogy-structure]
 thematic_tags: [adversary-epithet, adversary, time-units, time]
 tags: ["Bible","KJV","2-Thessalonians"]
 ---
-
-# 2 Thessalonians 2:3
-
 Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;

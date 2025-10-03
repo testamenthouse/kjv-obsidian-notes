@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:2
-
 Therefore do my thoughts cause me to answer, and for this I make haste.

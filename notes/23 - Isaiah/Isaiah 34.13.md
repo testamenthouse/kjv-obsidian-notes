@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 34:13
-
 And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an habitation of dragons, and a court for owls.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 48:9
-
 The oblation that ye shall offer unto the LORD shall be of five and twenty thousand in length, and of ten thousand in breadth.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 6:11
-
 Give us this day our daily bread.

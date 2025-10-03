@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 19:12
-
 Ye are my brethren, ye are my bones and my flesh: wherefore then are ye the last to bring back the king?

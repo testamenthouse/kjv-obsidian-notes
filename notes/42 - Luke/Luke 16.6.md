@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 16:6
-
 And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty.

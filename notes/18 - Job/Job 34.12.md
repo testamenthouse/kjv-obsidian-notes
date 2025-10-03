@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:12
-
 Yea, surely God will not do wickedly, neither will the Almighty pervert judgment.

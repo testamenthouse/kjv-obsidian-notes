@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 2:34
-
 And this shall be a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them.

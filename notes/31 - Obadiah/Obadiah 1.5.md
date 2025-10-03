@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Obadiah"]
 ---
-
-# Obadiah 1:5
-
 If thieves came to thee, if robbers by night, (how art thou cut off!) would they not have stolen till they had enough? if the grapegatherers came to thee, would they not leave some grapes?

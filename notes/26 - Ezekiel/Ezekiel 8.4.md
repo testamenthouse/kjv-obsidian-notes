@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 8:4
-
 And, behold, the glory of the God of Israel was there, according to the vision that I saw in the plain.

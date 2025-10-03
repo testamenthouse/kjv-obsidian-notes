@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 29:7
-
 When they took hold of thee by thy hand, thou didst break, and rend all their shoulder: and when they leaned upon thee, thou brakest, and madest all their loins to be at a stand.

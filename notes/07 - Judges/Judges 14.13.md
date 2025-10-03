@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 14:13
-
 But if ye cannot declare it me, then shall ye give me thirty sheets and thirty change of garments. And they said unto him, Put forth thy riddle, that we may hear it.

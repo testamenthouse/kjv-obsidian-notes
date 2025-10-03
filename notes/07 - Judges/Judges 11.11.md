@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 11:11
-
 Then Jephthah went with the elders of Gilead, and the people made him head and captain over them: and Jephthah uttered all his words before the LORD in Mizpeh.

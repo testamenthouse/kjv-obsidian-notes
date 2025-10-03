@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 8:16
-
 And he took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of Succoth.

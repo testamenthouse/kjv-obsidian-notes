@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 13:13
-
 And Joash slept with his fathers; and Jeroboam sat upon his throne: and Joash was buried in Samaria with the kings of Israel.

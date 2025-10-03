@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:12
-
 Behold, he taketh away, who can hinder him? who will say unto him, What doest thou?

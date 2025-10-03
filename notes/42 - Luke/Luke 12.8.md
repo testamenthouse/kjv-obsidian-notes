@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:8
-
 Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:

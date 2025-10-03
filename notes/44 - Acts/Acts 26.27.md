@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:27
-
 King Agrippa, believest thou the prophets? I know that thou believest.

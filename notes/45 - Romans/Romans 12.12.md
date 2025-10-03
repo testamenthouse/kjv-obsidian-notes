@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 12:12
-
 Rejoicing in hope; patient in tribulation; continuing instant in prayer;

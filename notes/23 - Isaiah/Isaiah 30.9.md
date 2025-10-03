@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 30:9
-
 That this is a rebellious people, lying children, children that will not hear the law of the LORD:

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 3:8
-
 But the tongue can no man tame; it is an unruly evil, full of deadly poison.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 16:6
-
 Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:7
-
 Art thou the first man that was born? or wast thou made before the hills?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 138:4
-
 All the kings of the earth shall praise thee, O LORD, when they hear the words of thy mouth.

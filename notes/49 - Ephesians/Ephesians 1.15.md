@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 1:15
-
 Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,

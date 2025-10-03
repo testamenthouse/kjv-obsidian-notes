@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:34
-
 By number and by weight of every one: and all the weight was written at that time.

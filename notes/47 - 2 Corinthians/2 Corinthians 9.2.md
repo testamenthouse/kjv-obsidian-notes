@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 9:2
-
 For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.

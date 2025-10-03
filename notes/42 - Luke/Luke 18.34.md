@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:34
-
 And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken.

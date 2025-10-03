@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 52:4
-
 For thus saith the Lord GOD, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause.

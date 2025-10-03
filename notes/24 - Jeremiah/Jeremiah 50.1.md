@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 50:1
-
 The word that the LORD spake against Babylon and against the land of the Chaldeans by Jeremiah the prophet.

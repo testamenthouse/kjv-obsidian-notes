@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 43:33
-
 And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marveled one at another.

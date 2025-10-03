@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 7:6
-
 For they have made ready their heart like an oven, whiles they lie in wait: their baker sleepeth all the night; in the morning it burneth as a flaming fire.

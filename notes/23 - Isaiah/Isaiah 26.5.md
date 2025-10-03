@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 26:5
-
 For he bringeth down them that dwell on high; the lofty city, he layeth it low; he layeth it low, even to the ground; he bringeth it even to the dust.

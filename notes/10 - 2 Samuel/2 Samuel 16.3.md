@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 16:3
-
 And the king said, And where is thy master's son? And Ziba said unto the king, Behold, he abideth at Jerusalem: for he said, To day shall the house of Israel restore me the kingdom of my father.

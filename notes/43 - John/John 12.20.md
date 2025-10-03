@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:20
-
 And there were certain Greeks among them that came up to worship at the feast:

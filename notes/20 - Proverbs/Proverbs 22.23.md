@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 22:23
-
 For the LORD will plead their cause, and spoil the soul of those that spoiled them.

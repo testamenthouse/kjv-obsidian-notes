@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 15:27
-
 The king said also unto Zadok the priest, Art not thou a seer? return into the city in peace, and your two sons with you, Ahimaaz thy son, and Jonathan the son of Abiathar.

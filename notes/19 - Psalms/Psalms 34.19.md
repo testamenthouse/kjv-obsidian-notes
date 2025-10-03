@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 34:19
-
 Many are the afflictions of the righteous: but the LORD delivereth him out of them all.

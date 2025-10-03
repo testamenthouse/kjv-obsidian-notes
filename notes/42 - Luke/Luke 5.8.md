@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 5:8
-
 When Simon Peter saw it, he fell down at Jesus' knees, saying, Depart from me; for I am a sinful man, O Lord.

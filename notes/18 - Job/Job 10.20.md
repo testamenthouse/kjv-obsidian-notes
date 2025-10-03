@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:20
-
 Are not my days few? cease then, and let me alone, that I may take comfort a little,

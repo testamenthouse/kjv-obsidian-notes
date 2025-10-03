@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 143:10
-
 Teach me to do thy will; for thou art my God: thy spirit is good; lead me into the land of uprightness.

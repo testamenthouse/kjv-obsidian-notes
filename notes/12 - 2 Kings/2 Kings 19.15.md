@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 19:15
-
 And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwellest between the cherubim, thou art the God, even thou alone, of all the kingdoms of the earth; thou hast made heaven and earth.

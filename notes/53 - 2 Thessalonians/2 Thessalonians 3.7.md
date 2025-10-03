@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Thessalonians"]
 ---
-
-# 2 Thessalonians 3:7
-
 For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:40
-
 And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein.

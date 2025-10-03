@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, one-another, jesus-title, jesus]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 3:13
-
 Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.

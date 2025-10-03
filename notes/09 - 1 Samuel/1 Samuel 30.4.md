@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 30:4
-
 Then David and the people that were with him lifted up their voice and wept, until they had no more power to weep.

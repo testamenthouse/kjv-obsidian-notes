@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 30:1
-
 And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the LORD hath commanded.

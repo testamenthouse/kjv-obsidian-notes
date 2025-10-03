@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:12
-
 Neither have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary food.

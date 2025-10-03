@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:44
-
 And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.

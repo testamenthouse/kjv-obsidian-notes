@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, adversary-metaphor, adversary, praise-worship]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:37
-
 And Babylon shall become heaps, a dwellingplace for dragons, an astonishment, and an hissing, without an inhabitant.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time-period, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:1
-
 And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.

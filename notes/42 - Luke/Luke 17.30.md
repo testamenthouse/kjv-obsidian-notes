@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [son-of-man, jesus, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:30
-
 Even thus shall it be in the day when the Son of man is revealed.

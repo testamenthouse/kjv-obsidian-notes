@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 28:11
-
 Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of the LORD is upon you.

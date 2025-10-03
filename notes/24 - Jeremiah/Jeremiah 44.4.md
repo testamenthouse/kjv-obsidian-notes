@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 44:4
-
 Howbeit I sent unto you all my servants the prophets, rising early and sending them, saying, Oh, do not this abominable thing that I hate.

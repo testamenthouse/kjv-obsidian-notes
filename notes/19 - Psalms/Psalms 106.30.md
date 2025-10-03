@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:30
-
 Then stood up Phinehas, and executed judgment: and so the plague was stayed.

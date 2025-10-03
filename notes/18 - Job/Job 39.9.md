@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:9
-
 Will the unicorn be willing to serve thee, or abide by thy crib?

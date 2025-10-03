@@ -13,7 +13,4 @@ grammar_tags: [contrast, cause-effect]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 8:9
-
 Joshua therefore sent them forth: and they went to lie in ambush, and abode between Bethel and Ai, on the west side of Ai: but Joshua lodged that night among the people.

@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 21:5
-
 But Jezebel his wife came to him, and said unto him, Why is thy spirit so sad, that thou eatest no bread?

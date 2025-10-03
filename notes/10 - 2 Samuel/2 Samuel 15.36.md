@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 15:36
-
 Behold, they have there with them their two sons, Ahimaaz Zadok's son, and Jonathan Abiathar's son; and by them ye shall send unto me every thing that ye can hear.

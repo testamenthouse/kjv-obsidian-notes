@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 5:8
-
 And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: and I will do all thy desire concerning timber of cedar, and concerning timber of fir.

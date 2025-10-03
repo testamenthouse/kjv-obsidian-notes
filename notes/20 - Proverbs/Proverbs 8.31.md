@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 8:31
-
 Rejoicing in the habitable part of his earth; and my delights were with the sons of men.

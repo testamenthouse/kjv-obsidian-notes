@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 49:32
-
 The purchase of the field and of the cave that is therein was from the children of Heth.

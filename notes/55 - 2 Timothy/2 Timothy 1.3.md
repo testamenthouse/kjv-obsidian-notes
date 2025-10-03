@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, thanksgiving, praise-worship, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 1:3
-
 I thank God, whom I serve from my forefathers with pure conscience, that without ceasing I have remembrance of thee in my prayers night and day;

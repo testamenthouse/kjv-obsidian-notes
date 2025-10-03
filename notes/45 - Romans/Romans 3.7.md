@@ -13,7 +13,4 @@ grammar_tags: [question, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 3:7
-
 For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner?

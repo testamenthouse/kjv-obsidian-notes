@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 131:1
-
 Lord, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 39:10
-
 But Nebuzaradan the captain of the guard left of the poor of the people, which had nothing, in the land of Judah, and gave them vineyards and fields at the same time.

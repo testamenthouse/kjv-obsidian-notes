@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:2
-
 Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.

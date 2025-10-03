@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 3:1
-
 And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he shall offer it without blemish before the LORD.

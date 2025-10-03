@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 23:17
-
 And the sons of Eliezer were, Rehabiah the chief. And Eliezer had none other sons; but the sons of Rehabiah were very many.

@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: [names-of-god, thanksgiving, praise-worship]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 13:15
-
 By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.

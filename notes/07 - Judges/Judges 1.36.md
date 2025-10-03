@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 1:36
-
 And the coast of the Amorites was from the going up to Akrabbim, from the rock, and upward.

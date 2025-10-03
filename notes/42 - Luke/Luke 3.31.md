@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 3:31
-
 Which was the son of Melea, which was the son of Menan, which was the son of Mattatha, which was the son of Nathan, which was the son of David,

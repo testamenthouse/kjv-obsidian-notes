@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 4:11
-
 And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease.

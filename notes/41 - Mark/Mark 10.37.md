@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:37
-
 They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory.

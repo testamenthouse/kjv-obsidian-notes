@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, jesus-title, jesus, praise-worship]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 1:16
-
 The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:

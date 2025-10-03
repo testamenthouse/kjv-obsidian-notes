@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 11:6
-
 Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.

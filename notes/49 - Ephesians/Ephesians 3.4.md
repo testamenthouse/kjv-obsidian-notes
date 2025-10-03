@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 3:4
-
 Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)

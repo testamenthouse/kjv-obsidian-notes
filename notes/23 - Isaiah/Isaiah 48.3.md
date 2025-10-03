@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 48:3
-
 I have declared the former things from the beginning; and they went forth out of my mouth, and I shewed them; I did them suddenly, and they came to pass.

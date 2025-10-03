@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:8
-
 Thus did your fathers, when I sent them from Kadeshbarnea to see the land.

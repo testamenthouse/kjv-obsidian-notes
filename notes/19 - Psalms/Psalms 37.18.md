@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:18
-
 The LORD knoweth the days of the upright: and their inheritance shall be for ever.

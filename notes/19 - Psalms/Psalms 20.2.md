@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 20:2
-
 Send thee help from the sanctuary, and strengthen thee out of Zion;

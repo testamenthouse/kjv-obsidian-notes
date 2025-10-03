@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 3:14
-
 And let our's also learn to maintain good works for necessary uses, that they be not unfruitful.

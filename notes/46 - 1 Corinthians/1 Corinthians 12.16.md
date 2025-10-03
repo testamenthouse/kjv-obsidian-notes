@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, conditional, cause-effect
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 12:16
-
 And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?

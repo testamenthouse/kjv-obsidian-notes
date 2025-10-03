@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 16:33
-
 And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway.

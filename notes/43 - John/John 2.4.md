@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 2:4
-
 Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.

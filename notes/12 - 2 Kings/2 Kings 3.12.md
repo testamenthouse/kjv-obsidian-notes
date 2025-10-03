@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 3:12
-
 And Jehoshaphat said, The word of the LORD is with him. So the king of Israel and Jehoshaphat and the king of Edom went down to him.

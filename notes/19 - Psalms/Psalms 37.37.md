@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:37
-
 Mark the perfect man, and behold the upright: for the end of that man is peace.

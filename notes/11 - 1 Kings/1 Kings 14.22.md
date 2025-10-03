@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 14:22
-
 And Judah did evil in the sight of the LORD, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.

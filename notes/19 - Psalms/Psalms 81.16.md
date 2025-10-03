@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 81:16
-
 He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.

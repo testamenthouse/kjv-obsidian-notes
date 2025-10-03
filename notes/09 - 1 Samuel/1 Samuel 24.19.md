@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 24:19
-
 For if a man find his enemy, will he let him go well away? wherefore the LORD reward thee good for that thou hast done unto me this day.

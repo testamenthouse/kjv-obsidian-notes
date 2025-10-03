@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jonah"]
 ---
-
-# Jonah 3:9
-
 Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:16
-
 Moreover he called for a famine upon the land: he brake the whole staff of bread.

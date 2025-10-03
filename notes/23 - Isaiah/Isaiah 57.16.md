@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 57:16
-
 For I will not contend for ever, neither will I be always wroth: for the spirit should fail before me, and the souls which I have made.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 21:14
-
 But I will punish you according to the fruit of your doings, saith the LORD: and I will kindle a fire in the forest thereof, and it shall devour all things round about it.

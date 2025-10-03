@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:46
-
 So the king commanded Benaiah the son of Jehoiada; which went out, and fell upon him, that he died. And the kingdom was established in the hand of Solomon.

@@ -13,7 +13,4 @@ grammar_tags: [conditional, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 4:15
-
 Ahimaaz was in Naphtali; he also took Basmath the daughter of Solomon to wife:

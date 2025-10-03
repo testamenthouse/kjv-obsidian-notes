@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:9
-
 They pluck the fatherless from the breast, and take a pledge of the poor.

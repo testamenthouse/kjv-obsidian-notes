@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 3:7
-
 Now Samuel did not yet know the LORD, neither was the word of the LORD yet revealed unto him.

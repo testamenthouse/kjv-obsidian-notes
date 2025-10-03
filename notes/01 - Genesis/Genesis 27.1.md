@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:1
-
 And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I.

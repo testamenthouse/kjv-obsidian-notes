@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 37:33
-
 And he knew it, and said, It is my son's coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces.

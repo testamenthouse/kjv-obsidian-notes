@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:3
-
 A voice of crying shall be from Horonaim, spoiling and great destruction.

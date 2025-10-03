@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:13
-
 Like as a father pitieth his children, so the LORD pitieth them that fear him.

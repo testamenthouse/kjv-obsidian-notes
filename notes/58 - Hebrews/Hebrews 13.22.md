@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 13:22
-
 And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words.

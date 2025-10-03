@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 8:11
-
 For the LORD spake thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:7
-
 And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;

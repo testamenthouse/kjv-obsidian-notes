@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 13:18
-
 When thou shalt hearken to the voice of the LORD thy God, to keep all his commandments which I command thee this day, to do that which is right in the eyes of the LORD thy God.

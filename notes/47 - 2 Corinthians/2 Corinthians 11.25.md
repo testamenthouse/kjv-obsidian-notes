@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 11:25
-
 Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;

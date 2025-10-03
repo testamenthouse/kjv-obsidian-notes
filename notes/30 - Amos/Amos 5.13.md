@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 5:13
-
 Therefore the prudent shall keep silence in that time; for it is an evil time.

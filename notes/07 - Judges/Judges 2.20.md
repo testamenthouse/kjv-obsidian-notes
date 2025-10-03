@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, negation]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 2:20
-
 And the anger of the LORD was hot against Israel; and he said, Because that this people hath transgressed my covenant which I commanded their fathers, and have not hearkened unto my voice;

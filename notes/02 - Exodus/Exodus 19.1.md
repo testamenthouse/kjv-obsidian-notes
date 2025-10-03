@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 19:1
-
 In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai.

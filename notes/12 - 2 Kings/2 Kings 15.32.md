@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 15:32
-
 In the second year of Pekah the son of Remaliah king of Israel began Jotham the son of Uzziah king of Judah to reign.

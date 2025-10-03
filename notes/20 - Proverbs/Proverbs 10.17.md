@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 10:17
-
 He is in the way of life that keepeth instruction: but he that refuseth reproof erreth.

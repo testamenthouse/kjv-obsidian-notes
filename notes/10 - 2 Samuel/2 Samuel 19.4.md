@@ -13,7 +13,4 @@ grammar_tags: [exclamation, contrast-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 19:4
-
 But the king covered his face, and the king cried with a loud voice, O my son Absalom, O Absalom, my son, my son!

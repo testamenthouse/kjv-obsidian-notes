@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 23:6
-
 And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab.

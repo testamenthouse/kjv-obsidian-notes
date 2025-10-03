@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 86:11
-
 Teach me thy way, O LORD; I will walk in thy truth: unite my heart to fear thy name.

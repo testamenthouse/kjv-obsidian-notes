@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 19:3
-
 And the people gat them by stealth that day into the city, as people being ashamed steal away when they flee in battle.

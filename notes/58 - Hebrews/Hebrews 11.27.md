@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 11:27
-
 By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.

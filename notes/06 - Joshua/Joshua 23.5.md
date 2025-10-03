@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 23:5
-
 And the LORD your God, he shall expel them from before you, and drive them from out of your sight; and ye shall possess their land, as the LORD your God hath promised unto you.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 38:9
-
 Lord, all my desire is before thee; and my groaning is not hid from thee.

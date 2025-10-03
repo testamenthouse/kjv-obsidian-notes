@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 42:33
-
 And the man, the lord of the country, said unto us, Hereby shall I know that ye are true men; leave one of your brethren here with me, and take food for the famine of your households, and be gone:

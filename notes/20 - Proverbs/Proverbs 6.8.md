@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 6:8
-
 Provideth her meat in the summer, and gathereth her food in the harvest.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 12:20
-
 And his servants arose, and made a conspiracy, and slew Joash in the house of Millo, which goeth down to Silla.

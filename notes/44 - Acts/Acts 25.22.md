@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:22
-
 Then Agrippa said unto Festus, I would also hear the man myself. To morrow, said he, thou shalt hear him.

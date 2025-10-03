@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 23:9
-
 Moreover Jehoiada the priest delivered to the captains of hundreds spears, and bucklers, and shields, that had been king David's, which were in the house of God.

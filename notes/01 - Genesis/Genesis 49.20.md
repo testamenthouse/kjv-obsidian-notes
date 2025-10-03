@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 49:20
-
 Out of Asher his bread shall be fat, and he shall yield royal dainties.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:31
-
 He spake, and there came divers sorts of flies, and lice in all their coasts.

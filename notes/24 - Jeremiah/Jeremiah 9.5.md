@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 9:5
-
 And they will deceive every one his neighbour, and will not speak the truth: they have taught their tongue to speak lies, and weary themselves to commit iniquity.

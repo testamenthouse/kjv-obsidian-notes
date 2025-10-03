@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 21:27
-
 And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant.

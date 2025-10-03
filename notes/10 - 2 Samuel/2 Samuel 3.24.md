@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:24
-
 Then Joab came to the king, and said, What hast thou done? behold, Abner came unto thee; why is it that thou hast sent him away, and he is quite gone?

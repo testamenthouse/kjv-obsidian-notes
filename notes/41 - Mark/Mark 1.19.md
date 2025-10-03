@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:19
-
 And when he had gone a little farther thence, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets.

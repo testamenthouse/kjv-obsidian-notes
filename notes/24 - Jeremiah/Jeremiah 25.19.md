@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 25:19
-
 Pharaoh king of Egypt, and his servants, and his princes, and all his people;

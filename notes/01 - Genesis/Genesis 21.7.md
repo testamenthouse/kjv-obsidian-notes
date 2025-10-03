@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 21:7
-
 And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born him a son in his old age.

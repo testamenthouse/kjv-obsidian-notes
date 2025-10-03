@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 17:9
-
 In that day shall his strong cities be as a forsaken bough, and an uppermost branch, which they left because of the children of Israel: and there shall be desolation.

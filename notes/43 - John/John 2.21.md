@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 2:21
-
 But he spake of the temple of his body.

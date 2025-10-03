@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 3:2
-
 And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:

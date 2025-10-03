@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:5
-
 And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, a city of Lycia.

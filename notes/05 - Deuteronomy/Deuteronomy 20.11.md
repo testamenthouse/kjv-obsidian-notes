@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 20:11
-
 And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, that all the people that is found therein shall be tributaries unto thee, and they shall serve thee.

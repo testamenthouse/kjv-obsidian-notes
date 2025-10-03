@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 38:11
-
 And for the north side the hangings were an hundred cubits, their pillars were twenty, and their sockets of brass twenty; the hooks of the pillars and their fillets of silver.

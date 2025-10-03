@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 41:15
-
 But Ishmael the son of Nethaniah escaped from Johanan with eight men, and went to the Ammonites.

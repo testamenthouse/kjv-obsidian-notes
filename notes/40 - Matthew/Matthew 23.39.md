@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, benediction, time-period, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 23:39
-
 For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.

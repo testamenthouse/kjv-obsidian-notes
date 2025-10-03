@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 24:5
-
 And thou shalt take fine flour, and bake twelve cakes thereof: two tenth deals shall be in one cake.

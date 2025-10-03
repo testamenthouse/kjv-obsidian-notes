@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 5:2
-
 Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.

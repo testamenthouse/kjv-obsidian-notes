@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 2:4
-
 Then the king said unto me, For what dost thou make request? So I prayed to the God of heaven.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 5:1
-
 Remember, O LORD, what is come upon us: consider, and behold our reproach.

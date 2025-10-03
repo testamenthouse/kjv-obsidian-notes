@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:51
-
 And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses.

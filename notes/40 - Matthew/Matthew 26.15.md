@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:15
-
 And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.

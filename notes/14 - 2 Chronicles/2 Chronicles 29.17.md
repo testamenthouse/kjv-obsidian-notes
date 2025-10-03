@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:17
-
 Now they began on the first day of the first month to sanctify, and on the eighth day of the month came they to the porch of the LORD: so they sanctified the house of the LORD in eight days; and in the sixteenth day of the first month they made an end.

@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 5:11
-
 Woe unto them that rise up early in the morning, that they may follow strong drink; that continue until night, till wine inflame them!

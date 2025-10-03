@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 40:14
-
 He made also posts of threescore cubits, even unto the post of the court round about the gate.

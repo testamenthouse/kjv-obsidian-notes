@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 2:14
-
 Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment.

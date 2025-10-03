@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 1:10
-
 The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.

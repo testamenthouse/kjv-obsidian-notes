@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 27:17
-
 Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.

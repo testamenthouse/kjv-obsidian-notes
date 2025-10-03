@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:12
-
 Why did the knees prevent me? or why the breasts that I should suck?

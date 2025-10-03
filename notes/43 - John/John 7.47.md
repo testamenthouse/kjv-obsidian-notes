@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:47
-
 Then answered them the Pharisees, Are ye also deceived?

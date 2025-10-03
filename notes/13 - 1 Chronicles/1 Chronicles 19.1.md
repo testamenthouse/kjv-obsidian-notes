@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 19:1
-
 Now it came to pass after this, that Nahash the king of the children of Ammon died, and his son reigned in his stead.

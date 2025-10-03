@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jude"]
 ---
-
-# Jude 1:20
-
 But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,

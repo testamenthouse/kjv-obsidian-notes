@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 3:4
-
 Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go: for ye have not passed this way heretofore.

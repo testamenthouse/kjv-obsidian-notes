@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 21:38
-
 And out of the tribe of Gad, Ramoth in Gilead with her suburbs, to be a city of refuge for the slayer; and Mahanaim with her suburbs,

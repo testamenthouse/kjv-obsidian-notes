@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 8:17
-
 For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you.

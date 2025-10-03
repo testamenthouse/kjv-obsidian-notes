@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:27
-
 Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home.

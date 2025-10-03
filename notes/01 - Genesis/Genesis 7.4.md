@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 7:4
-
 For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth.

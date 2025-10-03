@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 41:13
-
 Now it came to pass, that when all the people which were with Ishmael saw Johanan the son of Kareah, and all the captains of the forces that were with him, then they were glad.

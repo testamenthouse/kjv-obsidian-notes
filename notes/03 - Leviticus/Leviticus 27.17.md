@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 27:17
-
 If he sanctify his field from the year of jubilee, according to thy estimation it shall stand.

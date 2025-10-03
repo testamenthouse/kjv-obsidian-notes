@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 4:15
-
 Then a spirit passed before my face; the hair of my flesh stood up:

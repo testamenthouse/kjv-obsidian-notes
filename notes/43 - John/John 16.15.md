@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:15
-
 All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto you.

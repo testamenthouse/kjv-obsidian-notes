@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:3
-
 Who had his dwelling among the tombs; and no man could bind him, no, not with chains:

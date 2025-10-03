@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 16:5
-
 Every one that is proud in heart is an abomination to the LORD: though hand join in hand, he shall not be unpunished.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:49
-
 For he that is mighty hath done to me great things; and holy is his name.

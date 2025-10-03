@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:15
-
 He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heaven by his understanding.

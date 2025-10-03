@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 36:42
-
 Duke Kenaz, duke Teman, duke Mibzar,

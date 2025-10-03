@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:20
-
 And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because the LORD thy God brought it to me.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:33
-
 As I live, saith the Lord GOD, surely with a mighty hand, and with a stretched out arm, and with fury poured out, will I rule over you:

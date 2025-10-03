@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 27:9
-
 And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish.

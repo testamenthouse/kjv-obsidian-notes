@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 26:1
-
 In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word from the LORD, saying,

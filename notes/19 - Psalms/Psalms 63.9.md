@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 63:9
-
 But those that seek my soul, to destroy it, shall go into the lower parts of the earth.

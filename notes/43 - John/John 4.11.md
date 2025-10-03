@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:11
-
 The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?

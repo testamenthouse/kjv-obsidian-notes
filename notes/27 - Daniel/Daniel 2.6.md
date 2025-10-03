@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 2:6
-
 But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 6:22
-
 And when Gideon perceived that he was an angel of the LORD, Gideon said, Alas, O LORD God! for because I have seen an angel of the LORD face to face.

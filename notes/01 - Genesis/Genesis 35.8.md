@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 35:8
-
 But Deborah Rebekah's nurse died, and she was buried beneath Bethel under an oak: and the name of it was called Allonbachuth.

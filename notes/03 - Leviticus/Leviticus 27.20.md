@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 27:20
-
 And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more.

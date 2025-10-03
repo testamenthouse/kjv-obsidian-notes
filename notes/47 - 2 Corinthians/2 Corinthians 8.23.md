@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 8:23
-
 Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ.

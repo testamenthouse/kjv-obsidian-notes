@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 45:16
-
 And the fame thereof was heard in Pharaoh's house, saying, Joseph's brethren are come: and it pleased Pharaoh well, and his servants.

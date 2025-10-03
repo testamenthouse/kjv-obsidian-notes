@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:25
-
 And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors.

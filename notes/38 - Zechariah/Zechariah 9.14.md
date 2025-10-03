@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 9:14
-
 And the LORD shall be seen over them, and his arrow shall go forth as the lightning: and the LORD God shall blow the trumpet, and shall go with whirlwinds of the south.

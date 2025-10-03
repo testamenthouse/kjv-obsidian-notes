@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:18
-
 Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:

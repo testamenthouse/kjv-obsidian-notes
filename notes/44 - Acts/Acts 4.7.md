@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:7
-
 And when they had set them in the midst, they asked, By what power, or by what name, have ye done this?

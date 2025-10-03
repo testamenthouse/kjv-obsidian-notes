@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 8:5
-
 And said unto him, Behold, thou art old, and thy sons walk not in thy ways: now make us a king to judge us like all the nations.

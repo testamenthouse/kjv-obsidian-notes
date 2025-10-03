@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title, thanksgiving]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 1:4
-
 I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;

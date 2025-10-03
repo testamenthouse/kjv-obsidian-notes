@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 14:4
-
 Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon the LORD.

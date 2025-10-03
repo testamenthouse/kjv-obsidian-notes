@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 55:2
-
 Attend unto me, and hear me: I mourn in my complaint, and make a noise;

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 23:35
-
 Thus shall ye say every one to his neighbour, and every one to his brother, What hath the LORD answered? and, What hath the LORD spoken?

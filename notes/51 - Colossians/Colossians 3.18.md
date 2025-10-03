@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 3:18
-
 Wives, submit yourselves unto your own husbands, as it is fit in the Lord.

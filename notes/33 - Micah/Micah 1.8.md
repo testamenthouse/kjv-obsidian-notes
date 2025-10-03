@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [adversary-metaphor, adversary, lament]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 1:8
-
 Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls.

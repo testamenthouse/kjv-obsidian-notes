@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 91:2
-
 I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.

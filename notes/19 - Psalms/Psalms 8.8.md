@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 8:8
-
 The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.

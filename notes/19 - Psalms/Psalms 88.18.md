@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 88:18
-
 Lover and friend hast thou put far from me, and mine acquaintance into darkness.

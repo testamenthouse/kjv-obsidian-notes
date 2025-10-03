@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 25:35
-
 So David received of her hand that which she had brought him, and said unto her, Go up in peace to thine house; see, I have hearkened to thy voice, and have accepted thy person.

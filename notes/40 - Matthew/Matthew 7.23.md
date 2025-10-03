@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 7:23
-
 And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.

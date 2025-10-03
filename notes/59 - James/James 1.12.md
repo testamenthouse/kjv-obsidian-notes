@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare, benediction]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 1:12
-
 Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.

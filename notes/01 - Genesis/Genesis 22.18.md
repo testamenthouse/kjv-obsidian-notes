@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 22:18
-
 And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.

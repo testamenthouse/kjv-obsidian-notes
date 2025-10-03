@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 3:9
-
 Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.

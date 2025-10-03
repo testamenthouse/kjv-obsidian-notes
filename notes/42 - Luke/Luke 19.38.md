@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:38
-
 Saying, Blessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.

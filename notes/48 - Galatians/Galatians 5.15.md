@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:15
-
 But if ye bite and devour one another, take heed that ye be not consumed one of another.

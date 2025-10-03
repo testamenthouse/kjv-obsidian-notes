@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 46:24
-
 Then said he unto me, These are the places of them that boil, where the ministers of the house shall boil the sacrifice of the people.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:27
-
 For was not Israel a derision unto thee? was he found among thieves? for since thou spakest of him, thou skippedst for joy.

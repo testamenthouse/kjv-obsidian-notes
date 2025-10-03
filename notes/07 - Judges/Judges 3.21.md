@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 3:21
-
 And Ehud put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly:

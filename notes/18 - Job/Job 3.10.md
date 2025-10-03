@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:10
-
 Because it shut not up the doors of my mother's womb, nor hid sorrow from mine eyes.

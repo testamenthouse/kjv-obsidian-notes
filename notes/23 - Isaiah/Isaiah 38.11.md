@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 38:11
-
 I said, I shall not see the LORD, even the LORD, in the land of the living: I shall behold man no more with the inhabitants of the world.

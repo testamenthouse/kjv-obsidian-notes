@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 4:6
-
 Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,

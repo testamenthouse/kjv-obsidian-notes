@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:17
-
 There the wicked cease from troubling; and there the weary be at rest.

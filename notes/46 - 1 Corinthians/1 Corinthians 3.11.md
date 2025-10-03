@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 3:11
-
 For other foundation can no man lay than that is laid, which is Jesus Christ.

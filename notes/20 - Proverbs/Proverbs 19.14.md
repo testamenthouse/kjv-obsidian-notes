@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 19:14
-
 House and riches are the inheritance of fathers: and a prudent wife is from the LORD.

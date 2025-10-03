@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 8:5
-
 O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.

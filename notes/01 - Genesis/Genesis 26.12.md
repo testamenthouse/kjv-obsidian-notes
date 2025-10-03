@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 26:12
-
 Then Isaac sowed in that land, and received in the same year an hundredfold: and the LORD blessed him.

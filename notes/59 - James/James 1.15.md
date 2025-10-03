@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 1:15
-
 Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.

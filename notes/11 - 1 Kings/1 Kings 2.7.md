@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:7
-
 But show kindness unto the sons of Barzillai the Gileadite, and let them be of those that eat at thy table: for so they came to me when I fled because of Absalom thy brother.

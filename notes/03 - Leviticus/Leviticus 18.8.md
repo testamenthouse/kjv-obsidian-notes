@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 18:8
-
 The nakedness of thy father's wife shalt thou not uncover: it is thy father's nakedness.

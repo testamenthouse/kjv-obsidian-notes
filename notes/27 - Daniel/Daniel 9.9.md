@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 9:9
-
 To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;

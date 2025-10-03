@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 39:12
-
 Hear my prayer, O LORD, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were.

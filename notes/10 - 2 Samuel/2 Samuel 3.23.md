@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:23
-
 When Joab and all the host that was with him were come, they told Joab, saying, Abner the son of Ner came to the king, and he hath sent him away, and he is gone in peace.

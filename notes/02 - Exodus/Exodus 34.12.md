@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 34:12
-
 Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:

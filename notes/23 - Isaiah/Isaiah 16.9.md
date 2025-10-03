@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, lament, time-seasons, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 16:9
-
 Therefore I will bewail with the weeping of Jazer the vine of Sibmah: I will water thee with my tears, O Heshbon, and Elealeh: for the shouting for thy summer fruits and for thy harvest is fallen.

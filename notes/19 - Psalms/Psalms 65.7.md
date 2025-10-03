@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 65:7
-
 Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.

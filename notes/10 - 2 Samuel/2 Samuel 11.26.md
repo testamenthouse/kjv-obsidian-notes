@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [lament]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 11:26
-
 And when the wife of Uriah heard that Uriah her husband was dead, she mourned for her husband.

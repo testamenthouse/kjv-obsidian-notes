@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 2:10
-
 Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty.

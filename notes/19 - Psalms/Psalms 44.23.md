@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 44:23
-
 Awake, why sleepest thou, O Lord? arise, cast us not off for ever.

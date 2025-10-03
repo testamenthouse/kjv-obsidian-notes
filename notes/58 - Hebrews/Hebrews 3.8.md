@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 3:8
-
 Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:

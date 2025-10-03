@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 84:6
-
 Who passing through the valley of Baca make it a well; the rain also filleth the pools.

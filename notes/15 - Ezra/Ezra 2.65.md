@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:65
-
 Beside their servants and their maids, of whom there were seven thousand three hundred thirty and seven: and there were among them two hundred singing men and singing women.

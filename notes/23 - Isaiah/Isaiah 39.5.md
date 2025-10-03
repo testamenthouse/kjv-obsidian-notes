@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 39:5
-
 Then said Isaiah to Hezekiah, Hear the word of the LORD of hosts:

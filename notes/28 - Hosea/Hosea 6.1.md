@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 6:1
-
 Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.

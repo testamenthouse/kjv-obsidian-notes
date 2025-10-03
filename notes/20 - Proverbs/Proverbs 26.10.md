@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 26:10
-
 The great God that formed all things both rewardeth the fool, and rewardeth transgressors.

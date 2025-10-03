@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:30
-
 I will greatly praise the LORD with my mouth; yea, I will praise him among the multitude.

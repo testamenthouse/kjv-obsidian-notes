@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 18:13
-
 Therefore thus saith the LORD; Ask ye now among the heathen, who hath heard such things: the virgin of Israel hath done a very horrible thing.

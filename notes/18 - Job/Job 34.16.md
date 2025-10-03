@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:16
-
 If now thou hast understanding, hear this: hearken to the voice of my words.

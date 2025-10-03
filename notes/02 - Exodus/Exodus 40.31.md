@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 40:31
-
 And Moses and Aaron and his sons washed their hands and their feet thereat:

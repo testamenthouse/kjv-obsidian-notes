@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 21:21
-
 Peter seeing him saith to Jesus, Lord, and what shall this man do?

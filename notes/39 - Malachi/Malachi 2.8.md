@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast-opener]
 thematic_tags: [names-of-god, warfare, covenant]
 tags: ["Bible","KJV","Malachi"]
 ---
-
-# Malachi 2:8
-
 But ye are departed out of the way; ye have caused many to stumble at the law; ye have corrupted the covenant of Levi, saith the LORD of hosts.

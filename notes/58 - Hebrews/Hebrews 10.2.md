@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 10:2
-
 For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.

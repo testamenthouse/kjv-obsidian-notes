@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 15:8
-
 And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword.

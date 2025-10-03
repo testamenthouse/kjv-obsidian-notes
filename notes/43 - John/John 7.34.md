@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:34
-
 Ye shall seek me, and shall not find me: and where I am, thither ye cannot come.

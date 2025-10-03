@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:6
-
 The light shall be dark in his tabernacle, and his candle shall be put out with him.

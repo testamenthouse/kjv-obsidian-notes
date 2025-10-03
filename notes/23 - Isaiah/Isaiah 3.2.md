@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 3:2
-
 The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,

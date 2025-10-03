@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:55
-
 And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was.

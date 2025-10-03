@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 7:15
-
 But my mercy shall not depart away from him, as I took it from Saul, whom I put away before thee.

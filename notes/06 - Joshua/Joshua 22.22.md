@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 22:22
-
 The LORD God of gods, the LORD God of gods, he knoweth, and Israel he shall know; if it be in rebellion, or if in transgression against the LORD, (save us not this day,)

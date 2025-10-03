@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 47:1
-
 The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.

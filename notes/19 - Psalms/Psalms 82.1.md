@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 82:1
-
 God standeth in the congregation of the mighty; he judgeth among the gods.

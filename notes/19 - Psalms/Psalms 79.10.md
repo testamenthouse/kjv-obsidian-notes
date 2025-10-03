@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 79:10
-
 Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the revenging of the blood of thy servants which is shed.

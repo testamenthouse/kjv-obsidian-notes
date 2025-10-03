@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 115:12
-
 The LORD hath been mindful of us: he will bless us; he will bless the house of Israel; he will bless the house of Aaron.

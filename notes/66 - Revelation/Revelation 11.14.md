@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 11:14
-
 The second woe is past; and, behold, the third woe cometh quickly.

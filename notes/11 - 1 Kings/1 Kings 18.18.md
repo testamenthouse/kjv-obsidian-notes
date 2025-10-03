@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:18
-
 And he answered, I have not troubled Israel; but thou, and thy father's house, in that ye have forsaken the commandments of the LORD, and thou hast followed Baalim.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 3:25
-
 But he that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons.

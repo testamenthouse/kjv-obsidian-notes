@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:5
-
 Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.

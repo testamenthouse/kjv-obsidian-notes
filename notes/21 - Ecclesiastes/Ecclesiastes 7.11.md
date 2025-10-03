@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 7:11
-
 Wisdom is good with an inheritance: and by it there is profit to them that see the sun.

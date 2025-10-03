@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 5:6
-
 I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.

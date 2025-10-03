@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, jesus-title, jesus, son-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 9:20
-
 And straightway he preached Christ in the synagogues, that he is the Son of God.

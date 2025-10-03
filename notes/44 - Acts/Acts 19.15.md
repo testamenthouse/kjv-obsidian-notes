@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, contrast]
 thematic_tags: [jesus, jesus-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:15
-
 And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?

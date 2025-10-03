@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 31:28
-
 Her children arise up, and call her blessed; her husband also, and he praiseth her.

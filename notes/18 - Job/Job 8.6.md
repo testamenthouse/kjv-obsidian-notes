@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:6
-
 If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous.

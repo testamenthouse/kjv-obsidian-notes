@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 90:15
-
 Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.

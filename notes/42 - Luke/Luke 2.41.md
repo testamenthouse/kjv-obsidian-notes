@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 2:41
-
 Now his parents went to Jerusalem every year at the feast of the passover.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 13:1
-
 Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah.

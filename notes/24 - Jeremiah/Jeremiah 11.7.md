@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 11:7
-
 For I earnestly protested unto your fathers in the day that I brought them up out of the land of Egypt, even unto this day, rising early and protesting, saying, Obey my voice.

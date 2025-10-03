@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 6:29
-
 That the LORD spake unto Moses, saying, I am the LORD: speak thou unto Pharaoh king of Egypt all that I say unto thee.

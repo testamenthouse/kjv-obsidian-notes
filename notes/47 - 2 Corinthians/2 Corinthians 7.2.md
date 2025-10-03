@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 7:2
-
 Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 7:21
-
 And they stood every man in his place round about the camp; and all the host ran, and cried, and fled.

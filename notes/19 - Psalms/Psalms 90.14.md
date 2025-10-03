@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 90:14
-
 O satisfy us early with thy mercy; that we may rejoice and be glad all our days.

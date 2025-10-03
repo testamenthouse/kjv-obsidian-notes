@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 2:4
-
 And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life.

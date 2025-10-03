@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 118:19
-
 Open to me the gates of righteousness: I will go into them, and I will praise the LORD:

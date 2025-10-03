@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:41
-
 And he said unto them, How say they that Christ is David's son?

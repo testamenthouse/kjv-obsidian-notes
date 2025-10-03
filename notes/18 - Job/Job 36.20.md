@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:20
-
 Desire not the night, when people are cut off in their place.

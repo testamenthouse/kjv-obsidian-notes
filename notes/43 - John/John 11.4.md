@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional, genealogy-structure]
 thematic_tags: [names-of-god, jesus, jesus-title, son-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:4
-
 When Jesus heard that, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.

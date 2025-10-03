@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 11:12
-
 And he brought forth the king's son, and put the crown upon him, and gave him the testimony; and they made him king, and anointed him; and they clapped their hands, and said, God save the king.

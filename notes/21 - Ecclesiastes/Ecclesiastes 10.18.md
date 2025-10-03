@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 10:18
-
 By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.

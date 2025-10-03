@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 23:12
-
 But he stood in the midst of the ground, and defended it, and slew the Philistines: and the LORD wrought a great victory.

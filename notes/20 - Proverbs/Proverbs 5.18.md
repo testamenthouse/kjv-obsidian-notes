@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 5:18
-
 Let thy fountain be blessed: and rejoice with the wife of thy youth.

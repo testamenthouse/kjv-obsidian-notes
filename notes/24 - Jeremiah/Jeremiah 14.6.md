@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 14:6
-
 And the wild asses did stand in the high places, they snuffed up the wind like dragons; their eyes did fail, because there was no grass.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:14
-
 For he performeth the thing that is appointed for me: and many such things are with him.

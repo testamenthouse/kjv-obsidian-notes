@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:37
-
 Thus saith the LORD; If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel for all that they have done, saith the LORD.

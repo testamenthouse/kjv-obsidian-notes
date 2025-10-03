@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 42:13
-
 And they said, Thy servants are twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest is this day with our father, and one is not.

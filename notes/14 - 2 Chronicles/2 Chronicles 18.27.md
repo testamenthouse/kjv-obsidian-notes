@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 18:27
-
 And Micaiah said, If thou certainly return in peace, then hath not the LORD spoken by me. And he said, Hearken, all ye people.

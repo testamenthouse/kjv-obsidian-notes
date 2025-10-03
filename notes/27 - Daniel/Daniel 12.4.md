@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 12:4
-
 But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased.

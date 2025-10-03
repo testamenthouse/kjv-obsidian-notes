@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 31:18
-
 And I will surely hide my face in that day for all the evils which they shall have wrought, in that they are turned unto other gods.

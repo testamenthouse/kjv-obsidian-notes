@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, praise-worship, time-units, time-feasts, time]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 14:16
-
 And it shall come to pass, that every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the LORD of hosts, and to keep the feast of tabernacles.

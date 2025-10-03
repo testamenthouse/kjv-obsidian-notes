@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:117
-
 Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually.

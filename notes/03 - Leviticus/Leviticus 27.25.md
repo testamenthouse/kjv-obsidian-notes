@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 27:25
-
 And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel.

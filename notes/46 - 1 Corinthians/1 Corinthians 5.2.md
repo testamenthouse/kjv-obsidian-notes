@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 5:2
-
 And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you.

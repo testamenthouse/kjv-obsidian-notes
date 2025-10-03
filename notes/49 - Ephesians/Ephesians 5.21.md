@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:21
-
 Submitting yourselves one to another in the fear of God.

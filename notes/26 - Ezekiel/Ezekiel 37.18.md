@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 37:18
-
 And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?

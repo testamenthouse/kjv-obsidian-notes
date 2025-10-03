@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 2:25
-
 And he said unto them, Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him?

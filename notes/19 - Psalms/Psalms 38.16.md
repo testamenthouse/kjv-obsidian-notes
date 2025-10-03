@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 38:16
-
 For I said, Hear me, lest otherwise they should rejoice over me: when my foot slippeth, they magnify themselves against me.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:10
-
 And confirmed the same unto Jacob for a law, and to Israel for an everlasting covenant:

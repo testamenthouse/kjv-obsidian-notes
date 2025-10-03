@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:13
-
 Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.

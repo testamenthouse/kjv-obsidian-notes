@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 32:18
-
 Thou shewest lovingkindness unto thousands, and recompensest the iniquity of the fathers into the bosom of their children after them: the Great, the Mighty God, the LORD of hosts, is his name,

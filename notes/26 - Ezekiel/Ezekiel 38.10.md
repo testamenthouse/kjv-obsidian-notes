@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 38:10
-
 Thus saith the Lord GOD; It shall also come to pass, that at the same time shall things come into thy mind, and thou shalt think an evil thought:

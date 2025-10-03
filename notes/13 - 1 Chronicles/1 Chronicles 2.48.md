@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 2:48
-
 Maachah, Caleb's concubine, bare Sheber, and Tirhanah.

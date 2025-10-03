@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 23:21
-
 The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish.

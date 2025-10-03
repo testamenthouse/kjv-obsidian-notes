@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 30:15
-
 The horseleach hath two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:

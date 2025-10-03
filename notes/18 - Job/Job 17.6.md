@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:6
-
 He hath made me also a byword of the people; and aforetime I was as a tabret.

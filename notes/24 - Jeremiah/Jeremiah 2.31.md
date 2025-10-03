@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 2:31
-
 O generation, see ye the word of the LORD. Have I been a wilderness unto Israel? a land of darkness? wherefore say my people, We are lords; we will come no more unto thee?

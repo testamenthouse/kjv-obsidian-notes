@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 23:29
-
 Heleb the son of Baanah, a Netophathite, Ittai the son of Ribai out of Gibeah of the children of Benjamin,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 34:2
-
 And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,

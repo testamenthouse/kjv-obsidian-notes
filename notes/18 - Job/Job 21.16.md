@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:16
-
 Lo, their good is not in their hand: the counsel of the wicked is far from me.

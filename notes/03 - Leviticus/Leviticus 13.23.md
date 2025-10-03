@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 13:23
-
 But if the bright spot stay in his place, and spread not, it is a burning boil; and the priest shall pronounce him clean.

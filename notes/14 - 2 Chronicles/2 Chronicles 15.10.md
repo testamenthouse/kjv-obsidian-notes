@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 15:10
-
 So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of the reign of Asa.

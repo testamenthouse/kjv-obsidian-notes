@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 139:10
-
 Even there shall thy hand lead me, and thy right hand shall hold me.

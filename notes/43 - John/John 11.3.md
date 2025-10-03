@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:3
-
 Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.

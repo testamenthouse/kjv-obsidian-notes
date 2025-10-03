@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:16
-
 Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart.

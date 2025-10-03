@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 62:12
-
 Also unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work.

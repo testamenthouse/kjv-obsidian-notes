@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:18
-
 Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbor as thyself: I am the LORD.

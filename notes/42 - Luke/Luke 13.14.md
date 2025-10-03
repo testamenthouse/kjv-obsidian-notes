@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, cause-effect]
 thematic_tags: [jesus, jesus-title, time-units, time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:14
-
 And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:5
-
 Wilt thou play with him as with a bird? or wilt thou bind him for thy maidens?

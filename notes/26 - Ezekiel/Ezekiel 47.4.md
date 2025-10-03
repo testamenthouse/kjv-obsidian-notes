@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 47:4
-
 Again he measured a thousand, and brought me through the waters; the waters were to the knees. Again he measured a thousand, and brought me through; the waters were to the loins.

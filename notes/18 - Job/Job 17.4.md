@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:4
-
 For thou hast hid their heart from understanding: therefore shalt thou not exalt them.

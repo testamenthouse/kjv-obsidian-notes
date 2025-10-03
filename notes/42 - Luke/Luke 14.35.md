@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:35
-
 It is neither fit for the land, nor yet for the dunghill; but men cast it out. He that hath ears to hear, let him hear.

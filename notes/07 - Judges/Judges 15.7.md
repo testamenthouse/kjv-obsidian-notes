@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 15:7
-
 And Samson said unto them, Though ye have done this, yet will I be avenged of you, and after that I will cease.

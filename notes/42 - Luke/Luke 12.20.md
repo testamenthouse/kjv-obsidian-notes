@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:20
-
 But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?

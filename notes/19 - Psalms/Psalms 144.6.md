@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 144:6
-
 Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them.

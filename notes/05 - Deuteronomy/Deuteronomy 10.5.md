@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 10:5
-
 And I turned myself and came down from the mount, and put the tables in the ark which I had made; and there they be, as the LORD commanded me.

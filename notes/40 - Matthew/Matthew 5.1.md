@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 5:1
-
 And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:

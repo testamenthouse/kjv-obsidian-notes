@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 18:27
-
 And this your heave offering shall be reckoned unto you, as though it were the corn of the threshingfloor, and as the fulness of the winepress.

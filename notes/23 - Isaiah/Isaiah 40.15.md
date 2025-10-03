@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 40:15
-
 Behold, the nations are as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing.

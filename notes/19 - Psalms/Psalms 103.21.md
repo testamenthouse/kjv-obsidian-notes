@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:21
-
 Bless ye the LORD, all ye his hosts; ye ministers of his, that do his pleasure.

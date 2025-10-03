@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 147:8
-
 Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.

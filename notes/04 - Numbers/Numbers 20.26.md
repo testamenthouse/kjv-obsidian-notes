@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 20:26
-
 And strip Aaron of his garments, and put them upon Eleazar his son: and Aaron shall be gathered unto his people, and shall die there.

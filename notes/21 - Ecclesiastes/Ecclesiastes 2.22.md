@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 2:22
-
 For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?

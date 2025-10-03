@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 10:11
-
 For the scripture saith, Whosoever believeth on him shall not be ashamed.

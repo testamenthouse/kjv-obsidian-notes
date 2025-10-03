@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 2:15
-
 So hast thou also them that hold the doctrine of the Nicolaitanes, which thing I hate.

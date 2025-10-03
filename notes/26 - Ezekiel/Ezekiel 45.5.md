@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 45:5
-
 And the five and twenty thousand of length, and the ten thousand of breadth shall also the Levites, the ministers of the house, have for themselves, for a possession for twenty chambers.

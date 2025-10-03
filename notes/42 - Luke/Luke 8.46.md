@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:46
-
 And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me.

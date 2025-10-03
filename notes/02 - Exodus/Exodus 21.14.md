@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 21:14
-
 But if a man come presumptuously upon his neighbor, to slay him with guile; thou shalt take him from mine altar, that he may die.

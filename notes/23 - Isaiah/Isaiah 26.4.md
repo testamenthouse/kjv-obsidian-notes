@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 26:4
-
 Trust ye in the LORD for ever: for in the LORD JEHOVAH is everlasting strength:

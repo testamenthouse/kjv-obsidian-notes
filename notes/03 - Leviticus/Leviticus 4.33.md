@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 4:33
-
 And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering.

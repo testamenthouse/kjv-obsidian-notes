@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:47
-
 Yet will I bring again the captivity of Moab in the latter days, saith the LORD. Thus far is the judgment of Moab.

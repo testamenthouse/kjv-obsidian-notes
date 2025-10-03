@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:27
-
 Yea, ye overwhelm the fatherless, and ye dig a pit for your friend.

@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 5:23
-
 Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?

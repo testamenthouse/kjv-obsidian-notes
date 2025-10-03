@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:34
-
 Saying, The Lord is risen indeed, and hath appeared to Simon.

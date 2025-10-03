@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 3:5
-
 And Joshua said unto the people, Sanctify yourselves: for to morrow the LORD will do wonders among you.

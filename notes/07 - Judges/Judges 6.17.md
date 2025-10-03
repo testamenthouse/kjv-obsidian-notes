@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 6:17
-
 And he said unto him, If now I have found grace in thy sight, then show me a sign that thou talkest with me.

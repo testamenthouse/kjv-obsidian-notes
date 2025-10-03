@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 16:27
-
 Then he said, I pray thee therefore, father, that thou wouldest send him to my father's house:

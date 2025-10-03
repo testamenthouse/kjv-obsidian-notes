@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 23:13
-
 Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.

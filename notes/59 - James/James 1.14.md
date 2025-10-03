@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 1:14
-
 But every man is tempted, when he is drawn away of his own lust, and enticed.

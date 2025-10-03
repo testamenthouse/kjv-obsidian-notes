@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 1:2
-
 (Which he had promised afore by his prophets in the holy scriptures,)

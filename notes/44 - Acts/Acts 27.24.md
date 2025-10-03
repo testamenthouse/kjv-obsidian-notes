@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:24
-
 Saying, Fear not, Paul; thou must be brought before Caesar: and, lo, God hath given thee all them that sail with thee.

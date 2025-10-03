@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:20
-
 Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother.

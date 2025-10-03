@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:33
-
 And he taketh with him Peter and James and John, and began to be sore amazed, and to be very heavy;

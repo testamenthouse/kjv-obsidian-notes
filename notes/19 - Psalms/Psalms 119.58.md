@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:58
-
 I intreated thy favour with my whole heart: be merciful unto me according to thy word.

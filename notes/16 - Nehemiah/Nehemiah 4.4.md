@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 4:4
-
 Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for a prey in the land of captivity:

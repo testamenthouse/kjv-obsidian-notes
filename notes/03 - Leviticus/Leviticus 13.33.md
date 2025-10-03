@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 13:33
-
 He shall be shaven, but the scall shall he not shave; and the priest shall shut up him that hath the scall seven days more:

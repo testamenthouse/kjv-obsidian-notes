@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 7:26
-
 For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens;

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 52:3
-
 For through the anger of the LORD it came to pass in Jerusalem and Judah, till he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 14:1
-
 The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.

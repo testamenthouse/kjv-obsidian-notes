@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 20:1
-
 The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 11:19
-
 Then he shall turn his face toward the fort of his own land: but he shall stumble and fall, and not be found.

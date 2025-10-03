@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 5:18
-
 And, behold, men brought in a bed a man which was taken with a palsy: and they sought means to bring him in, and to lay him before him.

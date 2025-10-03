@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:17
-
 And he took the cup, and gave thanks, and said, Take this, and divide it among yourselves:

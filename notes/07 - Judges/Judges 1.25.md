@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 1:25
-
 And when he showed them the entrance into the city, they smote the city with the edge of the sword; but they let go the man and all his family.

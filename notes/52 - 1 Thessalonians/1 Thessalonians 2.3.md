@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 2:3
-
 For our exhortation was not of deceit, nor of uncleanness, nor in guile:

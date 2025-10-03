@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 31:13
-
 And that their children, which have not known any thing, may hear, and learn to fear the LORD your God, as long as ye live in the land whither ye go over Jordan to possess it.

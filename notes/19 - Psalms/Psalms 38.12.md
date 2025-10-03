@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 38:12
-
 They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long.

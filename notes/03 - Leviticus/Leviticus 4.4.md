@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 4:4
-
 And he shall bring the bullock unto the door of the tabernacle of the congregation before the LORD; and shall lay his hand upon the bullock's head, and kill the bullock before the LORD.

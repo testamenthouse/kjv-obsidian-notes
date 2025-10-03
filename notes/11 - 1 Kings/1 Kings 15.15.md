@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:15
-
 And he brought in the things which his father had dedicated, and the things which himself had dedicated, into the house of the LORD, silver, and gold, and vessels.

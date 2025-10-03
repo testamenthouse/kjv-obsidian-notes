@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:9
-
 But I wrought for my name's sake, that it should not be polluted before the heathen, among whom they were, in whose sight I made myself known unto them, in bringing them forth out of the land of Egypt.

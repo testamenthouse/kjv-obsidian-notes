@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:19
-
 While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee.

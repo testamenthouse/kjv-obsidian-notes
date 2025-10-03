@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 19:4
-
 And this is the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbor ignorantly, whom he hated not in time past;

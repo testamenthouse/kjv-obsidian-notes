@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:28
-
 And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray.

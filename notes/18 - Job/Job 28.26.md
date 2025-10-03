@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:26
-
 When he made a decree for the rain, and a way for the lightning of the thunder:

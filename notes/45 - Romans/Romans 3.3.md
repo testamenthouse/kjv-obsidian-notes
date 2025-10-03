@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 3:3
-
 For what if some did not believe? shall their unbelief make the faith of God without effect?

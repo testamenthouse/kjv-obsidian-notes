@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 33:14
-
 From the place of his habitation he looketh upon all the inhabitants of the earth.

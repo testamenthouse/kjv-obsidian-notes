@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 73:27
-
 For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.

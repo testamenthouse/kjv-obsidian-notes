@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 19:12
-
 The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.

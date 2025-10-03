@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 16:22
-
 Understanding is a wellspring of life unto him that hath it: but the instruction of fools is folly.

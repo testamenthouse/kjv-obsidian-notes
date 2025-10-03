@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 14:10
-
 Said with a loud voice, Stand upright on thy feet. And he leaped and walked.

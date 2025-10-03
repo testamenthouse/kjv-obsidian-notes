@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 14:19
-
 And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and having stoned Paul, drew him out of the city, supposing he had been dead.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 24:12
-
 And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,

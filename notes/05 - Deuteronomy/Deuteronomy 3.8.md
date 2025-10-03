@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 3:8
-
 And we took at that time out of the hand of the two kings of the Amorites the land that was on this side Jordan, from the river of Arnon unto mount Hermon;

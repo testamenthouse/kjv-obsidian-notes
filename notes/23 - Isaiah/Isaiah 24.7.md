@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 24:7
-
 The new wine mourneth, the vine languisheth, all the merryhearted do sigh.

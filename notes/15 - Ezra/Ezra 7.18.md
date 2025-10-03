@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 7:18
-
 And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God.

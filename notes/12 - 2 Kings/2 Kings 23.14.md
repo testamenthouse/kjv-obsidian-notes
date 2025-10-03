@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 23:14
-
 And he brake in pieces the images, and cut down the groves, and filled their places with the bones of men.

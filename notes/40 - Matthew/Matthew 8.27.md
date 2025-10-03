@@ -13,7 +13,4 @@ grammar_tags: [exclamation, contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 8:27
-
 But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 2:34
-
 Also in thy skirts is found the blood of the souls of the poor innocents: I have not found it by secret search, but upon all these.

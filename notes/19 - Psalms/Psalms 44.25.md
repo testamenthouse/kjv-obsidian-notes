@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 44:25
-
 For our soul is bowed down to the dust: our belly cleaveth unto the earth.

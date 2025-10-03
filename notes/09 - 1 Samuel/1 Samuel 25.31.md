@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 25:31
-
 That this shall be no grief unto thee, nor offense of heart unto my lord, either that thou hast shed blood causeless, or that my lord hath avenged himself: but when the LORD shall have dealt well with my lord, then remember thine handmaid.

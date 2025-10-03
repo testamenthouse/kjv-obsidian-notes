@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:18
-
 Where they crucified him, and two other with him, on either side one, and Jesus in the midst.

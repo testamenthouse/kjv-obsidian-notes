@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 22:15
-
 But if the owner thereof be with it, he shall not make it good: if it be an hired thing, it came for his hire.

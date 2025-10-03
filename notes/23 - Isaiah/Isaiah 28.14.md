@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 28:14
-
 Wherefore hear the word of the LORD, ye scornful men, that rule this people which is in Jerusalem.

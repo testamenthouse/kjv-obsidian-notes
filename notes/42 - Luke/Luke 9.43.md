@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:43
-
 And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,

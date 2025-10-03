@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 3:6
-
 I will not be afraid of ten thousands of people, that have set themselves against me round about.

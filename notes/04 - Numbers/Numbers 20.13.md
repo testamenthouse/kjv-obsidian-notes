@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 20:13
-
 This is the water of Meribah; because the children of Israel strove with the LORD, and he was sanctified in them.

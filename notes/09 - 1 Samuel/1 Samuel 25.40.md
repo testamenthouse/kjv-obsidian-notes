@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 25:40
-
 And when the servants of David were come to Abigail to Carmel, they spake unto her, saying, David sent us unto thee, to take thee to him to wife.

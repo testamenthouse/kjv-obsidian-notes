@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 5:3
-
 Therefore will he give them up, until the time that she which travaileth hath brought forth: then the remnant of his brethren shall return unto the children of Israel.

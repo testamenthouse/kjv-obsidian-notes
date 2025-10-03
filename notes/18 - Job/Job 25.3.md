@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 25:3
-
 Is there any number of his armies? and upon whom doth not his light arise?

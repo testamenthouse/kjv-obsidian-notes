@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, time-seasons, time]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 1:11
-
 Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.

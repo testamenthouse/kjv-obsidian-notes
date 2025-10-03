@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:17
-
 Shall even he that hateth right govern? and wilt thou condemn him that is most just?

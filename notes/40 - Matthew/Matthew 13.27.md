@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 13:27
-
 So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?

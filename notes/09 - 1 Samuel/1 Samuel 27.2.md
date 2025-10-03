@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 27:2
-
 And David arose, and he passed over with the six hundred men that were with him unto Achish, the son of Maoch, king of Gath.

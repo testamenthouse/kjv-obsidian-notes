@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 40:13
-
 Who hath directed the Spirit of the LORD, or being his counsellor hath taught him?

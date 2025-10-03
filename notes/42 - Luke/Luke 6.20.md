@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:20
-
 And he lifted up his eyes on his disciples, and said, Blessed be ye poor: for yours is the kingdom of God.

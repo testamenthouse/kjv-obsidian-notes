@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 18:1
-
 When Jethro, the priest of Midian, Moses' father in law, heard of all that God had done for Moses, and for Israel his people, and that the LORD had brought Israel out of Egypt;

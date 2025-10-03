@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 6:20
-
 For when ye were the servants of sin, ye were free from righteousness.

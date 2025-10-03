@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 36:10
-
 And I will multiply men upon you, all the house of Israel, even all of it: and the cities shall be inhabited, and the wastes shall be builded:

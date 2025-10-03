@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 4:15
-
 For though ye have ten thousand instructers in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel.

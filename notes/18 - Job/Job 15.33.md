@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:33
-
 He shall shake off his unripe grape as the vine, and shall cast off his flower as the olive.

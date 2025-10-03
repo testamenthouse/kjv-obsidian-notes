@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 59:13
-
 In transgressing and lying against the LORD, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.

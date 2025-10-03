@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:21
-
 And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:47
-
 Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:39
-
 And the Lord said unto him, Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness.

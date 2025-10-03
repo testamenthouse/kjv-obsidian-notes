@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:31
-
 The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and that they might be taken away.

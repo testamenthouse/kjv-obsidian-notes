@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:27
-
 Whom I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me.

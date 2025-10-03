@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-Thessalonians"]
 ---
-
-# 2 Thessalonians 1:8
-
 In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:

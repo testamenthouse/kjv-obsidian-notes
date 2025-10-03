@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 2:53
-
 And the families of Kirjathjearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites,

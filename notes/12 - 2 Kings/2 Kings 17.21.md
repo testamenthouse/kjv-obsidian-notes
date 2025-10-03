@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 17:21
-
 For he rent Israel from the house of David; and they made Jeroboam the son of Nebat king: and Jeroboam drave Israel from following the LORD, and made them sin a great sin.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast, conditional, genealogy-struc
 thematic_tags: [names-of-god, son-of-god, jesus, time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 7:3
-
 Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; abideth a priest continually.

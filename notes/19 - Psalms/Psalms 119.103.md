@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:103
-
 How sweet are thy words unto my taste! yea, sweeter than honey to my mouth!

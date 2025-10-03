@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 17:10
-
 And the fear of the LORD fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat.

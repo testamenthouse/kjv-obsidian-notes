@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 1:24
-
 And the spies saw a man come forth out of the city, and they said unto him, Show us, we pray thee, the entrance into the city, and we will show thee mercy.

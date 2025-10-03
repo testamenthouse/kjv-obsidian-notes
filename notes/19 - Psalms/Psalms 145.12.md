@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 145:12
-
 To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.

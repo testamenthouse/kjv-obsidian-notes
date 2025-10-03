@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 52:17
-
 Also the pillars of brass that were in the house of the LORD, and the bases, and the brasen sea that was in the house of the LORD, the Chaldeans brake, and carried all the brass of them to Babylon.

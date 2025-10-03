@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:32
-
 Also Jonathan David's uncle was a counselor, a wise man, and a scribe: and Jehiel the son of Hachmoni was with the king's sons:

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, contrast]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 16:3
-
 And in the morning, It will be foul weather to day: for the sky is red and lowering. O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?

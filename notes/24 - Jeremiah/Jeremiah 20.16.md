@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament, time-parts-of-day, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 20:16
-
 And let that man be as the cities which the LORD overthrew, and repented not: and let him hear the cry in the morning, and the shouting at noontide;

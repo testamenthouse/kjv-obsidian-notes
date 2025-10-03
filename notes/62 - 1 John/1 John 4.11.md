@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 4:11
-
 Beloved, if God so loved us, we ought also to love one another.

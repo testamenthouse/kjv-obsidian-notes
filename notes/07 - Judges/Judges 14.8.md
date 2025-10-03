@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 14:8
-
 And after a time he returned to take her, and he turned aside to see the carcass of the lion: and, behold, there was a swarm of bees and honey in the carcass of the lion.

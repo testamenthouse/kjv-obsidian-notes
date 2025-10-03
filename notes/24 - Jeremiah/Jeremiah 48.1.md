@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:1
-
 Against Moab thus saith the LORD of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded and taken: Misgab is confounded and dismayed.

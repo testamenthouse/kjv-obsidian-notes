@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 139:15
-
 My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.

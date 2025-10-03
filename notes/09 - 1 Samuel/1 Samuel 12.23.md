@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 12:23
-
 Moreover as for me, God forbid that I should sin against the LORD in ceasing to pray for you: but I will teach you the good and the right way:

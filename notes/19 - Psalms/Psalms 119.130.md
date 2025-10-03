@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:130
-
 The entrance of thy words giveth light; it giveth understanding unto the simple.

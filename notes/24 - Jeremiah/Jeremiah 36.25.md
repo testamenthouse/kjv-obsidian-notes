@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 36:25
-
 Nevertheless Elnathan and Delaiah and Gemariah had made intercession to the king that he would not burn the roll: but he would not hear them.

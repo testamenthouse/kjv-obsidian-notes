@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 20:8
-
 Remember the sabbath day, to keep it holy.

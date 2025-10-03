@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:24
-
 Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 39:39
-
 The brazen altar, and his grate of brass, his staves, and all his vessels, the laver and his foot,

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 2:2
-
 Wherefore the king said unto me, Why is thy countenance sad, seeing thou art not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,

@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 3:7
-
 Know ye therefore that they which are of faith, the same are the children of Abraham.

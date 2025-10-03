@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 23:9
-
 Wherefore I have delivered her into the hand of her lovers, into the hand of the Assyrians, upon whom she doted.

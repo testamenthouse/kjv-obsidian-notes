@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 19:23
-
 And the man, the master of the house, went out unto them, and said unto them, Nay, my brethren, nay, I pray you, do not so wickedly; seeing that this man is come into mine house, do not this folly.

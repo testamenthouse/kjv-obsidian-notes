@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Obadiah"]
 ---
-
-# Obadiah 1:7
-
 All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; that they eat thy bread have laid a wound under thee: there is none understanding in him.

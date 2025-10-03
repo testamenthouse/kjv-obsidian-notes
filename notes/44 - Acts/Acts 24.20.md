@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 24:20
-
 Or else let these same here say, if they have found any evil doing in me, while I stood before the council,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:3
-
 Especially because I know thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 24:13
-
 As saith the proverb of the ancients, Wickedness proceedeth from the wicked: but mine hand shall not be upon thee.

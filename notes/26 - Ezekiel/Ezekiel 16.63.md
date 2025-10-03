@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:63
-
 That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame, when I am pacified toward thee for all that thou hast done, saith the Lord GOD.

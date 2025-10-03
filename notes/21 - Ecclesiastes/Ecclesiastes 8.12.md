@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 8:12
-
 Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:

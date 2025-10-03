@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 28:5
-
 And when Saul saw the host of the Philistines, he was afraid, and his heart greatly trembled.

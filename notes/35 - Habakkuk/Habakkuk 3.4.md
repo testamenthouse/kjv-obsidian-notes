@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 3:4
-
 And his brightness was as the light; he had horns coming out of his hand: and there was the hiding of his power.

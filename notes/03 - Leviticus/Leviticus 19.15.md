@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, genealogy-structure]
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:15
-
 Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honor the person of the mighty: but in righteousness shalt thou judge thy neighbor.

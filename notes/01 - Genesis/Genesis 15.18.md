@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 15:18
-
 In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:

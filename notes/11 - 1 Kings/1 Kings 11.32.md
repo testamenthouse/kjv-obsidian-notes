@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:32
-
 (But he shall have one tribe for my servant David's sake, and for Jerusalem's sake, the city which I have chosen out of all the tribes of Israel:)

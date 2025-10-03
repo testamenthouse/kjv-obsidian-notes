@@ -13,7 +13,4 @@ grammar_tags: [exclamation, conjunctive-opener, contrast, genealogy-structure]
 thematic_tags: [son-of-man, jesus, lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:22
-
 And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!

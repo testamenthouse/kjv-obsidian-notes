@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:18
-
 For I will not dare to speak of any of those things which Christ hath not wrought by me, to make the Gentiles obedient, by word and deed,

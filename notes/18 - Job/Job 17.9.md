@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:9
-
 The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger.

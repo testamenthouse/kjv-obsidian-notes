@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 12:2
-
 Thou hast planted them, yea, they have taken root: they grow, yea, they bring forth fruit: thou art near in their mouth, and far from their reins.

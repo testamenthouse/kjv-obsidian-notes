@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 6:16
-
 And the priest shall bring them before the LORD, and shall offer his sin offering, and his burnt offering:

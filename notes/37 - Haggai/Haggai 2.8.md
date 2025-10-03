@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 2:8
-
 The silver is mine, and the gold is mine, saith the LORD of hosts.

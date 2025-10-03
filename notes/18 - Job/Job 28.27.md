@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:27
-
 Then did he see it, and declare it; he prepared it, yea, and searched it out.

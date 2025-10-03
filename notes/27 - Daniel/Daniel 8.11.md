@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 8:11
-
 Yea, he magnified himself even to the prince of the host, and by him the daily sacrifice was taken away, and the place of the sanctuary was cast down.

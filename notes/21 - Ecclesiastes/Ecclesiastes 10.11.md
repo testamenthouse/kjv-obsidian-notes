@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, adversary-metaphor, adversary]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 10:11
-
 Surely the serpent will bite without enchantment; and a babbler is no better.

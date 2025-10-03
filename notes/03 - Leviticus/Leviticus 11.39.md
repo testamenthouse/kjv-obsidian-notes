@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:39
-
 And if any beast, of which ye may eat, die; he that toucheth the carcass thereof shall be unclean until the even.

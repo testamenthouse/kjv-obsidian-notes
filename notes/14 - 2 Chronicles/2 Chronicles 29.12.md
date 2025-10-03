@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 29:12
-
 Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah:

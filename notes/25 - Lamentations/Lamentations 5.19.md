@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 5:19
-
 Thou, O LORD, remainest for ever; thy throne from generation to generation.

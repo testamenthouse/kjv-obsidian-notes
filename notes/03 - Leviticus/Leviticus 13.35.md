@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 13:35
-
 But if the scall spread much in the skin after his cleansing;

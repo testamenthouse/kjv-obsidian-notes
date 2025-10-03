@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 4:4
-
 And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.

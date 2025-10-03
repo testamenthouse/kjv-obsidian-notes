@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 140:8
-
 Grant not, O LORD, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah.

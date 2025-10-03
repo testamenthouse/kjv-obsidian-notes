@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:29
-
 Thus they provoked him to anger with their inventions: and the plague brake in upon them.

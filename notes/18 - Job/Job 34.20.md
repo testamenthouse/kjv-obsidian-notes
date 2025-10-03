@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 34:20
-
 In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand.

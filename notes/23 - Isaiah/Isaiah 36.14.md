@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 36:14
-
 Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you.

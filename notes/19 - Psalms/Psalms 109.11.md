@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:11
-
 Let the extortioner catch all that he hath; and let the strangers spoil his labour.

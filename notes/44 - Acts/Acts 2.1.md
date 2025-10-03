@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:1
-
 And when the day of Pentecost was fully come, they were all with one accord in one place.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 40:8
-
 The grass withereth, the flower fadeth: but the word of our God shall stand for ever.

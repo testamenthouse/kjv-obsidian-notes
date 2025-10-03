@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 5:10
-
 They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.

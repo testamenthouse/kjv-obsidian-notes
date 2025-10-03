@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 4:4
-
 But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,

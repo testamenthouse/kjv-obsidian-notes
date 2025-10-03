@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:38
-
 And he said, Lord, I believe. And he worshipped him.

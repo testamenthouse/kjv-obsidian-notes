@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 39:20
-
 Thus ye shall be filled at my table with horses and chariots, with mighty men, and with all men of war, saith the Lord GOD.

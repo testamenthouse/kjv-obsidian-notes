@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 21:16
-
 And from thence they went to Beer: that is the well whereof the LORD spake unto Moses, Gather the people together, and I will give them water.

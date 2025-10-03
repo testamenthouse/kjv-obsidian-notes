@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 14:22
-
 For I will rise up against them, saith the LORD of hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the LORD.

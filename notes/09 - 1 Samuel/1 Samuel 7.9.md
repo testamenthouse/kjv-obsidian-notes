@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 7:9
-
 And Samuel took a sucking lamb, and offered it for a burnt offering wholly unto the LORD: and Samuel cried unto the LORD for Israel; and the LORD heard him.

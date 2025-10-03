@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 16:36
-
 And the keeper of the prison told this saying to Paul, The magistrates have sent to let you go: now therefore depart, and go in peace.

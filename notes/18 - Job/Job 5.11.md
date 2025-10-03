@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:11
-
 To set up on high those that be low; that those which mourn may be exalted to safety.

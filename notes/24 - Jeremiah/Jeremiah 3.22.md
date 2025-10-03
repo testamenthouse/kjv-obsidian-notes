@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 3:22
-
 Return, ye backsliding children, and I will heal your backslidings. Behold, we come unto thee; for thou art the LORD our God.

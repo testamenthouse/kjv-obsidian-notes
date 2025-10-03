@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 19:11
-
 And when they were by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn in into this city of the Jebusites, and lodge in it.

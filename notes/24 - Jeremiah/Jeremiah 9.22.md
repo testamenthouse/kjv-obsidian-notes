@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-seasons, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 9:22
-
 Speak, Thus saith the LORD, Even the carcases of men shall fall as dung upon the open field, and as the handful after the harvestman, and none shall gather them.

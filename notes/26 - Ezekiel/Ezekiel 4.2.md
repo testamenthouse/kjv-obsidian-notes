@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 4:2
-
 And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about.

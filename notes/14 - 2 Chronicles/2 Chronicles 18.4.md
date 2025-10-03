@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 18:4
-
 And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of the LORD to day.

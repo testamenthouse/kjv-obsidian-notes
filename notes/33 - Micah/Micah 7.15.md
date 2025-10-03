@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 7:15
-
 According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things.

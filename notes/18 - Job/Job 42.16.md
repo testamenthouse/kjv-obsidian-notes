@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 42:16
-
 After this lived Job an hundred and forty years, and saw his sons, and his sons' sons, even four generations.

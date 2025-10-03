@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:5
-
 They answered him, Jesus of Nazareth. Jesus saith unto them, I am he. And Judas also, which betrayed him, stood with them.

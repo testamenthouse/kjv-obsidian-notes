@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 17:5
-
 Then the king of Assyria came up throughout all the land, and went up to Samaria, and besieged it three years.

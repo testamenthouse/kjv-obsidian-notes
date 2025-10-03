@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:5
-
 And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it.

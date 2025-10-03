@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 16:18
-
 And Hushai said unto Absalom, Nay; but whom the LORD, and this people, and all the men of Israel, choose, his will I be, and with him will I abide.

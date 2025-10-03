@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:33
-
 For the bread of God is he which cometh down from heaven, and giveth life unto the world.

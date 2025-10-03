@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:41
-
 And it was told Solomon that Shimei had gone from Jerusalem to Gath, and was come again.

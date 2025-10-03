@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 10:1
-
 Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.

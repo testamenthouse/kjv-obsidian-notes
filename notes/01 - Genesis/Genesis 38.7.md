@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 38:7
-
 And Er, Judah's firstborn, was wicked in the sight of the LORD; and the LORD slew him.

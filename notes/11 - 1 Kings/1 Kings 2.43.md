@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:43
-
 Why then hast thou not kept the oath of the LORD, and the commandment that I have charged thee with?

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:69
-
 Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 2:9
-
 Then shalt thou understand righteousness, and judgment, and equity; yea, every good path.

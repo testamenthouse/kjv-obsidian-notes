@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 8:26
-
 And he sent him away to his house, saying, Neither go into the town, nor tell it to any in the town.

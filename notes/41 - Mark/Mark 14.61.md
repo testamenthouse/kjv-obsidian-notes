@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, genealogy-structure]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:61
-
 But he held his peace, and answered nothing. Again the high priest asked him, and said unto him, Art thou the Christ, the Son of the Blessed?

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:19
-
 Unto whom alone the earth was given, and no stranger passed among them.

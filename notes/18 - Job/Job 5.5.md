@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:5
-
 Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.

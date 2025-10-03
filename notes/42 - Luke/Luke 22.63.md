@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:63
-
 And the men that held Jesus mocked him, and smote him.

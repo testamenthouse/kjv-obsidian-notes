@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:22
-
 For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if it were possible, even the elect.

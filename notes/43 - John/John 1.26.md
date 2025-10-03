@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 1:26
-
 John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;

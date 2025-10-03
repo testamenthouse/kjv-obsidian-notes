@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 18:20
-
 And the LORD said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous;

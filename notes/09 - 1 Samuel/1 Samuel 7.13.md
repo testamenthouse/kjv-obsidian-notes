@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 7:13
-
 So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the LORD was against the Philistines all the days of Samuel.

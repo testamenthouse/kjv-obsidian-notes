@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 29:11
-
 Your little ones, your wives, and thy stranger that is in thy camp, from the hewer of thy wood unto the drawer of thy water:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [one-another, jesus-title, jesus]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 6:2
-
 Bear ye one another's burdens, and so fulfil the law of Christ.

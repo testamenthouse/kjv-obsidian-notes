@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:48
-
 And Laban said, This heap is a witness between me and thee this day. Therefore was the name of it called Galeed;

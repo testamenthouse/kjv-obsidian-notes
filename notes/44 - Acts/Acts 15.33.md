@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:33
-
 And after they had tarried there a space, they were let go in peace from the brethren unto the apostles.

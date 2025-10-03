@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 3:9
-
 Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.

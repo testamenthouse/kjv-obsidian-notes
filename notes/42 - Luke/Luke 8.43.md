@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:43
-
 And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,

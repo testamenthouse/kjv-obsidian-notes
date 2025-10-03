@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 25:14
-
 For many nations and great kings shall serve themselves of them also: and I will recompense them according to their deeds, and according to the works of their own hands.

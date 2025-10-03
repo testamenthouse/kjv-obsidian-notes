@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 7:15
-
 Now mine eyes shall be open, and mine ears attent unto the prayer that is made in this place.

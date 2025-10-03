@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","3-John"]
 ---
-
-# 3 John 1:3
-
 For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth.

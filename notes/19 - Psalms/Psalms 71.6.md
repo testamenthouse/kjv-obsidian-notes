@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 71:6
-
 By thee have I been holden up from the womb: thou art he that took me out of my mother's bowels: my praise shall be continually of thee.

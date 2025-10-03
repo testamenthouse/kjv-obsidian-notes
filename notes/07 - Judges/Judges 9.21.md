@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:21
-
 And Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of Abimelech his brother.

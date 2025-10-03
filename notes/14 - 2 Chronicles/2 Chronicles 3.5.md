@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 3:5
-
 And the greater house he cieled with fir tree, which he overlaid with fine gold, and set thereon palm trees and chains.

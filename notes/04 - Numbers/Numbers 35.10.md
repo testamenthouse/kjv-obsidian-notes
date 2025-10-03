@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 35:10
-
 Speak unto the children of Israel, and say unto them, When ye be come over Jordan into the land of Canaan;

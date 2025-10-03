@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:36
-
 And Bethnimrah, and Bethharan, fenced cities: and folds for sheep.

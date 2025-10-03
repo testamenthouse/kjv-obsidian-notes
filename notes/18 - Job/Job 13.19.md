@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:19
-
 Who is he that will plead with me? for now, if I hold my tongue, I shall give up the ghost.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, adversary-title, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 5:25
-
 Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.

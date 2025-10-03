@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:42
-
 And I knew that thou hearest me always: but because of the people which stand by I said it, that they may believe that thou hast sent me.

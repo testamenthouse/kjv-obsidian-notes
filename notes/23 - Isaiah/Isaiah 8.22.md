@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 8:22
-
 And they shall look unto the earth; and behold trouble and darkness, dimness of anguish; and they shall be driven to darkness.

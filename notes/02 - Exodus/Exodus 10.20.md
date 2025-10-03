@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 10:20
-
 But the LORD hardened Pharaoh's heart, so that he would not let the children of Israel go.

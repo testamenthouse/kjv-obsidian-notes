@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:14
-
 And if thou sell ought unto thy neighbor, or buyest ought of thy neighbor's hand, ye shall not oppress one another:

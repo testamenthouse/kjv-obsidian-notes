@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:1
-
 And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:39
-
 Therefore they sought again to take him: but he escaped out of their hand,

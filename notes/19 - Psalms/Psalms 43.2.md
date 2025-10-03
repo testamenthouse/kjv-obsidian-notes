@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 43:2
-
 For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 1:24
-
 Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.

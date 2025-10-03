@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:26
-
 And Jeroboam said in his heart, Now shall the kingdom return to the house of David:

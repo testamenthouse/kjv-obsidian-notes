@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 6:3
-
 And so it was, when Israel had sown, that the Midianites came up, and the Amalekites, and the children of the east, even they came up against them;

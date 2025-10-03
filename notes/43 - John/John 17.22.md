@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 17:22
-
 And the glory which thou gavest me I have given them; that they may be one, even as we are one:

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:23
-
 But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him.

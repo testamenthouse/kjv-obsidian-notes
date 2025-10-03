@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 7:13
-
 When I say, My bed shall comfort me, my couch shall ease my complaints;

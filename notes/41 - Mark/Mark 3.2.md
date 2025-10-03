@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 3:2
-
 And they watched him, whether he would heal him on the sabbath day; that they might accuse him.

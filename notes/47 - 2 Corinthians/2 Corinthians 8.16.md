@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 8:16
-
 But thanks be to God, which put the same earnest care into the heart of Titus for you.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 26:4
-
 And the priest shall take the basket out of thine hand, and set it down before the altar of the LORD thy God.

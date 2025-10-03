@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, cause-effect]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 3:13
-
 And I have also given thee that which thou hast not asked, both riches, and honor: so that there shall not be any among the kings like unto thee all thy days.

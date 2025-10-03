@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:15
-
 Wherefore the king hearkened not unto the people; for the cause was from the LORD, that he might perform his saying, which the LORD spake by Ahijah the Shilonite unto Jeroboam the son of Nebat.

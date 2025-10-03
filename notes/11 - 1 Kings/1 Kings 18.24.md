@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:24
-
 And call ye on the name of your gods, and I will call on the name of the LORD: and the God that answereth by fire, let him be God. And all the people answered and said, It is well spoken.

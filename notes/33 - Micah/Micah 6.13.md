@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 6:13
-
 Therefore also will I make thee sick in smiting thee, in making thee desolate because of thy sins.

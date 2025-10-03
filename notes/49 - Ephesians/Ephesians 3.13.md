@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 3:13
-
 Wherefore I desire that ye faint not at my tribulations for you, which is your glory.

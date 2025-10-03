@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 83:3
-
 They have taken crafty counsel against thy people, and consulted against thy hidden ones.

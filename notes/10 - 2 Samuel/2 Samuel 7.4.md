@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 7:4
-
 And it came to pass that night, that the word of the LORD came unto Nathan, saying,

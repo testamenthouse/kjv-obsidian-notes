@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 38:12
-
 And for the west side were hangings of fifty cubits, their pillars ten, and their sockets ten; the hooks of the pillars and their fillets of silver.

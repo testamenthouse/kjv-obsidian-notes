@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 16:15
-
 In the light of the king's countenance is life; and his favour is as a cloud of the latter rain.

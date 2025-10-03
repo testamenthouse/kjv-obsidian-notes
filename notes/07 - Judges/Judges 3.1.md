@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 3:1
-
 Now these are the nations which the LORD left, to prove Israel by them, even as many of Israel as had not known all the wars of Canaan;

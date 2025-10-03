@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 1:29
-
 For they shall be ashamed of the oaks which ye have desired, and ye shall be confounded for the gardens that ye have chosen.

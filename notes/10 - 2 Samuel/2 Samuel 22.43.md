@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:43
-
 Then did I beat them as small as the dust of the earth, I did stamp them as the mire of the street, and did spread them abroad.

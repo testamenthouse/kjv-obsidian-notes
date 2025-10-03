@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 8:18
-
 Then said he unto Zebah and Zalmunna, What manner of men were they whom ye slew at Tabor? And they answered, As thou art, so were they; each one resembled the children of a king.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 20:3
-
 Thou shalt have no other gods before me.

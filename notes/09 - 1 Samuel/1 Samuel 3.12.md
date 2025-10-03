@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 3:12
-
 In that day I will perform against Eli all things which I have spoken concerning his house: when I begin, I will also make an end.

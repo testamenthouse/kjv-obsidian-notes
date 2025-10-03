@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 96:4
-
 For the LORD is great, and greatly to be praised: he is to be feared above all gods.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:17
-
 (For my father fought for you, and adventured his life far, and delivered you out of the hand of Midian:

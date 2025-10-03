@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 5:6
-
 Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 17:25
-
 And Ishmael his son was thirteen years old, when he was circumcised in the flesh of his foreskin.

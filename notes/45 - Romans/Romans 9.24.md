@@ -13,7 +13,4 @@ grammar_tags: [question, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 9:24
-
 Even us, whom he hath called, not of the Jews only, but also of the Gentiles?

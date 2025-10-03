@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 38:16
-
 O LORD, by these things men live, and in all these things is the life of my spirit: so wilt thou recover me, and make me to live.

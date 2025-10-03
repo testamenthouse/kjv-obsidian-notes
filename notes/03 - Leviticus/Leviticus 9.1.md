@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 9:1
-
 And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel;

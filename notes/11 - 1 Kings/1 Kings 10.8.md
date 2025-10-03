@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 10:8
-
 Happy are thy men, happy are these thy servants, which stand continually before thee, and that hear thy wisdom.

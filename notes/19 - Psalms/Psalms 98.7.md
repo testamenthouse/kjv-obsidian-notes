@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 98:7
-
 Let the sea roar, and the fulness thereof; the world, and they that dwell therein.

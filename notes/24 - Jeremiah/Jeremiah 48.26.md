@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:26
-
 Make ye him drunken: for he magnified himself against the LORD: Moab also shall wallow in his vomit, and he also shall be in derision.

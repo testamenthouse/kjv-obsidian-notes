@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:35
-
 Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?

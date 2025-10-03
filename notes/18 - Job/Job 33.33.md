@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:33
-
 If not, hearken unto me: hold thy peace, and I shall teach thee wisdom.

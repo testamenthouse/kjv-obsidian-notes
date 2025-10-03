@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 7:20
-
 Moreover the LORD thy God will send the hornet among them, until they that are left, and hide themselves from thee, be destroyed.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 3:1
-
 Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;

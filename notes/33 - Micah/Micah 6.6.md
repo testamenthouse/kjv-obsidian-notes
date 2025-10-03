@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 6:6
-
 Wherewith shall I come before the LORD, and bow myself before the high God? shall I come before him with burnt offerings, with calves of a year old?

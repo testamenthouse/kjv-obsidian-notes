@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 10:17
-
 And he made three hundred shields of beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon.

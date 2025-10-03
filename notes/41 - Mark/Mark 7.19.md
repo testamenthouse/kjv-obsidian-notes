@@ -13,7 +13,4 @@ grammar_tags: [question, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 7:19
-
 Because it entereth not into his heart, but into the belly, and goeth out into the draught, purging all meats?

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 1:21
-
 Behold, the LORD thy God hath set the land before thee: go up and possess it, as the LORD God of thy fathers hath said unto thee; fear not, neither be discouraged.

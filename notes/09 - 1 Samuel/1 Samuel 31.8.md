@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 31:8
-
 And it came to pass on the morrow, when the Philistines came to strip the slain, that they found Saul and his three sons fallen in mount Gilboa.

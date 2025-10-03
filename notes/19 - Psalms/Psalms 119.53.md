@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:53
-
 Horror hath taken hold upon me because of the wicked that forsake thy law.

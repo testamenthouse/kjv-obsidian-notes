@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 18:1
-
 And the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;

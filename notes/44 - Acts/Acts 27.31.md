@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:31
-
 Paul said to the centurion and to the soldiers, Except these abide in the ship, ye cannot be saved.

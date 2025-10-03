@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 2:8
-
 And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.

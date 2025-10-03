@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:23
-
 And he sware unto her, Whatsoever thou shalt ask of me, I will give it thee, unto the half of my kingdom.

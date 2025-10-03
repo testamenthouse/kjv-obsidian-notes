@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 85:8
-
 I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.

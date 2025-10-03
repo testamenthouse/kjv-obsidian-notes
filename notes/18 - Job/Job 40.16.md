@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:16
-
 Lo now, his strength is in his loins, and his force is in the navel of his belly.

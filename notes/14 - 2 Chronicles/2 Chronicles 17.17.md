@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 17:17
-
 And of Benjamin; Eliada a mighty man of valor, and with him armed men with bow and shield two hundred thousand.

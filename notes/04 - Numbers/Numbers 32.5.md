@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:5
-
 Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan.

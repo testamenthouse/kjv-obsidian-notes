@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 7:17
-
 For he testifieth, Thou art a priest for ever after the order of Melchisedec.

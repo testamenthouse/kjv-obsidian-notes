@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 3:17
-
 Her ways are ways of pleasantness, and all her paths are peace.

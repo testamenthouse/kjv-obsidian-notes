@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:23
-
 Also of the Levites; Jozabad, and Shimei, and Kelaiah, (the same is Kelita,) Pethahiah, Judah, and Eliezer.

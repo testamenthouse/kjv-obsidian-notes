@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 71:9
-
 Cast me not off in the time of old age; forsake me not when my strength faileth.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:32
-
 He maketh a path to shine after him; one would think the deep to be hoary.

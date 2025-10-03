@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:25
-
 Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things?

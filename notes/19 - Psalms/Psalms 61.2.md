@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 61:2
-
 From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I.

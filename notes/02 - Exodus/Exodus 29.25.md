@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 29:25
-
 And thou shalt receive them of their hands, and burn them upon the altar for a burnt offering, for a sweet savor before the LORD: it is an offering made by fire unto the LORD.

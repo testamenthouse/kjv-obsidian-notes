@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:41
-
 And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name.

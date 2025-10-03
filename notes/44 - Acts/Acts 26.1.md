@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:1
-
 Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:

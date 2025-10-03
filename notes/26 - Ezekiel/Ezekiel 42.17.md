@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 42:17
-
 He measured the north side, five hundred reeds, with the measuring reed round about.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 48:18
-
 And Joseph said unto his father, Not so, my father: for this is the firstborn; put thy right hand upon his head.

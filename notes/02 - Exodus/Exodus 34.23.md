@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 34:23
-
 Thrice in the year shall all your men children appear before the LORD God, the God of Israel.

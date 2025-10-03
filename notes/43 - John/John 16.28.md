@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:28
-
 I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.

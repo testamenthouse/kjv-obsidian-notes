@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:21
-
 Therefore the LORD heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;

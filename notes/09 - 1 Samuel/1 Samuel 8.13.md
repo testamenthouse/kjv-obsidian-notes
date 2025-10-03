@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 8:13
-
 And he will take your daughters to be confectionaries, and to be cooks, and to be bakers.

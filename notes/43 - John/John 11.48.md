@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:48
-
 If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.

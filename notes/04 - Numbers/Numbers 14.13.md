@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:13
-
 And Moses said unto the LORD, Then the Egyptians shall hear it, (for thou broughtest up this people in thy might from among them;)

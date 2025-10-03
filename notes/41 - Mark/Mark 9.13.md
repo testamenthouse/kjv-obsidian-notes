@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 9:13
-
 But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 36:10
-
 And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem.

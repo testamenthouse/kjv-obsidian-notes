@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:4
-
 Will he make a covenant with thee? wilt thou take him for a servant for ever?

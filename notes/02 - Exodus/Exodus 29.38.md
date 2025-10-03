@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 29:38
-
 Now this is that which thou shalt offer upon the altar; two lambs of the first year day by day continually.

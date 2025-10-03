@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 9:5
-
 Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.

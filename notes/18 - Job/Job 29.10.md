@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 29:10
-
 The nobles held their peace, and their tongue cleaved to the roof of their mouth.

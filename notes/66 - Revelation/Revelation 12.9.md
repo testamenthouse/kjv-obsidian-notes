@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary-metaphor, adversary]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 12:9
-
 And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.

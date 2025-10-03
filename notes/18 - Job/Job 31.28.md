@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:28
-
 This also were an iniquity to be punished by the judge: for I should have denied the God that is above.

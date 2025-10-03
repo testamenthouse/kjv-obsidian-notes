@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 34:6
-
 And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, long-suffering, and abundant in goodness and truth,

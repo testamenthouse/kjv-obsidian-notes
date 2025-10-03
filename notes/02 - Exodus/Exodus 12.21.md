@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare, time-feasts, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 12:21
-
 Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.

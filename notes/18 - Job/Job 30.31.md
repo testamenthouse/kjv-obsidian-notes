@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:31
-
 My harp also is turned to mourning, and my organ into the voice of them that weep.

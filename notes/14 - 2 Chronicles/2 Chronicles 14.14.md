@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 14:14
-
 And they smote all the cities round about Gerar; for the fear of the LORD came upon them: and they spoiled all the cities; for there was exceeding much spoil in them.

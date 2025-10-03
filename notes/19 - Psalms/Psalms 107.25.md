@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:25
-
 For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.

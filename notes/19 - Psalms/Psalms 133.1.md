@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 133:1
-
 Behold, how good and how pleasant it is for brethren to dwell together in unity!

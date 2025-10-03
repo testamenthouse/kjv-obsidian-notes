@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 22:26
-
 And I will cast thee out, and thy mother that bare thee, into another country, where ye were not born; and there shall ye die.

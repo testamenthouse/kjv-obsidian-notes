@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 19:26
-
 And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihorlibnath;

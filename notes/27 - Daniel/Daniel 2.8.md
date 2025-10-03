@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 2:8
-
 The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me.

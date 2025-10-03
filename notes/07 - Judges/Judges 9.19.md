@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:19
-
 If ye then have dealt truly and sincerely with Jerubbaal and with his house this day, then rejoice ye in Abimelech, and let him also rejoice in you:

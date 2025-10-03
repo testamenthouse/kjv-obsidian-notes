@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 3:5
-
 Will he reserve his anger for ever? will he keep it to the end? Behold, thou hast spoken and done evil things as thou couldest.

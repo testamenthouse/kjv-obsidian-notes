@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 1:1
-
 Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.

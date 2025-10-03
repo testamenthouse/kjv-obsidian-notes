@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:7
-
 Among the bushes they brayed; under the nettles they were gathered together.

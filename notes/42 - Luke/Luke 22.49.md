@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:49
-
 When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?

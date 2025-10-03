@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 17:32
-
 So they feared the LORD, and made unto themselves of the lowest of them priests of the high places, which sacrificed for them in the houses of the high places.

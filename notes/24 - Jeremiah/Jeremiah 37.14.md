@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 37:14
-
 Then said Jeremiah, It is false; I fall not away to the Chaldeans. But he hearkened not to him: so Irijah took Jeremiah, and brought him to the princes.

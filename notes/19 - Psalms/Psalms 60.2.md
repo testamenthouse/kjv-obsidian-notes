@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 60:2
-
 Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh.

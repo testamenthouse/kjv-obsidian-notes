@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:12
-
 Though wickedness be sweet in his mouth, though he hide it under his tongue;

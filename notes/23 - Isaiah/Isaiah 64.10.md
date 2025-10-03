@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 64:10
-
 Thy holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation.

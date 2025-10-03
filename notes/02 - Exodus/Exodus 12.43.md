@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-feasts, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 12:43
-
 And the LORD said unto Moses and Aaron, This is the ordinance of the passover: There shall no stranger eat thereof:

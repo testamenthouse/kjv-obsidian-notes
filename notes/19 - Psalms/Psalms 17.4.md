@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 17:4
-
 Concerning the works of men, by the word of thy lips I have kept me from the paths of the destroyer.

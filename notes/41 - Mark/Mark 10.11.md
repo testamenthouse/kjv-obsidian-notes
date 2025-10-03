@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:11
-
 And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.

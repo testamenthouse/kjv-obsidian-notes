@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 16:32
-
 And he reared up an altar for Baal in the house of Baal, which he had built in Samaria.

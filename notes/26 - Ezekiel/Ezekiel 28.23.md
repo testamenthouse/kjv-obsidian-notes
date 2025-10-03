@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 28:23
-
 For I will send into her pestilence, and blood into her streets; and the wounded shall be judged in the midst of her by the sword upon her on every side; and they shall know that I am the LORD.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:55
-
 As he spake to our fathers, to Abraham, and to his seed for ever.

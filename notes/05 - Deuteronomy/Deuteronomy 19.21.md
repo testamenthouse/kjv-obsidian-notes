@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 19:21
-
 And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot.

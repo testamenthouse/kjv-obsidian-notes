@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 30:27
-
 Behold, the name of the LORD cometh from far, burning with his anger, and the burden thereof is heavy: his lips are full of indignation, and his tongue as a devouring fire:

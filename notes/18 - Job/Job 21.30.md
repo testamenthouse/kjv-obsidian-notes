@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:30
-
 That the wicked is reserved to the day of destruction? they shall be brought forth to the day of wrath.

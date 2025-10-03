@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 4:14
-
 Notwithstanding ye have well done, that ye did communicate with my affliction.

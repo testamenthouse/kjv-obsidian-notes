@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:32
-
 If God be glorified in him, God shall also glorify him in himself, and shall straightway glorify him.

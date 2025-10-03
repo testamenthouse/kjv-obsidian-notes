@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:7
-
 The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.

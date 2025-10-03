@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 18:10
-
 And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 18:3
-
 As I live, saith the Lord GOD, ye shall not have occasion any more to use this proverb in Israel.

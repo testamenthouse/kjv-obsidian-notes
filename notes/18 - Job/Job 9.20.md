@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:20
-
 If I justify myself, mine own mouth shall condemn me: if I say, I am perfect, it shall also prove me perverse.

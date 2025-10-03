@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 84:4
-
 Blessed are they that dwell in thy house: they will be still praising thee. Selah.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 110:1
-
 The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.

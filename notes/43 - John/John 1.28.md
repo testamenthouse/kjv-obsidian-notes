@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 1:28
-
 These things were done in Bethabara beyond Jordan, where John was baptizing.

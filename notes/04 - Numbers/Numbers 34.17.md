@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 34:17
-
 These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.

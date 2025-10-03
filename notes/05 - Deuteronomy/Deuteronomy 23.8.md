@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 23:8
-
 The children that are begotten of them shall enter into the congregation of the LORD in their third generation.

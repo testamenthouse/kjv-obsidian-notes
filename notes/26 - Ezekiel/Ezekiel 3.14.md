@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 3:14
-
 So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the LORD was strong upon me.

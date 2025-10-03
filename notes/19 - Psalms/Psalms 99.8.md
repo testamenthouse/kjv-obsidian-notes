@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 99:8
-
 Thou answeredst them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.

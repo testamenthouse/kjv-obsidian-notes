@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 21:2
-
 For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him.

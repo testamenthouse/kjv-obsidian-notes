@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:28
-
 Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am the LORD.

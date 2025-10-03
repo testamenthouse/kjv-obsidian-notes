@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 8:13
-
 They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:9
-
 The eye also which saw him shall see him no more; neither shall his place any more behold him.

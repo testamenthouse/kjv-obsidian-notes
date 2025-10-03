@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 64:3
-
 When thou didst terrible things which we looked not for, thou camest down, the mountains flowed down at thy presence.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:28
-
 And the afflicted people thou wilt save: but thine eyes are upon the haughty, that thou mayest bring them down.

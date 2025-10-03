@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 42:4
-
 But Benjamin, Joseph's brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.

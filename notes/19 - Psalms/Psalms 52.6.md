@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 52:6
-
 The righteous also shall see, and fear, and shall laugh at him:

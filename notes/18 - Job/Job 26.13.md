@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 26:13
-
 By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent.

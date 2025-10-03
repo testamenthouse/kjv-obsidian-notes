@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 5:5
-
 And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.

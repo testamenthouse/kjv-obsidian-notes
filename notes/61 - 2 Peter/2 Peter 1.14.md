@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 1:14
-
 Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me.

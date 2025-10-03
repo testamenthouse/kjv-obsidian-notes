@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 3:9
-
 Then stood Jeshua with his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brethren the Levites.

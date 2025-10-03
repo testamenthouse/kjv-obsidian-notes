@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:48
-
 Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil?

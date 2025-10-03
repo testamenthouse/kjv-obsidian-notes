@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 1:39
-
 Those that were numbered of them, even of the tribe of Dan, were threescore and two thousand and seven hundred.

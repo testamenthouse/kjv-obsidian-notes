@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, adversary-metaphor, adversary]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 12:16
-
 And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.

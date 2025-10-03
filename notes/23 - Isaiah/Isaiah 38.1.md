@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 38:1
-
 In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live.

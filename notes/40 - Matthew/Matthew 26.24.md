@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional, genealogy-structure]
 thematic_tags: [son-of-man, jesus, lament]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:24
-
 The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 2:24
-
 And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons.

@@ -13,7 +13,4 @@ grammar_tags: [question, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:30
-
 They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?

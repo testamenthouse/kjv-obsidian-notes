@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:14
-
 He shall glorify me: for he shall receive of mine, and shall shew it unto you.

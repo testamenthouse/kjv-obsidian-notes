@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 2:3
-
 And hast borne, and hast patience, and for my name's sake hast laboured, and hast not fainted.

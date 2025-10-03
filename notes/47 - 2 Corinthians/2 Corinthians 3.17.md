@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 3:17
-
 Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.

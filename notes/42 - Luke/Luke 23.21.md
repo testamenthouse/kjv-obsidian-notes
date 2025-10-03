@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:21
-
 But they cried, saying, Crucify him, crucify him.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:28
-
 And the man Jeroboam was a mighty man of valor: and Solomon seeing the young man that he was industrious, he made him ruler over all the charge of the house of Joseph.

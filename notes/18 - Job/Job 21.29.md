@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:29
-
 Have ye not asked them that go by the way? and do ye not know their tokens,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 27:12
-
 And it shall come to pass in that day, that the LORD shall beat off from the channel of the river unto the stream of Egypt, and ye shall be gathered one by one, O ye children of Israel.

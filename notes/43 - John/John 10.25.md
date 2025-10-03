@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:25
-
 Jesus answered them, I told you, and ye believed not: the works that I do in my Father's name, they bear witness of me.

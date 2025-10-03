@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 1:7
-
 And when he looked behind him, he saw me, and called unto me. And I answered, Here am I.

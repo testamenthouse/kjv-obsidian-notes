@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 21:29
-
 For the tabernacle of the LORD, which Moses made in the wilderness, and the altar of the burnt offering, were at that season in the high place at Gibeon.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 8:14
-
 Now the disciples had forgotten to take bread, neither had they in the ship with them more than one loaf.

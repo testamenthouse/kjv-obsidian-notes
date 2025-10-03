@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [warfare, jesus, jesus-title, adversary-title, adversary]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:49
-
 Jesus answered, I have not a devil; but I honour my Father, and ye do dishonour me.

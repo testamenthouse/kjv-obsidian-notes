@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 24:24
-
 He that saith unto the wicked, Thou are righteous; him shall the people curse, nations shall abhor him:

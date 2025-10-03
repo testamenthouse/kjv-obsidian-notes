@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 10:12
-
 And he arose and departed, and came to Samaria. And as he was at the shearing house in the way,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 52:14
-
 And all the army of the Chaldeans, that were with the captain of the guard, brake down all the walls of Jerusalem round about.

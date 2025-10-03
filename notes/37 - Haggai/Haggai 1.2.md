@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 1:2
-
 Thus speaketh the LORD of hosts, saying, This people say, The time is not come, the time that the LORD's house should be built.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 1:25
-
 And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;

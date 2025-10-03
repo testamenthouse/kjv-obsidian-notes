@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 12:36
-
 But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 36:11
-
 And the sons of Eliphaz were Teman, Omar, Zepho, and Gatam, and Kenaz.

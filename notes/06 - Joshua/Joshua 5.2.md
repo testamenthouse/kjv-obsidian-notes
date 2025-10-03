@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 5:2
-
 At that time the LORD said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time.

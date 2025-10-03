@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:24
-
 Then shalt thou lay up gold as dust, and the gold of Ophir as the stones of the brooks.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:38
-
 Stablish thy word unto thy servant, who is devoted to thy fear.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 24:6
-
 Who also hath gone about to profane the temple: whom we took, and would have judged according to our law.

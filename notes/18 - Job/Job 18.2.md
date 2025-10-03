@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:2
-
 How long will it be ere ye make an end of words? mark, and afterwards we will speak.

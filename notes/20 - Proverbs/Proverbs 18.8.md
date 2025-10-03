@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 18:8
-
 The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.

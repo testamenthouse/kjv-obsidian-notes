@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 34:9
-
 That every man should let his manservant, and every man his maidservant, being an Hebrew or an Hebrewess, go free; that none should serve himself of them, to wit, of a Jew his brother.

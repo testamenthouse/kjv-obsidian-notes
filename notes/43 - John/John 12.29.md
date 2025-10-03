@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:29
-
 The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spake to him.

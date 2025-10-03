@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 67:2
-
 That thy way may be known upon earth, thy saving health among all nations.

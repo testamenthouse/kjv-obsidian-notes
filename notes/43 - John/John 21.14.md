@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 21:14
-
 This is now the third time that Jesus shewed himself to his disciples, after that he was risen from the dead.

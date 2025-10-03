@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:2
-
 Shall he that contendeth with the Almighty instruct him? he that reproveth God, let him answer it.

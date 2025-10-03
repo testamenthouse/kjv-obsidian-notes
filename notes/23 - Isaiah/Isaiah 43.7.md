@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 43:7
-
 Even every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.

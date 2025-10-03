@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 8:4
-
 Thus saith the LORD of hosts; There shall yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age.

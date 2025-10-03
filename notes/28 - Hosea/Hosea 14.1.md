@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 14:1
-
 O israel, return unto the LORD thy God; for thou hast fallen by thine iniquity.

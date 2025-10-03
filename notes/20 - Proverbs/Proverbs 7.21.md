@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 7:21
-
 With her much fair speech she caused him to yield, with the flattering of her lips she forced him.

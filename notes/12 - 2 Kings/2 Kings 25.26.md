@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 25:26
-
 And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees.

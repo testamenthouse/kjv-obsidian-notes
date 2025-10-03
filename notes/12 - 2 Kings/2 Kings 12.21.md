@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 12:21
-
 For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 31:11
-
 And the anointing oil, and sweet incense for the holy place: according to all that I have commanded thee shall they do.

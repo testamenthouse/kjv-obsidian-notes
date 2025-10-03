@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:19
-
 He shall neither have son nor nephew among his people, nor any remaining in his dwellings.

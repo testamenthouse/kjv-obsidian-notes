@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 20:3
-
 And it came to pass on the morrow, that Pashur brought forth Jeremiah out of the stocks. Then said Jeremiah unto him, The LORD hath not called thy name Pashur, but Magormissabib.

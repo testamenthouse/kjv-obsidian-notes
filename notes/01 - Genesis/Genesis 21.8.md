@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 21:8
-
 And the child grew, and was weaned: and Abraham made a great feast the same day that Isaac was weaned.

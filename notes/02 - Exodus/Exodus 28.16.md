@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 28:16
-
 Foursquare it shall be being doubled; a span shall be the length thereof, and a span shall be the breadth thereof.

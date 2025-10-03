@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 5:9
-
 Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.

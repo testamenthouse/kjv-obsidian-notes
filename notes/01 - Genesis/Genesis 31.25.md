@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:25
-
 Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.

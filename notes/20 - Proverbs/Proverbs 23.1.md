@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 23:1
-
 When thou sittest to eat with a ruler, consider diligently what is before thee:

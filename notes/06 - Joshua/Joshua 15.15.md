@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 15:15
-
 And he went up thence to the inhabitants of Debir: and the name of Debir before was Kirjathsepher.

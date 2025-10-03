@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 112:10
-
 The wicked shall see it, and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish.

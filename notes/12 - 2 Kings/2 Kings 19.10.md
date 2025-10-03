@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 19:10
-
 Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria.

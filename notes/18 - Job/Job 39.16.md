@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:16
-
 She is hardened against her young ones, as though they were not her's: her labour is in vain without fear;

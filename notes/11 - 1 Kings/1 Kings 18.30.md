@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:30
-
 And Elijah said unto all the people, Come near unto me. And all the people came near unto him. And he repaired the altar of the LORD that was broken down.

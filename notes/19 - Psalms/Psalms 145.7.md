@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 145:7
-
 They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness.

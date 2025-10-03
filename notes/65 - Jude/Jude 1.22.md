@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Jude"]
 ---
-
-# Jude 1:22
-
 And of some have compassion, making a difference:

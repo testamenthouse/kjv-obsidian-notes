@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 10:11
-
 And that ye may teach the children of Israel all the statutes which the LORD hath spoken unto them by the hand of Moses.

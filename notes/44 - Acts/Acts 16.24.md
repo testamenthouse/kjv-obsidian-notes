@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 16:24
-
 Who, having received such a charge, thrust them into the inner prison, and made their feet fast in the stocks.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 144:13
-
 That our garners may be full, affording all manner of store: that our sheep may bring forth thousands and ten thousands in our streets:

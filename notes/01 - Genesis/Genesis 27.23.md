@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:23
-
 And he discerned him not, because his hands were hairy, as his brother Esau's hands: so he blessed him.

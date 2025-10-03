@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 8:32
-
 And he wrote there upon the stones a copy of the law of Moses, which he wrote in the presence of the children of Israel.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 6:20
-
 For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.

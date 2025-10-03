@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 39:10
-
 Remove thy stroke away from me: I am consumed by the blow of thine hand.

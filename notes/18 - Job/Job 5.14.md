@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:14
-
 They meet with darkness in the day time, and grope in the noonday as in the night.

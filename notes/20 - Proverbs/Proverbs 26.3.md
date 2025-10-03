@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 26:3
-
 A whip for the horse, a bridle for the ass, and a rod for the fool's back.

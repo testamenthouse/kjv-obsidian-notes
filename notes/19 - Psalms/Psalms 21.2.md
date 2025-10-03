@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 21:2
-
 Thou hast given him his heart's desire, and hast not withholden the request of his lips. Selah.

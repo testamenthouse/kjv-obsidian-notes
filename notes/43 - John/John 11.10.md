@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:10
-
 But if a man walk in the night, he stumbleth, because there is no light in him.

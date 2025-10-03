@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 12:18
-
 For ye are not come unto the mount that might be touched, and that burned with fire, nor unto blackness, and darkness, and tempest,

@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:46
-
 Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?

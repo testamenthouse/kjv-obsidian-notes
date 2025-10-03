@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 5:1
-
 For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:

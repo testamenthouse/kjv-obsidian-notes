@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 39:19
-
 Hast thou given the horse strength? hast thou clothed his neck with thunder?

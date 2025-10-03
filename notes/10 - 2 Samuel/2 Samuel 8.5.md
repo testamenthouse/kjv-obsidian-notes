@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 8:5
-
 And when the Syrians of Damascus came to succor Hadadezer king of Zobah, David slew of the Syrians two and twenty thousand men.

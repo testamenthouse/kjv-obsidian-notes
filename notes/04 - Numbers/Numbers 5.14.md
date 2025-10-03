@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 5:14
-
 And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled:

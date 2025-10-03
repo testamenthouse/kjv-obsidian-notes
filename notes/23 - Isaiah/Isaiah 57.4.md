@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 57:4
-
 Against whom do ye sport yourselves? against whom make ye a wide mouth, and draw out the tongue? are ye not children of transgression, a seed of falsehood.

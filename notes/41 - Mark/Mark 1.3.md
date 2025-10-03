@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:3
-
 The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.

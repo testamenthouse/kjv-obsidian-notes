@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 5:20
-
 They fought from heaven; the stars in their courses fought against Sisera.

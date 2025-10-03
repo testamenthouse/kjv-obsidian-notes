@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 97:11
-
 Light is sown for the righteous, and gladness for the upright in heart.

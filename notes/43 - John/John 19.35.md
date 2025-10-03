@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:35
-
 And he that saw it bare record, and his record is true: and he knoweth that he saith true, that ye might believe.

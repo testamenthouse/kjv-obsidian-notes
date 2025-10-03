@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:19
-
 Will he esteem thy riches? no, not gold, nor all the forces of strength.

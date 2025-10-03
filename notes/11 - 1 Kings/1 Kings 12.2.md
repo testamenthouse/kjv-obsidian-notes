@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:2
-
 And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard of it, (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)

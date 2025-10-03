@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 59:10
-
 We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noon day as in the night; we are in desolate places as dead men.

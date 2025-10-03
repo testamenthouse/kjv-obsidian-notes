@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:17
-
 And entered into a ship, and went over the sea toward Capernaum. And it was now dark, and Jesus was not come to them.

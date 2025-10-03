@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 34:15
-
 There shall the great owl make her nest, and lay, and hatch, and gather under her shadow: there shall the vultures also be gathered, every one with her mate.

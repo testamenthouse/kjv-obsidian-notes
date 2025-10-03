@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 132:2
-
 How he sware unto the LORD, and vowed unto the mighty God of Jacob;

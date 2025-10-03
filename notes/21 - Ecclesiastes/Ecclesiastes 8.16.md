@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 8:16
-
 When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night seeth sleep with his eyes:)

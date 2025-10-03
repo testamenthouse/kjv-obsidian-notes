@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, demonic-entities, adversary]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:31
-
 Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I am the LORD your God.

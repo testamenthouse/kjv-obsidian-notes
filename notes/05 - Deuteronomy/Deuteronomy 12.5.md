@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 12:5
-
 But unto the place which the LORD your God shall choose out of all your tribes to put his name there, even unto his habitation shall ye seek, and thither thou shalt come:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 7:18
-
 Come, let us take our fill of love until the morning: let us solace ourselves with loves.

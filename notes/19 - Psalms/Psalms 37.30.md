@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 37:30
-
 The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.

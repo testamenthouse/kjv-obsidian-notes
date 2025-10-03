@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 88:1
-
 O lord God of my salvation, I have cried day and night before thee:

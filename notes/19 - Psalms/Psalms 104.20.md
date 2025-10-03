@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:20
-
 Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth.

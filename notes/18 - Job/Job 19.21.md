@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:21
-
 Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me.

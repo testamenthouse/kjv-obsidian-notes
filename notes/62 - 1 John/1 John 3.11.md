@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [one-another]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 3:11
-
 For this is the message that ye heard from the beginning, that we should love one another.

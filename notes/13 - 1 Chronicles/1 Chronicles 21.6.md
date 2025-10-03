@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 21:6
-
 But Levi and Benjamin counted he not among them: for the king's word was abominable to Joab.

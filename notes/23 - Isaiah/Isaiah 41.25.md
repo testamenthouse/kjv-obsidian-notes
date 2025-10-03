@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 41:25
-
 I have raised up one from the north, and he shall come: from the rising of the sun shall he call upon my name: and he shall come upon princes as upon morter, and as the potter treadeth clay.

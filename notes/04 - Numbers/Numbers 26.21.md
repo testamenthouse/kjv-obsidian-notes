@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 26:21
-
 And the sons of Pharez were; of Hezron, the family of the Hezronites: of Hamul, the family of the Hamulites.

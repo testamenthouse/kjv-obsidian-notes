@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title, time-units, time]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 2:16
-
 In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.

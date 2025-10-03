@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 1:14
-
 The great day of the LORD is near, it is near, and hasteth greatly, even the voice of the day of the LORD: the mighty man shall cry there bitterly.

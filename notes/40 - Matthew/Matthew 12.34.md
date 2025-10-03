@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 12:34
-
 O generation of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh.

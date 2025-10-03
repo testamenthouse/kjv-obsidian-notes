@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 5:26
-
 This is the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it.

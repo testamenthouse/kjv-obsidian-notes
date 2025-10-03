@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 19:19
-
 Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.

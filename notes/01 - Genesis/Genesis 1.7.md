@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 1:7
-
 And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.

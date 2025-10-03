@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:18
-
 And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 18:10
-
 The nakedness of thy son's daughter, or of thy daughter's daughter, even their nakedness thou shalt not uncover: for theirs is thine own nakedness.

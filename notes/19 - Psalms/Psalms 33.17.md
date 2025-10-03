@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 33:17
-
 An horse is a vain thing for safety: neither shall he deliver any by his great strength.

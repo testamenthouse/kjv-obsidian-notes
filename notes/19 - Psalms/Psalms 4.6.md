@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 4:6
-
 There be many that say, Who will shew us any good? LORD, lift thou up the light of thy countenance upon us.

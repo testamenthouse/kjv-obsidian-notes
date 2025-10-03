@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 4:23
-
 For the LORD your God dried up the waters of Jordan from before you, until ye were passed over, as the LORD your God did to the Red sea, which he dried up from before us, until we were gone over:

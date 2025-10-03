@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:11
-
 And the angel of God spake unto me in a dream, saying, Jacob: And I said, Here am I.

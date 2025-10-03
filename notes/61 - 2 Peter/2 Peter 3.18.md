@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, greeting/closing]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 3:18
-
 But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.

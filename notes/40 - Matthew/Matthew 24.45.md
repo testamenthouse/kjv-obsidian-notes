@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 24:45
-
 Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?

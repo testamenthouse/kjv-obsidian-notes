@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 23:4
-
 Then David inquired of the LORD yet again. And the LORD answered him and said, Arise, go down to Keilah; for I will deliver the Philistines into thine hand.

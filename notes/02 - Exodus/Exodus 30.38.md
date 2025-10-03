@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 30:38
-
 Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people.

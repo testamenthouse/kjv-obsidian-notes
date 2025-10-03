@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:24
-
 If I have made gold my hope, or have said to the fine gold, Thou art my confidence;

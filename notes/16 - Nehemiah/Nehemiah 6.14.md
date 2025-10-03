@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 6:14
-
 My God, think thou upon Tobiah and Sanballat according to these their works, and on the prophetess Noadiah, and the rest of the prophets, that would have put me in fear.

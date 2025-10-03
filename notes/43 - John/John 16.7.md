@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast-opener, negation, contrast, conditional
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:7
-
 Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.

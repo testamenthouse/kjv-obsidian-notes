@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:9
-
 Of the sons of Joab; Obadiah the son of Jehiel, and with him two hundred and eighteen males.

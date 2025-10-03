@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 20:17
-
 But thou shalt utterly destroy them; namely, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the LORD thy God hath commanded thee:

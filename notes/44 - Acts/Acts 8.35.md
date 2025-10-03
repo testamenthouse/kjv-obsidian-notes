@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:35
-
 Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus.

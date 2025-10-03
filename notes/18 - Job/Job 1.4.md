@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 1:4
-
 And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them.

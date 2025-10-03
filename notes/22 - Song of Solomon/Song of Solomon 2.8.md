@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 2:8
-
 The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills.

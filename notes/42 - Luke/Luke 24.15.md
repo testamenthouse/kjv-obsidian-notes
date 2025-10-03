@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 24:15
-
 And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them.

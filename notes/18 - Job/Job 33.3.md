@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:3
-
 My words shall be of the uprightness of my heart: and my lips shall utter knowledge clearly.

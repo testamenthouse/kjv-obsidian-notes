@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god, time-units, time-period, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 29:13
-
 Yet thus saith the Lord GOD; At the end of forty years will I gather the Egyptians from the people whither they were scattered:

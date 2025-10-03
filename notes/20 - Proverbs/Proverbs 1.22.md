@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 1:22
-
 How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?

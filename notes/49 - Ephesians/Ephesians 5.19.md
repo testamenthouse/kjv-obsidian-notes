@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:19
-
 Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:12
-
 His strength shall be hungerbitten, and destruction shall be ready at his side.

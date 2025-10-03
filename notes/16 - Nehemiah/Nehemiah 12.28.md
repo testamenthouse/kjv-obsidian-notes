@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 12:28
-
 And the sons of the singers gathered themselves together, both out of the plain country round about Jerusalem, and from the villages of Netophathi;

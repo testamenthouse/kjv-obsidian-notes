@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus, time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 2:28
-
 Therefore the Son of man is Lord also of the sabbath.

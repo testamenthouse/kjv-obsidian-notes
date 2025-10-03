@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 145:10
-
 All thy works shall praise thee, O LORD; and thy saints shall bless thee.

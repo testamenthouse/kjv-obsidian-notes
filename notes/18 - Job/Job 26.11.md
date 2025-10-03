@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 26:11
-
 The pillars of heaven tremble and are astonished at his reproof.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 33:9
-
 Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren, nor knew his own children: for they have observed thy word, and kept thy covenant.

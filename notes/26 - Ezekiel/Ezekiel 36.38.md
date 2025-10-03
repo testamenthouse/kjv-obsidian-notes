@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 36:38
-
 As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men: and they shall know that I am the LORD.

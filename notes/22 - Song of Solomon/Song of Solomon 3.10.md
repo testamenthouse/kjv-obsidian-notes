@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 3:10
-
 He made the pillars thereof of silver, the bottom thereof of gold, the covering of it of purple, the midst thereof being paved with love, for the daughters of Jerusalem.

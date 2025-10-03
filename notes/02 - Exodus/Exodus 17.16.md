@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 17:16
-
 For he said, Because the LORD hath sworn that the LORD will have war with Amalek from generation to generation.

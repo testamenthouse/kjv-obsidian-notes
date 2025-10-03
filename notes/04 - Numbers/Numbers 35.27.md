@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 35:27
-
 And the revenger of blood find him without the borders of the city of his refuge, and the revenger of blood kill the slayer; he shall not be guilty of blood:

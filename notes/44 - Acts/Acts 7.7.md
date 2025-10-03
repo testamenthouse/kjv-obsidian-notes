@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:7
-
 And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:21
-
 That thou hast slain my children, and delivered them to cause them to pass through the fire for them?

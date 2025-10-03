@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 12:7
-
 I have forsaken mine house, I have left mine heritage; I have given the dearly beloved of my soul into the hand of her enemies.

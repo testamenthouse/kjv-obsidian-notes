@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:12
-
 I have yet many things to say unto you, but ye cannot bear them now.

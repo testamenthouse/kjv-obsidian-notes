@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 26:18
-
 And the LORD hath avouched thee this day to be his peculiar people, as he hath promised thee, and that thou shouldest keep all his commandments;

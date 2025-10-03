@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 40:9
-
 And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;

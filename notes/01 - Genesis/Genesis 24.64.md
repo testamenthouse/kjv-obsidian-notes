@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 24:64
-
 And Rebekah lifted up her eyes, and when she saw Isaac, she lighted off the camel.

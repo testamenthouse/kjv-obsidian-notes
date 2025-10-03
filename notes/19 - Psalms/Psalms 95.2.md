@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 95:2
-
 Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.

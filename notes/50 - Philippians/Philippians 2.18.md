@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 2:18
-
 For the same cause also do ye joy, and rejoice with me.

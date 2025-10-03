@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 28:16
-
 Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them.

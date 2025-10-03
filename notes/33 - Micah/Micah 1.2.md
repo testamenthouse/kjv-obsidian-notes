@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 1:2
-
 Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord GOD be witness against you, the LORD from his holy temple.

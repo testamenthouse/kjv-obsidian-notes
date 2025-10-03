@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 4:18
-
 Behold, he put no trust in his servants; and his angels he charged with folly:

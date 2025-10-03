@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 36:8
-
 But ye, O mountains of Israel, ye shall shoot forth your branches, and yield your fruit to my people of Israel; for they are at hand to come.

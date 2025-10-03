@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 9:10
-
 And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.

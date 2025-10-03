@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:43
-
 Thou shalt not rule over him with rigor; but shalt fear thy God.

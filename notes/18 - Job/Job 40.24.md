@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:24
-
 He taketh it with his eyes: his nose pierceth through snares.

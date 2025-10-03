@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 14:30
-
 But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me.

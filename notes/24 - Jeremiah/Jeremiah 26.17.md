@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 26:17
-
 Then rose up certain of the elders of the land, and spake to all the assembly of the people, saying,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:11
-
 Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:

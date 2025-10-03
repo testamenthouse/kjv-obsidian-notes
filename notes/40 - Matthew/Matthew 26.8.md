@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:8
-
 But when his disciples saw it, they had indignation, saying, To what purpose is this waste?

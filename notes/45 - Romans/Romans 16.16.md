@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [one-another, jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 16:16
-
 Salute one another with an holy kiss. The churches of Christ salute you.

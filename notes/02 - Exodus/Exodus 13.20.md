@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 13:20
-
 And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.

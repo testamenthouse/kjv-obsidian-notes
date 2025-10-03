@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 15:8
-
 For the cry is gone round about the borders of Moab; the howling thereof unto Eglaim, and the howling thereof unto Beerelim.

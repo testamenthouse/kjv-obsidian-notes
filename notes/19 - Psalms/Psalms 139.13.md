@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 139:13
-
 For thou hast possessed my reins: thou hast covered me in my mother's womb.

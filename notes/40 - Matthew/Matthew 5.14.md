@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 5:14
-
 Ye are the light of the world. A city that is set on an hill cannot be hid.

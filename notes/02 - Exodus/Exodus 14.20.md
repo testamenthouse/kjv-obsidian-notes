@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, cause-effect]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 14:20
-
 And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness to them, but it gave light by night to these: so that the one came not near the other all the night.

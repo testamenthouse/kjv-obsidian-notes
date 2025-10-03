@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 30:10
-
 Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.

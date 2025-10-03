@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 45:9
-
 Thus saith the Lord GOD; Let it suffice you, O princes of Israel: remove violence and spoil, and execute judgment and justice, take away your exactions from my people, saith the Lord GOD.

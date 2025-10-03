@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time-period, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 1:15
-
 And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king's meat.

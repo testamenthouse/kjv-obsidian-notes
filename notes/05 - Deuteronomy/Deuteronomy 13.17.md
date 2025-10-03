@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 13:17
-
 And there shall cleave nought of the cursed thing to thine hand: that the LORD may turn from the fierceness of his anger, and show thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers;

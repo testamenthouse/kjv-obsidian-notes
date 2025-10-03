@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 2:18
-
 Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,

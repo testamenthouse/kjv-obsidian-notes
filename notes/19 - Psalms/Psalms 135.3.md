@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 135:3
-
 Praise the LORD; for the LORD is good: sing praises unto his name; for it is pleasant.

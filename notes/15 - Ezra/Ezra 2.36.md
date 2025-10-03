@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:36
-
 The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.

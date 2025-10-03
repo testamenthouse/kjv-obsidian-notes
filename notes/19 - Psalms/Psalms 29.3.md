@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 29:3
-
 The voice of the LORD is upon the waters: the God of glory thundereth: the LORD is upon many waters.

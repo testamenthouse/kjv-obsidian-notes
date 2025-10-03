@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 50:18
-
 When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.

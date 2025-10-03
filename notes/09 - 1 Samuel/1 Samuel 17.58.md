@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 17:58
-
 And Saul said to him, Whose son art thou, thou young man? And David answered, I am the son of thy servant Jesse the Bethlehemite.

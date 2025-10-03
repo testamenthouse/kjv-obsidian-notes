@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 10:18
-
 Moreover the king made a great throne of ivory, and overlaid it with the best gold.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:14
-
 And I will satiate the soul of the priests with fatness, and my people shall be satisfied with my goodness, saith the LORD.

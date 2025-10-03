@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 25:5
-
 They said, Turn ye again now every one from his evil way, and from the evil of your doings, and dwell in the land that the LORD hath given unto you and to your fathers for ever and ever:

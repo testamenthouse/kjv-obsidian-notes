@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 16:11
-
 Then shalt thou say unto them, Because your fathers have forsaken me, saith the LORD, and have walked after other gods, and have served them, and have worshipped them, and have forsaken me, and have not kept my law;

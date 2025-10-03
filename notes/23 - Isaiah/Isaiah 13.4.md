@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 13:4
-
 The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the LORD of hosts mustereth the host of the battle.

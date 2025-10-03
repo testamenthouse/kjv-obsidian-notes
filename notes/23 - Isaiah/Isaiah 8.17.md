@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 8:17
-
 And I will wait upon the LORD, that hideth his face from the house of Jacob, and I will look for him.

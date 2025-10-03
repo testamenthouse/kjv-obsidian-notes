@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 26:7
-
 And God helped him against the Philistines, and against the Arabians that dwelt in Gurbaal, and the Mehunims.

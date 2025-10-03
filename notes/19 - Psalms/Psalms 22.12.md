@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 22:12
-
 Many bulls have compassed me: strong bulls of Bashan have beset me round.

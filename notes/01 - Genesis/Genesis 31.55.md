@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:55
-
 And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place.

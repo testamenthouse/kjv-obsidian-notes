@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 88:11
-
 Shall thy lovingkindness be declared in the grave? or thy faithfulness in destruction?

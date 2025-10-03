@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:26
-
 For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.

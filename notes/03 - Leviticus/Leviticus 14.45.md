@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 14:45
-
 And he shall break down the house, the stones of it, and the timber thereof, and all the mortar of the house; and he shall carry them forth out of the city into an unclean place.

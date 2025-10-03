@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:17
-
 And it came to pass, when Ahab saw Elijah, that Ahab said unto him, Art thou he that troubleth Israel?

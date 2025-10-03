@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 40:7
-
 And he asked Pharaoh's officers that were with him in the ward of his lord's house, saying, Wherefore look ye so sadly to day?

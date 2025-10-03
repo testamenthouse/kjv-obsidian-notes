@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:7
-
 And it was about the space of three hours after, when his wife, not knowing what was done, came in.

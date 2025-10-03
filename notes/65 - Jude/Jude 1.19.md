@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jude"]
 ---
-
-# Jude 1:19
-
 These be they who separate themselves, sensual, having not the Spirit.

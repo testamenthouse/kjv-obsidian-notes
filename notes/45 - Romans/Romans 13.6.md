@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 13:6
-
 For for this cause pay ye tribute also: for they are God's ministers, attending continually upon this very thing.

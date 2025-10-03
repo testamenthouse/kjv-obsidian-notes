@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:39
-
 But if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God.

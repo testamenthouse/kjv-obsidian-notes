@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:2
-
 As God liveth, who hath taken away my judgment; and the Almighty, who hath vexed my soul;

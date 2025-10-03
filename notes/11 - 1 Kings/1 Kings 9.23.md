@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 9:23
-
 These were the chief of the officers that were over Solomon's work, five hundred and fifty, which bare rule over the people that wrought in the work.

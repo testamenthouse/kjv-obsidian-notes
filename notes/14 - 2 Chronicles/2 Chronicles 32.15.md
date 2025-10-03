@@ -13,7 +13,4 @@ grammar_tags: [question, negation, contrast, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 32:15
-
 Now therefore let not Hezekiah deceive you, nor persuade you on this manner, neither yet believe him: for no god of any nation or kingdom was able to deliver his people out of mine hand, and out of the hand of my fathers: how much less shall your God deliver you out of mine hand?

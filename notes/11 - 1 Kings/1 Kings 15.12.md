@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:12
-
 And he took away the sodomites out of the land, and removed all the idols that his fathers had made.

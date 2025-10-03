@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:17
-
 For the morning is to them even as the shadow of death: if one know them, they are in the terrors of the shadow of death.

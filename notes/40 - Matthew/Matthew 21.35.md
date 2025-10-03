@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 21:35
-
 And the husbandmen took his servants, and beat one, and killed another, and stoned another.

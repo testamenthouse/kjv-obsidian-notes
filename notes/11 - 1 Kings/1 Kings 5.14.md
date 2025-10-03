@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 5:14
-
 And he sent them to Lebanon, ten thousand a month by courses: a month they were in Lebanon, and two months at home: and Adoniram was over the levy.

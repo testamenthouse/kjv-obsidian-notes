@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 54:6
-
 I will freely sacrifice unto thee: I will praise thy name, O LORD; for it is good.

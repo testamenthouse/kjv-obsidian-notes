@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 18:20
-
 Moreover thou shalt not lie carnally with thy neighbor's wife, to defile thyself with her.

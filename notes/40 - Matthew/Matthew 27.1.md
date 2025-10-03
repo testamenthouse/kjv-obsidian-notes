@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title, time-parts-of-day, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:1
-
 When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:

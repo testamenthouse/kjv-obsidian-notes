@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 16:11
-
 If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?

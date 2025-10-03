@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 40:20
-
 And the gate of the outward court that looked toward the north, he measured the length thereof, and the breadth thereof.

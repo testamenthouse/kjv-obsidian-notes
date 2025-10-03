@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 111:10
-
 The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.

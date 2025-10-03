@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 12:24
-
 Only fear the LORD, and serve him in truth with all your heart: for consider how great things he hath done for you.

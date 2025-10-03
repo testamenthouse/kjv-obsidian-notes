@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:24
-
 And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 22:12
-
 Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest thyself.

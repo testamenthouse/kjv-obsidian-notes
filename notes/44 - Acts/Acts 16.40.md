@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 16:40
-
 And they went out of the prison, and entered into the house of Lydia: and when they had seen the brethren, they comforted them, and departed.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 10:11
-
 Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 15:32
-
 This is the law of him that hath an issue, and of him whose seed goeth from him, and is defiled therewith;

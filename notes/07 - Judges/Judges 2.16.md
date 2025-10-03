@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 2:16
-
 Nevertheless the LORD raised up judges, which delivered them out of the hand of those that spoiled them.

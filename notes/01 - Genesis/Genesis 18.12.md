@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 18:12
-
 Therefore Sarah laughed within herself, saying, After I am waxed old shall I have pleasure, my lord being old also?

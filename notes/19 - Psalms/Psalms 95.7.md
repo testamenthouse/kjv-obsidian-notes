@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 95:7
-
 For he is our God; and we are the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,

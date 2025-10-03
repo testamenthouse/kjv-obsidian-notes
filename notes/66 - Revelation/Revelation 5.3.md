@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 5:3
-
 And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon.

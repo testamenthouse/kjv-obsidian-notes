@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 9:25
-
 Thus I fell down before the LORD forty days and forty nights, as I fell down at the first; because the LORD had said he would destroy you.

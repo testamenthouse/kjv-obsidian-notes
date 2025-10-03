@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ruth"]
 ---
-
-# Ruth 2:6
-
 And the servant that was set over the reapers answered and said, It is the Moabitish damsel that came back with Naomi out of the country of Moab:

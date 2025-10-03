@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 19:12
-
 His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.

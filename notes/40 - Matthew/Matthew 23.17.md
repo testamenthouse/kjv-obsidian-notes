@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 23:17
-
 Ye fools and blind: for whether is greater, the gold, or the temple that sanctifieth the gold?

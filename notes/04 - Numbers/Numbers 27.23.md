@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 27:23
-
 And he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses.

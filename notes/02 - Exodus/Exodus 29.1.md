@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 29:1
-
 And this is the thing that thou shalt do unto them to hallow them, to minister unto me in the priest's office: Take one young bullock, and two rams without blemish,

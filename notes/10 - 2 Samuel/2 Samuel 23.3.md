@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 23:3
-
 The God of Israel said, the Rock of Israel spake to me, He that ruleth over men must be just, ruling in the fear of God.

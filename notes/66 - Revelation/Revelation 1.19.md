@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 1:19
-
 Write the things which thou hast seen, and the things which are, and the things which shall be hereafter;

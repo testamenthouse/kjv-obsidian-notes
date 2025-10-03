@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 43:34
-
 And he took and sent messes unto them from before him: but Benjamin's mess was five times so much as any of theirs. And they drank, and were merry with him.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:3
-
 Ye shall fear every man his mother, and his father, and keep my sabbaths: I am the LORD your God.

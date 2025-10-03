@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 8:21
-
 For the hurt of the daughter of my people am I hurt; I am black; astonishment hath taken hold on me.

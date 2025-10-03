@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 72:7
-
 In his days shall the righteous flourish; and abundance of peace so long as the moon endureth.

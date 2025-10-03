@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:19
-
 If in this life only we have hope in Christ, we are of all men most miserable.

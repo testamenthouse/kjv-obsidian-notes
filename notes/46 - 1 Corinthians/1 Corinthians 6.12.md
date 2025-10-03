@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 6:12
-
 All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.

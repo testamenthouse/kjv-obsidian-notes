@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 10:3
-
 And cried with a loud voice, as when a lion roareth: and when he had cried, seven thunders uttered their voices.

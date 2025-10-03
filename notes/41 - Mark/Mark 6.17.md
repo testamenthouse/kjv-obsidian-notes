@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:17
-
 For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias' sake, his brother Philip's wife: for he had married her.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 19:21
-
 And Remeth, and Engannim, and Enhaddah, and Bethpazzez;

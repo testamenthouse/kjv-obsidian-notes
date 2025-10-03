@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 35:16
-
 The altar of burnt offering, with his brazen grate, his staves, and all his vessels, the laver and his foot,

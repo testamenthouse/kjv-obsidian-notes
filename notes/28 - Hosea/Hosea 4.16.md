@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 4:16
-
 For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place.

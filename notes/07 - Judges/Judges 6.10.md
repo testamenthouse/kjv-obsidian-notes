@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 6:10
-
 And I said unto you, I am the LORD your God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice.

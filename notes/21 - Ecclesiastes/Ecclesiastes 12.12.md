@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 12:12
-
 And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.

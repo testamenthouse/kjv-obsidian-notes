@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 46:16
-
 Thus saith the Lord GOD; If the prince give a gift unto any of his sons, the inheritance thereof shall be his sons'; it shall be their possession by inheritance.

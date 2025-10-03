@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:54
-
 Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.

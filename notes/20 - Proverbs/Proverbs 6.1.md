@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 6:1
-
 My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,

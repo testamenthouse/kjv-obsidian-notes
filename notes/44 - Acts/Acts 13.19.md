@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 13:19
-
 And when he had destroyed seven nations in the land of Chanaan, he divided their land to them by lot.

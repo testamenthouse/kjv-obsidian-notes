@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:5
-
 O that ye would altogether hold your peace! and it should be your wisdom.

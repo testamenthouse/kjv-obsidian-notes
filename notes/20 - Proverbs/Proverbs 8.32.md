@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 8:32
-
 Now therefore hearken unto me, O ye children: for blessed are they that keep my ways.

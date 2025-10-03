@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:29
-
 Then the Spirit said unto Philip, Go near, and join thyself to this chariot.

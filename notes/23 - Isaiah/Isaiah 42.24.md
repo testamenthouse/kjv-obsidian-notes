@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 42:24
-
 Who gave Jacob for a spoil, and Israel to the robbers? did not the LORD, he against whom we have sinned? for they would not walk in his ways, neither were they obedient unto his law.

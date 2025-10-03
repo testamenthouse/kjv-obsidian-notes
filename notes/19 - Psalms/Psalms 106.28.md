@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 106:28
-
 They joined themselves also unto Baalpeor, and ate the sacrifices of the dead.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 111:2
-
 The works of the LORD are great, sought out of all them that have pleasure therein.

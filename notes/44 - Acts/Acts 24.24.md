@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, jesus-title, jesus, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 24:24
-
 And after certain days, when Felix came with his wife Drusilla, which was a Jewess, he sent for Paul, and heard him concerning the faith in Christ.

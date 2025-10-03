@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 2:27
-
 And Joab said, As God liveth, unless thou hadst spoken, surely then in the morning the people had gone up every one from following his brother.

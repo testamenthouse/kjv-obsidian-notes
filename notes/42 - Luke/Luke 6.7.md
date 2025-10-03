@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:7
-
 And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him.

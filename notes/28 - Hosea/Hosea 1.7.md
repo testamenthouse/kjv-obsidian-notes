@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 1:7
-
 But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.

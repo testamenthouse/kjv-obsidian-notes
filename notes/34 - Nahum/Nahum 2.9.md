@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 2:9
-
 Take ye the spoil of silver, take the spoil of gold: for there is none end of the store and glory out of all the pleasant furniture.

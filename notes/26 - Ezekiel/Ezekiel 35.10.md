@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 35:10
-
 Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the LORD was there:

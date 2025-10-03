@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:18
-
 Then king Rehoboam sent Adoram, who was over the tribute; and all Israel stoned him with stones, that he died. Therefore king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem.

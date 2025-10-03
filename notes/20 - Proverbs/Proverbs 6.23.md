@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 6:23
-
 For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:

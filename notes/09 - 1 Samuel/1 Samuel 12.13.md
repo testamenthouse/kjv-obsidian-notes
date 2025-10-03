@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 12:13
-
 Now therefore behold the king whom ye have chosen, and whom ye have desired! and, behold, the LORD hath set a king over you.

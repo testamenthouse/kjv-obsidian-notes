@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 26:12
-
 Seest thou a man wise in his own conceit? there is more hope of a fool than of him.

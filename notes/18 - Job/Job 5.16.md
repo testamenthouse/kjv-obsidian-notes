@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:16
-
 So the poor hath hope, and iniquity stoppeth her mouth.

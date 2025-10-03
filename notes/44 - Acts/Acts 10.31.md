@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:31
-
 And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God.

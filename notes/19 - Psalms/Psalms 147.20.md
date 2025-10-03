@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 147:20
-
 He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the LORD.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 48:21
-
 And they thirsted not when he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out.

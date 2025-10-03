@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, warfare, son-of-man, jesus, time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 9:31
-
 For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day.

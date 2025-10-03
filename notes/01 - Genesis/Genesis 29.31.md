@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 29:31
-
 And when the LORD saw that Leah was hated, he opened her womb: but Rachel was barren.

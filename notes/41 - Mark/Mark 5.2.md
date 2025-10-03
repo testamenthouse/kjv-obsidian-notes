@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, demonic-entities, adversary]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:2
-
 And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit,

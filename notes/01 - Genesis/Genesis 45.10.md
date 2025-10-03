@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 45:10
-
 And thou shalt dwell in the land of Goshen, and thou shalt be near unto me, thou, and thy children, and thy children's children, and thy flocks, and thy herds, and all that thou hast:

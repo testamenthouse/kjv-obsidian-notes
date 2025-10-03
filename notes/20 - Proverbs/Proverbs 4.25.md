@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 4:25
-
 Let thine eyes look right on, and let thine eyelids look straight before thee.

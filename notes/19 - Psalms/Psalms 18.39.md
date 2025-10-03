@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 18:39
-
 For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me.

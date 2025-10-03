@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 13:5
-
 The altar also was rent, and the ashes poured out from the altar, according to the sign which the man of God had given by the word of the LORD.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 1:36
-
 The sons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek.

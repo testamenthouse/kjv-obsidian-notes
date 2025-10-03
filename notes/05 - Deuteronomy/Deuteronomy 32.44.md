@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 32:44
-
 And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.

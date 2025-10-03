@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 1:2
-
 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;

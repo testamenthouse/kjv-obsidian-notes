@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 36:27
-
 The children of Ezer are these; Bilhan, and Zaavan, and Akan.

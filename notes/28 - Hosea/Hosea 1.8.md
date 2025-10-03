@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 1:8
-
 Now when she had weaned Loruhamah, she conceived, and bare a son.

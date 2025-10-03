@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 15:30
-
 But the soul that doeth ought presumptuously, whether he be born in the land, or a stranger, the same reproacheth the LORD; and that soul shall be cut off from among his people.

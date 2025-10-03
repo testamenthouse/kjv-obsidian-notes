@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 6:6
-
 For thus hath the LORD of hosts said, Hew ye down trees, and cast a mount against Jerusalem: this is the city to be visited; she is wholly oppression in the midst of her.

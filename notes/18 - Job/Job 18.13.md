@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:13
-
 It shall devour the strength of his skin: even the firstborn of death shall devour his strength.

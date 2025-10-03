@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 5:7
-
 And their children, whom he raised up in their stead, them Joshua circumcised: for they were uncircumcised, because they had not circumcised them by the way.

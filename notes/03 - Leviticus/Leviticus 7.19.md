@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 7:19
-
 And the flesh that toucheth any unclean thing shall not be eaten; it shall be burnt with fire: and as for the flesh, all that be clean shall eat thereof.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 144:5
-
 Bow thy heavens, O LORD, and come down: touch the mountains, and they shall smoke.

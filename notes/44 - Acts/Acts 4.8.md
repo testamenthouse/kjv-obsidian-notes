@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:8
-
 Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel,

@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:38
-
 He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease.

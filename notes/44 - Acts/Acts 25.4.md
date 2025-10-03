@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:4
-
 But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly thither.

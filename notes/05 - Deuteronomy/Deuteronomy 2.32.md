@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 2:32
-
 Then Sihon came out against us, he and all his people, to fight at Jahaz.

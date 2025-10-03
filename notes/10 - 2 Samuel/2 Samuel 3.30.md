@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 3:30
-
 So Joab, and Abishai his brother slew Abner, because he had slain their brother Asahel at Gibeon in the battle.

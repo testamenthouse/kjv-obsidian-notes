@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:41
-
 And Jair the son of Manasseh went and took the small towns thereof, and called them Havothjair.

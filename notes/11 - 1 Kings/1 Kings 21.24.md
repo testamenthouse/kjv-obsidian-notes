@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 21:24
-
 Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the fowls of the air eat.

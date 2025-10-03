@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:71
-
 He spake of Judas Iscariot the son of Simon: for he it was that should betray him, being one of the twelve.

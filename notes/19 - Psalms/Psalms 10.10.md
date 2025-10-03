@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 10:10
-
 He croucheth, and humbleth himself, that the poor may fall by his strong ones.

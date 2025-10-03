@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 42:28
-
 And he said unto his brethren, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they were afraid, saying one to another, What is this that God hath done unto us?

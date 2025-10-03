@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 9:5
-
 For whether is easier, to say, Thy sins be forgiven thee; or to say, Arise, and walk?

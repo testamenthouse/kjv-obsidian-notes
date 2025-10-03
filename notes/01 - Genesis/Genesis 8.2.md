@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 8:2
-
 The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;

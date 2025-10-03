@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:40
-
 Thus I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.

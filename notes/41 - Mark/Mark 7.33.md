@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 7:33
-
 And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue;

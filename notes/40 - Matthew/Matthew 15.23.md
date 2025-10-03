@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:23
-
 But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.

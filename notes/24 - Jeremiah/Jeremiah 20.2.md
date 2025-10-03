@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 20:2
-
 Then Pashur smote Jeremiah the prophet, and put him in the stocks that were in the high gate of Benjamin, which was by the house of the LORD.

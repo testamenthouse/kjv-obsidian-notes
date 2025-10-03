@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 6:20
-
 Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:37
-
 Hear me, O LORD, hear me, that this people may know that thou art the LORD God, and that thou hast turned their heart back again.

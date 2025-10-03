@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 7:16
-
 Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?

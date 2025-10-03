@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, jesus, jesus-title]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 1:28
-
 Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:

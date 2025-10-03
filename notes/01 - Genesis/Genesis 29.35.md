@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 29:35
-
 And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing.

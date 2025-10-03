@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 9:7
-
 And of the sons of Benjamin; Sallu the son of Meshullam, the son of Hodaviah, the son of Hasenuah,

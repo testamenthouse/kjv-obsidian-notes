@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 14:3
-
 And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also.

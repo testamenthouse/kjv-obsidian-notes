@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 2:7
-
 And if thy oblation be a meat offering baked in the frying pan, it shall be made of fine flour with oil.

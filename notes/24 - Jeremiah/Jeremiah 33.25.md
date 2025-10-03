@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, conditional]
 thematic_tags: [names-of-god, covenant, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 33:25
-
 Thus saith the LORD; If my covenant be not with day and night, and if I have not appointed the ordinances of heaven and earth;

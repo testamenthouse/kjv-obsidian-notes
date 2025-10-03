@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 12:14
-
 But in the place which the LORD shall choose in one of thy tribes, there thou shalt offer thy burnt offerings, and there thou shalt do all that I command thee.

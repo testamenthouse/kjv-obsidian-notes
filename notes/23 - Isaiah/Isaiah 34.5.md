@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 34:5
-
 For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.

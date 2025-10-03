@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 52:29
-
 In the eighteenth year of Nebuchadrezzar he carried away captive from Jerusalem eight hundred thirty and two persons:

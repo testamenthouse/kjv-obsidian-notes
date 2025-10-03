@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:30
-
 Neither have I suffered my mouth to sin by wishing a curse to his soul.

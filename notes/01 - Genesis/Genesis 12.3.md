@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 12:3
-
 And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.

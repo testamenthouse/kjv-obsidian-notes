@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 20:14
-
 Cursed be the day wherein I was born: let not the day wherein my mother bare me be blessed.

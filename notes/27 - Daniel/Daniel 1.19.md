@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 1:19
-
 And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king.

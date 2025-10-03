@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 86:9
-
 All nations whom thou hast made shall come and worship before thee, O Lord; and shall glorify thy name.

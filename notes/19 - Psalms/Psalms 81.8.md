@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 81:8
-
 Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;

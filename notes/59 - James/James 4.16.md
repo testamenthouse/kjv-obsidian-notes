@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 4:16
-
 But now ye rejoice in your boastings: all such rejoicing is evil.

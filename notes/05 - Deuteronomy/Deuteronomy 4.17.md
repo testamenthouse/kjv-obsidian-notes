@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 4:17
-
 The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,

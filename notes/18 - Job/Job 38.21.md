@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:21
-
 Knowest thou it, because thou wast then born? or because the number of thy days is great?

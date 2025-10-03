@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 1:12
-
 Thus saith the LORD; Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 26:8
-
 LORD, I have loved the habitation of thy house, and the place where thine honour dwelleth.

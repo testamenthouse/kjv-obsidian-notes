@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:41
-
 And Elijah said unto Ahab, Get thee up, eat and drink; for there is a sound of abundance of rain.

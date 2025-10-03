@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 29:15
-
 Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?

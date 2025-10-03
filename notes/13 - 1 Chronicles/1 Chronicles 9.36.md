@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 9:36
-
 And his firstborn son Abdon, then Zur, and Kish, and Baal, and Ner, and Nadab.

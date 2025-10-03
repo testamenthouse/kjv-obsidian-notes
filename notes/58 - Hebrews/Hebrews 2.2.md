@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 2:2
-
 For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;

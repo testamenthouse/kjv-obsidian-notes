@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 4:7
-
 Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm shall be uncovered, and thou shalt prophesy against it.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:7
-
 Bring me venison, and make me savory meat, that I may eat, and bless thee before the LORD before my death.

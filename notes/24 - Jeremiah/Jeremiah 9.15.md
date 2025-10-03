@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 9:15
-
 Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will feed them, even this people, with wormwood, and give them water of gall to drink.

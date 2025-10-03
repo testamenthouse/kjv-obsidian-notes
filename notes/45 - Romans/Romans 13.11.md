@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 13:11
-
 And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.

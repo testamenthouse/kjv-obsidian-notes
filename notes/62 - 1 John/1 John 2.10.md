@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:10
-
 He that loveth his brother abideth in the light, and there is none occasion of stumbling in him.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 16:6
-
 But Abram said unto Sarai, Behold, thy maid is in thine hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.

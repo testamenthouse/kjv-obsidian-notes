@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 42:1
-
 As the hart panteth after the water brooks, so panteth my soul after thee, O God.

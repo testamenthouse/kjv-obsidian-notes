@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:4
-
 Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.

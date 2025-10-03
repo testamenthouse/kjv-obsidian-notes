@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 48:2
-
 Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:32
-
 Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him.

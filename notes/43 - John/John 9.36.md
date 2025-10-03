@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:36
-
 He answered and said, Who is he, Lord, that I might believe on him?

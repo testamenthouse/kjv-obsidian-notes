@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 5:9
-
 What is thy beloved more than another beloved, O thou fairest among women? what is thy beloved more than another beloved, that thou dost so charge us?

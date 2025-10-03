@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, contrast]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 37:35
-
 And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him.

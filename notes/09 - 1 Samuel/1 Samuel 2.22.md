@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 2:22
-
 Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title, time-units, time]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 1:8
-
 Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ.

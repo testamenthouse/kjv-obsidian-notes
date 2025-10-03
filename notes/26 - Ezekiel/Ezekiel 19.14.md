@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, cause-effect]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 19:14
-
 And fire is gone out of a rod of her branches, which hath devoured her fruit, so that she hath no strong rod to be a sceptre to rule. This is a lamentation, and shall be for a lamentation.

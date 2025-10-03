@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:12
-
 Men groan from out of the city, and the soul of the wounded crieth out: yet God layeth not folly to them.

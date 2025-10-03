@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:68
-
 But he denied, saying, I know not, neither understand I what thou sayest. And he went out into the porch; and the cock crew.

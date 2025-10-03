@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 14:4
-
 And commanded Judah to seek the LORD God of their fathers, and to do the law and the commandment.

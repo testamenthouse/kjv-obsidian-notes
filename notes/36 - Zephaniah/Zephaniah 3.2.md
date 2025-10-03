@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 3:2
-
 She obeyed not the voice; she received not correction; she trusted not in the LORD; she drew not near to her God.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:41
-
 The Jews then murmured at him, because he said, I am the bread which came down from heaven.

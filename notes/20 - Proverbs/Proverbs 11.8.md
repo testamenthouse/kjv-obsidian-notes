@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 11:8
-
 The righteous is delivered out of trouble, and the wicked cometh in his stead.

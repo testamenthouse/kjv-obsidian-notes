@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 28:27
-
 But ye shall offer the burnt offering for a sweet savor unto the LORD; two young bullocks, one ram, seven lambs of the first year;

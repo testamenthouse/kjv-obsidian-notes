@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 26:10
-
 When the princes of Judah heard these things, then they came up from the king's house unto the house of the LORD, and sat down in the entry of the new gate of the LORD's house.

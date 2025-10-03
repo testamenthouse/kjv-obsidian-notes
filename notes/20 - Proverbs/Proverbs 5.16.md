@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 5:16
-
 Let thy fountains be dispersed abroad, and rivers of waters in the streets.

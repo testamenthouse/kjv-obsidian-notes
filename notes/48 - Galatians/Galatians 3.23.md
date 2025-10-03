@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 3:23
-
 But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.

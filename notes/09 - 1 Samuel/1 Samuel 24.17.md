@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 24:17
-
 And he said to David, Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil.

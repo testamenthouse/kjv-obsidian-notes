@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 8:6
-
 And these are the sons of Ehud: these are the heads of the fathers of the inhabitants of Geba, and they removed them to Manahath:

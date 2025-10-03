@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 4:4
-
 For every creature of God is good, and nothing to be refused, if it be received with thanksgiving:

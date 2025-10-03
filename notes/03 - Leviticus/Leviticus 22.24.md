@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 22:24
-
 Ye shall not offer unto the LORD that which is bruised, or crushed, or broken, or cut; neither shall ye make any offering thereof in your land.

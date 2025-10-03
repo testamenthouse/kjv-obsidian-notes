@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:24
-
 He shall flee from the iron weapon, and the bow of steel shall strike him through.

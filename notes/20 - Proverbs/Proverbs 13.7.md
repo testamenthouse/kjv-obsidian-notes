@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 13:7
-
 There is that maketh himself rich, yet hath nothing: there is that maketh himself poor, yet hath great riches.

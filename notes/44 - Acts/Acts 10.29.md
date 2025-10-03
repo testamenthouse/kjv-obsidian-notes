@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:29
-
 Therefore came I unto you without gainsaying, as soon as I was sent for: I ask therefore for what intent ye have sent for me?

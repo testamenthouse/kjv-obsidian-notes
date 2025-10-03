@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:12
-
 Whereupon as I went to Damascus with authority and commission from the chief priests,

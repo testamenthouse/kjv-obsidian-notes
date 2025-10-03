@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 2:5
-
 And if thy oblation be a meat offering baked in a pan, it shall be of fine flour unleavened, mingled with oil.

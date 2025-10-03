@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:20
-
 Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat still in the house.

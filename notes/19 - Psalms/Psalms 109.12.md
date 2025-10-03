@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:12
-
 Let there be none to extend mercy unto him: neither let there be any to favour his fatherless children.

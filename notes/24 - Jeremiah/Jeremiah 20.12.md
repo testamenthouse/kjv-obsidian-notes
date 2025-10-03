@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 20:12
-
 But, O LORD of hosts, that triest the righteous, and seest the reins and the heart, let me see thy vengeance on them: for unto thee have I opened my cause.

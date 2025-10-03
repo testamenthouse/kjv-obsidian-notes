@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 6:4
-
 Return, O LORD, deliver my soul: oh save me for thy mercies' sake.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:32
-
 That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.

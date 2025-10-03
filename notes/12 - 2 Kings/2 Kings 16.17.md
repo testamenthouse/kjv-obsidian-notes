@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 16:17
-
 And king Ahaz cut off the borders of the bases, and removed the laver from off them; and took down the sea from off the brazen oxen that were under it, and put it upon the pavement of stones.

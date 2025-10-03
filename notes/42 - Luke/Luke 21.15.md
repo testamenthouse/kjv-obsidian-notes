@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:15
-
 For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 55:22
-
 Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 2:31
-
 Behold, the days come, that I will cut off thine arm, and the arm of thy father's house, that there shall not be an old man in thine house.

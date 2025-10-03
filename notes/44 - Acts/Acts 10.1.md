@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:1
-
 There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:55
-
 When thy sisters, Sodom and her daughters, shall return to their former estate, and Samaria and her daughters shall return to their former estate, then thou and thy daughters shall return to your former estate.

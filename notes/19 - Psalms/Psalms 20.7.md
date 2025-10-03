@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 20:7
-
 Some trust in chariots, and some in horses: but we will remember the name of the LORD our God.

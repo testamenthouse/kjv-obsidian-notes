@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 11:35
-
 Or who hath first given to him, and it shall be recompensed unto him again?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 25:28
-
 And it shall be, if they refuse to take the cup at thine hand to drink, then shalt thou say unto them, Thus saith the LORD of hosts; Ye shall certainly drink.

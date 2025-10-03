@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:17
-
 But he, knowing their thoughts, said unto them, Every kingdom divided against itself is brought to desolation; and a house divided against a house falleth.

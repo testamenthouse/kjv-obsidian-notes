@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:8
-
 But I said, Not so, Lord: for nothing common or unclean hath at any time entered into my mouth.

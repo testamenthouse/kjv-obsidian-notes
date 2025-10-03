@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 91:14
-
 Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 17:16
-
 And they left all the commandments of the LORD their God, and made them molten images, even two calves, and made a grove, and worshipped all the host of heaven, and served Baal.

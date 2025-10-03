@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast-opener, negation, contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 2:29
-
 But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 139:12
-
 Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee.

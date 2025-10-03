@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 61:3
-
 For thou hast been a shelter for me, and a strong tower from the enemy.

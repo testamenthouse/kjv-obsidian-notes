@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 1:2
-
 (There are eleven days' journey from Horeb by the way of mount Seir unto Kadeshbarnea.)

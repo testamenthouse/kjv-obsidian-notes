@@ -13,7 +13,4 @@ grammar_tags: [question, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 4:9
-
 (Now that he ascended, what is it but that he also descended first into the lower parts of the earth?

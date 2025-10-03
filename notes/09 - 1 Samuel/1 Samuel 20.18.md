@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-feasts, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 20:18
-
 Then Jonathan said to David, To morrow is the new moon: and thou shalt be missed, because thy seat will be empty.

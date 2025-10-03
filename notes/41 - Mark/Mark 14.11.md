@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:11
-
 And when they heard it, they were glad, and promised to give him money. And he sought how he might conveniently betray him.

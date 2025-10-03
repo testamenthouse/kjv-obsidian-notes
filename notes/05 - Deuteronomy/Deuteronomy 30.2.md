@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 30:2
-
 And shalt return unto the LORD thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul;

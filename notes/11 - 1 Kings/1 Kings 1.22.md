@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 1:22
-
 And, lo, while she yet talked with the king, Nathan the prophet also came in.

@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional, genealogy-structure]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 23:10
-
 If there be among you any man, that is not clean by reason of uncleanness that chanceth him by night, then shall he go abroad out of the camp, he shall not come within the camp:

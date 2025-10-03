@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:20
-
 He said unto them, But whom say ye that I am? Peter answering said, The Christ of God.

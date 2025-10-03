@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 18:28
-
 So the king of Israel and Jehoshaphat the king of Judah went up to Ramothgilead.

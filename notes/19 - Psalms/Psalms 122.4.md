@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 122:4
-
 Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:47
-
 Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like:

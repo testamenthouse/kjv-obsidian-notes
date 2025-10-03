@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Philemon"]
 ---
-
-# Philemon 1:10
-
 I beseech thee for my son Onesimus, whom I have begotten in my bonds:

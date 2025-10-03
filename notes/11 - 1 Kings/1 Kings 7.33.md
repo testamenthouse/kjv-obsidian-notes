@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 7:33
-
 And the work of the wheels was like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, were all molten.

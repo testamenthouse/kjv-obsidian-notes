@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:40
-
 Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.

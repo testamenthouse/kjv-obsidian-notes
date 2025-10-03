@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, lament, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 6:4
-
 Prepare ye war against her; arise, and let us go up at noon. Woe unto us! for the day goeth away, for the shadows of the evening are stretched out.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 23:16
-
 Take an harp, go about the city, thou harlot that hast been forgotten; make sweet melody, sing many songs, that thou mayest be remembered.

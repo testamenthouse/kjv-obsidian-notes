@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 138:6
-
 Though the LORD be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.

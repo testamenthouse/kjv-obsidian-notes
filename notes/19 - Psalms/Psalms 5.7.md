@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 5:7
-
 But as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.

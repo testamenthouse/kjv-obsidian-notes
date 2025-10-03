@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 30:9
-
 In that day shall messengers go forth from me in ships to make the careless Ethiopians afraid, and great pain shall come upon them, as in the day of Egypt: for, lo, it cometh.

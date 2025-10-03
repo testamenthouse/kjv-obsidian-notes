@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 2:13
-
 And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.

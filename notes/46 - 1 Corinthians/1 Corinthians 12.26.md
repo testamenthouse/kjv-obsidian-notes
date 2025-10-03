@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 12:26
-
 And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.

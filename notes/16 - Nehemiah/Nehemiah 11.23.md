@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship, time-units, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 11:23
-
 For it was the king's commandment concerning them, that a certain portion should be for the singers, due for every day.

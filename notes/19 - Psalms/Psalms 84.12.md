@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 84:12
-
 O LORD of hosts, blessed is the man that trusteth in thee.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 8:3
-
 Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.

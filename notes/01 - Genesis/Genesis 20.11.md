@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 20:11
-
 And Abraham said, Because I thought, Surely the fear of God is not in this place; and they will slay me for my wife's sake.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 49:27
-
 And I will kindle a fire in the wall of Damascus, and it shall consume the palaces of Benhadad.

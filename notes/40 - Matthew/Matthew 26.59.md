@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:59
-
 Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;

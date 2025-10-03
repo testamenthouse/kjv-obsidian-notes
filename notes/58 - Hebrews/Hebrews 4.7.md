@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 4:7
-
 Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.

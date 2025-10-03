@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:9
-
 For he satisfieth the longing soul, and filleth the hungry soul with goodness.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 83:7
-
 Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;

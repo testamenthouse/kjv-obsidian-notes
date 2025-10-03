@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:24
-
 Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it.

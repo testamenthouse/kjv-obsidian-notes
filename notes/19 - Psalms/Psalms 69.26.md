@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:26
-
 For they persecute him whom thou hast smitten; and they talk to the grief of those whom thou hast wounded.

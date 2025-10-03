@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:135
-
 Make thy face to shine upon thy servant; and teach me thy statutes.

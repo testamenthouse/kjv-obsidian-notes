@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 9:22
-
 But of the children of Israel did Solomon make no bondmen: but they were men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen.

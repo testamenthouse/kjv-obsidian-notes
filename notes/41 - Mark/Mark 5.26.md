@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:26
-
 And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,

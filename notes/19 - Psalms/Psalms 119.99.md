@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:99
-
 I have more understanding than all my teachers: for thy testimonies are my meditation.

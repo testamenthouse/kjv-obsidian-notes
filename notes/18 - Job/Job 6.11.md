@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 6:11
-
 What is my strength, that I should hope? and what is mine end, that I should prolong my life?

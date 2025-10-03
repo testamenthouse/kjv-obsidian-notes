@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 34:9
-
 O fear the LORD, ye his saints: for there is no want to them that fear him.

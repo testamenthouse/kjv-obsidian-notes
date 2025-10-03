@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [time-eschatology, time-period, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 10:37
-
 For yet a little while, and he that shall come will come, and will not tarry.

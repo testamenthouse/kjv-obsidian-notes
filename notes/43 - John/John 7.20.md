@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:20
-
 The people answered and said, Thou hast a devil: who goeth about to kill thee?

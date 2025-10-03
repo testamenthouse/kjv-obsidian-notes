@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:10
-
 But man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?

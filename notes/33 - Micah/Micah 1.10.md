@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 1:10
-
 Declare ye it not at Gath, weep ye not at all: in the house of Aphrah roll thyself in the dust.

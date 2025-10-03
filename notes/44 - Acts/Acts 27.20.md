@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:20
-
 And when neither sun nor stars in many days appeared, and no small tempest lay on us, all hope that we should be saved was then taken away.

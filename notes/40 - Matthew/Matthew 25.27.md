@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 25:27
-
 Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury.

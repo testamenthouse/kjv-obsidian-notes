@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:2
-
 By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 37:16
-
 When Jeremiah was entered into the dungeon, and into the cabins, and Jeremiah had remained there many days;

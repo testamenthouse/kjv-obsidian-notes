@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 8:2
-
 And devout men carried Stephen to his burial, and made great lamentation over him.

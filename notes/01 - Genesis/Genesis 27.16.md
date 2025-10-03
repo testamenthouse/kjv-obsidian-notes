@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 27:16
-
 And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:

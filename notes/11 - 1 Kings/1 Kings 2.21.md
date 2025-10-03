@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:21
-
 And she said, Let Abishag the Shunammite be given to Adonijah thy brother to wife.

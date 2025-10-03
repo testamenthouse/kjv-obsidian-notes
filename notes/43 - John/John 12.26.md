@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:26
-
 If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour.

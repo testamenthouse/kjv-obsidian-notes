@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 37:19
-
 And they said one to another, Behold, this dreamer cometh.

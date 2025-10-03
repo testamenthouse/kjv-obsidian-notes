@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 21:15
-
 And thou shalt have great sickness by disease of thy bowels, until thy bowels fall out by reason of the sickness day by day.

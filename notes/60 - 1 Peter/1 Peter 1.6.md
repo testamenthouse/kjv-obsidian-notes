@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [warfare, time-period, time]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 1:6
-
 Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:

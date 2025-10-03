@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 11:10
-
 Therefore the men of Jabesh said, To morrow we will come out unto you, and ye shall do with us all that seemeth good unto you.

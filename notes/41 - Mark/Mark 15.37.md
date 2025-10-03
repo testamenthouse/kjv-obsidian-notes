@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title, lament]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:37
-
 And Jesus cried with a loud voice, and gave up the ghost.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 36:43
-
 Duke Magdiel, duke Iram: these be the dukes of Edom, according to their habitations in the land of their possession: he is Esau the father of the Edomites.

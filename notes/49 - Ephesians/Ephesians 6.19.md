@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 6:19
-
 And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 11:10
-
 And Zorah, and Aijalon, and Hebron, which are in Judah and in Benjamin fenced cities.

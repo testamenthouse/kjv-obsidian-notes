@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 49:18
-
 As in the overthrow of Sodom and Gomorrah and the neighbour cities thereof, saith the LORD, no man shall abide there, neither shall a son of man dwell in it.

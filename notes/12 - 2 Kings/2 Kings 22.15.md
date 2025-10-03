@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 22:15
-
 And she said unto them, Thus saith the LORD God of Israel, Tell the man that sent you to me,

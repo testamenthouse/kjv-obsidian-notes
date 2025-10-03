@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 17:14
-
 And when they were come to the multitude, there came to him a certain man, kneeling down to him, and saying,

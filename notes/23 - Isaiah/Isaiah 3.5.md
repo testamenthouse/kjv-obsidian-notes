@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 3:5
-
 And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable.

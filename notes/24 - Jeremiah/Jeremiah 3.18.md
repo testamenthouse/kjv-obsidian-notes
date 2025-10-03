@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 3:18
-
 In those days the house of Judah shall walk with the house of Israel, and they shall come together out of the land of the north to the land that I have given for an inheritance unto your fathers.

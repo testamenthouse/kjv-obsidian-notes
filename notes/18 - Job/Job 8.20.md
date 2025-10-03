@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:20
-
 Behold, God will not cast away a perfect man, neither will he help the evil doers:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 6:21
-
 And the children of Israel, which were come again out of captivity, and all such as had separated themselves unto them from the filthiness of the heathen of the land, to seek the LORD God of Israel, did eat,

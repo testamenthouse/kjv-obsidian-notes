@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, cause-effect]
 thematic_tags: [names-of-god, adversary-epithet, adversary]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 5:13
-
 But them that are without God judgeth. Therefore put away from among yourselves that wicked person.

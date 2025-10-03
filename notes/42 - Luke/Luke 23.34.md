@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:34
-
 Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.

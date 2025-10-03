@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:62
-
 And I will establish my covenant with thee; and thou shalt know that I am the LORD:

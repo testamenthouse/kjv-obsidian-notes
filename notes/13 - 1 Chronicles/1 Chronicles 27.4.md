@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 27:4
-
 And over the course of the second month was Dodai an Ahohite, and of his course was Mikloth also the ruler: in his course likewise were twenty and four thousand.

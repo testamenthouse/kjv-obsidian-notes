@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 9:21
-
 Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.

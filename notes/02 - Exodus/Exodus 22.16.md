@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 22:16
-
 And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife.

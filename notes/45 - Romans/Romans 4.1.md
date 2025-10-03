@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 4:1
-
 What shall we say then that Abraham our father, as pertaining to the flesh, hath found?

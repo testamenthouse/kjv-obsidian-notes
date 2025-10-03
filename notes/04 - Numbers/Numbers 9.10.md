@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional, genealogy-structure]
 thematic_tags: [names-of-god, time-feasts, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 9:10
-
 Speak unto the children of Israel, saying, If any man of you or of your posterity shall be unclean by reason of a dead body, or be in a journey afar off, yet he shall keep the passover unto the LORD.

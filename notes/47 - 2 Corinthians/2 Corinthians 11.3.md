@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [jesus-title, jesus, adversary-metaphor, adversary]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 11:3
-
 But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 5:1
-
 And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,

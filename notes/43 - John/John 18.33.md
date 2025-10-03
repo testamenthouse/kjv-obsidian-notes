@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:33
-
 Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?

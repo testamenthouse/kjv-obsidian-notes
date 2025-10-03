@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 7:5
-
 That they may keep thee from the strange woman, from the stranger which flattereth with her words.

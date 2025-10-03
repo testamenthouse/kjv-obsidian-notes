@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:28
-
 Now no man at the table knew for what intent he spake this unto him.

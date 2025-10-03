@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 21:7
-
 They shall not take a wife that is a whore, or profane; neither shall they take a woman put away from her husband: for he is holy unto his God.

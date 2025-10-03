@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:11
-
 She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee: go, and sin no more.

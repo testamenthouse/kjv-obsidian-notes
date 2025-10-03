@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 9:1
-
 And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.

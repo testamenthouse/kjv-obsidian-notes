@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 4:24
-
 This is the interpretation, O king, and this is the decree of the most High, which is come upon my lord the king:

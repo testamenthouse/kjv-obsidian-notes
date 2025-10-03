@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 1:5
-
 There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee.

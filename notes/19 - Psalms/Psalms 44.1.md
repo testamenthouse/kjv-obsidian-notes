@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 44:1
-
 We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old.

@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 56:8
-
 Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?

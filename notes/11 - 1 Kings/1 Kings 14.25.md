@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 14:25
-
 And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:

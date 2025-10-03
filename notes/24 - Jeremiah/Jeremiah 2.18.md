@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 2:18
-
 And now what hast thou to do in the way of Egypt, to drink the waters of Sihor? or what hast thou to do in the way of Assyria, to drink the waters of the river?

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 11:13
-
 For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 8:31
-
 So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.

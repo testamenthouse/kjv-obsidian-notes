@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:29
-
 In those days they shall say no more, The fathers have eaten a sour grape, and the children's teeth are set on edge.

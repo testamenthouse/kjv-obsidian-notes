@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 51:1
-
 Hearken to me, ye that follow after righteousness, ye that seek the LORD: look unto the rock whence ye are hewn, and to the hole of the pit whence ye are digged.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 9:15
-
 The ancient and honourable, he is the head; and the prophet that teacheth lies, he is the tail.

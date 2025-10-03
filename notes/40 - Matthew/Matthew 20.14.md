@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 20:14
-
 Take that thine is, and go thy way: I will give unto this last, even as unto thee.

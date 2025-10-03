@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 4:4
-
 Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest.

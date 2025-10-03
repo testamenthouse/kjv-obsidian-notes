@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 145:8
-
 The LORD is gracious, and full of compassion; slow to anger, and of great mercy.

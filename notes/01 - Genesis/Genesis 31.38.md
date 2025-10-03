@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:38
-
 This twenty years have I been with thee; thy ewes and thy she goats have not cast their young, and the rams of thy flock have I not eaten.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, lament, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 22:2
-
 O my God, I cry in the day time, but thou hearest not; and in the night season, and am not silent.

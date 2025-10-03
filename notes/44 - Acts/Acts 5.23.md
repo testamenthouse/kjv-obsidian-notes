@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:23
-
 Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within.

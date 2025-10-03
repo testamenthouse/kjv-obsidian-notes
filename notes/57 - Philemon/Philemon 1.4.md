@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Philemon"]
 ---
-
-# Philemon 1:4
-
 I thank my God, making mention of thee always in my prayers,

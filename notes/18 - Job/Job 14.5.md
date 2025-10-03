@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:5
-
 Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass;

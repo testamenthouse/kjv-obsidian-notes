@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 14:14
-
 I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean.

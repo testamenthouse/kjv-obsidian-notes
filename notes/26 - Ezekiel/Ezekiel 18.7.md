@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 18:7
-
 And hath not oppressed any, but hath restored to the debtor his pledge, hath spoiled none by violence, hath given his bread to the hungry, and hath covered the naked with a garment;

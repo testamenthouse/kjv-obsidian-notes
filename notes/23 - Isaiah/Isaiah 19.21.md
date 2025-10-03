@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 19:21
-
 And the LORD shall be known to Egypt, and the Egyptians shall know the LORD in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the LORD, and perform it.

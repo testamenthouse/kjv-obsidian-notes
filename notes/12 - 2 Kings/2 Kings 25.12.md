@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 25:12
-
 But the captain of the guard left of the door of the poor of the land to be vinedressers and husbandmen.

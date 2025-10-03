@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 9:13
-
 So Mephibosheth dwelt in Jerusalem: for he did eat continually at the king's table; and was lame on both his feet.

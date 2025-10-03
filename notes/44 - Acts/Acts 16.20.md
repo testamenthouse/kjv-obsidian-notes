@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 16:20
-
 And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city,

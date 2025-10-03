@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:48
-
 And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned.

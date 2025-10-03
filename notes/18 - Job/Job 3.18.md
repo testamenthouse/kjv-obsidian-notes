@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:18
-
 There the prisoners rest together; they hear not the voice of the oppressor.

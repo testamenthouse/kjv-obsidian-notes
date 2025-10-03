@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 23:2
-
 A bastard shall not enter into the congregation of the LORD; even to his tenth generation shall he not enter into the congregation of the LORD.

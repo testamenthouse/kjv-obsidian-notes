@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:23
-
 And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 13:23
-
 Know ye that our brother Timothy is set at liberty; with whom, if he come shortly, I will see you.

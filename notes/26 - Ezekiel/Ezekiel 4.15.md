@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 4:15
-
 Then he said unto me, Lo, I have given thee cow's dung for man's dung, and thou shalt prepare thy bread therewith.

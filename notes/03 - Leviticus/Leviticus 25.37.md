@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 25:37
-
 Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase.

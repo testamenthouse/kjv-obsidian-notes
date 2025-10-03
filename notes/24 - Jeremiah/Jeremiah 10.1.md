@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 10:1
-
 Hear ye the word which the LORD speaketh unto you, O house of Israel:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 14:2
-
 He was twenty and five years old when he began to reign, and reigned twenty and nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.

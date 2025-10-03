@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 2:31
-
 He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption.

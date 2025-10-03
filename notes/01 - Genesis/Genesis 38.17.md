@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 38:17
-
 And he said, I will send thee a kid from the flock. And she said, Wilt thou give me a pledge, till thou send it?

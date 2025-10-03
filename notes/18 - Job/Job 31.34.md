@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:34
-
 Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?

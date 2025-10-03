@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god, warfare, time-feasts, time]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 35:6
-
 So kill the passover, and sanctify yourselves, and prepare your brethren, that they may do according to the word of the LORD by the hand of Moses.

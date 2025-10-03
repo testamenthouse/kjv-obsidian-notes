@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time-feasts, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 16:1
-
 Observe the month of Abib, and keep the passover unto the LORD thy God: for in the month of Abib the LORD thy God brought thee forth out of Egypt by night.

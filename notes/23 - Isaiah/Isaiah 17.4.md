@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 17:4
-
 And in that day it shall come to pass, that the glory of Jacob shall be made thin, and the fatness of his flesh shall wax lean.

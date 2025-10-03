@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 108:9
-
 Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.

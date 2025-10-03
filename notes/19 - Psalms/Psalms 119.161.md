@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:161
-
 Princes have persecuted me without a cause: but my heart standeth in awe of thy word.

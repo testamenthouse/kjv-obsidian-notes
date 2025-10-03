@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 28:15
-
 As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.

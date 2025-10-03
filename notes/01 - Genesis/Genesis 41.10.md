@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:10
-
 Pharaoh was wroth with his servants, and put me in ward in the captain of the guard's house, both me and the chief baker:

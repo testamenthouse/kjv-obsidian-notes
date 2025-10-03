@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:4
-
 For thou hast said, My doctrine is pure, and I am clean in thine eyes.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:1
-
 Surely there is a vein for the silver, and a place for gold where they fine it.

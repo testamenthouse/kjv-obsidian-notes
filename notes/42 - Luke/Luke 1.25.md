@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:25
-
 Thus hath the Lord dealt with me in the days wherein he looked on me, to take away my reproach among men.

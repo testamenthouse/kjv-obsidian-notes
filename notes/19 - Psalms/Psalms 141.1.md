@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 141:1
-
 Lord, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:26
-
 I was not in safety, neither had I rest, neither was I quiet; yet trouble came.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 11:4
-
 He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.

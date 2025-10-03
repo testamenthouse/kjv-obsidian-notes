@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 13:4
-
 And when he sowed, some seeds fell by the way side, and the fowls came and devoured them up:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 35:21
-
 Yea, they opened their mouth wide against me, and said, Aha, aha, our eye hath seen it.

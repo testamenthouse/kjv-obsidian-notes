@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 2:21
-
 For all seek their own, not the things which are Jesus Christ's.

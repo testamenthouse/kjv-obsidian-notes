@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 5:47
-
 But if ye believe not his writings, how shall ye believe my words?

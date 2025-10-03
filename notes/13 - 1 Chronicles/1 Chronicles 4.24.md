@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 4:24
-
 The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-eschatology, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 22:8
-
 And he discovered the covering of Judah, and thou didst look in that day to the armour of the house of the forest.

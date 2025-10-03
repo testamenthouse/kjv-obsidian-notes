@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:2
-
 And will send unto Babylon fanners, that shall fan her, and shall empty her land: for in the day of trouble they shall be against her round about.

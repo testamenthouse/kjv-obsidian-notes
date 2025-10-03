@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 8:25
-
 And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him.

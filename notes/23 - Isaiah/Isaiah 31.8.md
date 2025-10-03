@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 31:8
-
 Then shall the Assyrian fall with the sword, not of a mighty man; and the sword, not of a mean man, shall devour him: but he shall flee from the sword, and his young men shall be discomfited.

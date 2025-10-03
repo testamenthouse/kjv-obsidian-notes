@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:18
-
 This shall be written for the generation to come: and the people which shall be created shall praise the LORD.

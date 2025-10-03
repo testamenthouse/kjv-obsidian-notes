@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:20
-
 Whereas our substance is not cut down, but the remnant of them the fire consumeth.

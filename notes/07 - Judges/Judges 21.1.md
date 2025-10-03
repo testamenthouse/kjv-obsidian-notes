@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 21:1
-
 Now the men of Israel had sworn in Mizpeh, saying, There shall not any of us give his daughter unto Benjamin to wife.

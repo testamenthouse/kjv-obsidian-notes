@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 15:14
-
 And they sware unto the LORD with a loud voice, and with shouting, and with trumpets, and with cornets.

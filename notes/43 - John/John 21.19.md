@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 21:19
-
 This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.

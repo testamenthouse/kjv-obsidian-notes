@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 21:1
-
 The word which came unto Jeremiah from the LORD, when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying,

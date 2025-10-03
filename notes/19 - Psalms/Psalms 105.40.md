@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 105:40
-
 The people asked, and he brought quails, and satisfied them with the bread of heaven.

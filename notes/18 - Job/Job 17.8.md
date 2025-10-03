@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:8
-
 Upright men shall be astonied at this, and the innocent shall stir up himself against the hypocrite.

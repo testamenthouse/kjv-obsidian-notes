@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:32
-
 That I may come unto you with joy by the will of God, and may with you be refreshed.

@@ -13,7 +13,4 @@ grammar_tags: [conditional, greeting/closing]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 22:20
-
 He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.

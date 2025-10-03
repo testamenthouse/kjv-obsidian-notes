@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 24:1
-
 Again in the ninth year, in the tenth month, in the tenth day of the month, the word of the LORD came unto me, saying,

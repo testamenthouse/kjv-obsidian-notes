@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 7:33
-
 And the sons of Japhlet; Pasach, and Bimhal, and Ashvath. These are the children of Japhlet.

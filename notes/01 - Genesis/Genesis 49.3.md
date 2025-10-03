@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 49:3
-
 Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:

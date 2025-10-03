@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:52
-
 That thine eyes may be open unto the supplication of thy servant, and unto the supplication of thy people Israel, to hearken unto them in all that they call for unto thee.

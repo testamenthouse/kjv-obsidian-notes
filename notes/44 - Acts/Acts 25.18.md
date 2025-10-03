@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:18
-
 Against whom when the accusers stood up, they brought none accusation of such things as I supposed:

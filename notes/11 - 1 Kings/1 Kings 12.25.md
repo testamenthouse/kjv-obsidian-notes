@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 12:25
-
 Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.

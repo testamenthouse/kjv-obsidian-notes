@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 8:6
-
 Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:

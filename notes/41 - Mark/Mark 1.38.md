@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:38
-
 And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 49:15
-
 And he saw that rest was good, and the land that it was pleasant; and bowed his shoulder to bear, and became a servant unto tribute.

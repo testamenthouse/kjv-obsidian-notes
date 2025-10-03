@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 20:9
-
 For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood shall be upon him.

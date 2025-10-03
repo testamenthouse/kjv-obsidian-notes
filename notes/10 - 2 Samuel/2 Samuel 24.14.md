@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 24:14
-
 And David said unto Gad, I am in a great strait: let us fall now into the hand of the LORD; for his mercies are great: and let me not fall into the hand of man.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 1:7
-
 And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation.

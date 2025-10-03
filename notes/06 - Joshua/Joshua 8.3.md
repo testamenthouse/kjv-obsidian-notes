@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [warfare, time-parts-of-day, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 8:3
-
 So Joshua arose, and all the people of war, to go up against Ai: and Joshua chose out thirty thousand mighty men of valor, and sent them away by night.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 15:8
-
 But thou shalt open thine hand wide unto him, and shalt surely lend him sufficient for his need, in that which he wanteth.

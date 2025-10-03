@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 5:13
-
 And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:

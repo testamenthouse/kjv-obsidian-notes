@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 11:23
-
 And there shall be no remnant of them: for I will bring evil upon the men of Anathoth, even the year of their visitation.

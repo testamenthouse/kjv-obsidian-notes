@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:6
-
 And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.

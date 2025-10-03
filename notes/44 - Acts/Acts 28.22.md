@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 28:22
-
 But we desire to hear of thee what thou thinkest: for as concerning this sect, we know that every where it is spoken against.

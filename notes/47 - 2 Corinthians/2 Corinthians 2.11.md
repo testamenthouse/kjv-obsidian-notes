@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 2:11
-
 Lest Satan should get an advantage of us: for we are not ignorant of his devices.

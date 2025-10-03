@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 15:18
-
 The LORD shall reign for ever and ever.

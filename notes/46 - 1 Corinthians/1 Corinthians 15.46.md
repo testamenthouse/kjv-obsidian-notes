@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:46
-
 Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual.

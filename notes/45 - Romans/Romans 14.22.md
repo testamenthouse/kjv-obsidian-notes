@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 14:22
-
 Hast thou faith? have it to thyself before God. Happy is he that condemneth not himself in that thing which he alloweth.

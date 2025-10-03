@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 17:5
-
 Then shalt thou bring forth that man or that woman, which have committed that wicked thing, unto thy gates, even that man or that woman, and shalt stone them with stones, till they die.

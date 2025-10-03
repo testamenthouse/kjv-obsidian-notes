@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:10
-
 Blessed be the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest.

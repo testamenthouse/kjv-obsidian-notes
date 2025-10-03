@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 116:2
-
 Because he hath inclined his ear unto me, therefore will I call upon him as long as I live.

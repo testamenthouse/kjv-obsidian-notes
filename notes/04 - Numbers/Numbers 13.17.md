@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 13:17
-
 And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way southward, and go up into the mountain:

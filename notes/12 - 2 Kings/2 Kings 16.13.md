@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 16:13
-
 And he burnt his burnt offering and his meat offering, and poured his drink offering, and sprinkled the blood of his peace offerings, upon the altar.

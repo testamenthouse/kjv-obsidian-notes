@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:53
-
 The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the fear of his father Isaac.

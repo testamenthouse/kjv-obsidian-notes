@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:13
-
 But he is in one mind, and who can turn him? and what his soul desireth, even that he doeth.

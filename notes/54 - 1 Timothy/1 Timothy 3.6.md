@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","1-Timothy"]
 ---
-
-# 1 Timothy 3:6
-
 Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.

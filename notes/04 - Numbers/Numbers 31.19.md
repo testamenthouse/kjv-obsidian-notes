@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 31:19
-
 And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and your captives on the third day, and on the seventh day.

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:17
-
 Have the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death?

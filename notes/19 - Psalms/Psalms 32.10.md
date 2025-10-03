@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 32:10
-
 Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about.

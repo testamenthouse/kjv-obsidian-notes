@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 35:7
-
 If thou be righteous, what givest thou him? or what receiveth he of thine hand?

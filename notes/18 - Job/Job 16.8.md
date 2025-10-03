@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:8
-
 And thou hast filled me with wrinkles, which is a witness against me: and my leanness rising up in me beareth witness to my face.

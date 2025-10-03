@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 27:11
-
 And if it be any unclean beast, of which they do not offer a sacrifice unto the LORD, then he shall present the beast before the priest:

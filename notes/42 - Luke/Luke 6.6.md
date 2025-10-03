@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:6
-
 And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered.

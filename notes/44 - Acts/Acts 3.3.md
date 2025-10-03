@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 3:3
-
 Who seeing Peter and John about to go into the temple asked an alms.

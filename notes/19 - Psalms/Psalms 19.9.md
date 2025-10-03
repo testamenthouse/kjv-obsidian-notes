@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 19:9
-
 The fear of the LORD is clean, enduring for ever: the judgments of the LORD are true and righteous altogether.

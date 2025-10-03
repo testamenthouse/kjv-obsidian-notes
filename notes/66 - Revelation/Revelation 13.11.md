@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, adversary-metaphor, adversary]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 13:11
-
 And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.

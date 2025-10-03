@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 21:7
-
 For the king trusteth in the LORD, and through the mercy of the most High he shall not be moved.

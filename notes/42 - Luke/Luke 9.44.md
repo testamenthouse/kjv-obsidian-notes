@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 9:44
-
 Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men.

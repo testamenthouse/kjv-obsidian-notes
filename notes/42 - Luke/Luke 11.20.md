@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, demonic-phrases, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:20
-
 But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you.

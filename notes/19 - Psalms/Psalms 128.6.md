@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 128:6
-
 Yea, thou shalt see thy children's children, and peace upon Israel.

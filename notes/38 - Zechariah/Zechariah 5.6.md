@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 5:6
-
 And I said, What is it? And he said, This is an ephah that goeth forth. He said moreover, This is their resemblance through all the earth.

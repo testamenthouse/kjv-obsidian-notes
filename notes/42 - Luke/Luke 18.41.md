@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:41
-
 Saying, What wilt thou that I shall do unto thee? And he said, Lord, that I may receive my sight.

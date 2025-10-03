@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 39:3
-
 My heart was hot within me, while I was musing the fire burned: then spake I with my tongue,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:26
-
 Bless ye God in the congregations, even the Lord, from the fountain of Israel.

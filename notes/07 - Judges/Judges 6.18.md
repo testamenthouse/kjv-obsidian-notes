@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 6:18
-
 Depart not hence, I pray thee, until I come unto thee, and bring forth my present, and set it before thee. And he said, I will tarry until thou come again.

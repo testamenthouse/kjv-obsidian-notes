@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 8:8
-
 I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.

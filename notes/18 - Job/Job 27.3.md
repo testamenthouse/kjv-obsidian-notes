@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:3
-
 All the while my breath is in me, and the spirit of God is in my nostrils;

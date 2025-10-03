@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 2:25
-
 In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;

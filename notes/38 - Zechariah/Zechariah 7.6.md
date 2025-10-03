@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 7:6
-
 And when ye did eat, and when ye did drink, did not ye eat for yourselves, and drink for yourselves?

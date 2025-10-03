@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, time-period, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 11:4
-
 And it came to pass in process of time, that the children of Ammon made war against Israel.

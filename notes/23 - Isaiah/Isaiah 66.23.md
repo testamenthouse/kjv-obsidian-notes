@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship, time-units, time-feasts, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 66:23
-
 And it shall come to pass, that from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith the LORD.

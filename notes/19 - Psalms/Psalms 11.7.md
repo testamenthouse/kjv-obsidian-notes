@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 11:7
-
 For the righteous LORD loveth righteousness; his countenance doth behold the upright.

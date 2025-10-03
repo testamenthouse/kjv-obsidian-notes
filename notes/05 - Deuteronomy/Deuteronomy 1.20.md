@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 1:20
-
 And I said unto you, Ye are come unto the mountain of the Amorites, which the LORD our God doth give unto us.

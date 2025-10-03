@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 26:7
-
 And when we cried unto the LORD God of our fathers, the LORD heard our voice, and looked on our affliction, and our labor, and our oppression:

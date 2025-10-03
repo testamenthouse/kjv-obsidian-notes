@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:25
-
 (Now the Amalekites and the Canaanites dwelt in the valley.) Tomorrow turn you, and get you into the wilderness by the way of the Red sea.

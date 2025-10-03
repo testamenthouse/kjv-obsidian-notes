@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 24:18
-
 Zedekiah was twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.

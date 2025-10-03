@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 23:37
-
 Zelek the Ammonite, Nahari the Beerothite, armourbearer to Joab the son of Zeruiah,

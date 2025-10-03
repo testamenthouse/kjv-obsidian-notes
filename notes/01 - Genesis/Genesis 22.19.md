@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 22:19
-
 So Abraham returned unto his young men, and they rose up and went together to Beersheba; and Abraham dwelt at Beersheba.

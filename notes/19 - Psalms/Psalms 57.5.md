@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 57:5
-
 Be thou exalted, O God, above the heavens; let thy glory be above all the earth.

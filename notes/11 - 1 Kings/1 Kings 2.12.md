@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:12
-
 Then sat Solomon upon the throne of David his father; and his kingdom was established greatly.

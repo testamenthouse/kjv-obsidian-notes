@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 33:2
-
 And Moses wrote their goings out according to their journeys by the commandment of the LORD: and these are their journeys according to their goings out.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 21:2
-
 And the people came to the house of God, and abode there till even before God, and lifted up their voices, and wept sore;

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 38:10
-
 My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.

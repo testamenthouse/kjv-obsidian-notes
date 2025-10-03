@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 32:2
-
 And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim.

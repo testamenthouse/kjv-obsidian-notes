@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 14:3
-
 For Herod had laid hold on John, and bound him, and put him in prison for Herodias' sake, his brother Philip's wife.

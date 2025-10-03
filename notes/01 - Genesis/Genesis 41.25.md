@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:25
-
 And Joseph said unto Pharaoh, The dream of Pharaoh is one: God hath showed Pharaoh what he is about to do.

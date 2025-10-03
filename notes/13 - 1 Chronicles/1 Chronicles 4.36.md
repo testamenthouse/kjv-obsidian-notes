@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 4:36
-
 And Elioenai, and Jaakobah, and Jeshohaiah, and Asaiah, and Adiel, and Jesimiel, and Benaiah,

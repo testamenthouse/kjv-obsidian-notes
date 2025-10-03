@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 8:27
-
 And Gideon made an ephod thereof, and put it in his city, even in Ophrah: and all Israel went thither a whoring after it: which thing became a snare unto Gideon, and to his house.

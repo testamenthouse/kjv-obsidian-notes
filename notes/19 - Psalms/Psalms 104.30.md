@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:30
-
 Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.

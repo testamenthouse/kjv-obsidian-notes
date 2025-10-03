@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:7
-
 But which of you, having a servant plowing or feeding cattle, will say unto him by and by, when he is come from the field, Go and sit down to meat?

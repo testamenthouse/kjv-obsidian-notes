@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 1:22
-
 Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 8:22
-
 And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.

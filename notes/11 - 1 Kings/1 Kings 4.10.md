@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 4:10
-
 The son of Hesed, in Aruboth; to him pertained Sochoh, and all the land of Hepher:

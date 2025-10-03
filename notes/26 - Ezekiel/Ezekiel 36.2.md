@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 36:2
-
 Thus saith the Lord GOD; Because the enemy hath said against you, Aha, even the ancient high places are ours in possession:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 8:16
-
 The Jews had light, and gladness, and joy, and honour.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 19:10
-
 But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which is Jerusalem; and there were with him two asses saddled, his concubine also was with him.

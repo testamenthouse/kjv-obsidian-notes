@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 20:24
-
 And Adoram was over the tribute: and Jehoshaphat the son of Ahilud was recorder:

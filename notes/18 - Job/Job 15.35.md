@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:35
-
 They conceive mischief, and bring forth vanity, and their belly prepareth deceit.

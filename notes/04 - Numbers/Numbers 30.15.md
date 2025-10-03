@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 30:15
-
 But if he shall any ways make them void after that he hath heard them; then he shall bear her iniquity.

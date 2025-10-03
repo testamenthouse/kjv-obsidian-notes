@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:19
-
 And they gave their hands that they would put away their wives; and being guilty, they offered a ram of the flock for their trespass.

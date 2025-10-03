@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:15
-
 Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty two: and after them he numbered all the people, even all the children of Israel, being seven thousand.

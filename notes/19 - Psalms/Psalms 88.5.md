@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 88:5
-
 Free among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 4:20
-
 Moreover the candlesticks with their lamps, that they should burn after the manner before the oracle, of pure gold;

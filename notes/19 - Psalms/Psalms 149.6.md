@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 149:6
-
 Let the high praises of God be in their mouth, and a two-edged sword in their hand;

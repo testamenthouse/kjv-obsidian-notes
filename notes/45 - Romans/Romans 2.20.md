@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 2:20
-
 An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.

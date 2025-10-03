@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 13:29
-
 And the prophet took up the carcass of the man of God, and laid it upon the ass, and brought it back: and the old prophet came to the city, to mourn and to bury him.

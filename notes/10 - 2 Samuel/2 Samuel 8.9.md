@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 8:9
-
 When Toi king of Hamath heard that David had smitten all the host of Hadadezer,

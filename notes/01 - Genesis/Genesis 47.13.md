@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, cause-effect, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 47:13
-
 And there was no bread in all the land; for the famine was very sore, so that the land of Egypt and all the land of Canaan fainted by reason of the famine.

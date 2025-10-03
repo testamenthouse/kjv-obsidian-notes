@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:46
-
 Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 25:1
-
 And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.

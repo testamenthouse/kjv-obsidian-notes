@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 35:5
-
 Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:

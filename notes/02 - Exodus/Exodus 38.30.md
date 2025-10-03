@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 38:30
-
 And therewith he made the sockets to the door of the tabernacle of the congregation, and the brazen altar, and the brazen grate for it, and all the vessels of the altar,

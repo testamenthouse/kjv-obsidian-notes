@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 5:6
-
 As he saith also in another place, Thou art a priest for ever after the order of Melchisedec.

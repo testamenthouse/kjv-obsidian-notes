@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 2:9
-
 Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.

@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, praise-worship, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:22
-
 Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:

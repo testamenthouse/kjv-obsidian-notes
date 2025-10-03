@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 14:15
-
 And the owl, and the night hawk, and the cuckoo, and the hawk after his kind,

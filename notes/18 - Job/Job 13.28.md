@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:28
-
 And he, as a rotten thing, consumeth, as a garment that is moth eaten.

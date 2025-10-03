@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 18:21
-
 Now, behold, thou trustest upon the staff of this bruised reed, even upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt unto all that trust on him.

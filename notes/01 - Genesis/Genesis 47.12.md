@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 47:12
-
 And Joseph nourished his father, and his brethren, and all his father's household, with bread, according to their families.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 2:19
-
 But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,

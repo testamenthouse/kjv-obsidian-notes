@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 44:11
-
 Then they speedily took down every man his sack to the ground, and opened every man his sack.

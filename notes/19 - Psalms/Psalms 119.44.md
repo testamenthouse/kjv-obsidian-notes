@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-eschatology, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:44
-
 So shall I keep thy law continually for ever and ever.

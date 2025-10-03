@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 13:14
-
 Only unto the tribes of Levi he gave none inheritance; the sacrifices of the LORD God of Israel made by fire are their inheritance, as he said unto them.

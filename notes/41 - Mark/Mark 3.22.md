@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 3:22
-
 And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 20:4
-
 Then said Jonathan unto David, Whatsoever thy soul desireth, I will even do it for thee.

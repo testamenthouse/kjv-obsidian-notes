@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 7:7
-
 Then will I cause you to dwell in this place, in the land that I gave to your fathers, for ever and ever.

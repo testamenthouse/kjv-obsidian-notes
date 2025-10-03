@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 1:15
-
 In the four and twentieth day of the sixth month, in the second year of Darius the king.

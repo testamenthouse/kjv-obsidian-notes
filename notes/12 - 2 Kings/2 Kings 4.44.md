@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 4:44
-
 So he set it before them, and they did eat, and left thereof, according to the word of the LORD.

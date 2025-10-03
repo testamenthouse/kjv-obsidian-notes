@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 10:12
-
 And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran.

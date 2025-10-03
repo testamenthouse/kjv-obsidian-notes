@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-eschatology, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 30:8
-
 Now go, write it before them in a table, and note it in a book, that it may be for the time to come for ever and ever:

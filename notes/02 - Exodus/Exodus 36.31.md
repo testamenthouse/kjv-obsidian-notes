@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 36:31
-
 And he made bars of shittim wood; five for the boards of the one side of the tabernacle,

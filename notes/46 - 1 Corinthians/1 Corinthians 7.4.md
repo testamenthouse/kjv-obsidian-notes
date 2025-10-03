@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 7:4
-
 The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.

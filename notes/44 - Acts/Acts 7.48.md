@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 7:48
-
 Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,

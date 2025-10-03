@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 26:7
-
 So the priests and the prophets and all the people heard Jeremiah speaking these words in the house of the LORD.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-units, time-feasts, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 23:23
-
 But in the eighteenth year of king Josiah, wherein this passover was holden to the LORD in Jerusalem.

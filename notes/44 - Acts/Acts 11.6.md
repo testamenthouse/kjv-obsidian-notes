@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:6
-
 Upon the which when I had fastened mine eyes, I considered, and saw fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.

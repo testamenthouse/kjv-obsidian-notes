@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, one-another, jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 15:7
-
 Wherefore receive ye one another, as Christ also received us to the glory of God.

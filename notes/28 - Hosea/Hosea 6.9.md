@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 6:9
-
 And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness.

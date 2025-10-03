@@ -13,7 +13,4 @@ grammar_tags: [question, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 2:7
-
 Why doth this man thus speak blasphemies? who can forgive sins but God only?

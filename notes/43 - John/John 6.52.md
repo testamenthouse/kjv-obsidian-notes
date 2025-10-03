@@ -13,7 +13,4 @@ grammar_tags: [question, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 6:52
-
 The Jews therefore strove among themselves, saying, How can this man give us his flesh to eat?

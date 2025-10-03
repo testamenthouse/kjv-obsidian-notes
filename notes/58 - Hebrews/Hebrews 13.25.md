@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 13:25
-
 Grace be with you all. Amen.

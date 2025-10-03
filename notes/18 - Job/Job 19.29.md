@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:29
-
 Be ye afraid of the sword: for wrath bringeth the punishments of the sword, that ye may know there is a judgment.

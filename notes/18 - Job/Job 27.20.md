@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:20
-
 Terrors take hold on him as waters, a tempest stealeth him away in the night.

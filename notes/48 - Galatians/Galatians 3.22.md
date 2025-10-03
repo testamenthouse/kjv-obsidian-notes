@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 3:22
-
 But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.

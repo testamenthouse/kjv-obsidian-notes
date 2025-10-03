@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 14:11
-
 And the priest that maketh him clean shall present the man that is to be made clean, and those things, before the LORD, at the door of the tabernacle of the congregation:

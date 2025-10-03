@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 23:24
-
 When thou comest into thy neighbor's vineyard, then thou mayest eat grapes thy fill at thine own pleasure; but thou shalt not put any in thy vessel.

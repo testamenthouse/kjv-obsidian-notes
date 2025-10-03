@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 3:1
-
 And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.

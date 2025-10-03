@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:34
-
 So Benaiah the son of Jehoiada went up, and fell upon him, and slew him: and he was buried in his own house in the wilderness.

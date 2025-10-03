@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 14:5
-
 And it came to pass, as soon as the kingdom was confirmed in his hand, that he slew his servants which had slain the king his father.

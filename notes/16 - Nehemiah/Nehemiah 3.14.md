@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 3:14
-
 But the dung gate repaired Malchiah the son of Rechab, the ruler of part of Bethhaccerem; he built it, and set up the doors thereof, the locks thereof, and the bars thereof.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 2:28
-
 Thou shalt sell me meat for money, that I may eat; and give me water for money, that I may drink: only I will pass through on my feet;

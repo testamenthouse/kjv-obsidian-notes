@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast, cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 32:34
-
 Therefore now go, lead the people unto the place of which I have spoken unto thee: behold, mine Angel shall go before thee: nevertheless in the day when I visit I will visit their sin upon them.

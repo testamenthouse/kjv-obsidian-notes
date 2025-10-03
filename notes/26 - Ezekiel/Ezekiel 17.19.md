@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 17:19
-
 Therefore thus saith the Lord GOD; As I live, surely mine oath that he hath despised, and my covenant that he hath broken, even it will I recompense upon his own head.

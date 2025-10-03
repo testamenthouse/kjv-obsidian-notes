@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 7:16
-
 And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in.

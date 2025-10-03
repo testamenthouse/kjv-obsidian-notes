@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [lament]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 2:4
-
 For out of much affliction and anguish of heart I wrote unto you with many tears; not that ye should be grieved, but that ye might know the love which I have more abundantly unto you.

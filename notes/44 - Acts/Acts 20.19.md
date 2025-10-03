@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 20:19
-
 Serving the LORD with all humility of mind, and with many tears, and temptations, which befell me by the lying in wait of the Jews:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:15
-
 Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth.

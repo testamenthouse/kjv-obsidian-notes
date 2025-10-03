@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 15:16
-
 And Samson said, With the jawbone of an ass, heaps upon heaps, with the jaw of an ass have I slain a thousand men.

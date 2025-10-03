@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:9
-
 The gin shall take him by the heel, and the robber shall prevail against him.

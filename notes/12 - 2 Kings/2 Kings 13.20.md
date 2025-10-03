@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 13:20
-
 And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year.

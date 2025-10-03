@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 10:17
-
 But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues;

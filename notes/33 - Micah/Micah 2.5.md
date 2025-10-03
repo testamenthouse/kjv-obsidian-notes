@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 2:5
-
 Therefore thou shalt have none that shall cast a cord by lot in the congregation of the LORD.

@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [one-another, jesus, jesus-title, benediction]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 5:14
-
 Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen.

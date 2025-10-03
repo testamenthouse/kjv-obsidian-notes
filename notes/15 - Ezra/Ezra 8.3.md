@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:3
-
 Of the sons of Shechaniah, of the sons of Pharosh; Zechariah: and with him were reckoned by genealogy of the males an hundred and fifty.

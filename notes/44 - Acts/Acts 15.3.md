@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:3
-
 And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy unto all the brethren.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 12:5
-
 Eluzai, and Jerimoth, and Bealiah, and Shemariah, and Shephatiah the Haruphite,

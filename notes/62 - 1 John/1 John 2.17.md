@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 2:17
-
 And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.

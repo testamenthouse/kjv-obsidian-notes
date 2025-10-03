@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 76:7
-
 Thou, even thou, art to be feared: and who may stand in thy sight when once thou art angry?

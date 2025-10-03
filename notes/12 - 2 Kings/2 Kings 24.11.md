@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 24:11
-
 And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it.

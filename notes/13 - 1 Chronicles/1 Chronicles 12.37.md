@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 12:37
-
 And on the other side of Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of instruments of war for the battle, an hundred and twenty thousand.

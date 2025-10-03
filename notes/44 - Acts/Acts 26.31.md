@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:31
-
 And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds.

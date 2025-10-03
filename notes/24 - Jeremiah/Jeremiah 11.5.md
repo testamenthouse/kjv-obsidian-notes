@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 11:5
-
 That I may perform the oath which I have sworn unto your fathers, to give them a land flowing with milk and honey, as it is this day. Then answered I, and said, So be it, O LORD.

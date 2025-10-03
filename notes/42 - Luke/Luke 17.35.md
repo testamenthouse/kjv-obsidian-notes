@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:35
-
 Two women shall be grinding together; the one shall be taken, and the other left.

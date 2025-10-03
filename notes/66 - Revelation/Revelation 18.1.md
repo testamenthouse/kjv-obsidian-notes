@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 18:1
-
 And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.

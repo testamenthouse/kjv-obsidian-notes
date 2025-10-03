@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 5:12
-
 And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither consider the operation of his hands.

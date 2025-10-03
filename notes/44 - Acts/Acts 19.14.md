@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:14
-
 And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so.

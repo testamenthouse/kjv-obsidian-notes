@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:11
-
 And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?

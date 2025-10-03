@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 22:23
-
 O inhabitant of Lebanon, that makest thy nest in the cedars, how gracious shalt thou be when pangs come upon thee, the pain as of a woman in travail!

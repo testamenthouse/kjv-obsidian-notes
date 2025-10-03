@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 2:11
-
 But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.

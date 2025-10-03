@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 9:7
-
 Thou art the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;

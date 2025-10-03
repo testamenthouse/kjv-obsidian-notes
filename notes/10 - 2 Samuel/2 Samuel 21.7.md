@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 21:7
-
 But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the LORD's oath that was between them, between David and Jonathan the son of Saul.

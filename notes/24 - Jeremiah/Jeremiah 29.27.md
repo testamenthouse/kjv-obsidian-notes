@@ -13,7 +13,4 @@ grammar_tags: [question, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 29:27
-
 Now therefore why hast thou not reproved Jeremiah of Anathoth, which maketh himself a prophet to you?

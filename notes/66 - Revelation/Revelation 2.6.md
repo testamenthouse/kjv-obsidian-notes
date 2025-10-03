@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 2:6
-
 But this thou hast, that thou hatest the deeds of the Nicolaitanes, which I also hate.

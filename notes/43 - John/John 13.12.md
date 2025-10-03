@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:12
-
 So after he had washed their feet, and had taken his garments, and was set down again, he said unto them, Know ye what I have done to you?

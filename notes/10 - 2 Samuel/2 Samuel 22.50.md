@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, thanksgiving, praise-worship]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:50
-
 Therefore I will give thanks unto thee, O LORD, among the heathen, and I will sing praises unto thy name.

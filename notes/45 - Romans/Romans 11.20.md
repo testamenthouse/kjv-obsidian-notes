@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 11:20
-
 Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:

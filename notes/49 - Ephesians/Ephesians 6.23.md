@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title, benediction]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 6:23
-
 Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.

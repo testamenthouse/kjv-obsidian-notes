@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 14:3
-
 And he did that which was right in the sight of the LORD, yet not like David his father: he did according to all things as Joash his father did.

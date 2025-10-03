@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 6:8
-
 The door for the middle chamber was in the right side of the house: and they went up with winding stairs into the middle chamber, and out of the middle into the third.

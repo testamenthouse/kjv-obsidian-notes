@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 14:24
-
 And there were also sodomites in the land: and they did according to all the abominations of the nations which the LORD cast out before the children of Israel.

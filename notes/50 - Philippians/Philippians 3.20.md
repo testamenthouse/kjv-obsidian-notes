@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 3:20
-
 For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:

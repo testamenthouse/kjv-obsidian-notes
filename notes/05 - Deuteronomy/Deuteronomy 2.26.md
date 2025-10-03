@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 2:26
-
 And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,

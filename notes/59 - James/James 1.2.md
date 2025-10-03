@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 1:2
-
 My brethren, count it all joy when ye fall into divers temptations;

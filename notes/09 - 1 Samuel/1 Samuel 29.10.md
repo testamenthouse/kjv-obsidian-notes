@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 29:10
-
 Wherefore now rise up early in the morning with thy master's servants that are come with thee: and as soon as ye be up early in the morning, and have light, depart.

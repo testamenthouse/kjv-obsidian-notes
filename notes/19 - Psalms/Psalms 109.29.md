@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 109:29
-
 Let mine adversaries be clothed with shame, and let them cover themselves with their own confusion, as with a mantle.

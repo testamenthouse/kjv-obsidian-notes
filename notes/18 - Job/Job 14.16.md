@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:16
-
 For now thou numberest my steps: dost thou not watch over my sin?

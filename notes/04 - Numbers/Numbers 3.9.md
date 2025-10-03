@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:9
-
 And thou shalt give the Levites unto Aaron and to his sons: they are wholly given unto him out of the children of Israel.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 26:14
-
 And the lot eastward fell to Shelemiah. Then for Zechariah his son, a wise counselor, they cast lots; and his lot came out northward.

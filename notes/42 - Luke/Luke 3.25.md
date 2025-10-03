@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 3:25
-
 Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,

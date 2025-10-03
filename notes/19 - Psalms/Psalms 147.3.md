@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 147:3
-
 He healeth the broken in heart, and bindeth up their wounds.

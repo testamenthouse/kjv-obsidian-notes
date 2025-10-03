@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 22:4
-
 If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double.

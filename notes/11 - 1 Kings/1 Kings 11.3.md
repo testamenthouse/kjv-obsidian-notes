@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:3
-
 And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart.

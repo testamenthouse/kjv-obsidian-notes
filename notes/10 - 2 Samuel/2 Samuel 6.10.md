@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 6:10
-
 So David would not remove the ark of the LORD unto him into the city of David: but David carried it aside into the house of Obededom the Gittite.

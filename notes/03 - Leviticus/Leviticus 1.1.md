@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 1:1
-
 And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,

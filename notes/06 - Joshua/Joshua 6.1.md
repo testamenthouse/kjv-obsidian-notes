@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 6:1
-
 Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.

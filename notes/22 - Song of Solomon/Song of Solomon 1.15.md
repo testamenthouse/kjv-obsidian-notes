@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 1:15
-
 Behold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes.

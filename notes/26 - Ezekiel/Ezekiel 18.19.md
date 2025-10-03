@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 18:19
-
 Yet say ye, Why? doth not the son bear the iniquity of the father? When the son hath done that which is lawful and right, and hath kept all my statutes, and hath done them, he shall surely live.

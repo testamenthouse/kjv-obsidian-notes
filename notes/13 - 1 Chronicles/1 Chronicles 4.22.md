@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 4:22
-
 And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubilehem. And these are ancient things.

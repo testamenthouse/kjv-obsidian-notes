@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 5:5
-
 And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones.

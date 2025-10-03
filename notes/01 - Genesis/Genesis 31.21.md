@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:21
-
 So he fled with all that he had; and he rose up, and passed over the river, and set his face toward the mount Gilead.

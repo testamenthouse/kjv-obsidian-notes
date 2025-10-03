@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 11:26
-
 And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon's servant, whose mother's name was Zeruah, a widow woman, even he lifted up his hand against the king.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 33:18
-
 Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy;

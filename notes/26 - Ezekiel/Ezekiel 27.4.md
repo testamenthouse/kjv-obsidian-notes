@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:4
-
 Thy borders are in the midst of the seas, thy builders have perfected thy beauty.

@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 29:9
-
 Keep therefore the words of this covenant, and do them, that ye may prosper in all that ye do.

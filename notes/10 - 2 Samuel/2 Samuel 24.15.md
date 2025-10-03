@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-eschatology, time-parts-of-day, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 24:15
-
 So the LORD sent a pestilence upon Israel from the morning even to the time appointed: and there died of the people from Dan even to Beersheba seventy thousand men.

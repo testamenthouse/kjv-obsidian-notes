@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 20:47
-
 Which devour widows' houses, and for a shew make long prayers: the same shall receive greater damnation.

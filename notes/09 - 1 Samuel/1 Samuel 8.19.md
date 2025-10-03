@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 8:19
-
 Nevertheless the people refused to obey the voice of Samuel; and they said, Nay; but we will have a king over us;

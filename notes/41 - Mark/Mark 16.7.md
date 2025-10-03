@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 16:7
-
 But go your way, tell his disciples and Peter that he goeth before you into Galilee: there shall ye see him, as he said unto you.

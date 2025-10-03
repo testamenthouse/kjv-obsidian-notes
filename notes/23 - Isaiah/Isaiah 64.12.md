@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 64:12
-
 Wilt thou refrain thyself for these things, O LORD? wilt thou hold thy peace, and afflict us very sore?

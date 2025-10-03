@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 22:34
-
 But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together.

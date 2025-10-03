@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 58:11
-
 So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth.

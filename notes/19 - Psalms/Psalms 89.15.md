@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:15
-
 Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:23
-
 And it came to pass after all thy wickedness, (woe, woe unto thee! saith the LORD GOD;)

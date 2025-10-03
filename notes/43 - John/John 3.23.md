@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 3:23
-
 And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized.

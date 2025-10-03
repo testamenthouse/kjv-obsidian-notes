@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 19:15
-
 Neither shall there be any work for Egypt, which the head or tail, branch or rush, may do.

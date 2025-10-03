@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 29:43
-
 And there I will meet with the children of Israel, and the tabernacle shall be sanctified by my glory.

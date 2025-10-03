@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, son-of-god, jesus]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 1:18
-
 No man hath seen God at any time, the only begotten Son, which is in the bosom of the Father, he hath declared him.

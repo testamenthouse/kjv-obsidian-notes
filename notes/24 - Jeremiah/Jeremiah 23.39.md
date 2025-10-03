@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 23:39
-
 Therefore, behold, I, even I, will utterly forget you, and I will forsake you, and the city that I gave you and your fathers, and cast you out of my presence:

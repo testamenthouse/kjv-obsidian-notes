@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 22:7
-
 And Jehoshaphat said, Is there not here a prophet of the LORD besides, that we might enquire of him?

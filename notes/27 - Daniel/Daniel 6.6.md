@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 6:6
-
 Then these presidents and princes assembled together to the king, and said thus unto him, King Darius, live for ever.

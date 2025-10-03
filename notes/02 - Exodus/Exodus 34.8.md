@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 34:8
-
 And Moses made haste, and bowed his head toward the earth, and worshipped.

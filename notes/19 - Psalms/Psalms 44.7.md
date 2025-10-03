@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 44:7
-
 But thou hast saved us from our enemies, and hast put them to shame that hated us.

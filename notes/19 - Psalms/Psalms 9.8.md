@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 9:8
-
 And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:20
-
 I will speak, that I may be refreshed: I will open my lips and answer.

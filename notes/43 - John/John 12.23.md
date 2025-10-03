@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [jesus, jesus-title, son-of-man]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:23
-
 And Jesus answered them, saying, The hour is come, that the Son of man should be glorified.

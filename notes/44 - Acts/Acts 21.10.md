@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:10
-
 And as we tarried there many days, there came down from Judaea a certain prophet, named Agabus.

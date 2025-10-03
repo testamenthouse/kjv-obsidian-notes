@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 6:7
-
 Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in his place.

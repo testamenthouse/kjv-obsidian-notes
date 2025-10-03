@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, one-another, positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:11
-
 Ye shall not steal, neither deal falsely, neither lie one to another.

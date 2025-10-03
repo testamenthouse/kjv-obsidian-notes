@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 14:10
-
 So his father went down unto the woman: and Samson made there a feast; for so used the young men to do.

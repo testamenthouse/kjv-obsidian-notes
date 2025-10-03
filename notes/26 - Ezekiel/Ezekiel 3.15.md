@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 3:15
-
 Then I came to them of the captivity at Telabib, that dwelt by the river of Chebar, and I sat where they sat, and remained there astonished among them seven days.

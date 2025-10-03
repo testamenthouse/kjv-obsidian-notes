@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 21:20
-
 There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.

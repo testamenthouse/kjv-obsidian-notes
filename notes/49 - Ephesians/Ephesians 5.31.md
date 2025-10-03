@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 5:31
-
 For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.

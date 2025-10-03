@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:65
-
 Then the LORD awaked as one out of sleep, and like a mighty man that shouteth by reason of wine.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 18:1
-
 After these things Paul departed from Athens, and came to Corinth;

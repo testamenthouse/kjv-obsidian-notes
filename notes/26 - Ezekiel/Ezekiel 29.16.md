@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 29:16
-
 And it shall be no more the confidence of the house of Israel, which bringeth their iniquity to remembrance, when they shall look after them: but they shall know that I am the Lord GOD.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 2:14
-
 Then answered Haggai, and said, So is this people, and so is this nation before me, saith the LORD; and so is every work of their hands; and that which they offer there is unclean.

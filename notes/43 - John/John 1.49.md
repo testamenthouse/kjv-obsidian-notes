@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, jesus-title, jesus, son-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 1:49
-
 Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.

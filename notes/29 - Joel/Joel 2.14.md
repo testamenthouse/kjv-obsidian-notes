@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 2:14
-
 Who knoweth if he will return and repent, and leave a blessing behind him; even a meat offering and a drink offering unto the LORD your God?

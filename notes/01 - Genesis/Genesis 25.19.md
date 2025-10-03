@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 25:19
-
 And these are the generations of Isaac, Abraham's son: Abraham begat Isaac:

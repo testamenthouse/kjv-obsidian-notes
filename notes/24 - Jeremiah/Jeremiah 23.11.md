@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 23:11
-
 For both prophet and priest are profane; yea, in my house have I found their wickedness, saith the LORD.

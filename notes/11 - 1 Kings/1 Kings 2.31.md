@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:31
-
 And the king said unto him, Do as he hath said, and fall upon him, and bury him; that thou mayest take away the innocent blood, which Joab shed, from me, and from the house of my father.

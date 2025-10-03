@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 23:12
-
 And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?

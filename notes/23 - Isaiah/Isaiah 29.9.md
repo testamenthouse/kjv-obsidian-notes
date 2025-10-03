@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 29:9
-
 Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.

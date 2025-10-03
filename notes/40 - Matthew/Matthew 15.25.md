@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 15:25
-
 Then came she and worshipped him, saying, Lord, help me.

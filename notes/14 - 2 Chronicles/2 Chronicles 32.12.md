@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 32:12
-
 Hath not the same Hezekiah taken away his high places and his altars, and commanded Judah and Jerusalem, saying, Ye shall worship before one altar, and burn incense upon it?

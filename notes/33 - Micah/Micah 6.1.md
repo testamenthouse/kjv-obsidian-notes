@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 6:1
-
 Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.

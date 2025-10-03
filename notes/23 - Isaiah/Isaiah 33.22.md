@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 33:22
-
 For the LORD is our judge, the LORD is our lawgiver, the LORD is our king; he will save us.

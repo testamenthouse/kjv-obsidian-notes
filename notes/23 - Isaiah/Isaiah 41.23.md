@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 41:23
-
 Shew the things that are to come hereafter, that we may know that ye are gods: yea, do good, or do evil, that we may be dismayed, and behold it together.

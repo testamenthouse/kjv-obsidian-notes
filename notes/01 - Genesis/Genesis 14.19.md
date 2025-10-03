@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 14:19
-
 And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:

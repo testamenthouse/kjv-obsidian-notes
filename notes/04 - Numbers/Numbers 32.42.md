@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:42
-
 And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name.

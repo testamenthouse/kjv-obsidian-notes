@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 11:32
-
 So Jephthah passed over unto the children of Ammon to fight against them; and the LORD delivered them into his hands.

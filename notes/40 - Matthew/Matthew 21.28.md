@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 21:28
-
 But what think ye? A certain man had two sons; and he came to the first, and said, Son, go work to day in my vineyard.

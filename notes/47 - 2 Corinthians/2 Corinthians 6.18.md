@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 6:18
-
 And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.

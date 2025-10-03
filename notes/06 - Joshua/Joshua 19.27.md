@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 19:27
-
 And turneth toward the sunrising to Bethdagon, and reacheth to Zebulun, and to the valley of Jiphthahel toward the north side of Bethemek, and Neiel, and goeth out to Cabul on the left hand,

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:53
-
 Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself?

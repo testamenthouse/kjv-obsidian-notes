@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 8:11
-
 So that the priests could not stand to minister because of the cloud: for the glory of the LORD had filled the house of the LORD.

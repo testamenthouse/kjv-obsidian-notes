@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 9:16
-
 For Pharaoh king of Egypt had gone up, and taken Gezer, and burnt it with fire, and slain the Canaanites that dwelt in the city, and given it for a present unto his daughter, Solomon's wife.

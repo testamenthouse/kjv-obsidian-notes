@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 7:1
-
 Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:20
-
 Wherefore is light given to him that is in misery, and life unto the bitter in soul;

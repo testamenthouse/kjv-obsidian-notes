@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 32:31
-
 And Moses returned unto the LORD, and said, Oh, this people have sinned a great sin, and have made them gods of gold.

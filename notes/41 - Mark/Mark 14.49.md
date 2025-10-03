@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:49
-
 I was daily with you in the temple teaching, and ye took me not: but the scriptures must be fulfilled.

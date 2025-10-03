@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:42
-
 And he commanded us to preach unto the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead.

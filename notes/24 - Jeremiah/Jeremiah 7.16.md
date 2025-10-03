@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional, cause-effect]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 7:16
-
 Therefore pray not thou for this people, neither lift up cry nor prayer for them, neither make intercession to me: for I will not hear thee.

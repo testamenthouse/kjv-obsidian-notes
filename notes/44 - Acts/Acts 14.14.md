@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 14:14
-
 Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,

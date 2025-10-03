@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 17:5
-
 So he went and did according unto the word of the LORD: for he went and dwelt by the brook Cherith, that is before Jordan.

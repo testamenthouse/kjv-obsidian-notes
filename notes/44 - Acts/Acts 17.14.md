@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 17:14
-
 And then immediately the brethren sent away Paul to go as it were to the sea: but Silas and Timotheus abode there still.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:33
-
 I will sing unto the LORD as long as I live: I will sing praise to my God while I have my being.

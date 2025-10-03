@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","James"]
 ---
-
-# James 5:10
-
 Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.

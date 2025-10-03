@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 7:2
-
 The good man is perished out of the earth: and there is none upright among men: they all lie in wait for blood; they hunt every man his brother with a net.

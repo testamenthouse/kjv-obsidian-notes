@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 21:4
-
 Nevertheless the king's word prevailed against Joab. Wherefore Joab departed, and went throughout all Israel, and came to Jerusalem.

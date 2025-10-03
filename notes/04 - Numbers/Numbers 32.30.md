@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 32:30
-
 But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan.

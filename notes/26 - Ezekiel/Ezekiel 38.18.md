@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 38:18
-
 And it shall come to pass at the same time when Gog shall come against the land of Israel, saith the Lord GOD, that my fury shall come up in my face.

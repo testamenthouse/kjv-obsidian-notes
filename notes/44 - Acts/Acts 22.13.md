@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 22:13
-
 Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him.

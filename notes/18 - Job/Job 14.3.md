@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:3
-
 And doth thou open thine eyes upon such an one, and bringest me into judgment with thee?

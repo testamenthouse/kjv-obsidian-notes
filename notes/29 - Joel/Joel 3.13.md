@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 3:13
-
 Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great.

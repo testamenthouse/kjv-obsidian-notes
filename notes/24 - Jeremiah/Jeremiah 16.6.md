@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 16:6
-
 Both the great and the small shall die in this land: they shall not be buried, neither shall men lament for them, nor cut themselves, nor make themselves bald for them:

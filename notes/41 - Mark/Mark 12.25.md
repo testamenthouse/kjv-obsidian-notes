@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 12:25
-
 For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.

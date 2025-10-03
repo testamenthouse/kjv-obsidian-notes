@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 1:21
-
 And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day.

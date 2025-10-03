@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 37:3
-
 Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colors.

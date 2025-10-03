@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 26:16
-
 LORD, in trouble have they visited thee, they poured out a prayer when thy chastening was upon them.

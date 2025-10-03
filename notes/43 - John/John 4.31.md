@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:31
-
 In the mean while his disciples prayed him, saying, Master, eat.

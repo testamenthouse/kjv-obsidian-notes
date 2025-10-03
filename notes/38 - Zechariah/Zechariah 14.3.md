@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 14:3
-
 Then shall the LORD go forth, and fight against those nations, as when he fought in the day of battle.

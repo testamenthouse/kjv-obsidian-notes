@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:33
-
 Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?

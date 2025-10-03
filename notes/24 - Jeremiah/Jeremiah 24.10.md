@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 24:10
-
 And I will send the sword, the famine, and the pestilence, among them, till they be consumed from off the land that I gave unto them and to their fathers.

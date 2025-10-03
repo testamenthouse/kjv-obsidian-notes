@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 5:2
-
 Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.

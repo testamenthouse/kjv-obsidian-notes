@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:40
-
 Behold, I have longed after thy precepts: quicken me in thy righteousness.

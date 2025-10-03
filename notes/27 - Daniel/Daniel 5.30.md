@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare, time-parts-of-day, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 5:30
-
 In that night was Belshazzar the king of the Chaldeans slain.

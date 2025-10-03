@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 47:26
-
 And Joseph made it a law over the land of Egypt unto this day, that Pharaoh should have the fifth part, except the land of the priests only, which became not Pharaoh's.

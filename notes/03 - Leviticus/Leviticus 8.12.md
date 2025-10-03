@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 8:12
-
 And he poured of the anointing oil upon Aaron's head, and anointed him, to sanctify him.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:18
-
 And as they sat and did eat, Jesus said, Verily I say unto you, One of you which eateth with me shall betray me.

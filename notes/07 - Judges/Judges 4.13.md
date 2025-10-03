@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 4:13
-
 And Sisera gathered together all his chariots, even nine hundred chariots of iron, and all the people that were with him, from Harosheth of the Gentiles unto the river of Kishon.

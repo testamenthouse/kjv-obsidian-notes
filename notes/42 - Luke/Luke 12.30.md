@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:30
-
 For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things.

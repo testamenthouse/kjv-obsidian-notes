@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:17
-
 He leadeth counsellors away spoiled, and maketh the judges fools.

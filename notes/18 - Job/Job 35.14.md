@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 35:14
-
 Although thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him.

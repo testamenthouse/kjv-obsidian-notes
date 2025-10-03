@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 69:22
-
 Let their table become a snare before them: and that which should have been for their welfare, let it become a trap.

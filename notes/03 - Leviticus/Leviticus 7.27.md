@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 7:27
-
 Whatsoever soul it be that eateth any manner of blood, even that soul shall be cut off from his people.

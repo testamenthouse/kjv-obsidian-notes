@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Thessalonians"]
 ---
-
-# 2 Thessalonians 1:6
-
 Seeing it is a righteous thing with God to recompense tribulation to them that trouble you;

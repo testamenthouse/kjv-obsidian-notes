@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 6:5
-
 And the angel answered and said unto me, These are the four spirits of the heavens, which go forth from standing before the LORD of all the earth.

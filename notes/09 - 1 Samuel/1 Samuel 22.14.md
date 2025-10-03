@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 22:14
-
 Then Ahimelech answered the king, and said, And who is so faithful among all thy servants as David, which is the king's son in law, and goeth at thy bidding, and is honorable in thine house?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 16:16
-
 And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram.

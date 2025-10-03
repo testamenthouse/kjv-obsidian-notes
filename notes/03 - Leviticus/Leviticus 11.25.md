@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:25
-
 And whosoever beareth ought of the carcass of them shall wash his clothes, and be unclean until the even.

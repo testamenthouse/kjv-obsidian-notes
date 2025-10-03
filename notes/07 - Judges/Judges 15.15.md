@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 15:15
-
 And he found a new jawbone of an ass, and put forth his hand, and took it, and slew a thousand men therewith.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 26:9
-
 He holdeth back the face of his throne, and spreadeth his cloud upon it.

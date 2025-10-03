@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 33:7
-
 And I will cause the captivity of Judah and the captivity of Israel to return, and will build them, as at the first.

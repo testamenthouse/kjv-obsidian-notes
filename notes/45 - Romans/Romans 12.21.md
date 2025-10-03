@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 12:21
-
 Be not overcome of evil, but overcome evil with good.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 18:24
-
 Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:

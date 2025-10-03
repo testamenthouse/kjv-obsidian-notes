@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 4:26
-
 And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.

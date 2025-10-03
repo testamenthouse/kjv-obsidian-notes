@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:26
-
 And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 14:20
-
 For meat destroy not the work of God. All things indeed are pure; but it is evil for that man who eateth with offence.

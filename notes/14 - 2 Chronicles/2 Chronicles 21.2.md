@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 21:2
-
 And he had brethren the sons of Jehoshaphat, Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these were the sons of Jehoshaphat king of Israel.

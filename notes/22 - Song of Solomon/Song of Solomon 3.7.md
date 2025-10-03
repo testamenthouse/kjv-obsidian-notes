@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Song-of-Solomon"]
 ---
-
-# Song of Solomon 3:7
-
 Behold his bed, which is Solomon's; threescore valiant men are about it, of the valiant of Israel.

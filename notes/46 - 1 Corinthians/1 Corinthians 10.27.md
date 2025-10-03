@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 10:27
-
 If any of them that believe not bid you to a feast, and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake.

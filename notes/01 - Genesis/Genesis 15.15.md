@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 15:15
-
 And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age.

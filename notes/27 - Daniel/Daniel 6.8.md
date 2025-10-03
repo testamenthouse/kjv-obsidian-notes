@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 6:8
-
 Now, O king, establish the decree, and sign the writing, that it be not changed, according to the law of the Medes and Persians, which altereth not.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 8:18
-
 And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David's sons were chief rulers.

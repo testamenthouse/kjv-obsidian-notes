@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 21:7
-
 Wherefore do the wicked live, become old, yea, are mighty in power?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:35
-
 And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:

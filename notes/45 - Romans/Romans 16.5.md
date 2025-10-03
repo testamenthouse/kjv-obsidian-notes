@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 16:5
-
 Likewise greet the church that is in their house. Salute my well-beloved Epaenetus, who is the firstfruits of Achaia unto Christ.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 35:14
-
 Thus saith the Lord GOD; When the whole earth rejoiceth, I will make thee desolate.

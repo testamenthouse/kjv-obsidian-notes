@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 4:5
-
 For all people will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever.

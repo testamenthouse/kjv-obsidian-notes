@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 17:16
-
 And next him was Amasiah the son of Zichri, who willingly offered himself unto the LORD; and with him two hundred thousand mighty men of valor.

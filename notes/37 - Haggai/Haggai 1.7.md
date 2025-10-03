@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Haggai"]
 ---
-
-# Haggai 1:7
-
 Thus saith the LORD of hosts; Consider your ways.

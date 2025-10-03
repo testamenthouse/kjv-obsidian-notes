@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:3
-
 Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord GOD; Are ye come to enquire of me? As I live, saith the Lord GOD, I will not be enquired of by you.

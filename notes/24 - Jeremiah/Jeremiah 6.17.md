@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 6:17
-
 Also I set watchmen over you, saying, Hearken to the sound of the trumpet. But they said, We will not hearken.

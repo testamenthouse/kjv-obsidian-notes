@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 13:8
-
 But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.

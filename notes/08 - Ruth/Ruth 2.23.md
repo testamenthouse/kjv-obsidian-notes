@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, time-seasons, time]
 tags: ["Bible","KJV","Ruth"]
 ---
-
-# Ruth 2:23
-
 So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law.

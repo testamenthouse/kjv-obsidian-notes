@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 16:33
-
 The lot is cast into the lap; but the whole disposing thereof is of the LORD.

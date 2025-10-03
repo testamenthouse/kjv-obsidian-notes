@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 6:12
-
 And Joshua rose early in the morning, and the priests took up the ark of the LORD.

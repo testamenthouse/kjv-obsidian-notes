@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 35:9
-
 And onyx stones, and stones to be set for the ephod, and for the breastplate.

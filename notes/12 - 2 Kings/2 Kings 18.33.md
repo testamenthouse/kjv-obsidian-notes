@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 18:33
-
 Hath any of the gods of the nations delivered at all his land out of the hand of the king of Assyria?

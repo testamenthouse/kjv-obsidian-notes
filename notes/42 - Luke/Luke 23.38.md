@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:38
-
 And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, THIS IS THE KING OF THE JEWS.

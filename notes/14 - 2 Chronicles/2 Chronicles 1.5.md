@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 1:5
-
 Moreover the brazen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the LORD: and Solomon and the congregation sought unto it.

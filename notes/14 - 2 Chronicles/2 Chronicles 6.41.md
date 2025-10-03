@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 6:41
-
 Now therefore arise, O LORD God, into thy resting place, thou, and the ark of thy strength: let thy priests, O LORD God, be clothed with salvation, and let thy saints rejoice in goodness.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, adversary-metaphor, adversary, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 18:4
-
 He removed the high places, and brake the images, and cut down the groves, and brake in pieces the brazen serpent that Moses had made: for unto those days the children of Israel did burn incense to it: and he called it Nehushtan.

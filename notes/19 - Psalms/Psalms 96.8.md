@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 96:8
-
 Give unto the LORD the glory due unto his name: bring an offering, and come into his courts.

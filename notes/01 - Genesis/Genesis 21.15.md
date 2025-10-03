@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 21:15
-
 And the water was spent in the bottle, and she cast the child under one of the shrubs.

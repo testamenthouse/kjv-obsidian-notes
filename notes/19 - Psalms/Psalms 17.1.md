@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 17:1
-
 Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.

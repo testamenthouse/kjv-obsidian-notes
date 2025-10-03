@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:10
-
 Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor.

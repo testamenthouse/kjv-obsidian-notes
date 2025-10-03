@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Esther"]
 ---
-
-# Esther 5:6
-
 And the king said unto Esther at the banquet of wine, What is thy petition? and it shall be granted thee: and what is thy request? even to the half of the kingdom it shall be performed.

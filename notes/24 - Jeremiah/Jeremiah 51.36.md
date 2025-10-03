@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:36
-
 Therefore thus saith the LORD; Behold, I will plead thy cause, and take vengeance for thee; and I will dry up her sea, and make her springs dry.

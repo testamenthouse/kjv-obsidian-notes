@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 25:26
-
 Of whom I have no certain thing to write unto my lord. Wherefore I have brought him forth before you, and specially before thee, O king Agrippa, that, after examination had, I might have somewhat to write.

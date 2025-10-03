@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 24:19
-
 Yet he sent prophets to them, to bring them again unto the LORD; and they testified against them: but they would not give ear.

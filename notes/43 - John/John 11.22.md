@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:22
-
 But I know, that even now, whatsoever thou wilt ask of God, God will give it thee.

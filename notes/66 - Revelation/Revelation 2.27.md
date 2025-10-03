@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 2:27
-
 And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.

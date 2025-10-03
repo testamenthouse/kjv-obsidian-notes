@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 33:24
-
 And the inhabitant shall not say, I am sick: the people that dwell therein shall be forgiven their iniquity.

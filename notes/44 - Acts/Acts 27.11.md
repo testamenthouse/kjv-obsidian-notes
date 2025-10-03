@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:11
-
 Nevertheless the centurion believed the master and the owner of the ship, more than those things which were spoken by Paul.

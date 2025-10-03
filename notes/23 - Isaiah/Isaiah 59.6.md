@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 59:6
-
 Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands.

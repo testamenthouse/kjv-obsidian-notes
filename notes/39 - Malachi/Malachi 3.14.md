@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","Malachi"]
 ---
-
-# Malachi 3:14
-
 Ye have said, It is vain to serve God: and what profit is it that we have kept his ordinance, and that we have walked mournfully before the LORD of hosts?

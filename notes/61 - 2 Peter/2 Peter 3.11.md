@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Peter"]
 ---
-
-# 2 Peter 3:11
-
 Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 38:18
-
 And he said, What pledge shall I give thee? And she said, Thy signet, and thy bracelets, and thy staff that is in thine hand. And he gave it her, and came in unto her, and she conceived by him.

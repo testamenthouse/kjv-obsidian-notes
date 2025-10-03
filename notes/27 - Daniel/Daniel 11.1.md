@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 11:1
-
 Also I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him.

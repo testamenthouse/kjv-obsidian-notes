@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 10:45
-
 For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.

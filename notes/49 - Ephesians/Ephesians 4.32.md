@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, one-another, jesus-title, jesus]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 4:32
-
 And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.

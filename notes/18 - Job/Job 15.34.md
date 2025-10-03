@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:34
-
 For the congregation of hypocrites shall be desolate, and fire shall consume the tabernacles of bribery.

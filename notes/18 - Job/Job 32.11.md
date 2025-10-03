@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:11
-
 Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say.

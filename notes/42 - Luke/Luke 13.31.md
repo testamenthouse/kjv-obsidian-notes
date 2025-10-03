@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:31
-
 The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.

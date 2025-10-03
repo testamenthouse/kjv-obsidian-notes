@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 1:1
-
 The book of the generation of Jesus Christ, the son of David, the son of Abraham.

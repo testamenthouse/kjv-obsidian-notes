@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:4
-
 Of the sons of Pahathmoab; Elihoenai the son of Zerahiah, and with him two hundred males.

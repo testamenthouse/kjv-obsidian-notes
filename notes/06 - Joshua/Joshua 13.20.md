@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 13:20
-
 And Bethpeor, and Ashdothpisgah, and Bethjeshimoth,

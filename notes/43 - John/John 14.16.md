@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 14:16
-
 And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;

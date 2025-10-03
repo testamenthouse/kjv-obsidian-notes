@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 77:6
-
 I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search.

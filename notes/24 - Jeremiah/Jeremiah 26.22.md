@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 26:22
-
 And Jehoiakim the king sent men into Egypt, namely, Elnathan the son of Achbor, and certain men with him into Egypt.

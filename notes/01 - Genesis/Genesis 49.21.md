@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 49:21
-
 Naphtali is a hind let loose: he giveth goodly words.

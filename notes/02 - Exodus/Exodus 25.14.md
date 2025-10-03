@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 25:14
-
 And thou shalt put the staves into the rings by the sides of the ark, that the ark may be borne with them.

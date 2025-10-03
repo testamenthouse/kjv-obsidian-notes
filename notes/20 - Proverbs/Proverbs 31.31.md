@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 31:31
-
 Give her of the fruit of her hands; and let her own works praise her in the gates.

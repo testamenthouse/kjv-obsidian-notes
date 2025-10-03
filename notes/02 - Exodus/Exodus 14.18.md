@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 14:18
-
 And the Egyptians shall know that I am the LORD, when I have gotten me honor upon Pharaoh, upon his chariots, and upon his horsemen.

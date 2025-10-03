@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 1:16
-
 And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:

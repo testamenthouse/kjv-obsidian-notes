@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 12:17
-
 If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?

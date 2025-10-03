@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Habakkuk"]
 ---
-
-# Habakkuk 2:12
-
 Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!

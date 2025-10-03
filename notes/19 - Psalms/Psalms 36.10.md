@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 36:10
-
 O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.

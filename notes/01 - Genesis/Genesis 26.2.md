@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 26:2
-
 And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:

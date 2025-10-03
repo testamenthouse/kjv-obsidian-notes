@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 40:22
-
 The shady trees cover him with their shadow; the willows of the brook compass him about.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 26:4
-
 I have not sat with vain persons, neither will I go in with dissemblers.

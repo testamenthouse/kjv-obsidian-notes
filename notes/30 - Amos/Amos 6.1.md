@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 6:1
-
 Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!

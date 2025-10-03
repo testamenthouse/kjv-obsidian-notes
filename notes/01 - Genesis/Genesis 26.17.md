@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 26:17
-
 And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there.

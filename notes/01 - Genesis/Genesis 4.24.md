@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 4:24
-
 If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.

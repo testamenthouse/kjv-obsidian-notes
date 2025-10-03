@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 2:11
-
 Which also were accounted giants, as the Anakims; but the Moabites called them Emims.

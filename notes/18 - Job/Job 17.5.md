@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 17:5
-
 He that speaketh flattery to his friends, even the eyes of his children shall fail.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 7:6
-
 Arise, O LORD, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded.

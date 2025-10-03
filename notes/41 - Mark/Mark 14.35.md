@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:35
-
 And he went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass from him.

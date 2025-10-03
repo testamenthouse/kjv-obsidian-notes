@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 140:12
-
 I know that the LORD will maintain the cause of the afflicted, and the right of the poor.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 4:20
-
 But the LORD hath taken you, and brought you forth out of the iron furnace, even out of Egypt, to be unto him a people of inheritance, as ye are this day.

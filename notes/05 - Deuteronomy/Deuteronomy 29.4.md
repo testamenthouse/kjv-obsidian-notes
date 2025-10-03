@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 29:4
-
 Yet the LORD hath not given you an heart to perceive, and eyes to see, and ears to hear, unto this day.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 11:6
-
 Ye have multiplied your slain in this city, and ye have filled the streets thereof with the slain.

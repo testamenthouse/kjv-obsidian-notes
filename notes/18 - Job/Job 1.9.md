@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [names-of-god, warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 1:9
-
 Then Satan answered the LORD, and said, Doth Job fear God for nought?

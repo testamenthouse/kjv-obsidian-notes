@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 2:7
-
 And the people served the LORD all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the LORD, that he did for Israel.

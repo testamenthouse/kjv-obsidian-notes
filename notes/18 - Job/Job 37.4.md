@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:4
-
 After it a voice roareth: he thundereth with the voice of his excellency; and he will not stay them when his voice is heard.

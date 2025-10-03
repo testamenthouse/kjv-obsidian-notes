@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 10:20
-
 And Jehu said, Proclaim a solemn assembly for Baal. And they proclaimed it.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:11
-
 Who hath prevented me, that I should repay him? whatsoever is under the whole heaven is mine.

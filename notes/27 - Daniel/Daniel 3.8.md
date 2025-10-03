@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 3:8
-
 Wherefore at that time certain Chaldeans came near, and accused the Jews.

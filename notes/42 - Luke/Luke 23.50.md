@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 23:50
-
 And, behold, there was a man named Joseph, a counsellor; and he was a good man, and a just:

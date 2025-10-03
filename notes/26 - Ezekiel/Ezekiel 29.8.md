@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 29:8
-
 Therefore thus saith the Lord GOD; Behold, I will bring a sword upon thee, and cut off man and beast out of thee.

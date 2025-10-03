@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 12:24
-
 And ye shall observe this thing for an ordinance to thee and to thy sons for ever.

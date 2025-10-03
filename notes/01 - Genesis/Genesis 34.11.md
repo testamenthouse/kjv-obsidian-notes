@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 34:11
-
 And Shechem said unto her father and unto her brethren, Let me find grace in your eyes, and what ye shall say unto me I will give.

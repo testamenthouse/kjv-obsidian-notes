@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 20:17
-
 He shall not see the rivers, the floods, the brooks of honey and butter.

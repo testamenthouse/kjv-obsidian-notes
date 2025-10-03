@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:168
-
 I have kept thy precepts and thy testimonies: for all my ways are before thee.

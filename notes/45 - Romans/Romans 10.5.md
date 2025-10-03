@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 10:5
-
 For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.

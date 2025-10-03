@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 42:9
-
 And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye are spies; to see the nakedness of the land ye are come.

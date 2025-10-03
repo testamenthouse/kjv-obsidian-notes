@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 3:12
-
 For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth.

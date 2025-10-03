@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 3:12
-
 I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the LORD.

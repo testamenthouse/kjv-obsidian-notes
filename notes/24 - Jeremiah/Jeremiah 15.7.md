@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 15:7
-
 And I will fan them with a fan in the gates of the land; I will bereave them of children, I will destroy my people since they return not from their ways.

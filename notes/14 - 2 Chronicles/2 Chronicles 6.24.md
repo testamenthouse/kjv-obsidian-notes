@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 6:24
-
 And if thy people Israel be put to the worse before the enemy, because they have sinned against thee; and shall return and confess thy name, and pray and make supplication before thee in this house;

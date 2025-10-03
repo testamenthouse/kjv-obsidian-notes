@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 79:9
-
 Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name's sake.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:51
-
 And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;

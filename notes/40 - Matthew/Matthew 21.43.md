@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 21:43
-
 Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 45:21
-
 And the children of Israel did so: and Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision for the way.

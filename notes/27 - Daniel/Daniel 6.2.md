@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 6:2
-
 And over these three presidents; of whom Daniel was first: that the princes might give accounts unto them, and the king should have no damage.

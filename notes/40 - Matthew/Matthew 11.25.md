@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title, thanksgiving, time-period, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 11:25
-
 At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes.

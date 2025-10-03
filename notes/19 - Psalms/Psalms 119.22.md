@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:22
-
 Remove from me reproach and contempt; for I have kept thy testimonies.

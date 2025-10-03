@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 18:31
-
 And they set them up Micah's graven image, which he made, all the time that the house of God was in Shiloh.

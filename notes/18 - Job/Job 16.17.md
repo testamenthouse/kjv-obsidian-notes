@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:17
-
 Not for any injustice in mine hands: also my prayer is pure.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 20:16
-
 Thou shalt not bear false witness against thy neighbor.

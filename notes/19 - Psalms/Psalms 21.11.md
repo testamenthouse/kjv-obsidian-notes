@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 21:11
-
 For they intended evil against thee: they imagined a mischievous device, which they are not able to perform.

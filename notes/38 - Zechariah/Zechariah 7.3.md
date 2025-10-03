@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: [names-of-god, warfare, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 7:3
-
 And to speak unto the priests which were in the house of the LORD of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?

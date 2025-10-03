@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 2:23
-
 Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body: not in any honour to the satisfying of the flesh.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 6:6
-
 That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph.

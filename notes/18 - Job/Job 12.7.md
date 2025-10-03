@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:7
-
 But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:13
-
 Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes.

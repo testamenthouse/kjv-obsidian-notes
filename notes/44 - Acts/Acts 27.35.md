@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:35
-
 And when he had thus spoken, he took bread, and gave thanks to God in presence of them all: and when he had broken it, he began to eat.

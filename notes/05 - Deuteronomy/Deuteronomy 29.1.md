@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 29:1
-
 These are the words of the covenant, which the LORD commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb.

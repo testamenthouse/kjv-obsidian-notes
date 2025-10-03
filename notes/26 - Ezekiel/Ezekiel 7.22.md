@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 7:22
-
 My face will I turn also from them, and they shall pollute my secret place: for the robbers shall enter into it, and defile it.

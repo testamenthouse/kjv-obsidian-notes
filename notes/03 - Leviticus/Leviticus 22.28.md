@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [warfare, time-units, time]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 22:28
-
 And whether it be cow, or ewe, ye shall not kill it and her young both in one day.

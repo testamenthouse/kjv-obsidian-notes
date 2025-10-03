@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 4:15
-
 And the elders of the congregation shall lay their hands upon the head of the bullock before the LORD: and the bullock shall be killed before the LORD.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 31:2
-
 And he said unto them, I am an hundred and twenty years old this day; I can no more go out and come in: also the LORD hath said unto me, Thou shalt not go over this Jordan.

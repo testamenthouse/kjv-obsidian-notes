@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:37
-
 That word, I say, ye know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 13:13
-
 The sorrows of a travailing woman shall come upon him: he is an unwise son; for he should not stay long in the place of the breaking forth of children.

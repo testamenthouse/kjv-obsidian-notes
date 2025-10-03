@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 1:6
-
 And Solomon went up thither to the brazen altar before the LORD, which was at the tabernacle of the congregation, and offered a thousand burnt offerings upon it.

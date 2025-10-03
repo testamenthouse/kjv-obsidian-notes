@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 27:36
-
 The merchants among the people shall hiss at thee; thou shalt be a terror, and never shalt be any more.

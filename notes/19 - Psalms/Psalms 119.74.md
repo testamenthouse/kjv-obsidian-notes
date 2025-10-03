@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:74
-
 They that fear thee will be glad when they see me; because I have hoped in thy word.

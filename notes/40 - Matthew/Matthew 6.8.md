@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 6:8
-
 Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.

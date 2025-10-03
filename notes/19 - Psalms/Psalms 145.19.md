@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 145:19
-
 He will fulfil the desire of them that fear him: he also will hear their cry, and will save them.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 8:8
-
 Then said he unto me, Son of man, dig now in the wall: and when I had digged in the wall, behold a door.

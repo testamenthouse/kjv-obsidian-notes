@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 22:7
-
 And I will prepare destroyers against thee, every one with his weapons: and they shall cut down thy choice cedars, and cast them into the fire.

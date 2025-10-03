@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:30
-
 Which also they did, and sent it to the elders by the hands of Barnabas and Saul.

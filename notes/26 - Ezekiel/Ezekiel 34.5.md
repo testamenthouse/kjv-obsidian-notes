@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 34:5
-
 And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.

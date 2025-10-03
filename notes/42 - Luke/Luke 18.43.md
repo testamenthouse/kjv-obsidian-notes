@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:43
-
 And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.

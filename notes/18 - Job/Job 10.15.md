@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation, contrast, conditional, cause-effect]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:15
-
 If I be wicked, woe unto me; and if I be righteous, yet will I not lift up my head. I am full of confusion; therefore see thou mine affliction;

@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation, genealogy-structure]
 thematic_tags: [warfare, adversary-title, adversary, time-units, time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:16
-
 And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?

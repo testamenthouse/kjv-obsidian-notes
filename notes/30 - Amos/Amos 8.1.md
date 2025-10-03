@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-seasons, time]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 8:1
-
 Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 139:20
-
 For they speak against thee wickedly, and thine enemies take thy name in vain.

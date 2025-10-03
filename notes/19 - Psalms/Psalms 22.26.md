@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 22:26
-
 The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever.

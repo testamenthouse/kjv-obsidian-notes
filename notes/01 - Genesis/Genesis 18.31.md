@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 18:31
-
 And he said, Behold now, I have taken upon me to speak unto the LORD: Peradventure there shall be twenty found there. And he said, I will not destroy it for twenty's sake.

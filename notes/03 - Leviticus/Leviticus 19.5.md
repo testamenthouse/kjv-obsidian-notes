@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:5
-
 And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will.

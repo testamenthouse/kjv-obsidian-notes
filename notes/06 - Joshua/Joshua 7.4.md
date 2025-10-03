@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 7:4
-
 So there went up thither of the people about three thousand men: and they fled before the men of Ai.

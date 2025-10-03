@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, lament, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:34
-
 From the cry of Heshbon even unto Elealeh, and even unto Jahaz, have they uttered their voice, from Zoar even unto Horonaim, as an heifer of three years old: for the waters also of Nimrim shall be desolate.

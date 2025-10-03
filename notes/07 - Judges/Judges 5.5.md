@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 5:5
-
 The mountains melted from before the LORD, even that Sinai from before the LORD God of Israel.

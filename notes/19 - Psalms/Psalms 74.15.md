@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 74:15
-
 Thou didst cleave the fountain and the flood: thou driedst up mighty rivers.

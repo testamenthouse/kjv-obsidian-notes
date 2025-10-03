@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:51
-
 From the blood of Abel unto the blood of Zacharias which perished between the altar and the temple: verily I say unto you, It shall be required of this generation.

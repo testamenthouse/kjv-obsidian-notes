@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 8:4
-
 Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:33
-
 And when the sixth hour was come, there was darkness over the whole land until the ninth hour.

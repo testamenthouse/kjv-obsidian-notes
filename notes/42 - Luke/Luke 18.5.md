@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 18:5
-
 Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me.

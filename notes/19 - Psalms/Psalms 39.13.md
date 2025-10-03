@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 39:13
-
 O spare me, that I may recover strength, before I go hence, and be no more.

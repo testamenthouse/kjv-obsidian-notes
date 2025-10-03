@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 20:25
-
 And now, behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more.

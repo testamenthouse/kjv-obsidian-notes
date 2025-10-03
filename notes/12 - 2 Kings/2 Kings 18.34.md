@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 18:34
-
 Where are the gods of Hamath, and of Arpad? where are the gods of Sepharvaim, Hena, and Ivah? have they delivered Samaria out of mine hand?

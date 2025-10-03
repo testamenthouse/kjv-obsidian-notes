@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time-period, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 30:25
-
 And it was so from that day forward, that he made it a statute and an ordinance for Israel unto this day.

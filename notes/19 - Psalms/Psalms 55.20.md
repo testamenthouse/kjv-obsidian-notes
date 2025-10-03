@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 55:20
-
 He hath put forth his hands against such as be at peace with him: he hath broken his covenant.

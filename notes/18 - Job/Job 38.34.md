@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:34
-
 Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?

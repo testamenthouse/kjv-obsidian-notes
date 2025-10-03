@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:3
-
 Is it good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?

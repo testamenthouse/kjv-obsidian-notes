@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title, time-period, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 14:1
-
 At that time Herod the tetrarch heard of the fame of Jesus,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 22:15
-
 For thou shalt be his witness unto all men of what thou hast seen and heard.

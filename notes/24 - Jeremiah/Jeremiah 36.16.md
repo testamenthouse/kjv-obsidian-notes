@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 36:16
-
 Now it came to pass, when they had heard all the words, they were afraid both one and other, and said unto Baruch, We will surely tell the king of all these words.

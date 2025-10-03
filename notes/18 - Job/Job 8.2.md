@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:2
-
 How long wilt thou speak these things? and how long shall the words of thy mouth be like a strong wind?

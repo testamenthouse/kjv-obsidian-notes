@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 4:15
-
 For a voice declareth from Dan, and publisheth affliction from mount Ephraim.

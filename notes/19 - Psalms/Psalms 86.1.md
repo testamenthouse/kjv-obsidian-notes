@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 86:1
-
 Bow down thine ear, O LORD, hear me: for I am poor and needy.

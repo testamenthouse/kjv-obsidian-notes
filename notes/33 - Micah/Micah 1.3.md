@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 1:3
-
 For, behold, the LORD cometh forth out of his place, and will come down, and tread upon the high places of the earth.

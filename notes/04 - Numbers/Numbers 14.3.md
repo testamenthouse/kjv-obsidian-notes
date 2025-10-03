@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:3
-
 And wherefore hath the LORD brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt?

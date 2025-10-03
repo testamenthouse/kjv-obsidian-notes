@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 14:21
-
 And all the people of Judah took Azariah, which was sixteen years old, and made him king instead of his father Amaziah.

@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 23:29
-
 Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?

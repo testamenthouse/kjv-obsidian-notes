@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 19:7
-
 Wherefore I command thee, saying, Thou shalt separate three cities for thee.

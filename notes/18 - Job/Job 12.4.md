@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:4
-
 I am as one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright man is laughed to scorn.

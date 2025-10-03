@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 56:8
-
 The Lord GOD, which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him.

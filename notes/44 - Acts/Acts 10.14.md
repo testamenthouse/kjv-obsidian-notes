@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:14
-
 But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.

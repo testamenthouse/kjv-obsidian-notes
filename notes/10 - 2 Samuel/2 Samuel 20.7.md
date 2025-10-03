@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 20:7
-
 And there went out after him Joab's men, and the Cherethites, and the Pelethites, and all the mighty men: and they went out of Jerusalem, to pursue after Sheba the son of Bichri.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 22:23
-
 And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham's brother.

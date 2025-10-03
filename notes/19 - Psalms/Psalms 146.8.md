@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 146:8
-
 The LORD openeth the eyes of the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:

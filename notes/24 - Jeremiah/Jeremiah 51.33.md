@@ -13,7 +13,4 @@ grammar_tags: [contrast, genealogy-structure]
 thematic_tags: [names-of-god, warfare, time-seasons, time-period, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:33
-
 For thus saith the LORD of hosts, the God of Israel; The daughter of Babylon is like a threshingfloor, it is time to thresh her: yet a little while, and the time of her harvest shall come.

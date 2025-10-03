@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:2
-
 Canst thou put an hook into his nose? or bore his jaw through with a thorn?

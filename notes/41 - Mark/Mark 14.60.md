@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:60
-
 And the high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing? what is it which these witness against thee?

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 1:12
-
 And they went every one straight forward: whither the spirit was to go, they went; and they turned not when they went.

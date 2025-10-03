@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:46
-
 He gave also their increase unto the caterpiller, and their labour unto the locust.

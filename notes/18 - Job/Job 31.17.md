@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:17
-
 Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;

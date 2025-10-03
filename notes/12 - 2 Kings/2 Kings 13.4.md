@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 13:4
-
 And Jehoahaz besought the LORD, and the LORD hearkened unto him: for he saw the oppression of Israel, because the king of Syria oppressed them.

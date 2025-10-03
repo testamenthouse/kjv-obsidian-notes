@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:9
-
 Some said, This is he: others said, He is like him: but he said, I am he.

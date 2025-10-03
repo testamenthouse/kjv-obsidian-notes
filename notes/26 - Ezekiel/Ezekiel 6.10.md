@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 6:10
-
 And they shall know that I am the LORD, and that I have not said in vain that I would do this evil unto them.

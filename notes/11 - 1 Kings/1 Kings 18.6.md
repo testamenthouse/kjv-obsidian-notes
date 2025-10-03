@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 18:6
-
 So they divided the land between them to pass throughout it: Ahab went one way by himself, and Obadiah went another way by himself.

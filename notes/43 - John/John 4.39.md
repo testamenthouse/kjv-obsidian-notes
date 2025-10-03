@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:39
-
 And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:9
-
 That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none.

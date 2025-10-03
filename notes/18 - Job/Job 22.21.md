@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:21
-
 Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.

@@ -13,7 +13,4 @@ grammar_tags: [question, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 4:11
-
 Again, if two lie together, then they have heat: but how can one be warm alone?

@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god, adversary-metaphor, adversary, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 51:9
-
 Awake, awake, put on strength, O arm of the LORD; awake, as in the ancient days, in the generations of old. Art thou not it that hath cut Rahab, and wounded the dragon?

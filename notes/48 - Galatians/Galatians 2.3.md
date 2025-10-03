@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 2:3
-
 But neither Titus, who was with me, being a Greek, was compelled to be circumcised:

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 22:13
-
 They gaped upon me with their mouths, as a ravening and a roaring lion.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 19:4
-
 And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beersheba to mount Ephraim, and brought them back unto the LORD God of their fathers.

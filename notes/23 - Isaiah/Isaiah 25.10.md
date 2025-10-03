@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 25:10
-
 For in this mountain shall the hand of the LORD rest, and Moab shall be trodden down under him, even as straw is trodden down for the dunghill.

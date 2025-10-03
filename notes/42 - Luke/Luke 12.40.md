@@ -13,7 +13,4 @@ grammar_tags: [cause-effect, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:40
-
 Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.

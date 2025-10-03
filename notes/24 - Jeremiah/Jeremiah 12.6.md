@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 12:6
-
 For even thy brethren, and the house of thy father, even they have dealt treacherously with thee; yea, they have called a multitude after thee: believe them not, though they speak fair words unto thee.

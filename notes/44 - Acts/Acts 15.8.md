@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 15:8
-
 And God, which knoweth the hearts, bare them witness, giving them the Holy Ghost, even as he did unto us;

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 11:4
-
 But Peter rehearsed the matter from the beginning, and expounded it by order unto them, saying,

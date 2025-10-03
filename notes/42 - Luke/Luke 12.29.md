@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:29
-
 And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind.

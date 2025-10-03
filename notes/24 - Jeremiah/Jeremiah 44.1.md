@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 44:1
-
 The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 16:16
-
 Thus did Urijah the priest, according to all that king Ahaz commanded.

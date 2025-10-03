@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 11:20
-
 And all the people of the land rejoiced, and the city was in quiet: and they slew Athaliah with the sword beside the king's house.

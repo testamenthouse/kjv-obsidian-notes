@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 11:3
-
 And they said one to another, Go to, let us make brick, and burn them thoroughly. And they had brick for stone, and slime had they for mortar.

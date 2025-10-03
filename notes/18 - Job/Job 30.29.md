@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, adversary-metaphor, adversary]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:29
-
 I am a brother to dragons, and a companion to owls.

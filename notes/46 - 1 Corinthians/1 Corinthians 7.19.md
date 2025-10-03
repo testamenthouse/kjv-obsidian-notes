@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 7:19
-
 Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God.

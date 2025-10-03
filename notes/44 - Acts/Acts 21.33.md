@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 21:33
-
 Then the chief captain came near, and took him, and commanded him to be bound with two chains; and demanded who he was, and what he had done.

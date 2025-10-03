@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:8
-
 And the multitude crying aloud began to desire him to do as he had ever done unto them.

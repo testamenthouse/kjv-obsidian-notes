@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 2:12
-
 Be astonished, O ye heavens, at this, and be horribly afraid, be ye very desolate, saith the LORD.

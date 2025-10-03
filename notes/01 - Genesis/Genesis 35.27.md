@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 35:27
-
 And Jacob came unto Isaac his father unto Mamre, unto the city of Arba, which is Hebron, where Abraham and Isaac sojourned.

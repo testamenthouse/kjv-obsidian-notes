@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:30
-
 And of the sons of Pahathmoab; Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, and Binnui, and Manasseh.

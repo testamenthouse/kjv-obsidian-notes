@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 135:21
-
 Blessed be the LORD out of Zion, which dwelleth at Jerusalem. Praise ye the LORD.

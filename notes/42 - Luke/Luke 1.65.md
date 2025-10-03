@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:65
-
 And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 6:22
-
 Thus saith the LORD, Behold, a people cometh from the north country, and a great nation shall be raised from the sides of the earth.

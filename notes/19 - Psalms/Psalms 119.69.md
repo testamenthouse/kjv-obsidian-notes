@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:69
-
 The proud have forged a lie against me: but I will keep thy precepts with my whole heart.

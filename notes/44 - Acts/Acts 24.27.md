@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 24:27
-
 But after two years Porcius Festus came into Felix' room: and Felix, willing to shew the Jews a pleasure, left Paul bound.

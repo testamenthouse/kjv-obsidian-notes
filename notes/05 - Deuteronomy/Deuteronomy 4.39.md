@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 4:39
-
 Know therefore this day, and consider it in thine heart, that the LORD he is God in heaven above, and upon the earth beneath: there is none else.

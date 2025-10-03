@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:41
-
 Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat.

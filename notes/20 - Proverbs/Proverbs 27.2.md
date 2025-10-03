@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 27:2
-
 Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.

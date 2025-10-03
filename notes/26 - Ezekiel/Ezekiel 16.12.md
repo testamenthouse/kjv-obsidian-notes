@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:12
-
 And I put a jewel on thy forehead, and earrings in thine ears, and a beautiful crown upon thine head.

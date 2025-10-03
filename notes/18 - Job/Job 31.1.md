@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:1
-
 I made a covenant with mine eyes; why then should I think upon a maid?

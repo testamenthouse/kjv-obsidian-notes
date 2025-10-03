@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:35
-
 Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the LORD, O my soul. Praise ye the LORD.

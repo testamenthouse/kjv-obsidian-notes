@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:25
-
 If I rejoice because my wealth was great, and because mine hand had gotten much;

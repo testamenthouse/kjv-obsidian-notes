@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 18:26
-
 The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all.

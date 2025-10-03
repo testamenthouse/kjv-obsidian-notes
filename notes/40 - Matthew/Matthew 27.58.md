@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:58
-
 He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.

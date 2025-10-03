@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:76
-
 Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant.

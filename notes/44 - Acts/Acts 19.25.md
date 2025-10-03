@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 19:25
-
 Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth.

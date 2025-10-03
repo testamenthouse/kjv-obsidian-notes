@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:49
-
 And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 25:17
-
 Then took I the cup at the LORD's hand, and made all the nations to drink, unto whom the LORD had sent me:

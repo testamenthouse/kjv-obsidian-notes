@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 7:23
-
 But the LORD thy God shall deliver them unto thee, and shall destroy them with a mighty destruction, until they be destroyed.

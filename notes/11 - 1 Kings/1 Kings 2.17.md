@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 2:17
-
 And he said, Speak, I pray thee, unto Solomon the king, (for he will not say thee nay,) that he give me Abishag the Shunammite to wife.

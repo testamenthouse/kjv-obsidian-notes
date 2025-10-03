@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 11:21
-
 Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 21:7
-
 The children of Merari by their families had out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.

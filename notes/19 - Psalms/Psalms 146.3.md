@@ -13,7 +13,4 @@ grammar_tags: [negation, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 146:3
-
 Put not your trust in princes, nor in the son of man, in whom there is no help.

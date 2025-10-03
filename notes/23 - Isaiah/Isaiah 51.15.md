@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 51:15
-
 But I am the LORD thy God, that divided the sea, whose waves roared: The LORD of hosts is his name.

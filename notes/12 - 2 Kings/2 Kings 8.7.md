@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 8:7
-
 And Elisha came to Damascus; and Benhadad the king of Syria was sick; and it was told him, saying, The man of God is come hither.

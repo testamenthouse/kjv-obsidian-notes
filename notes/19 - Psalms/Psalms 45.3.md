@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 45:3
-
 Gird thy sword upon thy thigh, O most mighty, with thy glory and thy majesty.

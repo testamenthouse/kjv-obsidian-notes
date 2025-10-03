@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 12:25
-
 Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.

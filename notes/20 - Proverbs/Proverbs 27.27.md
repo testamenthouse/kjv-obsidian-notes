@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 27:27
-
 And thou shalt have goats' milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens.|

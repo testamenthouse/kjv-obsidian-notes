@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 95:1
-
 O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.

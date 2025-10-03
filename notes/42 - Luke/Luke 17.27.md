@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-period, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:27
-
 They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.

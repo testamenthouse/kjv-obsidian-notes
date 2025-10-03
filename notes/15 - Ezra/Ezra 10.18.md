@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:18
-
 And among the sons of the priests there were found that had taken strange wives: namely, of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:34
-
 And he did evil in the sight of the LORD, and walked in the way of Jeroboam, and in his sin wherewith he made Israel to sin.

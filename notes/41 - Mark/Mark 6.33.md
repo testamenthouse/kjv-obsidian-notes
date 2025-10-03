@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:33
-
 And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.

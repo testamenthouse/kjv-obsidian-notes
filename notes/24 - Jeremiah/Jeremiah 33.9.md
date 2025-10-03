@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 33:9
-
 And it shall be to me a name of joy, a praise and an honour before all the nations of the earth, which shall hear all the good that I do unto them: and they shall fear and tremble for all the goodness and for all the prosperity that I procure unto it.

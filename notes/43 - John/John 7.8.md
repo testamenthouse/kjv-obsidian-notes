@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:8
-
 Go ye up unto this feast: I go not up yet unto this feast: for my time is not yet full come.

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:30
-
 Verily I say unto you, that this generation shall not pass, till all these things be done.

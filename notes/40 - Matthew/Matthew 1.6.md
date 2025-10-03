@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener, conditional, genealogy-struc
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 1:6
-
 And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;

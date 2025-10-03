@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 3:14
-
 But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?

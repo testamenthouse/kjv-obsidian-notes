@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 24:7
-
 For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon the ground, to cover it with dust;

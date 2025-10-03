@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 4:41
-
 These are they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the LORD.

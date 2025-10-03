@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:7
-
 In my distress I called upon the LORD, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:19
-
 And Pilate wrote a title, and put it on the cross. And the writing was JESUS OF NAZARETH THE KING OF THE JEWS.

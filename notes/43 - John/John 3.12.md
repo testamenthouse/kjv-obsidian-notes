@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 3:12
-
 If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?

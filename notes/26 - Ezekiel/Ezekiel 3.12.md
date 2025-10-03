@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 3:12
-
 Then the spirit took me up, and I heard behind me a voice of a great rushing, saying, Blessed be the glory of the LORD from his place.

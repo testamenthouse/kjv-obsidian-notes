@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 42:25
-
 Then Joseph commanded to fill their sacks with corn, and to restore every man's money into his sack, and to give them provision for the way: and thus did he unto them.

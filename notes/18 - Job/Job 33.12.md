@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:12
-
 Behold, in this thou art not just: I will answer thee, that God is greater than man.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:30
-
 And, behold, there are last which shall be first, and there are first which shall be last.

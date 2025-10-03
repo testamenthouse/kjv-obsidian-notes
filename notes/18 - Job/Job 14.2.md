@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:2
-
 He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.

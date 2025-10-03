@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:17
-
 And they clothed him with purple, and platted a crown of thorns, and put it about his head,

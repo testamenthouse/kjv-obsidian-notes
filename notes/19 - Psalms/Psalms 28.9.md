@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 28:9
-
 Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.

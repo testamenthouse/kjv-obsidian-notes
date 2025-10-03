@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [jesus, jesus-title, benediction]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 20:21
-
 Then said Jesus to them again, Peace be unto you: as my Father hath sent me, even so send I you.

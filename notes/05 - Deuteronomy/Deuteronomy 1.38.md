@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 1:38
-
 But Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it.

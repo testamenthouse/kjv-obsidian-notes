@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 3:16
-
 For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.

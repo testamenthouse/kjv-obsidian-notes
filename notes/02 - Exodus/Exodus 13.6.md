@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 13:6
-
 Seven days thou shalt eat unleavened bread, and in the seventh day shall be a feast to the LORD.

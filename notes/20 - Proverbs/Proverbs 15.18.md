@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 15:18
-
 A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.

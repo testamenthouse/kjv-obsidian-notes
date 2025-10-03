@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, inference-opener, negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 7:11
-
 Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.

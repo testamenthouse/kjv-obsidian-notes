@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 17:24
-
 God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 3:30
-
 And the chief of the house of the father of the families of the Kohathites shall be Elizaphan the son of Uzziel.

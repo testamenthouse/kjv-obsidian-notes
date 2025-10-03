@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:56
-
 And whithersoever he entered, into villages, or cities, or country, they laid the sick in the streets, and besought him that they might touch if it were but the border of his garment: and as many as touched him were made whole.

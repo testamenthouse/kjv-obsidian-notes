@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Ecclesiastes"]
 ---
-
-# Ecclesiastes 4:2
-
 Wherefore I praised the dead which are already dead more than the living which are yet alive.

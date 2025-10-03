@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 10:22
-
 Thy fathers went down into Egypt with threescore and ten persons; and now the LORD thy God hath made thee as the stars of heaven for multitude.

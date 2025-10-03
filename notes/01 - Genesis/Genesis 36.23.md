@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 36:23
-
 And the children of Shobal were these; Alvan, and Manahath, and Ebal, Shepho, and Onam.

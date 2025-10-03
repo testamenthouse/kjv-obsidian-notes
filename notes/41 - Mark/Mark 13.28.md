@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [time-seasons, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:28
-
 Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ruth"]
 ---
-
-# Ruth 4:2
-
 And he took ten men of the elders of the city, and said, Sit ye down here. And they sat down.

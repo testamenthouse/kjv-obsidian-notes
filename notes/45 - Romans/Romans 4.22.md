@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 4:22
-
 And therefore it was imputed to him for righteousness.

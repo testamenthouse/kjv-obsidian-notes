@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 10:29
-
 And of the sons of Bani; Meshullam, Malluch, and Adaiah, Jashub, and Sheal, and Ramoth.

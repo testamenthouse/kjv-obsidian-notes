@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [jesus, jesus-title, praise-worship]
 tags: ["Bible","KJV","1-Peter"]
 ---
-
-# 1 Peter 1:7
-
 That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:

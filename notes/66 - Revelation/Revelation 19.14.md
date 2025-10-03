@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 19:14
-
 And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean.

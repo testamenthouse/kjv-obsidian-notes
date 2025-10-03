@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:40
-
 Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 26:14
-
 These are the families of the Simeonites, twenty and two thousand and two hundred.

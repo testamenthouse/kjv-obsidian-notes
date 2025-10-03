@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [demonic-entities, adversary, lament]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:23
-
 And there was in their synagogue a man with an unclean spirit; and he cried out,

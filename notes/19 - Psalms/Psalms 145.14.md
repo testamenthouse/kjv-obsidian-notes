@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 145:14
-
 The LORD upholdeth all that fall, and raiseth up all those that be bowed down.

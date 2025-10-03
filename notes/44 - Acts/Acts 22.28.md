@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 22:28
-
 And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was free born.

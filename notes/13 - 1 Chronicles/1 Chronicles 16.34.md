@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 16:34
-
 O give thanks unto the LORD; for he is good; for his mercy endureth for ever.

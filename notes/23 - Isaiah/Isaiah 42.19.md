@@ -13,7 +13,4 @@ grammar_tags: [question, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 42:19
-
 Who is blind, but my servant? or deaf, as my messenger that I sent? who is blind as he that is perfect, and blind as the LORD's servant?

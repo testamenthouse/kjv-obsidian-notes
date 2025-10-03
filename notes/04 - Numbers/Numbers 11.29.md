@@ -13,7 +13,4 @@ grammar_tags: [exclamation, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 11:29
-
 And Moses said unto him, Enviest thou for my sake? would God that all the LORD's people were prophets, and that the LORD would put his spirit upon them!

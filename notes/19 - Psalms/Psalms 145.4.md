@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 145:4
-
 One generation shall praise thy works to another, and shall declare thy mighty acts.

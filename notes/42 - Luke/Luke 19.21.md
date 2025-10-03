@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:21
-
 For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.

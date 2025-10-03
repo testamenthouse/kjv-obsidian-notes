@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 1:52
-
 He hath put down the mighty from their seats, and exalted them of low degree.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 27:2
-
 When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.

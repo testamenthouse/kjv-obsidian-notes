@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 22:11
-
 Ye made also a ditch between the two walls for the water of the old pool: but ye have not looked unto the maker thereof, neither had respect unto him that fashioned it long ago.

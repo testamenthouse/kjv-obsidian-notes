@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 19:18
-
 And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother;

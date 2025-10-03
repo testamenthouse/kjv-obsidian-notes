@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 10:11
-
 The mouth of a righteous man is a well of life: but violence covereth the mouth of the wicked.

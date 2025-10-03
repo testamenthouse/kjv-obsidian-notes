@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 18:15
-
 Wherefore when Saul saw that he behaved himself very wisely, he was afraid of him.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 42:14
-
 And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Kerenhappuch.

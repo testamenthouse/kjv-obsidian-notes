@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:24
-
 And do this thing, Take the kings away, every man out of his place, and put captains in their rooms:

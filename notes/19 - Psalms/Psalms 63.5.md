@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 63:5
-
 My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips:

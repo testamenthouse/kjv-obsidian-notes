@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 130:6
-
 My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 2:7
-
 They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it.

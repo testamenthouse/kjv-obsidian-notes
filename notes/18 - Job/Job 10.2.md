@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:2
-
 I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.

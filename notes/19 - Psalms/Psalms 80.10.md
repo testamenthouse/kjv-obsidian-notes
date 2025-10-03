@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 80:10
-
 The hills were covered with the shadow of it, and the boughs thereof were like the goodly cedars.

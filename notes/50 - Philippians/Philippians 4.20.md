@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god, time-eschatology, time]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 4:20
-
 Now unto God and our Father be glory for ever and ever. Amen.

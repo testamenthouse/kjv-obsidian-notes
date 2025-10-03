@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 10:6
-
 And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.

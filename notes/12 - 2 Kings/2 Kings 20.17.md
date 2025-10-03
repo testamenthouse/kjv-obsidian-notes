@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 20:17
-
 Behold, the days come, that all that is in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the LORD.

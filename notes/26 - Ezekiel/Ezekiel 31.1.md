@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 31:1
-
 And it came to pass in the eleventh year, in the third month, in the first day of the month, that the word of the LORD came unto me, saying,

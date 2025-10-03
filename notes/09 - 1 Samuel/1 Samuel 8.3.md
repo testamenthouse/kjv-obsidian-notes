@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 8:3
-
 And his sons walked not in his ways, but turned aside after lucre, and took bribes, and perverted judgment.

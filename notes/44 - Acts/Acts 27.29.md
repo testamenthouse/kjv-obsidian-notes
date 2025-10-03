@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 27:29
-
 Then fearing lest we should have fallen upon rocks, they cast four anchors out of the stern, and wished for the day.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 78:52
-
 But made his own people to go forth like sheep, and guided them in the wilderness like a flock.

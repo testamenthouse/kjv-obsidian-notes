@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 7:16
-
 For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings.

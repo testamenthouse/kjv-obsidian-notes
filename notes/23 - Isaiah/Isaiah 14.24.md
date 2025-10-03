@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 14:24
-
 The LORD of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, so shall it stand:

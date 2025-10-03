@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 10:8
-
 And the LORD said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee.

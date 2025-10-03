@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 8:8
-
 And Shaharaim begat children in the country of Moab, after he had sent them away; Hushim and Baara were his wives.

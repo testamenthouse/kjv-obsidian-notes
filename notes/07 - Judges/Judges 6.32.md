@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 6:32
-
 Therefore on that day he called him Jerubbaal, saying, Let Baal plead against him, because he hath thrown down his altar.

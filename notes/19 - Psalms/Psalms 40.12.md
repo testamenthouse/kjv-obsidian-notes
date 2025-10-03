@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 40:12
-
 For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 145:16
-
 Thou openest thine hand, and satisfiest the desire of every living thing.

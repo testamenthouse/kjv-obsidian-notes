@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 30:2
-
 Thus speaketh the LORD God of Israel, saying, Write thee all the words that I have spoken unto thee in a book.

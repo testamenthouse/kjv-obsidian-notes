@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [one-another]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:34
-
 A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 35:18
-
 Or if he smite him with an hand weapon of wood, wherewith he may die, and he die, he is a murderer: the murderer shall surely be put to death.

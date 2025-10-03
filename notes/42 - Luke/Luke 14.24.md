@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:24
-
 For I say unto you, That none of those men which were bidden shall taste of my supper.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 65:5
-
 By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:

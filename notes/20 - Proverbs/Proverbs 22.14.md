@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 22:14
-
 The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein.

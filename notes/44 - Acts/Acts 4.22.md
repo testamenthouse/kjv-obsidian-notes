@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 4:22
-
 For the man was above forty years old, on whom this miracle of healing was shewed.

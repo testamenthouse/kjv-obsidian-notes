@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 10:11
-
 Not so: go now ye that are men, and serve the LORD; for that ye did desire. And they were driven out from Pharaoh's presence.

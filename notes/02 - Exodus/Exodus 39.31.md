@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 39:31
-
 And they tied unto it a lace of blue, to fasten it on high upon the mitre; as the LORD commanded Moses.

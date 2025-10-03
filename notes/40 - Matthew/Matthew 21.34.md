@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 21:34
-
 And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it.

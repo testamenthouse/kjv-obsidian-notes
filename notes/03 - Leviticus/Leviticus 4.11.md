@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 4:11
-
 And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,

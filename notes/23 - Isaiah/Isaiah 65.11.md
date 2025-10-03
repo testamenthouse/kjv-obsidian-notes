@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 65:11
-
 But ye are they that forsake the LORD, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering unto that number.

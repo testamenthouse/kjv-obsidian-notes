@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 143:7
-
 Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit.

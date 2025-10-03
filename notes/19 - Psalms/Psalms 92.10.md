@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 92:10
-
 But my horn shalt thou exalt like the horn of an unicorn: I shall be anointed with fresh oil.

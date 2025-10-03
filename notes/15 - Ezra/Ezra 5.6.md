@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 5:6
-
 The copy of the letter that Tatnai, governor on this side the river, and Shetharboznai and his companions the Apharsachites, which were on this side the river, sent unto Darius the king:

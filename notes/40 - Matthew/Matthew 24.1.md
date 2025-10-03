@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 24:1
-
 And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.

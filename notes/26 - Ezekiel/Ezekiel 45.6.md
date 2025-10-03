@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 45:6
-
 And ye shall appoint the possession of the city five thousand broad, and five and twenty thousand long, over against the oblation of the holy portion: it shall be for the whole house of Israel.

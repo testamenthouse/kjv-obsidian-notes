@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 75:6
-
 For promotion cometh neither from the east, nor from the west, nor from the south.

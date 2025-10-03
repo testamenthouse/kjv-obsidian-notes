@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:40
-
 But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham.

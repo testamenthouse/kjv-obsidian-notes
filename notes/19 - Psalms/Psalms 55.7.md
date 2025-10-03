@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 55:7
-
 Lo, then would I wander far off, and remain in the wilderness. Selah.

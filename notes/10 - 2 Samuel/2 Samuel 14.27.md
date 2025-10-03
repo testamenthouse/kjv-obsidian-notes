@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 14:27
-
 And unto Absalom there were born three sons, and one daughter, whose name was Tamar: she was a woman of a fair countenance.

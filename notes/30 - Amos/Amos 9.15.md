@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 9:15
-
 And I will plant them upon their land, and they shall no more be pulled up out of their land which I have given them, saith the LORD thy God.

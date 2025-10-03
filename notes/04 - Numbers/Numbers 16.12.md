@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 16:12
-
 And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:

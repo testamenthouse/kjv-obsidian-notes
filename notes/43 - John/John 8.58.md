@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 8:58
-
 Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.

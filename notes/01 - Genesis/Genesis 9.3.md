@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 9:3
-
 Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.

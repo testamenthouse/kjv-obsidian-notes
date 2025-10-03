@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 20:23
-
 Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold.

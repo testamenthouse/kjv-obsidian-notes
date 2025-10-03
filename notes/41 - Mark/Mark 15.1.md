@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title, time-parts-of-day, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:1
-
 And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate.

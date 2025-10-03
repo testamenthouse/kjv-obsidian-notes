@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:3
-
 For I testify again to every man that is circumcised, that he is a debtor to do the whole law.

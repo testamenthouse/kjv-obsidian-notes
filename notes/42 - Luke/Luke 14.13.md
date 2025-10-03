@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 14:13
-
 But when thou makest a feast, call the poor, the maimed, the lame, the blind:

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 10:16
-
 Therefore shall the Lord, the Lord of hosts, send among his fat ones leanness; and under his glory he shall kindle a burning like the burning of a fire.

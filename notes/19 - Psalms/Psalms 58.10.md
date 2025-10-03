@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 58:10
-
 The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.

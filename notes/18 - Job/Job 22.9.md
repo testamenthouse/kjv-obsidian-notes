@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:9
-
 Thou hast sent widows away empty, and the arms of the fatherless have been broken.

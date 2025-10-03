@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 103:4
-
 Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;

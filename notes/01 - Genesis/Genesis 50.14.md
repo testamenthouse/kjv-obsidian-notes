@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 50:14
-
 And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 13:18
-
 And he said, Take the arrows. And he took them. And he said unto the king of Israel, Smite upon the ground. And he smote thrice, and stayed.

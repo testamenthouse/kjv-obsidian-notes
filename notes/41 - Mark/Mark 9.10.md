@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 9:10
-
 And they kept that saying with themselves, questioning one with another what the rising from the dead should mean.

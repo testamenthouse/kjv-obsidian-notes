@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 13:24
-
 And Moses gave inheritance unto the tribe of Gad, even unto the children of Gad according to their families.

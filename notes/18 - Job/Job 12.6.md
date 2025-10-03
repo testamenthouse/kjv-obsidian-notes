@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:6
-
 The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth abundantly.

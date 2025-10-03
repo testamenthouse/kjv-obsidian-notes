@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:5
-
 If I have walked with vanity, or if my foot hath hasted to deceit;

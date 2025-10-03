@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 14:16
-
 A wise man feareth, and departeth from evil: but the fool rageth, and is confident.

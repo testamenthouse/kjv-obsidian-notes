@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 90:3
-
 |Thou turnest man to destruction; and sayest, Return, ye children of men.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:14
-
 Thou shalt not curse the deaf, nor put a stumbling-block before the blind, but shalt fear thy God: I am the LORD.

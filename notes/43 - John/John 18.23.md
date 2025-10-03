@@ -13,7 +13,4 @@ grammar_tags: [question, contrast, conditional]
 thematic_tags: [names-of-god, warfare, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:23
-
 Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?

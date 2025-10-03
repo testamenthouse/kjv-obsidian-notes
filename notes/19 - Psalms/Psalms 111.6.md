@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 111:6
-
 He hath shewed his people the power of his works, that he may give them the heritage of the heathen.

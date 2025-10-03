@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 66:4
-
 All the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah.

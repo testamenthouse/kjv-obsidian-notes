@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 28:16
-
 Therefore thus saith the LORD; Behold, I will cast thee from off the face of the earth: this year thou shalt die, because thou hast taught rebellion against the LORD.

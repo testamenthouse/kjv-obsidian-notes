@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 23:2
-
 Even to day is my complaint bitter: my stroke is heavier than my groaning.

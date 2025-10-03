@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 22:6
-
 Train up a child in the way he should go: and when he is old, he will not depart from it.

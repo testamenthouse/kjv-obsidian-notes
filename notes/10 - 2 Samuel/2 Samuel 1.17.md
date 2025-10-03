@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 1:17
-
 And David lamented with this lamentation over Saul and over Jonathan his son:

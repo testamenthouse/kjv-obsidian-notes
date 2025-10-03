@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 17:25
-
 Neither is worshipped with men's hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things;

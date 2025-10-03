@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","James"]
 ---
-
-# James 1:6
-
 But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.

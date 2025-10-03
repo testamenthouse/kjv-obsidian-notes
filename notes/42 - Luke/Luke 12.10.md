@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:10
-
 And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.

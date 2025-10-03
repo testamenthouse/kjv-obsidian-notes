@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 2:18
-
 And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.

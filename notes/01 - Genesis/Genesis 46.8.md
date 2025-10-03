@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 46:8
-
 And these are the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob's firstborn.

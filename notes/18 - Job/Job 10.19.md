@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:19
-
 I should have been as though I had not been; I should have been carried from the womb to the grave.

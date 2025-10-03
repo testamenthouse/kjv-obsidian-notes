@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-epithet, adversary]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:16
-
 With him is strength and wisdom: the deceived and the deceiver are his.

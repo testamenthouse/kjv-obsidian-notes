@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 3:29
-
 And they slew of Moab at that time about ten thousand men, all lusty, and all men of valor; and there escaped not a man.

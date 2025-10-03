@@ -13,7 +13,4 @@ grammar_tags: [question, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 22:17
-
 Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?

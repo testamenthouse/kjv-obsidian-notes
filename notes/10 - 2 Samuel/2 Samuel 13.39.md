@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 13:39
-
 And the soul of king David longed to go forth unto Absalom: for he was comforted concerning Amnon, seeing he was dead.

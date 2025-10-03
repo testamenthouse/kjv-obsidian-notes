@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:6
-
 Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;

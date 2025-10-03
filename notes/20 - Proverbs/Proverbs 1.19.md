@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 1:19
-
 So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.

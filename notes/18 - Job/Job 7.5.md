@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 7:5
-
 My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 2:8
-
 And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.

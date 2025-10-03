@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:23
-
 Though it be given him to be in safety, whereon he resteth; yet his eyes are upon their ways.

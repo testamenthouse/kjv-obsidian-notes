@@ -13,7 +13,4 @@ grammar_tags: [exclamation, inference-opener, contrast]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 17:1
-
 Then said he unto the disciples, It is impossible but that offences will come: but woe unto him, through whom they come!

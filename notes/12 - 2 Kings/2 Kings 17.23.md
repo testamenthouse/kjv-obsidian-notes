@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 17:23
-
 Until the LORD removed Israel out of his sight, as he had said by all his servants the prophets. So was Israel carried away out of their own land to Assyria unto this day.

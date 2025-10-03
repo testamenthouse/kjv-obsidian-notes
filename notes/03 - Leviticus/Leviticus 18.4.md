@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 18:4
-
 Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the LORD your God.

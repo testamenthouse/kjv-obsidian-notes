@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:34
-
 Ascribe ye strength unto God: his excellency is over Israel, and his strength is in the clouds.

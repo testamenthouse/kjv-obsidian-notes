@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 129:6
-
 Let them be as the grass upon the housetops, which withereth afore it groweth up:

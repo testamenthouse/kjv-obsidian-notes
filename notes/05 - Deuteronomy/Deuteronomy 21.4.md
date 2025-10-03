@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 21:4
-
 And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer's neck there in the valley:

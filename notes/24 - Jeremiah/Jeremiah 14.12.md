@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [warfare, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 14:12
-
 When they fast, I will not hear their cry; and when they offer burnt offering and an oblation, I will not accept them: but I will consume them by the sword, and by the famine, and by the pestilence.

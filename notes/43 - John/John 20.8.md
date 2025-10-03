@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 20:8
-
 Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed.

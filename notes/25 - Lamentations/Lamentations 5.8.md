@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 5:8
-
 Servants have ruled over us: there is none that doth deliver us out of their hand.

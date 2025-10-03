@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 66:9
-
 Which holdeth our soul in life, and suffereth not our feet to be moved.

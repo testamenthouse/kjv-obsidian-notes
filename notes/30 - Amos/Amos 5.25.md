@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 5:25
-
 Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?

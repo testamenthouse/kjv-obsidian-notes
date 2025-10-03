@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 13:16
-
 And he said, I may not return with thee, nor go in with thee: neither will I eat bread nor drink water with thee in this place:

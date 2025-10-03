@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:40
-
 And he that eateth of the carcass of it shall wash his clothes, and be unclean until the even: he also that beareth the carcass of it shall wash his clothes, and be unclean until the even.

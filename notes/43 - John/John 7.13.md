@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 7:13
-
 Howbeit no man spake openly of him for fear of the Jews.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 3:3
-
 The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator.

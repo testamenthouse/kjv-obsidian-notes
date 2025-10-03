@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 18:14
-
 Thou shalt not uncover the nakedness of thy father's brother, thou shalt not approach to his wife: she is thine aunt.

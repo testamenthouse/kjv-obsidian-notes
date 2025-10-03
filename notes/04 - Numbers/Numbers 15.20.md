@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 15:20
-
 Ye shall offer up a cake of the first of your dough for an heave offering: as ye do the heave offering of the threshingfloor, so shall ye heave it.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 18:7
-
 Then he shall minister in the name of the LORD his God, as all his brethren the Levites do, which stand there before the LORD.

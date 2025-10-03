@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 21:22
-
 For these be the days of vengeance, that all things which are written may be fulfilled.

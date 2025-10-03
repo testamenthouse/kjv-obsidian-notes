@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 21:21
-
 He that followeth after righteousness and mercy findeth life, righteousness, and honour.

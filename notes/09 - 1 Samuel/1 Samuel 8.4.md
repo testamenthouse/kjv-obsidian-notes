@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 8:4
-
 Then all the elders of Israel gathered themselves together, and came to Samuel unto Ramah,

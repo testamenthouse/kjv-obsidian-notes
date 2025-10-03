@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 11:5
-
 And certain of them that stood there said unto them, What do ye, loosing the colt?

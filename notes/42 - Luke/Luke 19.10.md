@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:10
-
 For the Son of man is come to seek and to save that which was lost.

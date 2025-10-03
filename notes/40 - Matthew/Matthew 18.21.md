@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 18:21
-
 Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 12:22
-
 Even as the roebuck and the hart is eaten, so thou shalt eat them: the unclean and the clean shall eat of them alike.

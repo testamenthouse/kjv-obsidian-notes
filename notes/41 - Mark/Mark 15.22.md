@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:22
-
 And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.

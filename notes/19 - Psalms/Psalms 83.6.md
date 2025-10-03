@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 83:6
-
 The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;

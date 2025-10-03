@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 42:5
-
 And the sons of Israel came to buy corn among those that came: for the famine was in the land of Canaan.

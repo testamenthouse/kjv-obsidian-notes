@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 122:6
-
 Pray for the peace of Jerusalem: they shall prosper that love thee.

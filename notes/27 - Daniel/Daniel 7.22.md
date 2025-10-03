@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 7:22
-
 Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.

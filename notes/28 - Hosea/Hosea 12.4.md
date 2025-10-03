@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 12:4
-
 Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him in Bethel, and there he spake with us;

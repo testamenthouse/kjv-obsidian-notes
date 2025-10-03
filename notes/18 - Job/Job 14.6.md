@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:6
-
 Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.

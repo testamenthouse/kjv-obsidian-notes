@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 107:32
-
 Let them exalt him also in the congregation of the people, and praise him in the assembly of the elders.

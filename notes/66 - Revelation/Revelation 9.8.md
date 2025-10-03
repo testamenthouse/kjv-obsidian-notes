@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 9:8
-
 And they had hair as the hair of women, and their teeth were as the teeth of lions.

@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 3:33
-
 Which was the son of Aminadab, which was the son of Aram, which was the son of Esrom, which was the son of Phares, which was the son of Juda,

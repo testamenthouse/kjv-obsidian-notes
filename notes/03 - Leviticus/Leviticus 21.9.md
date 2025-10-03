@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 21:9
-
 And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.

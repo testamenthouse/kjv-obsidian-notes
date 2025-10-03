@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:24
-
 His heart is as firm as a stone; yea, as hard as a piece of the nether millstone.

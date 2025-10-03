@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 29:3
-
 And thither were all the flocks gathered: and they rolled the stone from the well's mouth, and watered the sheep, and put the stone again upon the well's mouth in his place.

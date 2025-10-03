@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 20:1
-
 Now Pashur the son of Immer the priest, who was also chief governor in the house of the LORD, heard that Jeremiah prophesied these things.

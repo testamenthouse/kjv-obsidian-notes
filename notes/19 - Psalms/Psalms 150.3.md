@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 150:3
-
 Praise him with the sound of the trumpet: praise him with the psaltery and harp.

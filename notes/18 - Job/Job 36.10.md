@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:10
-
 He openeth also their ear to discipline, and commandeth that they return from iniquity.

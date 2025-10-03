@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:5
-
 And the devil, taking him up into an high mountain, shewed unto him all the kingdoms of the world in a moment of time.

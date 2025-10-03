@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:12
-
 He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.

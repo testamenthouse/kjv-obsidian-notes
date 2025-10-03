@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 121:8
-
 The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.

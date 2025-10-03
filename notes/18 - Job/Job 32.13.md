@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 32:13
-
 Lest ye should say, We have found out wisdom: God thrusteth him down, not man.

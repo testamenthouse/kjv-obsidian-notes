@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 32:47
-
 For it is not a vain thing for you; because it is your life: and through this thing ye shall prolong your days in the land, whither ye go over Jordan to possess it.

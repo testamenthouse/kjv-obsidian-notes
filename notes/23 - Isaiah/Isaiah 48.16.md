@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 48:16
-
 Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord GOD, and his Spirit, hath sent me.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time-period, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 38:28
-
 So Jeremiah abode in the court of the prison until the day that Jerusalem was taken: and he was there when Jerusalem was taken.

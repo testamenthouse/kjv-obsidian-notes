@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 14:16
-
 And the priest shall dip his right finger in the oil that is in his left hand, and shall sprinkle of the oil with his finger seven times before the LORD:

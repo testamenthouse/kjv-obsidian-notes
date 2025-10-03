@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 50:10
-
 For every beast of the forest is mine, and the cattle upon a thousand hills.

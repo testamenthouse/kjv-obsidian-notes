@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 45:23
-
 And to his father he sent after this manner; ten asses laden with the good things of Egypt, and ten she asses laden with corn and bread and meat for his father by the way.

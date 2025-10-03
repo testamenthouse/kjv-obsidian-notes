@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 28:2
-
 Arise, go to Padanaram, to the house of Bethuel thy mother's father; and take thee a wife from thence of the daughters of Laban thy mother's brother.

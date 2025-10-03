@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 5:39
-
 But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 12:12
-
 And the land shall mourn, every family apart; the family of the house of David apart, and their wives apart; the family of the house of Nathan apart, and their wives apart;

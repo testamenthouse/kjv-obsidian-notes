@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [time-units, time-feasts, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 13:17
-
 Then I contended with the nobles of Judah, and said unto them, What evil thing is this that ye do, and profane the sabbath day?

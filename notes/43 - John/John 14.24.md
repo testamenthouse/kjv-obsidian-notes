@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 14:24
-
 He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father's which sent me.

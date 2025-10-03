@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 18:23
-
 Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.

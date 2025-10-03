@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 59:1
-
 Deliver me from mine enemies, O my God: defend me from them that rise up against me.

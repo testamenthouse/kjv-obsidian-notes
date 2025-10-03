@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joel"]
 ---
-
-# Joel 2:21
-
 Fear not, O land; be glad and rejoice: for the LORD will do great things.

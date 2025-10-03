@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:21
-
 And the king of Israel went out, and smote the horses and chariots, and slew the Syrians with a great slaughter.

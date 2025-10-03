@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 31:1
-
 In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.

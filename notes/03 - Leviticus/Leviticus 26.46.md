@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 26:46
-
 These are the statutes and judgments and laws, which the LORD made between him and the children of Israel in mount Sinai by the hand of Moses.

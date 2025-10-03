@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:25
-
 And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?

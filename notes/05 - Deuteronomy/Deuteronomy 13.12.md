@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 13:12
-
 If thou shalt hear say in one of thy cities, which the LORD thy God hath given thee to dwell there, saying,

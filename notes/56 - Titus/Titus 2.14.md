@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 2:14
-
 Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.

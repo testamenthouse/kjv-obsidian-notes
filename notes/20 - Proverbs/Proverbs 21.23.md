@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 21:23
-
 Whoso keepeth his mouth and his tongue keepeth his soul from troubles.

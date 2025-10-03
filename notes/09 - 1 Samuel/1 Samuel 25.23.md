@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 25:23
-
 And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground,

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 35:26
-
 Now the rest of the acts of Josiah, and his goodness, according to that which was written in the law of the LORD,

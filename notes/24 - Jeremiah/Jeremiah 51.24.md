@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 51:24
-
 And I will render unto Babylon and to all the inhabitants of Chaldea all their evil that they have done in Zion in your sight, saith the LORD.

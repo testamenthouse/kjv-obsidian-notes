@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 10:20
-
 And twelve lions stood there on the one side and on the other upon the six steps: there was not the like made in any kingdom.

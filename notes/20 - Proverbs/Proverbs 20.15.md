@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 20:15
-
 There is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel.

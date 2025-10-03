@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 4:30
-
 Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.

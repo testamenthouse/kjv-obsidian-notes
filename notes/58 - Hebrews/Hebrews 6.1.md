@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 6:1
-
 Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,

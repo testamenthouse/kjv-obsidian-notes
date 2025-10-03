@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 10:40
-
 And went away again beyond Jordan into the place where John at first baptized; and there he abode.

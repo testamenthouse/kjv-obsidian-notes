@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 4:11
-
 And Huram made the pots, and the shovels, and the basins. And Huram finished the work that he was to make for king Solomon for the house of God;

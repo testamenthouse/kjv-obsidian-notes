@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:26
-
 The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.

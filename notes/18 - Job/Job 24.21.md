@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 24:21
-
 He evil entreateth the barren that beareth not: and doeth not good to the widow.

@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [positive-command, time-units, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 13:10
-
 Thou shalt therefore keep this ordinance in his season from year to year.

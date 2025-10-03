@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:10
-
 Then Simon Peter having a sword drew it, and smote the high priest's servant, and cut off his right ear. The servant's name was Malchus.

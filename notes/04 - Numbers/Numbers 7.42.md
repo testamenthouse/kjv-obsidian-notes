@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 7:42
-
 On the sixth day Eliasaph the son of Deuel, prince of the children of Gad, offered:

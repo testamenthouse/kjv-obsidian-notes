@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 20:5
-
 And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory.

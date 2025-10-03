@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 16:8
-
 Then Jesse called Abinadab, and made him pass before Samuel. And he said, Neither hath the LORD chosen this.

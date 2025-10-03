@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:3
-
 Will he make many supplications unto thee? will he speak soft words unto thee?

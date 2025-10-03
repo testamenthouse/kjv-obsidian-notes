@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 9:35
-
 And he sat down, and called the twelve, and saith unto them, If any man desire to be first, the same shall be last of all, and servant of all.

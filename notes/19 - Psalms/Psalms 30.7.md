@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 30:7
-
 LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.

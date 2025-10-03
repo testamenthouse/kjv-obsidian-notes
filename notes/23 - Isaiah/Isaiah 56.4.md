@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, covenant, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 56:4
-
 For thus saith the LORD unto the eunuchs that keep my sabbaths, and choose the things that please me, and take hold of my covenant;

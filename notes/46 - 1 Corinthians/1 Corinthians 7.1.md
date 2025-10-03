@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 7:1
-
 Now concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman.

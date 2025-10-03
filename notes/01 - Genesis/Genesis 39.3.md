@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 39:3
-
 And his master saw that the LORD was with him, and that the LORD made all that he did to prosper in his hand.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 11:4
-
 The LORD is in his holy temple, the LORD's throne is in heaven: his eyes behold, his eyelids try, the children of men.

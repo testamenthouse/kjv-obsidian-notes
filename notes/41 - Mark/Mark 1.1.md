@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, jesus, jesus-title, son-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:1
-
 The beginning of the gospel of Jesus Christ, the Son of God;

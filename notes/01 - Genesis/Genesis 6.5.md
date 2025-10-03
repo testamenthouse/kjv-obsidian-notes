@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 6:5
-
 And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.

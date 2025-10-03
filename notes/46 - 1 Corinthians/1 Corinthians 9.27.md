@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 9:27
-
 But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway.

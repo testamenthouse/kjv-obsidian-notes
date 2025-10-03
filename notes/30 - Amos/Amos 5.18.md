@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 5:18
-
 Woe unto you that desire the day of the LORD! to what end is it for you? the day of the LORD is darkness, and not light.

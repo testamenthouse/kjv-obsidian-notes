@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 31:30
-
 And Moses spake in the ears of all the congregation of Israel the words of this song, until they were ended.

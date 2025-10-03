@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 93:5
-
 Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever.

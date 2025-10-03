@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 11:2
-
 Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth.

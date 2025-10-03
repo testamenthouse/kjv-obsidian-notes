@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 3:10
-
 But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 3:24
-
 Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.

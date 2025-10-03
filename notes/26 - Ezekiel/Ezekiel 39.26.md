@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 39:26
-
 After that they have borne their shame, and all their trespasses whereby they have trespassed against me, when they dwelt safely in their land, and none made them afraid.

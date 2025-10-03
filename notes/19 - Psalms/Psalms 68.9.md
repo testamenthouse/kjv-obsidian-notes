@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:9
-
 Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary.

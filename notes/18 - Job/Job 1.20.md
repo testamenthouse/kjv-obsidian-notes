@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 1:20
-
 Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,

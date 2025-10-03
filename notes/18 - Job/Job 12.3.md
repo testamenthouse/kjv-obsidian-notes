@@ -13,7 +13,4 @@ grammar_tags: [question, contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:3
-
 But I have understanding as well as you; I am not inferior to you: yea, who knoweth not such things as these?

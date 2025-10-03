@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus-title, jesus]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 4:25
-
 The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things.

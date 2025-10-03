@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [adversary-metaphor, adversary]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 9:19
-
 For their power is in their mouth, and in their tails: for their tails were like unto serpents, and had heads, and with them they do hurt.

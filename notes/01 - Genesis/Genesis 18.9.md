@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 18:9
-
 And they said unto him, Where is Sarah thy wife? And he said, Behold, in the tent.

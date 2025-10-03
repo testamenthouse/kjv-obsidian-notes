@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 45:24
-
 So he sent his brethren away, and they departed: and he said unto them, See that ye fall not out by the way.

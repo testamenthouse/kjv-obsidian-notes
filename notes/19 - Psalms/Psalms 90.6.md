@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 90:6
-
 In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.

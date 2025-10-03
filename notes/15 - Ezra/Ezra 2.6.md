@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:6
-
 The children of Pahathmoab, of the children of Jeshua and Joab, two thousand eight hundred and twelve.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 57:7
-
 Upon a lofty and high mountain hast thou set thy bed: even thither wentest thou up to offer sacrifice.

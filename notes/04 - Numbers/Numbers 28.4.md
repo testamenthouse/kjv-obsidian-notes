@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 28:4
-
 The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;

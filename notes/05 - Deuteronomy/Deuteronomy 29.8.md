@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 29:8
-
 And we took their land, and gave it for an inheritance unto the Reubenites, and to the Gadites, and to the half tribe of Manasseh.

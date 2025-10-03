@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:12
-
 Behold, all ye yourselves have seen it; why then are ye thus altogether vain?

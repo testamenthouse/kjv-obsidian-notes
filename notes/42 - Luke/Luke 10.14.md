@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 10:14
-
 But it shall be more tolerable for Tyre and Sidon at the judgment, than for you.

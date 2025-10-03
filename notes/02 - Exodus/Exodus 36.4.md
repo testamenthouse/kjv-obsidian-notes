@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 36:4
-
 And all the wise men, that wrought all the work of the sanctuary, came every man from his work which they made;

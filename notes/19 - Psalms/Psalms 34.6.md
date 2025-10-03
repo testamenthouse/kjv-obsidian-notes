@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 34:6
-
 This poor man cried, and the LORD heard him, and saved him out of all his troubles.

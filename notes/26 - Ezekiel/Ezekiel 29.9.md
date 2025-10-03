@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 29:9
-
 And the land of Egypt shall be desolate and waste; and they shall know that I am the LORD: because he hath said, The river is mine, and I have made it.

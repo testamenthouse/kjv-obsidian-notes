@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title, thanksgiving]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 1:3
-
 We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,

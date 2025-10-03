@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Daniel"]
 ---
-
-# Daniel 1:9
-
 Now God had brought Daniel into favour and tender love with the prince of the eunuchs.

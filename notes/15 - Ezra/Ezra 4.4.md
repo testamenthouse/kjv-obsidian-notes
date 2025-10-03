@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 4:4
-
 Then the people of the land weakened the hands of the people of Judah, and troubled them in building,

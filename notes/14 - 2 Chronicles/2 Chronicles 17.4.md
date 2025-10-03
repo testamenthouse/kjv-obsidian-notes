@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 17:4
-
 But sought to the Lord God of his father, and walked in his commandments, and not after the doings of Israel.

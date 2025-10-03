@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 3:18
-
 After him repaired their brethren, Bavai the son of Henadad, the ruler of the half part of Keilah.

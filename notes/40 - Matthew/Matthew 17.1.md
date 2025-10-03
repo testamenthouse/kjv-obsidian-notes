@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title, time-units, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 17:1
-
 And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,

@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 13:18
-
 Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?

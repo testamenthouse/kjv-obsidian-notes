@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 6:3
-
 For if a man think himself to be something, when he is nothing, he deceiveth himself.

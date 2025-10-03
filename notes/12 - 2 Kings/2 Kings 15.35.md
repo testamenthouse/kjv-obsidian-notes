@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 15:35
-
 Howbeit the high places were not removed: the people sacrificed and burned incense still in the high places. He built the higher gate of the house of the LORD.

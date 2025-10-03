@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 5:13
-
 And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men.

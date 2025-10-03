@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:25
-
 Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, Thou hast said.

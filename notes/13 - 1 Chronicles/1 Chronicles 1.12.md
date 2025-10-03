@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 1:12
-
 And Pathrusim, and Casluhim, (of whom came the Philistines,) and Caphthorim.

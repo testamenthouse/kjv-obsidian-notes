@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 9:5
-
 What will ye do in the solemn day, and in the day of the feast of the LORD?

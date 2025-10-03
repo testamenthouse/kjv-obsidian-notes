@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 11:33
-
 O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!

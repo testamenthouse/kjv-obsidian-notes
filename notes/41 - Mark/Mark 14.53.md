@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:53
-
 And they led Jesus away to the high priest: and with him were assembled all the chief priests and the elders and the scribes.

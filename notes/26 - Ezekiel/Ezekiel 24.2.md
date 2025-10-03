@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus, time-units, time]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 24:2
-
 Son of man, write thee the name of the day, even of this same day: the king of Babylon set himself against Jerusalem this same day.

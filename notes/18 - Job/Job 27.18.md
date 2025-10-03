@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 27:18
-
 He buildeth his house as a moth, and as a booth that the keeper maketh.

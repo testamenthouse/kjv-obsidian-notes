@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, time-units, time-period, time]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 12:23
-
 The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib.

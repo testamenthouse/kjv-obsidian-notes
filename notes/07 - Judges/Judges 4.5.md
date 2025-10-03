@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 4:5
-
 And she dwelt under the palm tree of Deborah between Ramah and Bethel in mount Ephraim: and the children of Israel came up to her for judgment.

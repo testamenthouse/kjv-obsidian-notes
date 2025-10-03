@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:22
-
 But his flesh upon him shall have pain, and his soul within him shall mourn.

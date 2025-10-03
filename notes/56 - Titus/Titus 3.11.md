@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 3:11
-
 Knowing that he that is such is subverted, and sinneth, being condemned of himself.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 23:35
-
 Therefore thus saith the Lord GOD; Because thou hast forgotten me, and cast me behind thy back, therefore bear thou also thy lewdness and thy whoredoms.

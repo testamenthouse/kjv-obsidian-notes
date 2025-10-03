@@ -13,7 +13,4 @@ grammar_tags: [exclamation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 16:21
-
 O that one might plead for a man with God, as a man pleadeth for his neighbour!

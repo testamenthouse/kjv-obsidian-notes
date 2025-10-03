@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 17:16
-
 Now while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry.

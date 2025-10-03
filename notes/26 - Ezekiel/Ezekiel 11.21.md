@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 11:21
-
 But as for them whose heart walketh after the heart of their detestable things and their abominations, I will recompense their way upon their own heads, saith the Lord GOD.

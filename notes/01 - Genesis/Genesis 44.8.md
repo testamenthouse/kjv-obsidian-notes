@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 44:8
-
 Behold, the money, which we found in our sacks' mouths, we brought again unto thee out of the land of Canaan: how then should we steal out of thy lord's house silver or gold?

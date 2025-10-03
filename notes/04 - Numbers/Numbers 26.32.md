@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 26:32
-
 And of Shemida, the family of the Shemidaites: and of Hepher, the family of the Hepherites.

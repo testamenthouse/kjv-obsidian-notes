@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 1:15
-
 Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.

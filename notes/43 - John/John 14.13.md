@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 14:13
-
 And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.

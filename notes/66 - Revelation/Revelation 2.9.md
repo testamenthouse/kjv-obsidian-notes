@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [warfare, adversary-title, demonic-phrases, adversary]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 2:9
-
 I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.

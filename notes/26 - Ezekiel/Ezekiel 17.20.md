@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 17:20
-
 And I will spread my net upon him, and he shall be taken in my snare, and I will bring him to Babylon, and will plead with him there for his trespass that he hath trespassed against me.

@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, negative-command, time-units, time]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 23:17
-
 Let not thine heart envy sinners: but be thou in the fear of the LORD all the day long.

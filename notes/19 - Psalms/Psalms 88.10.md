@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 88:10
-
 Wilt thou shew wonders to the dead? shall the dead arise and praise thee? Selah.

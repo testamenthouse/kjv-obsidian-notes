@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 22:60
-
 And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew.

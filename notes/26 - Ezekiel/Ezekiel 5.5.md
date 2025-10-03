@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 5:5
-
 Thus saith the Lord GOD; This is Jerusalem: I have set it in the midst of the nations and countries that are round about her.

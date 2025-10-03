@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:10
-
 Which doeth great things past finding out; yea, and wonders without number.

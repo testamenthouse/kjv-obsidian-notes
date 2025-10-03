@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 11:23
-
 And the LORD said unto Moses, Is the LORD's hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not.

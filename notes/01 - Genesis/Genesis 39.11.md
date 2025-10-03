@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 39:11
-
 And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within.

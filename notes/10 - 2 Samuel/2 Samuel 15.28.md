@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 15:28
-
 See, I will tarry in the plain of the wilderness, until there come word from you to certify me.

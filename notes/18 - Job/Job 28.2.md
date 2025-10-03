@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:2
-
 Iron is taken out of the earth, and brass is molten out of the stone.

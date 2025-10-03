@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 20:16
-
 Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.

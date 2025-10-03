@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 32:51
-
 Because ye trespassed against me among the children of Israel at the waters of MeribahKadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 80:11
-
 She sent out her boughs unto the sea, and her branches unto the river.

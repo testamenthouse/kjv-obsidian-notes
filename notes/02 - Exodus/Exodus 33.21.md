@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 33:21
-
 And the LORD said, Behold, there is a place by me, and thou shalt stand upon a rock:

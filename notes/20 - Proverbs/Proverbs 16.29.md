@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 16:29
-
 A violent man enticeth his neighbour, and leadeth him into the way that is not good.

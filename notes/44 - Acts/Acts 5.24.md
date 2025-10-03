@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 5:24
-
 Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow.

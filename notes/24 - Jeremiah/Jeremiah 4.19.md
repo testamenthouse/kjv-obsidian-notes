@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 4:19
-
 My bowels, my bowels! I am pained at my very heart; my heart maketh a noise in me; I cannot hold my peace, because thou hast heard, O my soul, the sound of the trumpet, the alarm of war.

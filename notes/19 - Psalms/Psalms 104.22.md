@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 104:22
-
 The sun ariseth, they gather themselves together, and lay them down in their dens.

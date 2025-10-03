@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:13
-
 For now should I have lain still and been quiet, I should have slept: then had I been at rest,

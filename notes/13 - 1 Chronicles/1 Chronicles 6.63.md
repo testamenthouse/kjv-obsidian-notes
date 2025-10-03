@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 6:63
-
 Unto the sons of Merari were given by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.

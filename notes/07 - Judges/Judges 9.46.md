@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 9:46
-
 And when all the men of the tower of Shechem heard that, they entered into an hold of the house of the god Berith.

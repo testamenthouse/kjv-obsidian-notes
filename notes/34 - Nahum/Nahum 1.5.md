@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nahum"]
 ---
-
-# Nahum 1:5
-
 The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.

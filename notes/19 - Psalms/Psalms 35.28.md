@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [praise-worship, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 35:28
-
 And my tongue shall speak of thy righteousness and of thy praise all the day long.

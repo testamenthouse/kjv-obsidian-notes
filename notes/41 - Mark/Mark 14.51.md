@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 14:51
-
 And there followed him a certain young man, having a linen cloth cast about his naked body; and the young men laid hold on him:

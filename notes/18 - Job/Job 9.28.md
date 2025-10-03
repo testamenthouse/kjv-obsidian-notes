@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 9:28
-
 I am afraid of all my sorrows, I know that thou wilt not hold me innocent.

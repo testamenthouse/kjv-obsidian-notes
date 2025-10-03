@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 22:27
-
 All the ends of the world shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee.

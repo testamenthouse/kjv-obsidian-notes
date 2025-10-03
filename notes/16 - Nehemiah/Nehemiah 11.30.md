@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 11:30
-
 Zanoah, Adullam, and in their villages, at Lachish, and the fields thereof, at Azekah, and in the villages thereof. And they dwelt from Beersheba unto the valley of Hinnom.

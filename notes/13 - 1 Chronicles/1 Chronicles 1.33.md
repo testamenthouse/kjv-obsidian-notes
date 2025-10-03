@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 1:33
-
 And the sons of Midian; Ephah, and Epher, and Henoch, and Abida, and Eldaah. All these are the sons of Keturah.

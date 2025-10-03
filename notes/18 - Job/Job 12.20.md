@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 12:20
-
 He removeth away the speech of the trusty, and taketh away the understanding of the aged.

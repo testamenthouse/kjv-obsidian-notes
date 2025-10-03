@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 4:13
-
 Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.

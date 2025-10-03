@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:37
-
 And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat.

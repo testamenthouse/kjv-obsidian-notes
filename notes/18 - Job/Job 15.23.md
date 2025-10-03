@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:23
-
 He wandereth abroad for bread, saying, Where is it? he knoweth that the day of darkness is ready at his hand.

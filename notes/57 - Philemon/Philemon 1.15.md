@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [time-period, time]
 tags: ["Bible","KJV","Philemon"]
 ---
-
-# Philemon 1:15
-
 For perhaps he therefore departed for a season, that thou shouldest receive him for ever;

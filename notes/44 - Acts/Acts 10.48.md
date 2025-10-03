@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 10:48
-
 And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days.

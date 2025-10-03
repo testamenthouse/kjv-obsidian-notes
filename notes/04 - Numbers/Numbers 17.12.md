@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 17:12
-
 And the children of Israel spake unto Moses, saying, Behold, we die, we perish, we all perish.

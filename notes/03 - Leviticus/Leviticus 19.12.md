@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:12
-
 And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the LORD.

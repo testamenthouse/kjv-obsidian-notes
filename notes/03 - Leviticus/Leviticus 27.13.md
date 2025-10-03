@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 27:13
-
 But if he will at all redeem it, then he shall add a fifth part thereof unto thy estimation.

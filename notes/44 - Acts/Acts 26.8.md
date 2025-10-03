@@ -13,7 +13,4 @@ grammar_tags: [question, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 26:8
-
 Why should it be thought a thing incredible with you, that God should raise the dead?

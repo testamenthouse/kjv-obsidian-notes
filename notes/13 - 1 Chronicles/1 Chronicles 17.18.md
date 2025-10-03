@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 17:18
-
 What can David speak more to thee for the honor of thy servant? for thou knowest thy servant.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 16:2
-
 And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD.

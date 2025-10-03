@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 29:8
-
 And they with whom precious stones were found gave them to the treasure of the house of the LORD, by the hand of Jehiel the Gershonite.

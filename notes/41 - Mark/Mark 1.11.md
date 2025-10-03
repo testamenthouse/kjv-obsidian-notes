@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 1:11
-
 And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased.

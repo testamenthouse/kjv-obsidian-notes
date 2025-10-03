@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 28:24
-
 For he looketh to the ends of the earth, and seeth under the whole heaven;

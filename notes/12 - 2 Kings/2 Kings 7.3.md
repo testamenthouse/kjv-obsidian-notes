@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [one-another]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 7:3
-
 And there were four leprous men at the entering in of the gate: and they said one to another, Why sit we here until we die?

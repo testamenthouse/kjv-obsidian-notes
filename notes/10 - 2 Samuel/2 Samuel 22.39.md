@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 22:39
-
 And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet.

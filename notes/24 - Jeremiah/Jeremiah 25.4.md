@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 25:4
-
 And the LORD hath sent unto you all his servants the prophets, rising early and sending them; but ye have not hearkened, nor inclined your ear to hear.

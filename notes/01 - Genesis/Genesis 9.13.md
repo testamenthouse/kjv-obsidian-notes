@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 9:13
-
 I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.

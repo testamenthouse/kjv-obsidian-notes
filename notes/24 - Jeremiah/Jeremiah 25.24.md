@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 25:24
-
 And all the kings of Arabia, and all the kings of the mingled people that dwell in the desert,

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 6:44
-
 And their brethren the sons of Merari stood on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,

@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 4:19
-
 How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?

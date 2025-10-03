@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 9:34
-
 But the Pharisees said, He casteth out devils through the prince of the devils.

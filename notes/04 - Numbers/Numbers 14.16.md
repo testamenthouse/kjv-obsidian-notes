@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:16
-
 Because the LORD was not able to bring this people into the land which he sware unto them, therefore he hath slain them in the wilderness.

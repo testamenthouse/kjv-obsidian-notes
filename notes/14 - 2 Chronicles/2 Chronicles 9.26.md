@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 9:26
-
 And he reigned over all the kings from the river even unto the land of the Philistines, and to the border of Egypt.

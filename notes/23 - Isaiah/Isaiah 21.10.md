@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 21:10
-
 O my threshing, and the corn of my floor: that which I have heard of the LORD of hosts, the God of Israel, have I declared unto you.

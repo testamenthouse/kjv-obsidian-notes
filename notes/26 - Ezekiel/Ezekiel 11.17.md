@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 11:17
-
 Therefore say, Thus saith the Lord GOD; I will even gather you from the people, and assemble you out of the countries where ye have been scattered, and I will give you the land of Israel.

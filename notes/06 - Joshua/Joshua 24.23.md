@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 24:23
-
 Now therefore put away, said he, the strange gods which are among you, and incline your heart unto the LORD God of Israel.

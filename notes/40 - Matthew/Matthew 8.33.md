@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [warfare, adversary-title, demonic-entities, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 8:33
-
 And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.

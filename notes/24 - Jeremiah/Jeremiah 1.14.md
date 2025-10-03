@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 1:14
-
 Then the LORD said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land.

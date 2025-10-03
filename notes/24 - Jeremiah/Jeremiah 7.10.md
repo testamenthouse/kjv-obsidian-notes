@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 7:10
-
 And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations?

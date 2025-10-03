@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, thanksgiving, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 30:12
-
 To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever.

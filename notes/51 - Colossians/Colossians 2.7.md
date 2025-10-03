@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [thanksgiving]
 tags: ["Bible","KJV","Colossians"]
 ---
-
-# Colossians 2:7
-
 Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.

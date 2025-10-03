@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 3:14
-
 I was a derision to all my people; and their song all the day.

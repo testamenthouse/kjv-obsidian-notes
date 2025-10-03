@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 147:15
-
 He sendeth forth his commandment upon earth: his word runneth very swiftly.

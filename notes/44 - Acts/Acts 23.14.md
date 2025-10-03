@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 23:14
-
 And they came to the chief priests and elders, and said, We have bound ourselves under a great curse, that we will eat nothing until we have slain Paul.

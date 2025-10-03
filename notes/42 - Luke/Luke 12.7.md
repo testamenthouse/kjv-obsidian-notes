@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:7
-
 But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.

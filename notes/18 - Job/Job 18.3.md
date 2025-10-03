@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 18:3
-
 Wherefore are we counted as beasts, and reputed vile in your sight?

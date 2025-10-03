@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 91:10
-
 There shall no evil befall thee, neither shall any plague come nigh thy dwelling.

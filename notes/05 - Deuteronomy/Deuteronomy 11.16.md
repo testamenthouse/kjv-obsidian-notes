@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 11:16
-
 Take heed to yourselves, that your heart be not deceived, and ye turn aside, and serve other gods, and worship them;

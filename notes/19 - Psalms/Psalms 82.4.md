@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 82:4
-
 Deliver the poor and needy: rid them out of the hand of the wicked.

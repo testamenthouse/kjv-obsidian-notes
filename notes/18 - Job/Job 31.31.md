@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:31
-
 If the men of my tabernacle said not, Oh that we had of his flesh! we cannot be satisfied.

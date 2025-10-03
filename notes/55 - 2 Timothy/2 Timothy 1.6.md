@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Timothy"]
 ---
-
-# 2 Timothy 1:6
-
 Wherefore I put thee in remembrance that thou stir up the gift of God, which is in thee by the putting on of my hands.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 19:20
-
 Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.

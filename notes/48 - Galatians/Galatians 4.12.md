@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 4:12
-
 Brethren, I beseech you, be as I am; for I am as ye are: ye have not injured me at all.

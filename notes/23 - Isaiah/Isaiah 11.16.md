@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 11:16
-
 And there shall be an highway for the remnant of his people, which shall be left, from Assyria; like as it was to Israel in the day that he came up out of the land of Egypt.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Titus"]
 ---
-
-# Titus 2:6
-
 Young men likewise exhort to be sober minded.

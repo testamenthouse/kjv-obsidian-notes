@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 9:9
-
 Then the king called to Ziba, Saul's servant, and said unto him, I have given unto thy master's son all that pertained to Saul and to all his house.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 16:19
-
 My meat also which I gave thee, fine flour, and oil, and honey, wherewith I fed thee, thou hast even set it before them for a sweet savour: and thus it was, saith the Lord GOD.

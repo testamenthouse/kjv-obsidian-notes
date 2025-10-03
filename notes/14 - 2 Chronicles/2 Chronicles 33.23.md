@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 33:23
-
 And humbled not himself before the LORD, as Manasseh his father had humbled himself; but Amon trespassed more and more.

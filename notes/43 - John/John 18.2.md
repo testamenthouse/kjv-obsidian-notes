@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 18:2
-
 And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples.

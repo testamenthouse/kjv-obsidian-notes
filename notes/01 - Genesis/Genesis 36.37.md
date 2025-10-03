@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 36:37
-
 And Samlah died, and Saul of Rehoboth by the river reigned in his stead.

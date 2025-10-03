@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 4:11
-
 For we which live are alway delivered unto death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh.

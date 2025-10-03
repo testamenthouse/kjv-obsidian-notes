@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 13:7
-
 Then I went to Euphrates, and digged, and took the girdle from the place where I had hid it: and, behold, the girdle was marred, it was profitable for nothing.

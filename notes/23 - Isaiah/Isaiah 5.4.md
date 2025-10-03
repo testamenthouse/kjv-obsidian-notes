@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 5:4
-
 What could have been done more to my vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes?

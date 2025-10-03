@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 53:2
-
 God looked down from heaven upon the children of men, to see if there were any that did understand, that did seek God.

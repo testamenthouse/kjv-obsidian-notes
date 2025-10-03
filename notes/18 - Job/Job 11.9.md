@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 11:9
-
 The measure thereof is longer than the earth, and broader than the sea.

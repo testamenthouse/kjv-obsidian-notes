@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 5:15
-
 See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men.

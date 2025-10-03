@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, conditional, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 11:21
-
 Therefore thus saith the LORD of the men of Anathoth, that seek thy life, saying, Prophesy not in the name of the LORD, that thou die not by our hand:

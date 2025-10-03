@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [lament, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 17:16
-
 As for me, I have not hastened from being a pastor to follow thee: neither have I desired the woeful day; thou knowest: that which came out of my lips was right before thee.

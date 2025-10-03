@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 55:23
-
 But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee.

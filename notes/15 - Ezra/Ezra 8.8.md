@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 8:8
-
 And of the sons of Shephatiah; Zebadiah the son of Michael, and with him fourscore males.

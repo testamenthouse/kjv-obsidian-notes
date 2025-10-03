@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 24:27
-
 For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.

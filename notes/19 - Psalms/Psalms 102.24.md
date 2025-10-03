@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 102:24
-
 I said, O my God, take me not away in the midst of my days: thy years are throughout all generations.

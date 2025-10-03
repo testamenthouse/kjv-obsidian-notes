@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 28:9
-
 And thou shalt take two onyx stones, and grave on them the names of the children of Israel:

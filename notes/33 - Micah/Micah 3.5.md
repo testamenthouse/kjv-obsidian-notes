@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare, lament]
 tags: ["Bible","KJV","Micah"]
 ---
-
-# Micah 3:5
-
 Thus saith the LORD concerning the prophets that make my people err, that bite with their teeth, and cry, Peace; and he that putteth not into their mouths, they even prepare war against him.

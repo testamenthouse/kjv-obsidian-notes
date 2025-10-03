@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 11:22
-
 Therefore thus saith the LORD of hosts, Behold, I will punish them: the young men shall die by the sword; their sons and their daughters shall die by famine:

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 7:16
-
 But they that escape of them shall escape, and shall be on the mountains like doves of the valleys, all of them mourning, every one for his iniquity.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 41:9
-
 Then spake the chief butler unto Pharaoh, saying, I do remember my faults this day:

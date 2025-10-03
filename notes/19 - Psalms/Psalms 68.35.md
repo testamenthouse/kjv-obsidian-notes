@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, benediction]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 68:35
-
 O God, thou art terrible out of thy holy places: the God of Israel is he that giveth strength and power unto his people. Blessed be God.

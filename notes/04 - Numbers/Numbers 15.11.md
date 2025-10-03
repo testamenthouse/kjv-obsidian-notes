@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 15:11
-
 Thus shall it be done for one bullock, or for one ram, or for a lamb, or a kid.

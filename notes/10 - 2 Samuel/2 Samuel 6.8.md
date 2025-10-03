@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 6:8
-
 And David was displeased, because the LORD had made a breach upon Uzzah: and he called the name of the place Perezuzzah to this day.

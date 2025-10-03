@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 15:30
-
 Because of the sins of Jeroboam which he sinned, and which he made Israel sin, by his provocation wherewith he provoked the LORD God of Israel to anger.

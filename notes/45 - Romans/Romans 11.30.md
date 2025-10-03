@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 11:30
-
 For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:

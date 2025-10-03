@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 42:4
-
 He shall not fail nor be discouraged, till he have set judgment in the earth: and the isles shall wait for his law.

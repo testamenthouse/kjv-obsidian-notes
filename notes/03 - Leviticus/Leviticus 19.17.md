@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [negative-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 19:17
-
 Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbor, and not suffer sin upon him.

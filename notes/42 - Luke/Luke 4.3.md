@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional, genealogy-structure]
 thematic_tags: [names-of-god, warfare, son-of-god, jesus, adversary-title, adversary]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 4:3
-
 And the devil said unto him, If thou be the Son of God, command this stone that it be made bread.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 9:14
-
 Let me alone, that I may destroy them, and blot out their name from under heaven: and I will make of thee a nation mightier and greater than they.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 35:15
-
 But now, because it is not so, he hath visited in his anger; yet he knoweth it not in great extremity:

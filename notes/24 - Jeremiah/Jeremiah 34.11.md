@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 34:11
-
 But afterward they turned, and caused the servants and the handmaids, whom they had let go free, to return, and brought them into subjection for servants and for handmaids.

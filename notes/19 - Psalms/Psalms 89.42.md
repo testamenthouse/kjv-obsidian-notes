@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 89:42
-
 Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice.

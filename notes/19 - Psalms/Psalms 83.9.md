@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 83:9
-
 Do unto them as unto the Midianites; as to Sisera, as to Jabin, at the brook of Kison:

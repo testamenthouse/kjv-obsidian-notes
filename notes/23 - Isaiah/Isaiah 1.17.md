@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 1:17
-
 Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.

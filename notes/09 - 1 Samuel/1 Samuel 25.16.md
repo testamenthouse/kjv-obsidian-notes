@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 25:16
-
 They were a wall unto us both by night and day, all the while we were with them keeping the sheep.

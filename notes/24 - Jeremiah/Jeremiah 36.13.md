@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 36:13
-
 Then Michaiah declared unto them all the words that he had heard, when Baruch read the book in the ears of the people.

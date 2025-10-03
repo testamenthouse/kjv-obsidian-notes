@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:14
-
 Whose hope shall be cut off, and whose trust shall be a spider's web.

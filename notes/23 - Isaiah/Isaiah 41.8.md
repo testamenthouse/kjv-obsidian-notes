@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 41:8
-
 But thou, Israel, art my servant, Jacob whom I have chosen, the seed of Abraham my friend.

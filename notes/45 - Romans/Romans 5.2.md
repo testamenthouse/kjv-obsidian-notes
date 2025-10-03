@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Romans"]
 ---
-
-# Romans 5:2
-
 By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.

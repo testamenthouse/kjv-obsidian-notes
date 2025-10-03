@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus-title, jesus, praise-worship]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 6:5
-
 Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;

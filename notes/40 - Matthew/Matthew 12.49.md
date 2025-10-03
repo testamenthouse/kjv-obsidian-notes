@@ -13,7 +13,4 @@ grammar_tags: [exclamation, conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 12:49
-
 And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!

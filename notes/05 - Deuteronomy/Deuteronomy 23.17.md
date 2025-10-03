@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 23:17
-
 There shall be no whore of the daughters of Israel, nor a sodomite of the sons of Israel.

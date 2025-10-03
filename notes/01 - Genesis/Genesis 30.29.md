@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 30:29
-
 And he said unto him, Thou knowest how I have served thee, and how thy cattle was with me.

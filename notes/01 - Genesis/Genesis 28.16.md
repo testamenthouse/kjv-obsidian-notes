@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 28:16
-
 And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not.

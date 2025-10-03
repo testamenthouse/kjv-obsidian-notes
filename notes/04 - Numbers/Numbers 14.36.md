@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:36
-
 And the men, which Moses sent to search the land, who returned, and made all the congregation to murmur against him, by bringing up a slander upon the land,

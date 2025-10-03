@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 20:11
-
 When he therefore was come up again, and had broken bread, and eaten, and talked a long while, even till break of day, so he departed.

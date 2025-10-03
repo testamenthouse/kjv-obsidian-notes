@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 8:16
-
 He is green before the sun, and his branch shooteth forth in his garden.

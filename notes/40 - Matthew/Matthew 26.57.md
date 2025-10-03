@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:57
-
 And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled.

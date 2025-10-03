@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 5:4
-
 There were also that said, We have borrowed money for the king's tribute, and that upon our lands and vineyards.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 12:19
-
 And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.

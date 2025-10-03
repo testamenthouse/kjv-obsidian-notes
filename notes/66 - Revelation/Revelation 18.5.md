@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 18:5
-
 For her sins have reached unto heaven, and God hath remembered her iniquities.

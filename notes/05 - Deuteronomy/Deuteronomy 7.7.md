@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 7:7
-
 The LORD did not set his love upon you, nor choose you, because ye were more in number than any people; for ye were the fewest of all people:

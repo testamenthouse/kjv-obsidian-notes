@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-John"]
 ---
-
-# 2 John 1:13
-
 The children of thy elect sister greet thee. Amen.

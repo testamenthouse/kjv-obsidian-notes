@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 25:17
-
 And I will execute great vengeance upon them with furious rebukes; and they shall know that I am the LORD, when I shall lay my vengeance upon them.

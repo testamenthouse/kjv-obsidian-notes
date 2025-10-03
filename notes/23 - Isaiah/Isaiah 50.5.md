@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 50:5
-
 The Lord GOD hath opened mine ear, and I was not rebellious, neither turned away back.

@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 1:7
-
 But I will send a fire on the wall of Gaza, which shall devour the palaces thereof:

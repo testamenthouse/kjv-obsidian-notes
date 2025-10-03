@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 5:17
-
 Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:

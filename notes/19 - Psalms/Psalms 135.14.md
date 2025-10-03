@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 135:14
-
 For the LORD will judge his people, and he will repent himself concerning his servants.

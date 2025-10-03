@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 6:22
-
 And the LORD showed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 47:6
-
 And he said unto me, Son of man, hast thou seen this? Then he brought me, and caused me to return to the brink of the river.

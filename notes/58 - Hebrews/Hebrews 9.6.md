@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 9:6
-
 Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God.

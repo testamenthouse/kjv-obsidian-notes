@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 29:28
-
 And he died in a good old age, full of days, riches, and honor: and Solomon his son reigned in his stead.

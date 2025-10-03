@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Lamentations"]
 ---
-
-# Lamentations 4:5
-
 They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.

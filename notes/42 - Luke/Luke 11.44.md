@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 11:44
-
 Woe unto you, scribes and Pharisees, hypocrites! for ye are as graves which appear not, and the men that walk over them are not aware of them.

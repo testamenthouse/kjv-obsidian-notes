@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 32:26
-
 And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.

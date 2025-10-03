@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 38:22
-
 Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail,

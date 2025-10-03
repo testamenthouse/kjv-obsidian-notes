@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation, cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 18:2
-
 Therefore shall they have no inheritance among their brethren: the LORD is their inheritance, as he hath said unto them.

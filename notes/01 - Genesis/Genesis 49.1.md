@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 49:1
-
 And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.

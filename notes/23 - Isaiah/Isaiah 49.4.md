@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 49:4
-
 Then I said, I have laboured in vain, I have spent my strength for nought, and in vain: yet surely my judgment is with the LORD, and my work with my God.

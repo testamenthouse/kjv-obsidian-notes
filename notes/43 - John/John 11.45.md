@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 11:45
-
 Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.

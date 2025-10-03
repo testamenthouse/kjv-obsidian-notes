@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 17:8
-
 And he shall not look to the altars, the work of his hands, neither shall respect that which his fingers have made, either the groves, or the images.

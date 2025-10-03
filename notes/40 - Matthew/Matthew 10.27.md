@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 10:27
-
 What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops.

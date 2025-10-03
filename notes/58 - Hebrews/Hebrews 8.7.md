@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 8:7
-
 For if that first covenant had been faultless, then should no place have been sought for the second.

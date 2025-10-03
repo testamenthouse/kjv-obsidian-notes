@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [names-of-god, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 16:3
-
 Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth.

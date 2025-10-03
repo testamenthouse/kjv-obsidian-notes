@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 36:11
-
 For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father's brothers' sons:

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 48:38
-
 There shall be lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein is no pleasure, saith the LORD.

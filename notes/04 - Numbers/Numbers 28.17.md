@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 28:17
-
 And in the fifteenth day of this month is the feast: seven days shall unleavened bread be eaten.

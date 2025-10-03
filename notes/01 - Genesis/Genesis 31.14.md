@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 31:14
-
 And Rachel and Leah answered and said unto him, Is there yet any portion or inheritance for us in our father's house?

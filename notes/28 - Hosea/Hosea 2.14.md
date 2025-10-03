@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 2:14
-
 Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her.

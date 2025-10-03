@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 18:19
-
 But it came to pass at the time when Merab Saul's daughter should have been given to David, that she was given unto Adriel the Meholathite to wife.

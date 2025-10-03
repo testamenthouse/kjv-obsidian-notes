@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 31:22
-
 Then let mine arm fall from my shoulder blade, and mine arm be broken from the bone.

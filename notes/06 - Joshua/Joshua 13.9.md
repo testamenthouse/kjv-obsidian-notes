@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Joshua"]
 ---
-
-# Joshua 13:9
-
 From Aroer, that is upon the bank of the river Arnon, and the city that is in the midst of the river, and all the plain of Medeba unto Dibon;

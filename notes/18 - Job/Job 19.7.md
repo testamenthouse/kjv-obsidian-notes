@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 19:7
-
 Behold, I cry out of wrong, but I am not heard: I cry aloud, but there is no judgment.

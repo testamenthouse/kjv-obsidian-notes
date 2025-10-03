@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 7:10
-
 For Ezra had prepared his heart to seek the law of the LORD, and to do it, and to teach in Israel statutes and judgments.

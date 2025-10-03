@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 41:17
-
 They are joined one to another, they stick together, that they cannot be sundered.

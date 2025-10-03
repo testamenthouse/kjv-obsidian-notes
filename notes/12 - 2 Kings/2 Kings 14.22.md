@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 14:22
-
 He built Elath, and restored it to Judah, after that the king slept with his fathers.

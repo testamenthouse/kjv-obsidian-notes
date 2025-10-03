@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 13:2
-
 Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing.

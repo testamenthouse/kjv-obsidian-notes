@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 2:19
-
 I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first.

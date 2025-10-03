@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, thanksgiving, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 92:1
-
 IT IS A GOOD THING TO GIVE THANKS UNTO THE LORD, AND TO SING PRAISES UNTO THY NAME, O MOST HIGH:

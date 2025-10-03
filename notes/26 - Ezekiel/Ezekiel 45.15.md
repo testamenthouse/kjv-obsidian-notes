@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 45:15
-
 And one lamb out of the flock, out of two hundred, out of the fat pastures of Israel; for a meat offering, and for a burnt offering, and for peace offerings, to make reconciliation for them, saith the Lord GOD.

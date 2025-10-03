@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 5:1
-
 Hear ye this word which I take up against you, even a lamentation, O house of Israel.

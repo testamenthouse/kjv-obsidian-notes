@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 47:16
-
 Hamath, Berothah, Sibraim, which is between the border of Damascus and the border of Hamath; Hazarhatticon, which is by the coast of Hauran.

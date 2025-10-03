@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 15:22
-
 He believeth not that he shall return out of darkness, and he is waited for of the sword.

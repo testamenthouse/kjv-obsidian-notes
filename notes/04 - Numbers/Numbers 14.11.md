@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:11
-
 And the LORD said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have showed among them?

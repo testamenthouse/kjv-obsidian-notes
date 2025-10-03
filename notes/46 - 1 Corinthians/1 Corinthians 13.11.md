@@ -13,7 +13,4 @@ grammar_tags: [contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 13:11
-
 When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.

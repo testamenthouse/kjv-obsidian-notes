@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:25
-
 He then lying on Jesus' breast saith unto him, Lord, who is it?

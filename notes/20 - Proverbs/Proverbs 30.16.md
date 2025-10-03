@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 30:16
-
 The grave; and the barren womb; the earth that is not filled with water; and the fire that saith not, It is enough.

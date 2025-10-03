@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 14:1
-
 Now Joab the son of Zeruiah perceived that the king's heart was toward Absalom.

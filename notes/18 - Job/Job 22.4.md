@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:4
-
 Will he reprove thee for fear of thee? will he enter with thee into judgment?

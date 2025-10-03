@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 46:10
-
 And the prince in the midst of them, when they go in, shall go in; and when they go forth, shall go forth.

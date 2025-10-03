@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 22:7
-
 And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me?

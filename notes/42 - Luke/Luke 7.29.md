@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 7:29
-
 And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John.

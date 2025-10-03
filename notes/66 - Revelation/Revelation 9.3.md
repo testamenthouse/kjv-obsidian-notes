@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Revelation"]
 ---
-
-# Revelation 9:3
-
 And there came out of the smoke locusts upon the earth: and unto them was given power, as the scorpions of the earth have power.

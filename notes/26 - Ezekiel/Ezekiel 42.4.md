@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 42:4
-
 And before the chambers was a walk to ten cubits breadth inward, a way of one cubit; and their doors toward the north.

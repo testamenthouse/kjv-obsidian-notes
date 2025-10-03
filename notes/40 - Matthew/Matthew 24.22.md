@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation, contrast, conditional]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 24:22
-
 And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened.

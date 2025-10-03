@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:16
-
 Which were cut down out of time, whose foundation was overflown with a flood:

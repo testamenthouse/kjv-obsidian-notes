@@ -13,7 +13,4 @@ grammar_tags: [negation, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Corinthians"]
 ---
-
-# 2 Corinthians 12:13
-
 For what is it wherein ye were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong.

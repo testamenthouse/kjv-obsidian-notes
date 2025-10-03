@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:10
-
 But the chief priests consulted that they might put Lazarus also to death;

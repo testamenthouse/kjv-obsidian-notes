@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 2:46
-
 The children of Hagab, the children of Shalmai, the children of Hanan,

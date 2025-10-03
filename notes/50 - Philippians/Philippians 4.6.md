@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Philippians"]
 ---
-
-# Philippians 4:6
-
 Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.

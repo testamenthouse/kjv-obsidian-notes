@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 3:18
-
 For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.

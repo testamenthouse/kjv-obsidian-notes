@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 119:90
-
 Thy faithfulness is unto all generations: thou hast established the earth, and it abideth.

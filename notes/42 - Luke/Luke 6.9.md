@@ -13,7 +13,4 @@ grammar_tags: [question, inference-opener, conditional]
 thematic_tags: [jesus, jesus-title, time-units, time-feasts, time]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:9
-
 Then said Jesus unto them, I will ask you one thing; Is it lawful on the sabbath days to do good, or to do evil? to save life, or to destroy it?

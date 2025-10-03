@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 43:24
-
 Thou hast bought me no sweet cane with money, neither hast thou filled me with the fat of thy sacrifices: but thou hast made me to serve with thy sins, thou hast wearied me with thine iniquities.

@@ -13,7 +13,4 @@ grammar_tags: [greeting/closing]
 thematic_tags: []
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 27:17
-
 Cursed be he that removeth his neighbor's landmark. And all the people shall say, Amen.

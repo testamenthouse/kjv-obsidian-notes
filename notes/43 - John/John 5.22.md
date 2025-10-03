@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 5:22
-
 For the Father judgeth no man, but hath committed all judgment unto the Son:

@@ -13,7 +13,4 @@ grammar_tags: [negation, cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 13:11
-
 For he knew who should betray him; therefore said he, Ye are not all clean.

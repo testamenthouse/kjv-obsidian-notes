@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 1:24
-
 Therefore saith the LORD, the LORD of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies:

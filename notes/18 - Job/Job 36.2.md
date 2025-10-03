@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:2
-
 Suffer me a little, and I will shew thee that I have yet to speak on God's behalf.

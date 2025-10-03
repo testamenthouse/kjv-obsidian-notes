@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 37:3
-
 He directeth it under the whole heaven, and his lightning unto the ends of the earth.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 4:4
-
 Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 4:13
-
 And the LORD said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them.

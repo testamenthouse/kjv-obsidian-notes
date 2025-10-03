@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 22:16
-
 For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 14:15
-
 Now if thou shalt kill all this people as one man, then the nations which have heard the fame of thee will speak, saying,

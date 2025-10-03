@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: [names-of-god, adversary-metaphor, adversary]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 32:33
-
 Their wine is the poison of dragons, and the cruel venom of asps.

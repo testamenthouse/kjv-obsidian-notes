@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 10:12
-
 Thou hast granted me life and favour, and thy visitation hath preserved my spirit.

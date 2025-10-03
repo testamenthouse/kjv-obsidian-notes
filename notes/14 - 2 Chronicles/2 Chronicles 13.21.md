@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 13:21
-
 But Abijah waxed mighty, and married fourteen wives, and begat twenty and two sons, and sixteen daughters.

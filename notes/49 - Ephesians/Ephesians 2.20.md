@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, jesus, jesus-title]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 2:20
-
 And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;

@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Galatians"]
 ---
-
-# Galatians 5:16
-
 This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.

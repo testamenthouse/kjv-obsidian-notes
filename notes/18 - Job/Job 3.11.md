@@ -13,7 +13,4 @@ grammar_tags: [question, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 3:11
-
 Why died I not from the womb? why did I not give up the ghost when I came out of the belly?

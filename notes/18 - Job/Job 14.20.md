@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 14:20
-
 Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.

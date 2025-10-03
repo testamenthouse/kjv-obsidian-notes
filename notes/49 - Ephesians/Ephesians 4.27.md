@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [warfare, adversary-title, adversary]
 tags: ["Bible","KJV","Ephesians"]
 ---
-
-# Ephesians 4:27
-
 Neither give place to the devil.

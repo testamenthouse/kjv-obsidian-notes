@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Ezra"]
 ---
-
-# Ezra 7:8
-
 And he came to Jerusalem in the fifth month, which was in the seventh year of the king.

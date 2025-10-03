@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:18
-
 He keepeth back his soul from the pit, and his life from perishing by the sword.

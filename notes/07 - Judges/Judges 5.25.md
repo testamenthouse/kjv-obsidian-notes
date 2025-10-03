@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 5:25
-
 He asked water, and she gave him milk; she brought forth butter in a lordly dish.

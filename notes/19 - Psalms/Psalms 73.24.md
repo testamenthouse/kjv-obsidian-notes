@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, positive-command]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 73:24
-
 Thou shalt guide me with thy counsel, and afterward receive me to glory.

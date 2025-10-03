@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 16:20
-
 That which is altogether just shalt thou follow, that thou mayest live, and inherit the land which the LORD thy God giveth thee.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 26:26
-
 Whose hatred is covered by deceit, his wickedness shall be shewed before the whole congregation.

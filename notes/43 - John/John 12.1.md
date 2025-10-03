@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [jesus, jesus-title, time-units, time-feasts, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:1
-
 Then Jesus six days before the passover came to Bethany, where Lazarus was, which had been dead, whom he raised from the dead.

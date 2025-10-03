@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 9:1
-
 And it came to pass, when Solomon had finished the building of the house of the LORD, and the king's house, and all Solomon's desire which he was pleased to do,

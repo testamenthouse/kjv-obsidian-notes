@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-period, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 14:18
-
 And Saul said unto Ahiah, Bring hither the ark of God. For the ark of God was at that time with the children of Israel.

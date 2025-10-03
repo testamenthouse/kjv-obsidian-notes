@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 19:14
-
 And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD.

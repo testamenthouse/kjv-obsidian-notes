@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Thessalonians"]
 ---
-
-# 2 Thessalonians 1:9
-
 Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;

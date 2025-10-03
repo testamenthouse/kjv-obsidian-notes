@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 49:31
-
 There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.

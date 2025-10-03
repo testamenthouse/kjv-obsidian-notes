@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 20:25
-
 It is a snare to the man who devoureth that which is holy, and after vows to make enquiry.

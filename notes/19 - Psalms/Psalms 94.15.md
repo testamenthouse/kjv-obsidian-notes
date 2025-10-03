@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 94:15
-
 But judgment shall return unto righteousness: and all the upright in heart shall follow it.

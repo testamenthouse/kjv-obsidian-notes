@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 9:8
-
 Aaron therefore went unto the altar, and slew the calf of the sin offering, which was for himself.

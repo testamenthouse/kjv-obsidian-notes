@@ -13,7 +13,4 @@ grammar_tags: [question, negation, genealogy-structure]
 thematic_tags: [names-of-god, son-of-man, jesus]
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 12:9
-
 Son of man, hath not the house of Israel, the rebellious house, said unto thee, What doest thou?

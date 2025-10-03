@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 19:12
-
 Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.

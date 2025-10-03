@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 49:5
-
 Simeon and Levi are brethren; instruments of cruelty are in their habitations.

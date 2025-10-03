@@ -13,7 +13,4 @@ grammar_tags: [question]
 thematic_tags: []
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 41:5
-
 Mine enemies speak evil of me, When shall he die, and his name perish?

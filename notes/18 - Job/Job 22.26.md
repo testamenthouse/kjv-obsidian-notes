@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 22:26
-
 For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God.

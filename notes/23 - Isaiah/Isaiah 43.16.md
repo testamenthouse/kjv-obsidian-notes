@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 43:16
-
 Thus saith the LORD, which maketh a way in the sea, and a path in the mighty waters;

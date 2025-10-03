@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 16:22
-
 And Saul sent to Jesse, saying, Let David, I pray thee, stand before me; for he hath found favor in my sight.

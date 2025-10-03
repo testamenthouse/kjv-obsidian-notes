@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Amos"]
 ---
-
-# Amos 7:12
-
 Also Amaziah said unto Amos, O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there:

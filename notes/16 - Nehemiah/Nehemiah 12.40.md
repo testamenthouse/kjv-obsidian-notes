@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 12:40
-
 So stood the two companies of them that gave thanks in the house of God, and I, and the half of the rulers with me:

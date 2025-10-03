@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 3:9
-
 And the weight of the nails was fifty shekels of gold. And he overlaid the upper chambers with gold.

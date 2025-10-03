@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 9:5
-
 Then I will establish the throne of thy kingdom upon Israel for ever, as I promised to David thy father, saying, There shall not fail thee a man upon the throne of Israel.

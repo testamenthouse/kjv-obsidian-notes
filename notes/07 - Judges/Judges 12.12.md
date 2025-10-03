@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 12:12
-
 And Elon the Zebulonite died, and was buried in Aijalon in the country of Zebulun.

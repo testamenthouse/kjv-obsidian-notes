@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 1:6
-
 Then said I, Ah, Lord GOD! behold, I cannot speak: for I am a child.

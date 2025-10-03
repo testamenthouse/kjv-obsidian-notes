@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, conjunctive-opener]
 thematic_tags: [names-of-god, one-another]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 18:7
-
 And Moses went out to meet his father in law, and did obeisance, and kissed him; and they asked each other of their welfare; and they came into the tent.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 6:12
-
 And one of his servants said, None, my lord, O king: but Elisha, the prophet that is in Israel, telleth the king of Israel the words that thou speakest in thy bedchamber.

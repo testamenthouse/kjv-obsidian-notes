@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god, negative-command]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 22:1
-
 Thou shalt not see thy brother's ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.

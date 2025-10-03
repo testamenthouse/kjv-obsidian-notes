@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [jesus, jesus-title, time-units, time]
 tags: ["Bible","KJV","Hebrews"]
 ---
-
-# Hebrews 13:8
-
 Jesus Christ the same yesterday, and to day, and for ever.

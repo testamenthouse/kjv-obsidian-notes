@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 14:21
-
 He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he.

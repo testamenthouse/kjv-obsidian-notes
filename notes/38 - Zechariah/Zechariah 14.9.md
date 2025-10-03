@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Zechariah"]
 ---
-
-# Zechariah 14:9
-
 And the LORD shall be king over all the earth: in that day shall there be one LORD, and his name one.

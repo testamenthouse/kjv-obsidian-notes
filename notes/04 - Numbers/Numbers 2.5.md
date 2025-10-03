@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 2:5
-
 And those that do pitch next unto him shall be the tribe of Issachar: and Nethaneel the son of Zuar shall be captain of the children of Issachar.

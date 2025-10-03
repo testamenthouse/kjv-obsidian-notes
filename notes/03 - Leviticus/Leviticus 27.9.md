@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, conditional]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 27:9
-
 And if it be a beast, whereof men bring an offering unto the LORD, all that any man giveth of such unto the LORD shall be holy.

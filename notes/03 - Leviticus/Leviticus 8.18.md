@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 8:18
-
 And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram.

@@ -13,7 +13,4 @@ grammar_tags: [conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Ezekiel"]
 ---
-
-# Ezekiel 20:41
-
 I will accept you with your sweet savour, when I bring you out from the people, and gather you out of the countries wherein ye have been scattered; and I will be sanctified in you before the heathen.

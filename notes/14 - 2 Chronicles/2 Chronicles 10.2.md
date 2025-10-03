@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","2-Chronicles"]
 ---
-
-# 2 Chronicles 10:2
-
 And it came to pass, when Jeroboam the son of Nebat, who was in Egypt, whither he fled from the presence of Solomon the king, heard it, that Jeroboam returned out of Egypt.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 13:12
-
 Your remembrances are like unto ashes, your bodies to bodies of clay.

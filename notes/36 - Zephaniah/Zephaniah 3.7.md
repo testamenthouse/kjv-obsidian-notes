@@ -13,7 +13,4 @@ grammar_tags: [negation, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Zephaniah"]
 ---
-
-# Zephaniah 3:7
-
 I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings.

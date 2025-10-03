@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 6:24
-
 But woe unto you that are rich! for ye have received your consolation.

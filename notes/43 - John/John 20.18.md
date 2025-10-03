@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 20:18
-
 Mary Magdalene came and told the disciples that she had seen the LORD, and that he had spoken these things unto her.

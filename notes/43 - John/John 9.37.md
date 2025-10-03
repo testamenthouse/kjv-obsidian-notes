@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 9:37
-
 And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.

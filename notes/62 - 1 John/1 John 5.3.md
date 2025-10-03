@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-John"]
 ---
-
-# 1 John 5:3
-
 For this is the love of God, that we keep his commandments: and his commandments are not grievous.

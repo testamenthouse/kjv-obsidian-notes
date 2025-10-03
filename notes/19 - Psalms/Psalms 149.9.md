@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, praise-worship]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 149:9
-
 To execute upon them the judgment written: this honour have all his saints. Praise ye the LORD.

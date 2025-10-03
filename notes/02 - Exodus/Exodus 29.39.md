@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-parts-of-day, time]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 29:39
-
 The one lamb thou shalt offer in the morning; and the other lamb thou shalt offer at even:

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy, negation]
 thematic_tags: [negative-command, time-units, time-parts-of-day, time]
 tags: ["Bible","KJV","Psalms"]
 ---
-
-# Psalms 91:5
-
 Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;

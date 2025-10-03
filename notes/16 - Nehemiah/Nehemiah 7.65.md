@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 7:65
-
 And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and Thummim.

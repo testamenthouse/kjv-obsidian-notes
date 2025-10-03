@@ -13,7 +13,4 @@ grammar_tags: [question, conditional]
 thematic_tags: [names-of-god, adversary-named, adversary]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 26:53
-
 Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?

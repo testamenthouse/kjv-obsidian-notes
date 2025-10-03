@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [one-another]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 26:3
-
 The five curtains shall be coupled together one to another; and other five curtains shall be coupled one to another.

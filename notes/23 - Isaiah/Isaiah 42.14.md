@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: [names-of-god, lament]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 42:14
-
 I have long time holden my peace; I have been still, and refrained myself: now will I cry like a travailing woman; I will destroy and devour at once.

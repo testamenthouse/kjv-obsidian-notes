@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 16:26
-
 At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:

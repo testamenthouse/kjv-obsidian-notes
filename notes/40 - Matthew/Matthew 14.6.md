@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, genealogy-structure]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 14:6
-
 But when Herod's birthday was kept, the daughter of Herodias danced before them, and pleased Herod.

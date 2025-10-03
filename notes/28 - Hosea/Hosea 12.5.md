@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, warfare]
 tags: ["Bible","KJV","Hosea"]
 ---
-
-# Hosea 12:5
-
 Even the LORD God of hosts; the LORD is his memorial.

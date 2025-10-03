@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, lament, time-units, time]
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 31:6
-
 For there shall be a day, that the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God.

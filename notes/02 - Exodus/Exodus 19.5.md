@@ -13,7 +13,4 @@ grammar_tags: [conditional, cause-effect]
 thematic_tags: [covenant]
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 19:5
-
 Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine:

@@ -13,7 +13,4 @@ grammar_tags: [semicolon-heavy]
 thematic_tags: []
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 34:1
-
 Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.

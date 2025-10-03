@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 13:34
-
 And this thing became sin unto the house of Jeroboam, even to cut it off, and to destroy it from off the face of the earth.

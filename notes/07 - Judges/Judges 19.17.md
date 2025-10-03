@@ -13,7 +13,4 @@ grammar_tags: [question, conjunctive-opener, conditional]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 19:17
-
 And when he had lifted up his eyes, he saw a wayfaring man in the street of the city: and the old man said, Whither goest thou? and whence comest thou?

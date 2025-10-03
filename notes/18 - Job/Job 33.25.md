@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 33:25
-
 His flesh shall be fresher than a child's: he shall return to the days of his youth:

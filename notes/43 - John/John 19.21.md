@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:21
-
 Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews.

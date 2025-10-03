@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 36:31
-
 And these are the kings that reigned in the land of Edom, before there reigned any king over the children of Israel.

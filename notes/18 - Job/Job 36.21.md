@@ -13,7 +13,4 @@ grammar_tags: [negation]
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 36:21
-
 Take heed, regard not iniquity: for this hast thou chosen rather than affliction.

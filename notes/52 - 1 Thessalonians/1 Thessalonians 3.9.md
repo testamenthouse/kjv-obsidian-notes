@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god, thanksgiving]
 tags: ["Bible","KJV","1-Thessalonians"]
 ---
-
-# 1 Thessalonians 3:9
-
 For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;

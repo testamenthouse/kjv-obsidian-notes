@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 19:2
-
 And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe,

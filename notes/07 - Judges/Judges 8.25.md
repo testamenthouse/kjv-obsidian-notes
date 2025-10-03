@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 8:25
-
 And they answered, We will willingly give them. And they spread a garment, and did cast therein every man the earrings of his prey.

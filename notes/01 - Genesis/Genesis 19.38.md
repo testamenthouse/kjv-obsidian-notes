@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 19:38
-
 And the younger, she also bare a son, and called his name Benammi: the same is the father of the children of Ammon unto this day.

@@ -13,7 +13,4 @@ grammar_tags: [contrast]
 thematic_tags: []
 tags: ["Bible","KJV","Proverbs"]
 ---
-
-# Proverbs 10:10
-
 He that winketh with the eye causeth sorrow: but a prating fool shall fall.

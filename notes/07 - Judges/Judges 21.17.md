@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 21:17
-
 And they said, There must be an inheritance for them that be escaped of Benjamin, that a tribe be not destroyed out of Israel.

@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [positive-command]
 tags: ["Bible","KJV","Leviticus"]
 ---
-
-# Leviticus 2:6
-
 Thou shalt part it in pieces, and pour oil thereon: it is a meat offering.

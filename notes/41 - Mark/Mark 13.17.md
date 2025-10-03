@@ -13,7 +13,4 @@ grammar_tags: [exclamation, contrast-opener]
 thematic_tags: [lament, time-eschatology, time-units, time]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 13:17
-
 But woe to them that are with child, and to them that give suck in those days!

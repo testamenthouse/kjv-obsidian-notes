@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [time-units, time]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 27:4
-
 Therefore it shall be when ye be gone over Jordan, that ye shall set up these stones, which I command you this day, in mount Ebal, and thou shalt plaster them with plaster.

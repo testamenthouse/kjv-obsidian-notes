@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [warfare]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 13:15
-
 Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword.

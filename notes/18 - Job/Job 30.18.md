@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Job"]
 ---
-
-# Job 30:18
-
 By the great force of my disease is my garment changed: it bindeth me about as the collar of my coat.

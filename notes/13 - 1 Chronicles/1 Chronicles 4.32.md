@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","1-Chronicles"]
 ---
-
-# 1 Chronicles 4:32
-
 And their villages were, Etam, and Ain, Rimmon, and Tochen, and Ashan, five cities:

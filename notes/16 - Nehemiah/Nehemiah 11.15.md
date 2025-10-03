@@ -13,7 +13,4 @@ grammar_tags: [genealogy-structure]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 11:15
-
 Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;

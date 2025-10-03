@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, conditional]
 thematic_tags: [lament]
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 15:14
-
 Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him.

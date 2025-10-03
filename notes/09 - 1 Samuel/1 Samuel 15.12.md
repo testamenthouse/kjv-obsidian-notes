@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, time-parts-of-day, time]
 tags: ["Bible","KJV","1-Samuel"]
 ---
-
-# 1 Samuel 15:12
-
 And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal.

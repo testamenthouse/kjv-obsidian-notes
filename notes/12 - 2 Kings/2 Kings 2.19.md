@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener, contrast]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 2:19
-
 And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city is pleasant, as my lord seeth: but the water is naught, and the ground barren.

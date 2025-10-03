@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: []
 tags: ["Bible","KJV","Jeremiah"]
 ---
-
-# Jeremiah 32:41
-
 Yea, I will rejoice over them to do them good, and I will plant them in this land assuredly with my whole heart and with my whole soul.

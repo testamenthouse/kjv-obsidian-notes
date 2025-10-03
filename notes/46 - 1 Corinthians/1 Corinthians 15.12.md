@@ -13,7 +13,4 @@ grammar_tags: [question, negation, conditional]
 thematic_tags: [jesus-title, jesus]
 tags: ["Bible","KJV","1-Corinthians"]
 ---
-
-# 1 Corinthians 15:12
-
 Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?

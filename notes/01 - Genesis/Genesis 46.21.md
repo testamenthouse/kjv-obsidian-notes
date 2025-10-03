@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Genesis"]
 ---
-
-# Genesis 46:21
-
 And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.

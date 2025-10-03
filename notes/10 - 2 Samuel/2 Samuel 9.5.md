@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, genealogy-structure]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Samuel"]
 ---
-
-# 2 Samuel 9:5
-
 Then king David sent, and fetched him out of the house of Machir, the son of Ammiel, from Lodebar.

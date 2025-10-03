@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: []
 tags: ["Bible","KJV","Nehemiah"]
 ---
-
-# Nehemiah 9:16
-
 But they and our fathers dealt proudly, and hardened their necks, and hearkened not to thy commandments,

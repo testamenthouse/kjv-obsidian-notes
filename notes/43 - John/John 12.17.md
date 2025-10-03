@@ -13,7 +13,4 @@ grammar_tags: [cause-effect]
 thematic_tags: []
 tags: ["Bible","KJV","John"]
 ---
-
-# John 12:17
-
 The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record.

@@ -13,7 +13,4 @@ grammar_tags: [inference-opener, cause-effect]
 thematic_tags: [names-of-god, time-units, time]
 tags: ["Bible","KJV","Judges"]
 ---
-
-# Judges 3:8
-
 Therefore the anger of the LORD was hot against Israel, and he sold them into the hand of Chushanrishathaim king of Mesopotamia: and the children of Israel served Chushanrishathaim eight years.

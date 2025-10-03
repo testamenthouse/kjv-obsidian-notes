@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","1-Kings"]
 ---
-
-# 1 Kings 20:4
-
 And the king of Israel answered and said, My lord, O king, according to thy saying, I am thine, and all that I have.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Matthew"]
 ---
-
-# Matthew 27:32
-
 And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.

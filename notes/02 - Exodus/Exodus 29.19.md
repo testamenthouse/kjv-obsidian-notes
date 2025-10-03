@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Exodus"]
 ---
-
-# Exodus 29:19
-
 And thou shalt take the other ram; and Aaron and his sons shall put their hands upon the head of the ram.

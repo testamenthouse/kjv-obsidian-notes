@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god, adversary-metaphor, adversary]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 21:6
-
 And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.

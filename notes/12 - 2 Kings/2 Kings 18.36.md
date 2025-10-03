@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener, negation]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","2-Kings"]
 ---
-
-# 2 Kings 18:36
-
 But the people held their peace, and answered him not a word: for the king's commandment was, saying, Answer him not.

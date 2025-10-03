@@ -13,7 +13,4 @@ grammar_tags: [inference-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Numbers"]
 ---
-
-# Numbers 35:29
-
 So these things shall be for a statute of judgment unto you throughout your generations in all your dwellings.

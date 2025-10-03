@@ -13,7 +13,4 @@ grammar_tags: [contrast-opener]
 thematic_tags: []
 tags: ["Bible","KJV","Mark"]
 ---
-
-# Mark 6:16
-
 But when Herod heard thereof, he said, It is John, whom I beheaded: he is risen from the dead.

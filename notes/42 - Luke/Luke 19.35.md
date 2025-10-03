@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [jesus, jesus-title]
 tags: ["Bible","KJV","Luke"]
 ---
-
-# Luke 19:35
-
 And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon.

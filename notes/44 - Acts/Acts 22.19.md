@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Acts"]
 ---
-
-# Acts 22:19
-
 And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:

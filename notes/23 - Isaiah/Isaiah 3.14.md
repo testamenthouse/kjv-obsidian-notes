@@ -13,7 +13,4 @@ grammar_tags: []
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Isaiah"]
 ---
-
-# Isaiah 3:14
-
 The LORD will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor is in your houses.

@@ -13,7 +13,4 @@ grammar_tags: [conjunctive-opener]
 thematic_tags: [names-of-god]
 tags: ["Bible","KJV","Deuteronomy"]
 ---
-
-# Deuteronomy 30:7
-
 And the LORD thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee.
